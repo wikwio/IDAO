@@ -1,0 +1,23 @@
+
+ <g id="simple.apex_theo">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Apex_limbe" onclick=" showquest('Apex_limbe')" onmousemove=" showrobotip('Apex_limbe','Sommet du limbe')" onmouseout=" hidetooltip('Apex_limbe')" cursor="pointer">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Marge_limbe" type="0"/>
+    </metadata>
+   <g>
+    <path fill="white" fill-opacity="0.149020" d="M21500 1057c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+    <path id="1" fill="none" stroke="gray" stroke-width="7.62" d="M21500 1057c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+   </g>
+   <rect id="Cadre_apex" fill="white" stroke="gray" stroke-width="7.62" x="18500" y="200" width="2000" height="1800">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="Cadre_apex" type="0"/>
+    </metadata>
+   </rect>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20973 580c-167,-45 -232,-46 -395,-57 227,71 221,155 287,230 -13,-52 1,-59 7,-99 203,128 241,295 289,461 -30,-92 17,-197 148,-158 -106,-68 -203,-202 -417,-327 1,-23 62,-39 80,-51z">
+   <metadata id="CorelCorpID_3">
+    <odm name="Name" value="A_arrow" type="0"/>
+   </metadata>
+  </path>
+ </g>

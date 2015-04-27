@@ -1,0 +1,49 @@
+
+
+    <style>
+		.movie-list thead th,
+		.movie-list tbody tr:last-child {
+			border-bottom: 1px solid #d6d6d6; /* non-RGBA fallback */
+			border-bottom: 1px solid rgba(0,0,0,.1);
+			background-color: deepskyblue;
+		}
+		.movie-list tbody th,
+		.movie-list tbody td {
+			border-bottom: 1px solid #e6e6e6; /* non-RGBA fallback  */
+			border-bottom: 1px solid rgba(0,0,0,.05);
+			line-height:35px;
+			text-align: center;
+			color: white;
+			
+		}
+		.movie-list tbody tr:last-child th,
+		.movie-list tbody tr:last-child td {
+			border-bottom: 0;
+		}
+		.movie-list tbody tr:nth-child(odd) td,
+		.movie-list tbody tr:nth-child(odd) th {
+			background-color: #eeeeee; /* non-RGBA fallback  */
+			background-color: rgba(0,0,0,.04);
+			line-height:35px;
+		}
+		.movie-list tbody td a{
+			display: block;
+			/*color: white;*/
+			text-decoration:none;
+		}
+   
+           
+        </style>
+       
+        <script type="text/javascript" src="js/results.js"></script>
+    
+
+         <div class="new1">
+         	
+         	<table data-role="table" id="movie-table-custom" data-mode="reflow" class="movie-list ui-responsive selectResultWrapper"></table>
+         </div>
+
+        
+        
+ 
+    

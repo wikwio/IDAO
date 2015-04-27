@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="Content-type" content="text/html; charset=UTF-8"/>
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+
+
+        <title>WIKWIO</title>
+    <link rel="stylesheet" type="text/css" href="css/list.css" />
+     <link rel="stylesheet" type="text/css" href="css/index.css" />
+     <link rel="stylesheet" type="text/css" href="css/menu.css" />
+     <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css">
+    </head>
+    <body>
+
+
+
+
+
+
+
+
+
+<div data-role="page" id="one">
+        <div data-role="header" data-position="fixed">
+        <a href="#"  class="ui-btn-right ui-btn ui-icon-bars ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini" id="showRight" data-role="button" data-transition="none" data-direction="reverse" role="button"> Menu</a>
+
+         <a href="#" id="backbutton" onclick="showhome()" class="ui-btn-right ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-transition="none" data-direction="reverse" role="button" style="display:none;" >Back</a>
+
+        <!--<button class="ui-btn ui-btn-inline ui-corner-all" style="float:left;" id="showRight">Afficher Menu</button>-->
+            <h4>WIKWIO IDAO</h4>
+        </div>
+        <div id="deviceready" class="blink">
+                <p class="event listening"></p>
+                <!--<p class="event received"></p>-->
+                 <p class="event received"></p>
+        </div>
+
+        <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="cbp-spmenu-s2">
+                <img src="img/header3.jpg"/>
+                <a href="#" class="ui-btn " onclick="shownewhome()" style="height:30px">Nouvelle Identification</a>
+                <a href="#" class="ui-btn " onclick="showquest('Port')" style="height:30px">Port</a>
+                <a href="#" class="ui-btn " onclick="showquest('Phyllo')" style="height:30px">Phyllotaxie</a>
+                <a href="#" class="ui-btn " onclick="showquest('Prefol')" style="height:30px">prèfoliaison</a>
+                <a href="#" class="ui-btn " onclick="showsearch()" style="height:30px">Recherche</a>
+                <a href="#" class="ui-btn "  onclick="showspecies()" style="height:30px">Liste des espèces</a>
+                <a href="#"  class="ui-btn " onclick="showresults()" style="height:30px">Résultats</a>
+                <a href="#"  class="ui-btn " onclick="showabout()" style="height:30px">A propos de cette version</a>
+                <a href="#"  class="ui-btn " onclick="showhelp()" style="height:30px">Aide</a>
+             
+        </nav> 
+     
+       <div class="tt forLoader"></div>
+        <div class="tt message">
+           
+
+        </div>
+        <div class="tt selectquest">
+           
+        </div>
+
+        <div class="tt redraw">
+           
+        </div>
+
+         <!--<div class="tt showsearch">
+            
+        </div>-->
+         <div class="tt showspecies">
+             <div class="buttons" data-role="controlgroup"  data-type="horizontal" data-position="fixed" style="align=center;" data-shadow="false">
+      
+                <a href="#" class="communs" data-role="button"  class="button1"  onclick="pop(1)">Noms communs</a>
+                <a href="#" class="famille" data-role="button" class="button2" onclick="pop(2)">Noms de famille</a>
+                <a href="#" class="Noms" data-role="button" class="button3" onclick="pop(3)">Noms d'espèce</a>
+            </div>
+            <div role="main" class="ui-content showSpeciesContents"></div>
+        </div>
+
+        <div class="tt showresults">
+            
+        </div>
+
+        <div class="tt showabout">
+            
+        </div>
+
+        <div class="tt showhelp">
+            
+        </div>
+        <div class="end ui-footer ui-bar-a ui-footer-fixed " data-role="footer"  onclick="showresults()" style="text-align:center;background-color: #B8860B;"></div>
+</div>    
+
+
+
+
+
+
+<div data-role="page" id="showSearch" data-theme="a">
+    <div data-role="header" data-position="fixed">
+        <a href="#one"  onclick="showhome()" class="ui-btn-left ui-btn ui-icon-delete ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-transition="none" data-direction="reverse" role="button">Cancel</a>
+            <h4>WIKWIO IDAO</h4>
+        <a href="#"  class="ui-btn-right ui-btn ui-icon-arrow-r ui-btn-icon-right ui-btn-inline ui-corner-all ui-mini" data-role="button" data-transition="none" data-direction="reverse" onclick="shownext()" role="button">Next</a>
+        </div>
+    <div role="main" class="ui-content showSearchContent">
+    </div>
+</div>   
+
+<div data-role="page" id="showPopup" data-theme="a">
+    <div data-role="header" data-position="fixed">
+        <a href="#showResults"  class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-transition="none" data-direction="reverse" role="button">Back</a>
+            <h4>WIKWIO IDAO</h4>
+        </div>
+    <div role="main" class="ui-content showPopupContent">
+    </div>
+</div> 
+
+
+<div data-role="page" id="showspeciesPopup" data-theme="a">
+    <div data-role="header" data-position="fixed">
+        <a href="#showspecies"  class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-transition="none" data-direction="reverse" role="button">Back</a>
+            <h4>WIKWIO IDAO</h4>
+        </div>
+    <div role="main" class="ui-content showSpeciesPopupContent" height="100%">
+    </div>
+</div> 
+
+<div data-role="page" id="showContra" data-theme="a">
+    <div data-role="header" data-position="fixed">
+        <a href="#showResults"  class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-transition="none" data-direction="reverse" role="button">Back</a>
+            <h4>WIKWIO IDAO</h4>
+        </div>
+    <div role="main" class="ui-content showContraContent">
+    </div>
+</div> 
+
+<a href="#one" class="showone" data-transition="none" class="ui-btn ui-mini" style="display:none;">test</a>
+<a href="#showSearch" class="showSearch" data-transition="none" class="ui-btn ui-mini" style="display:none;">test</a>
+<a href="#showPopup" class="showPopup" data-transition="none" class="ui-btn ui-mini" style="display:none;">test</a>
+<a href="#showspeciesPopup" class="showspeciesPopup" data-transition="none" class="ui-btn ui-mini" style="display:none;">test</a>
+<a href="#showContra" class="showContra" data-transition="none" class="ui-btn ui-mini" style="display:none;">test</a>
+
+
+
+
+
+
+<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.mobile-1.4.5.min.js"></script>
+
+<script type="text/javascript" src="cordova.js"></script>
+<script type="text/javascript" src="SQLitePlugin.js"></script>
+<script type="text/javascript" src="js/lib.js"></script>
+<script type="text/javascript" src="js/flore_full.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript" src="js/menu.js"></script>
+<script type="text/javascript" src="js/menuBar.js"></script>
+<script type="text/javascript" src="js/includefile.js"></script>
+
+<!--<script type="text/javascript" src="js/home.js"></script>-->
+<script type='application/javascript' src='js/fastclick.js'></script>
+<script type="text/javascript">
+    $('.tt').hide();
+
+        var replacevalues = { "no_constraints": "5", "no_robot": "35" , "no_state": "279", "no_species": "345"}; 
+        localStorage.setItem('globalVar', JSON.stringify(replacevalues));
+        var no_constraints = 5;
+        var no_robot = 35;
+        var no_state = 279;
+        var no_species = 345;
+
+        var percent = { "count": "345", "val": "0" }; 
+        localStorage.setItem('percentage', JSON.stringify(percent));
+
+         
+        /*var width = window.innerWidth;
+        var b;
+        alert("width"+width);
+        b=width/2;
+        alert("bval"+b)*/
+        $('.buttons').css({'text-align':'center'});
+        var a = window.innerHeight;
+        //alert(typeof(a));
+       // alert(a);
+        var h;
+        if(a>700){
+            h= a-100;
+           // alert("hval"+h);
+        }else {
+            h = a;
+        }
+         
+
+         $('.message').css({'height':a-100}); 
+
+         
+
+         var isframe = '<svg  xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"  style="height:'+h+'px;" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 24000 18000" xmlns:xlink="http://www.w3.org/1999/xlink">';
+         var test = 'staticSVGs/index.svg';    
+            $.get(test, function(data) {
+              isframe+=data;
+              isframe+='</svg>'; 
+
+              $('.message').html(isframe).show();
+            },dataType="text");
+            
+
+           
+            $('.showSpeciesContents').html(showLoader());
+
+            $.get("specieslistpage.html", function(data) {
+                alert("hi");
+                 $('.showSpeciesContents').html(data);
+                 //$('.showspecies').show();
+                 //showresults();
+            });
+
+
+
+
+       
+           function extraHome(){
+            $(".end").html("<p> 345 espèces à 100%</p>");
+           }
+           /*function showspecies()
+            {
+                $('.tt').hide();
+
+                $('#backbutton').show();
+                $('.showspecies').show();
+                //$('.showSpeciesContent').show();
+
+                //$('.showspecies').trigger('click');
+                //$('.showSpeciesContent').html(showLoader());
+                
+                //window.location.href = "specieslist.html";
+            }*/
+            var listvalues = localStorage.getItem('percentage'); 
+            var finalvalue = JSON.parse(listvalues);
+            var number = finalvalue.count;
+            var value = finalvalue.val
+ $(".end").html("<p>" + number + " espèces à "+value+"%</p>");
+
+
+
+</script>
+
+
+    </body>
+</html>

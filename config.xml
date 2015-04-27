@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns:cdv="http://cordova.apache.org/ns/1.0"
+    id="com.wikwio"
+    version="0.0.1"
+    xmlns="http://www.w3.org/ns/widgets" >
+
+    <preference
+        name="loadUrlTimeoutValue"
+        value="100000" />
+
+    <name>
+wikwio_idao
+    </name>
+
+    <icon
+        height="72"
+        src="img/icon.png"
+        width="72" />
+
+    <icon
+        height="48"
+        src="img/icon.png"
+        width="48" />
+
+    <icon
+        height="36"
+        src="img/icon.png"
+        width="36" />
+
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+
+    <author
+        email="dev@cordova.apache.org"
+        href="http://cordova.io" >
+        Apache Cordova Team
+    </author>
+
+    <content src="index.html" />
+
+    <access origin="*" />
+
+    <feature name="NetworkStatus" >
+
+        <param
+            name="android-package"
+            value="org.apache.cordova.networkinformation.NetworkManager" />
+    </feature>
+
+</widget>

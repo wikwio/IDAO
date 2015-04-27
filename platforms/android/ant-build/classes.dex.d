@@ -1,0 +1,20 @@
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes.dex : \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\com\wikwio\BuildConfig.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\com\wikwio\CordovaApp.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\com\wikwio\R$attr.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\com\wikwio\R$drawable.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\com\wikwio\R$string.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\com\wikwio\R$xml.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\com\wikwio\R.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\me\rahul\plugins\sqlDB\DatabaseHelper.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\me\rahul\plugins\sqlDB\sqlDB$1.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\me\rahul\plugins\sqlDB\sqlDB.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager$1.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$1.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$Action.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$DBQuery.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$DBRunner.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$QueryType.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin.class \
+C:\Users\karthik\Desktop\PG-workspace\wikwio_idao\platforms\android\ant-build\dexedLibs\classes-114fc89d382a0fd15516c00ccbee2d82.jar \

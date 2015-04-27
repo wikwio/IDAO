@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="Content-type" content="text/html; charset=UTF-8"/>
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <meta name="viewport"  content="width=device-width, height=device-height, initial-scale=0.8, user-scalable=1" />
+
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <!--<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" /> -->
+
+
+        <title>WIKWIO</title>
+    <link rel="stylesheet" type="text/css" href="css/list.css" />
+     <link rel="stylesheet" type="text/css" href="css/index.css" />
+     <link rel="stylesheet" type="text/css" href="css/menu.css" />
+     <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css">
+     <link rel="stylesheet" href="css/my-custom-theme.min.css">
+    
+    </head>
+    <body>
+
+
+
+
+
+
+
+
+
+<div data-role="page" id="one">
+        <div data-role="header"  class = "headercls">
+        <a href="#"  class="ui-btn-right ui-btn ui-icon-bars ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini" id="showRight" data-role="button" data-direction="reverse"  role="button"> Menu</a>
+        <a href="#one"  onclick="showhome()" class="cancelbutton ui-btn-left ui-btn ui-icon-delete ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse"  role="button" style="display:none;background-color:#A0D37B">Cancel</a>
+
+        <a href="#"  class=" nextbutton ui-btn-right ui-btn ui-icon-arrow-r ui-btn-icon-right ui-btn-inline ui-corner-all ui-mini" data-role="button" data-direction="reverse" onclick="shownext()" role="button" style="display:none;">Next</a>
+        <a href="#" id="backbutton" onclick="showhome()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >Back</a>
+        <a href="#" id="backbutton1" onclick="showresultspopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >Back</a>
+        <a href="#" id="backbutton2" onclick="showlistpopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >Back</a>
+
+        <!--<button class="ui-btn ui-btn-inline ui-corner-all" style="float:left;" id="showRight">Afficher Menu</button>-->
+            <h6>WIKWIO IDAO</h6>
+        </div>
+
+        <div class="canvasdiv" >
+         <canvas id="my_canvas" width="150" height="150" style="border:1px dashed #CCC;"></canvas>
+          </div>  
+          
+          <script>
+          var al = 0;
+          var start = 4.72;
+          function progressSim(number,value){
+
+            
+           
+          var ctx = document.getElementById('my_canvas').getContext('2d');
+         
+          var cw = ctx.canvas.width;
+          var ch = ctx.canvas.height; 
+          var diff;
+
+            diff = ((al / 100) * Math.PI*2*10).toFixed(2);
+            ctx.clearRect(0, 0, cw, ch);
+            ctx.lineWidth = 10;
+            ctx.fillStyle = '#09F';
+            ctx.strokeStyle = "#09F";
+            ctx.textAlign = 'center';
+            console.log(al);
+            ctx.fillText(number+" epecies "+value+'%', cw*.5, ch*.5+2, cw);
+            ctx.beginPath();
+            ctx.arc(75, 75, 60, start, diff/10+start, false);
+            ctx.stroke();
+            if(al >= value){
+             // alert("val");
+              clearTimeout(sim);
+                // Add scripting here that will run when progress completes
+            }
+            al++;
+          }
+          </script>
+        <div id="deviceready" class="blink">
+                <p class="event listening"></p>
+                <!--<p class="event received"></p>-->
+                 <p class="event received"></p>
+        </div>
+
+        <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="cbp-spmenu-s2">
+                <img src="img/header3.jpg"/>
+                <a href="#" class="ui-btn nav_btn" onclick="shownewhome()" >Nouvelle Identification</a>
+                <a href="#" class="ui-btn nav_btn" onclick="showquest('Port')" >Port</a>
+                <a href="#" class="ui-btn nav_btn" onclick="showquest('Phyllo')">Phyllotaxie</a>
+                <a href="#" class="ui-btn nav_btn" onclick="showquest('Prefol')" >prèfoliaison</a>
+                <a href="#" class="ui-btn nav_btn" onclick="showsearch()" >Recherche</a>
+                <a href="#" class="ui-btn nav_btn" onclick="showspecies()" >Liste des espèces</a>
+                <a href="#" class="ui-btn nav_btn" onclick="showresults()" >Résultats</a>
+                <a href="#" class="ui-btn nav_btn" onclick="showabout()" >A propos de cette version</a>
+                <a href="#" class="ui-btn nav_btn" onclick="showhelp()" >Aide</a>
+             
+        </nav> 
+     
+       <div class="tt forLoader"></div>
+        <div class="tt message">
+           
+
+        </div>
+        <div class="tt selectquest">
+           
+        </div>
+
+        <div class="tt redraw">
+           
+        </div>
+
+         <div role="main" class="tt showSearchContent">
+           
+                <div class="tt forLoader">
+                    <div class="loading-icon">
+                <div class="loading-bar-0"></div>
+                          <div class="loading-bar-1"></div>
+                          <div class="loading-bar-2"></div>
+                          <div class="loading-bar-3"></div>
+                          <div class="loading-bar-4"></div>
+                    </div>
+                </div>
+
+            <div class="loading-icon">
+                <div class="loading-bar-0"></div>
+                          <div class="loading-bar-1"></div>
+                          <div class="loading-bar-2"></div>
+                          <div class="loading-bar-3"></div>
+                          <div class="loading-bar-4"></div>
+                    </div>
+             </div>
+         <div class="tt showspecies">
+             <div class="buttons" data-role="controlgroup"  data-type="horizontal" data-position="fixed"  data-shadow="false">
+      
+                <a href="#" class="communs" data-role="button"  class="button1"  onclick="pop(1)">Noms communs</a>
+                <a href="#" class="famille" data-role="button" class="button2" onclick="pop(2)">Noms de famille</a>
+                <a href="#" class="Noms" data-role="button" class="button3" onclick="pop(3)">Noms d'espèce</a>
+            </div>
+            <div role="main" class="ui-content showSpeciesContents "></div>
+        </div>
+
+        <div class="tt showresults">
+            
+        </div>
+
+        <div class="tt showabout">
+            
+        </div>
+
+        <div class="tt showhelp">
+            
+        </div>
+        <div class="tt showContraContent">
+        </div >
+        <div class="tt popup" >
+          
+        </div>
+        <div class="tt speciespopup">
+          
+        </div>
+        <!--<div class="end ui-footer ui-bar-a  " data-role="footer"  onclick="showresults()" style="text-align:center;"></div>-->
+</div>    
+
+
+
+
+
+
+<div data-role="page" id="showSearch" data-tansition="none" data-theme="a">
+    <div data-role="header" data-position="fixed">
+        
+            <h4>WIKWIO IDAO</h4>
+        
+        </div>
+    <div role="main" class="ui-content showSearchContent">
+    <div class="loading-icon">
+        <div class="loading-bar-0"></div>
+                  <div class="loading-bar-1"></div>
+                  <div class="loading-bar-2"></div>
+                  <div class="loading-bar-3"></div>
+                  <div class="loading-bar-4"></div>
+            </div>
+    </div>
+</div>   
+
+<div data-role="page" id="showPopup" data-theme="a">
+    <div data-role="header" data-position="fixed">
+        <a href="#one"  onclick="showresultspopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse" role="button">Back</a>
+            <h4>WIKWIO IDAO</h4>
+        </div>
+    <div role="main" class="ui-content showPopupContent">
+    </div>
+</div> 
+
+
+<div data-role="page" id="showspeciesPopup" data-theme="a">
+    <div data-role="header" data-position="fixed">
+        <a href="#one"  onclick="showlistpopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse" role="button">Back</a>
+            <h4>WIKWIO IDAO</h4>
+        </div>
+    <div role="main" class="ui-content showSpeciesPopupContent" height="100%">
+    </div>
+</div> 
+
+<div data-role="page" id="showContra" data-theme="a">
+    <div data-role="header" data-position="fixed">
+        <a href="#one"  class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse" role="button">Back</a>
+            <h4>WIKWIO IDAO</h4>
+        </div>
+    <div role="main" class="ui-content showContraContent">
+    </div>
+</div> 
+
+<a href="#one" class="showone" class="ui-btn ui-mini" style="display:none;">test</a>
+<a href="#showPopup" class="showPopup" class="ui-btn ui-mini" style="display:none;">test</a>
+<a href="#showspeciesPopup" class="showspeciesPopup" class="ui-btn ui-mini" style="display:none;">test</a>
+<a href="#showContra" class="showContra" class="ui-btn ui-mini" style="display:none;">test</a>
+<a href="#showSearch" class="showSearch" data-tansition="none" class="ui-btn ui-mini" style="display:none;">test</a>
+
+
+
+
+
+
+<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.mobile-1.4.5.min.js"></script>
+
+<script type="text/javascript" src="cordova.js"></script>
+<script type="text/javascript" src="SQLitePlugin.js"></script>
+<script type="text/javascript" src="js/lib.js"></script>
+<script type="text/javascript" src="js/flore_full.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript" src="js/menu.js"></script>
+<script type="text/javascript" src="js/menuBar.js"></script>
+<script type="text/javascript" src="js/includefile.js"></script>
+
+<!--<script type="text/javascript" src="js/home.js"></script>-->
+<script type='application/javascript' src='js/fastclick.js'></script>
+<script type="text/javascript">
+    $('.tt').hide();
+
+        var replacevalues = { "no_constraints": "5", "no_robot": "35" , "no_state": "279", "no_species": "345"}; 
+        localStorage.setItem('globalVar', JSON.stringify(replacevalues));
+        var no_constraints = 5;
+        var no_robot = 35;
+        var no_state = 279;
+        var no_species = 345;
+
+        var percent = { "count": "345", "val": "0" }; 
+        localStorage.setItem('percentage', JSON.stringify(percent));
+
+         
+        /*var width = window.innerWidth;
+        var b;
+        alert("width"+width);
+        b=width/2;
+        alert("bval"+b)*/
+        $('.buttons').css({'text-align':'center'});
+        var a = window.innerHeight;
+        //alert(typeof(a));
+       // alert(a);
+      
+       var h;
+        var style_h = '';
+        if(a>700){
+            h= a-240;
+            //$('.ui-footer').addClass('ui-footer-fixed');
+             
+           // alert("hval"+h);
+            //$('.message').css({'height':h}); 
+           style_h = 'style="height:'+h+'px;"';
+        }else {
+            h = a;
+             //$('.message').css({'min-height':h}); 
+        }
+
+         
+         var isframe = '<svg  id="homesvg" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"  '+style_h+' image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 24000 18000" xmlns:xlink="http://www.w3.org/1999/xlink">';
+
+
+         var test = 'staticSVGs/index.svg';    
+            $.get(test, function(data) {
+              isframe+=data;
+              isframe+='</svg>'; 
+
+              $('.message').html(isframe).show();
+              //alert($('#hhhh g'));
+              active_touch();
+            },dataType="text");
+            
+
+           
+            $('.showSpeciesContents').html(showLoader());
+            
+            $('.showSpeciesContents').load("specieslistpage.html");
+           /* $.get("specieslistpage.html", function(data) {
+               // alert("hi");
+                 $('.showSpeciesContents').html(data);
+
+                   
+                 //$('.showspecies').show();
+                 //showresults();
+            });*/
+
+
+
+
+       
+           function extraHome(){
+             var percent = { "count": "345", "val": "0" }; 
+        localStorage.setItem('percentage', JSON.stringify(percent));
+
+
+            var listvalues = localStorage.getItem('formvalues'); 
+            var finalvalue = JSON.parse(listvalues);
+             finalvalue.txtstore = "0";
+                    localStorage.setItem('formvalues', JSON.stringify(finalvalue));
+                   // al = 0;
+                    //sim = setInterval(function() { progressSim(345,0); }, 50);
+                    //$(".dial").val(0);
+             updateProcess(345,0);
+            $(".end").html("<p> 345 espèces à </p>");
+
+           }
+           /*function showspecies()
+            {
+                $('.tt').hide();
+
+                $('#backbutton').show();
+                $('.showspecies').show();
+                //$('.showSpeciesContent').show();
+
+                //$('.showspecies').trigger('click');
+                //$('.showSpeciesContent').html(showLoader());
+                
+                //window.location.href = "specieslist.html";
+            }*/
+            var listvalues = localStorage.getItem('percentage'); 
+            var finalvalue = JSON.parse(listvalues);
+            var number = finalvalue.count;
+            var value = finalvalue.val;
+             var sim; // = setInterval(function() { progressSim(number,value); }, 20);
+             //$(".dial").val(0);
+          updateProcess(345,0);
+           $(".end").html("<p>" + number + " espèces à </p>");
+
+function updateProcess(number,value1){
+ 
+ al=0;
+  sim = setInterval(function() { progressSim(number,value1); }, 20);
+
+}
+
+
+
+
+var longpress;
+
+function active_touch(){ 
+ //alert("calling");
+ var newcheck = 0;
+
+$("#homesvg g").on('touchstart' ,function(ev){      
+ longpress=true;    
+ setTimeout(function() {    
+    if(longpress){
+      newcheck = 1;
+     alert("long press works!");
+     //console.log(ev);
+     //console.log(ev.target.id); 
+     for(var j = 0; j < Object.keys(object_asc).length; j++){
+            if(object_asc[j]['Objet'] == ev.target.id){
+              alert(object_asc[j]['TipText']);
+              return false;
+            }
+     }
+
+    }
+
+     //console.log(ev.currentTarget);        
+                  }, 2000);
+ if(newcheck == 1){
+  newcheck =0;
+    return false;
+  }
+})
+$("#homesvg g").on('touchend' ,function(){      
+    longpress=false;    
+})
+}
+
+
+</script>
+
+
+    </body>
+</html>

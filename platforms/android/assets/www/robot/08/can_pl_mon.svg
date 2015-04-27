@@ -1,0 +1,17 @@
+ <g id="can_pl_mon">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="A_Tige">
+   <path fill="#E5E5E5" stroke="#7F7F7F" stroke-width="7.62" d="M10947 4281l1727 6 -17 248c-8,71 -31,240 -207,515l-1499 0 -4 -769z"/>
+   <path fill="#E8B999" stroke="black" stroke-width="7.62" d="M12171 3889c62,1 182,112 235,177 56,68 228,-18 265,192 -37,59 -27,68 -269,132 -191,51 -79,148 -203,250 -185,56 -349,-48 -420,-66 -172,11 -178,169 -436,80 -178,-78 -81,-169 -145,-231 -56,-54 -199,84 -252,-172 33,-159 162,-56 257,-186 72,-99 67,-153 193,-185 143,-37 241,199 366,174 151,-31 206,-169 408,-164z"/>
+   <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M12393 4427c78,603 -26,130 15,646"/>
+   <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M12171 4681c78,603 -18,352 23,868"/>
+   <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M11753 4641c78,603 -18,1468 23,1984"/>
+   <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M11398 4680c0,60 104,1139 69,1716 -33,539 6,761 6,1314"/>
+   <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M11198 4532c-69,479 13,1051 40,1636 10,214 42,1519 49,1737l18 559"/>
+   <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M10959 4857c0,435 -18,776 15,1217l125 1689"/>
+  </g>
+  <g>
+   <polygon id="Plc" onclick=" showquest('Plc')" onmousemove=" showrobotip('Plc','Tige creuse ou pleine')" onmouseout=" hidetooltip('Plc')" cursor="pointer" fill="white" fill-opacity="0.149020" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+   <polygon id="Plc1" fill="none" stroke="black" stroke-width="7.62" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+  </g>
+ </g>

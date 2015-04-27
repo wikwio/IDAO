@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 24000 18000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+    <mask id="id0">
+      <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="9785.05" y1="10241.1" x2="9877.67" y2="12137.8">
+       <stop offset="0" stop-opacity="1" stop-color="white"/>
+       <stop offset="1" stop-opacity="0" stop-color="white"/>
+      </linearGradient>
+     <rect fill="url(#id1)" x="9312" y="10155" width="1039" height="2070"/>
+    </mask>
+ </defs>
+<a>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Background" fill="#FDFFC9" width="24000" height="18000"/>
+  <polygon id="No_latex" onclick="parent.replacechar('No_latex')" onmousemove="parent.showtooltip('No_latex','Aucun &#233;coulement')" onmouseout="parent.hidetooltip('No_latex')" cursor="pointer" fill="#7DC031" stroke="black" stroke-width="7.62" points="3978,9546 4577,9675 5156,6070 4262,5926 3711,9341 629,11258 1107,12027 4208,10098 ">
+   <metadata id="CorelCorpID_1">
+    <odm name="Name" value="rameau" type="0"/>
+   </metadata>
+  </polygon>
+  <g id="Latex_trans" onclick="parent.replacechar('Latex_trans')" onmousemove="parent.showtooltip('Latex_trans','S&#232;ve translucide')" onmouseout="parent.hidetooltip('Latex_trans')" cursor="pointer">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="latex transparent" type="0"/>
+    </metadata>
+   <polygon id="rameau" fill="#7DC031" stroke="black" stroke-width="7.62" points="9309,9543 9908,9673 10486,6070 9592,5926 9042,9339 5962,11254 6440,12023 9539,10095 ">
+    <metadata id="CorelCorpID_3">
+     <odm name="Name" value="rameau" type="0"/>
+    </metadata>
+   </polygon>
+   <path id="goutte" fill="white" stroke="black" stroke-width="7.62" mask="url(#id0)" d="M9325 11373c-4,39 -9,84 -9,126 0,398 232,722 516,722 284,0 516,-324 516,-722 0,-48 -4,-88 -10,-126l-563 -1215 -450 1214z">
+    <metadata id="CorelCorpID_4">
+     <odm name="Name" value="goutte" type="0"/>
+    </metadata>
+   </path>
+  </g>
+  <g id="Latex_blanc" onclick="parent.replacechar('Latex_blanc')" onmousemove="parent.showtooltip('Latex_blanc','Latex blanc')" onmouseout="parent.hidetooltip('Latex_blanc')" cursor="pointer">
+    <metadata id="CorelCorpID_5">
+     <odm name="Name" value="latex white" type="0"/>
+    </metadata>
+   <polygon id="rameau_0" fill="#7DC031" stroke="black" stroke-width="7.62" points="15532,9543 16131,9673 16710,6070 15816,5926 15266,9339 12186,11254 12664,12023 15762,10095 ">
+    <metadata id="CorelCorpID_6">
+     <odm name="Name" value="rameau" type="0"/>
+    </metadata>
+   </polygon>
+   <path id="goutte_1" fill="white" stroke="black" stroke-width="7.62" d="M15548 11373c-4,39 -9,84 -9,126 0,398 232,722 516,722 284,0 516,-324 516,-722 0,-48 -4,-88 -10,-126l-563 -1215 -450 1214z">
+    <metadata id="CorelCorpID_7">
+     <odm name="Name" value="goutte" type="0"/>
+    </metadata>
+   </path>
+  </g>
+  <g id="Latex_jaune" onclick="parent.replacechar('Latex_jaune')" onmousemove="parent.showtooltip('Latex_jaune','Latex jaune')" onmouseout="parent.hidetooltip('Latex_jaune')" cursor="pointer">
+    <metadata id="CorelCorpID_8">
+     <odm name="Name" value="latex yellow" type="0"/>
+    </metadata>
+   <polygon id="rameau_2" fill="#7DC031" stroke="black" stroke-width="7.62" points="21837,9543 22436,9673 23014,6070 22121,5926 21571,9339 18491,11254 18969,12023 22067,10095 ">
+    <metadata id="CorelCorpID_9">
+     <odm name="Name" value="rameau" type="0"/>
+    </metadata>
+   </polygon>
+   <path id="goutte_3" fill="#FAC846" stroke="black" stroke-width="7.62" d="M21853 11373c-4,39 -9,84 -9,126 0,398 232,722 516,722 284,0 516,-324 516,-722 0,-48 -4,-88 -10,-126l-563 -1215 -450 1214z">
+    <metadata id="CorelCorpID_10">
+     <odm name="Name" value="goutte" type="0"/>
+    </metadata>
+   </path>
+  </g>
+ </g>
+<image xlink:href="tick.gif" id="imgtick" x="-10000" y="-10000" width="1500" height="1500"/>
+<rect id="recttooltip" x="-10000" y="-10000" width="5500" height="600" fill-opacity="0.85" pointer-events="none"/>
+<text id="textboxid" x="-10000" y="-10000" pointer-events="none"> </text>
+</a></svg>

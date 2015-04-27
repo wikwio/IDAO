@@ -1,0 +1,20 @@
+ <g id="ron_cr_mon">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="A_Tige">
+   <path fill="#E5E5E5" d="M12426 4472c27,-2 245,-87 228,-179 10,377 -27,401 -83,509 -12,23 -107,-125 -145,-331z"/>
+   <path fill="#E5E5E5" d="M10931 4309c-17,175 -49,1374 -46,1338 71,-913 1167,-945 1258,-1311 -461,59 -1119,269 -1212,-27z"/>
+   <g id="sectiondf">
+     <metadata id="CorelCorpID_1">
+      <odm name="Name" value="section" type="0"/>
+     </metadata>
+    <ellipse fill="#E8B999" stroke="#7F7F7F" stroke-width="7.62" cx="11793" cy="4309" rx="862" ry="302"/>
+    <ellipse fill="#BA7648" stroke="#7F7F7F" stroke-width="7.62" cx="11793" cy="4260" rx="642" ry="212"/>
+   </g>
+   <path fill="none" stroke="#7F7F7F" stroke-width="7.62" d="M12655 4312c3,48 -4,232 -4,280"/>
+   <path fill="none" stroke="#7F7F7F" stroke-width="7.62" d="M10924 4301c3,229 -38,1098 -38,1329"/>
+  </g>
+  <g>
+   <polygon id="Plc" onclick=" showquest('Plc')" onmousemove=" showrobotip('Plc','Tige creuse ou pleine')" onmouseout=" hidetooltip('Plc')" cursor="pointer" fill="white" fill-opacity="0.149020" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+   <polygon id="Plc1" fill="none" stroke="black" stroke-width="7.62" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+  </g>
+ </g>

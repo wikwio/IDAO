@@ -1,0 +1,11 @@
+ <g id="app_theo">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="A_Tige">
+   <path fill="#ECECEC" stroke="#9D9E9E" stroke-width="7.62" d="M11838 4260c532,0 966,89 966,174 0,84 -433,131 -966,131 -532,0 -964,-72 -964,-156 0,-84 432,-149 964,-149z"/>
+   <path fill="#D9DADA" stroke="#9D9E9E" stroke-width="7.62" d="M11840 4291c403,0 728,55 728,109 0,53 -318,75 -721,75 -403,0 -739,-21 -739,-75 0,-53 328,-109 731,-109z"/>
+  </g>
+  <g>
+   <polygon id="Plc" onclick=" showquest('Plc')" onmousemove=" showrobotip('Plc','Tige creuse ou pleine')" onmouseout=" hidetooltip('Plc')" cursor="pointer" fill="white" fill-opacity="0.149020" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+   <polygon id="Plc1" fill="none" stroke="#4D4D4D" stroke-width="7.62" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+  </g>
+ </g>

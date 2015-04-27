@@ -1,0 +1,34 @@
+ <g id="composee.ven_parallele">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Nervation" onclick=" showquest('Nervation')" onmousemove=" showrobotip('Nervation','Nervation du limbe de la feuille')" onmouseout=" hidetooltip('Nervation')" cursor="pointer">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Marge_limbe" type="0"/>
+    </metadata>
+   <g>
+    <path fill="white" fill-opacity="0.149020" d="M21500 4500c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+    <path id="1" fill="none" stroke="black" stroke-width="7.62" d="M21500 4500c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+   </g>
+   <rect id="Cadre_Venation" fill="white" stroke="black" stroke-width="7.62" x="21800" y="7600" width="2000" height="1800">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="Cadre_Venation" type="0"/>
+    </metadata>
+   </rect>
+   <path fill="#78B43C" stroke="black" stroke-width="7.62" d="M21990 9400c-49,-153 -82,-317 -83,-468 -1,-324 72,-677 210,-1066 31,-86 64,-175 98,-266l1153 0c35,79 68,156 100,232 154,378 233,751 224,1141 -4,145 -32,291 -75,426l-1628 0z"/>
+   <path fill="black" fill-rule="nonzero" stroke="black" stroke-width="7.62" d="M22609 7600c-92,640 -148,1215 -42,1800l-9 0c-106,-586 -50,-1160 42,-1800l9 0z"/>
+   <path fill="black" fill-rule="nonzero" stroke="black" stroke-width="7.62" d="M22497 7600c-144,620 -239,1261 -126,1800l-10 0c-113,-540 -17,-1180 127,-1800l9 0z"/>
+   <path fill="black" fill-rule="nonzero" stroke="black" stroke-width="7.62" d="M22375 7600c-135,398 -232,772 -259,1115 -19,244 -3,473 60,685l-10 0c-62,-212 -78,-441 -59,-685 27,-344 124,-718 259,-1115l10 0z"/>
+   <path fill="black" fill-rule="nonzero" stroke="black" stroke-width="7.62" d="M22907 7600c16,77 33,153 49,229 115,536 224,1041 150,1571l-9 0c74,-529 -34,-1033 -150,-1569 -16,-76 -33,-153 -49,-231l9 0z"/>
+   <path fill="black" fill-rule="nonzero" stroke="black" stroke-width="7.62" d="M23046 7600l35 91c218,566 435,1132 277,1709l-10 0c159,-575 -58,-1140 -276,-1705 -12,-32 -24,-63 -36,-95l10 0z"/>
+   <path fill="black" fill-rule="nonzero" stroke="black" stroke-width="7.62" d="M23207 7600c261,552 501,1199 301,1800l-10 0c201,-600 -39,-1248 -301,-1800l10 0z"/>
+   <path id="nervure" fill="#2A2A29" stroke="black" stroke-width="7.62" d="M22787 7600l40 1800 -43 0c-11,-513 -23,-1187 -32,-1800l35 0z">
+    <metadata id="CorelCorpID_3">
+     <odm name="Name" value="nervure" type="0"/>
+    </metadata>
+   </path>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M22727 6244c70,540 70,749 83,1271 -110,-733 -248,-716 -372,-933 85,43 96,-1 163,-19 -205,-658 -479,-788 -751,-950 151,101 325,-48 264,-469 110,344 327,661 526,1355 38,-4 66,-198 86,-255z">
+   <metadata id="CorelCorpID_4">
+    <odm name="Name" value="A_arrow" type="0"/>
+   </metadata>
+  </path>
+ </g>

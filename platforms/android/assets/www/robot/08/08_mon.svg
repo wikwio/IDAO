@@ -1,0 +1,19 @@
+ <g id="_08_mon">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="A_Tige">
+   <path fill="#E5E5E5" d="M10851 4308l1806 -27c39,389 -244,822 -311,958l-1488 461c-8,-287 -8,-1095 -7,-1393z"/>
+   <g id="elipse">
+     <metadata id="CorelCorpID_1">
+      <odm name="Name" value="elipse" type="0"/>
+     </metadata>
+    <ellipse fill="#E5E5E5" stroke="#7F7F7F" stroke-width="7.62" cx="11756" cy="4330" rx="906" ry="455"/>
+    <ellipse fill="#CCCCCC" stroke="#7F7F7F" stroke-width="7.62" cx="11756" cy="4330" rx="704" ry="306"/>
+   </g>
+   <path fill="none" stroke="#B2B3B3" stroke-width="7.62" d="M10850 4330c12,497 5,1445 5,1445"/>
+   <path fill="none" stroke="#B2B3B3" stroke-width="7.62" d="M12662 4330c20,152 -72,465 -153,656"/>
+  </g>
+  <g>
+   <polygon id="Plc" onclick=" showquest('Plc')" onmousemove=" showrobotip('Plc','Tige creuse ou pleine')" onmouseout=" hidetooltip('Plc')" cursor="pointer" fill="white" fill-opacity="0.149020" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+   <polygon id="Plc1" fill="none" stroke="#4D4D4D" stroke-width="7.62" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+  </g>
+ </g>

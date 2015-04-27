@@ -1,0 +1,12 @@
+ <g id="qua_pl_sed">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="A_Tige">
+   <polygon fill="white" points="12153,4363 12671,4363 12671,4696 "/>
+   <path fill="#E8B999" stroke="#7F7F7F" stroke-width="7.62" d="M11960 4242l613 343c121,68 76,154 -100,192l-519 112c-106,23 -252,8 -325,-33l-700 -392c-121,-68 -76,-154 100,-192l393 -85c176,-38 418,-13 539,54z"/>
+   <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M11762 5038c20,459 -26,658 -36,1571"/>
+  </g>
+  <g>
+   <polygon id="Plc" onclick=" showquest('Plc')" onmousemove=" showrobotip('Plc','Tige creuse ou pleine')" onmouseout=" hidetooltip('Plc')" cursor="pointer" fill="white" fill-opacity="0.149020" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+   <polygon id="Plc1" fill="none" stroke="black" stroke-width="7.62" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+  </g>
+ </g>

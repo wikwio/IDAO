@@ -1,0 +1,20 @@
+ <defs>
+    <radialGradient id="id0" gradientUnits="userSpaceOnUse" cx="12401.6" cy="13328.7" r="398.87" fx="12401.6" fy="13328.7">
+     <stop offset="0" stop-color="#FEFEFE"/>
+     <stop offset="0.701961" stop-color="#F0FDFD"/>
+     <stop offset="1" stop-color="#E2FCFC"/>
+    </radialGradient>
+    <radialGradient id="id1" gradientUnits="userSpaceOnUse" cx="13313.8" cy="14121" r="694.42" fx="13313.8" fy="14121">
+     <stop offset="0" stop-color="#FEFEFE"/>
+     <stop offset="0.701961" stop-color="#F0FDFD"/>
+     <stop offset="1" stop-color="#E2FCFC"/>
+    </radialGradient>
+ </defs>
+ <g id="latex_mon_trans">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Latex" onclick=" showquest('Latex')" onmousemove=" showrobotip('Latex','Latex et &#233;coulement')" onmouseout=" hidetooltip('Latex')" cursor="pointer">
+   <path fill="white" stroke="#7F7F7F" stroke-width="7.62" d="M12027 12753c838,270 686,184 696,1010 -195,-411 -977,-1100 -696,-1010z"/>
+   <path id="Gutelette" fill="url(#id0)" stroke="#7F7F7F" stroke-width="7.62" d="M12190 12930c428,230 569,684 280,778 -505,131 -124,-434 -280,-778z"/>
+   <path id="Goutte" fill="url(#id1)" stroke="#7F7F7F" stroke-width="7.62" d="M12637 13275c841,242 1353,1064 880,1340 -695,351 -786,-176 -683,-723 29,-119 -57,-400 -197,-618z"/>
+  </g>
+ </g>

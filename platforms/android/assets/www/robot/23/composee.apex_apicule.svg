@@ -1,0 +1,24 @@
+
+ <g id="composee.apex_apicule">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Apex_limbe" onclick=" showquest('Apex_limbe')" onmousemove=" showrobotip('Apex_limbe','Sommet du limbe')" onmouseout=" hidetooltip('Apex_limbe')" cursor="pointer">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Marge_limbe" type="0"/>
+    </metadata>
+   <g>
+    <path fill="white" fill-opacity="0.149020" d="M21500 1057c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+    <path id="1" fill="none" stroke="black" stroke-width="7.62" d="M21500 1057c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+   </g>
+   <rect id="Cadre_apex" fill="white" stroke="black" stroke-width="7.62" x="18500" y="200" width="2000" height="1800">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="Cadre_apex" type="0"/>
+    </metadata>
+   </rect>
+   <path fill="#78B43C" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20179 1995l-1358 5 3 -391c0,0 3,-684 479,-918 187,-92 173,-189 184,-292 10,139 69,248 180,280 302,89 419,432 498,993 13,336 14,322 14,322z"/>
+   <polyline fill="none" stroke="black" stroke-width="7.62" points="19505,656 19505,1736 19503,1996 "/>
+   <path fill="none" stroke="black" stroke-width="7.62" d="M19897 1123c-15,123 -192,493 -392,614"/>
+   <path fill="none" stroke="black" stroke-width="7.62" d="M19171 896c-3,107 169,331 334,411"/>
+   <path fill="none" stroke="black" stroke-width="7.62" d="M19041 1711c-5,12 57,199 185,283"/>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20973 580c-167,-45 -232,-46 -395,-57 227,71 221,155 287,230 -13,-52 1,-59 7,-99 203,128 241,295 289,461 -30,-92 17,-197 148,-158 -106,-68 -203,-202 -417,-327 1,-23 62,-39 80,-51z"/>
+ </g>

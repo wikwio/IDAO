@@ -1,0 +1,19 @@
+
+ <g id="Fru_pod_g">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path id="A_Arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M3260 2475c-350,95 -467,155 -768,295 486,-114 572,15 779,63 -83,-64 -66,-87 -102,-152 510,-7 772,202 1050,400 -161,-106 -198,-307 80,-375 -268,1 -596,-102 -1121,-80 -24,-35 65,-117 83,-152z"/>
+  <g id="Fruit" onclick=" showquest('Fruit')" onmousemove=" showrobotip('Fruit','Type de fruit')" onmouseout=" hidetooltip('Fruit')" cursor="pointer" >
+   <rect fill="white" stroke="black" stroke-width="7.62" x="400" y="400" width="2400" height="3600"/>
+   <g id="gousse">
+    <g>
+     <path id="gousse_ext" fill="#4EB149" d="M992 3270c102,-1036 710,-1844 1270,-2737 -79,400 166,359 110,567 -247,916 -966,1538 -1260,2484 -55,6 -98,-17 -166,-6 32,-91 44,-199 47,-308z"/>
+     <path id="gousse_ext1" fill="none" fill-rule="nonzero" stroke="black" stroke-width="7.62" d="M992 3270c102,-1036 710,-1844 1270,-2737 -79,400 166,359 110,567 -247,916 -966,1538 -1260,2484 -55,6 -98,-17 -166,-6 32,-91 44,-199 47,-308z"/>
+    </g>
+    <path id="gousse_int" fill="none" stroke="black" stroke-width="5.64" d="M1027 3220c96,-979 681,-1759 1211,-2602 -74,322 162,273 109,469 -234,865 -984,1580 -1263,2474 -52,6 -49,-16 -113,-6 31,-86 52,-232 55,-335z"/>
+    <line id="gousse_traiIII" fill="none" stroke="black" stroke-width="4.89" x1="1175" y1="2667" x2="1395" y2= "2752" />
+    <line id="gousse_traitII" fill="none" stroke="black" stroke-width="5.64" x1="1134" y1="2847" x2="1311" y2= "2899" />
+    <line id="gousse_trait" fill="none" stroke="black" stroke-width="5.64" x1="1106" y1="3025" x2="1246" y2= "3062" />
+    <path id="gousse_sepales" fill="#EA8847" stroke="black" stroke-width="7.62" d="M876 3843c0,-36 44,-57 52,-100 14,-83 -4,-194 -11,-275 -50,-141 -158,-283 -53,-357 3,112 94,144 94,296 0,8 103,-242 182,-278 -14,113 -35,152 -6,278 27,116 83,-120 225,-187 9,-4 0,218 -187,279 -10,53 -64,184 -157,259 -34,56 26,109 7,109 -12,0 -59,-29 -70,-41 -29,-29 -59,23 -76,18z"/>
+   </g>
+  </g>
+ </g>

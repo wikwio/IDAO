@@ -1,0 +1,34 @@
+ <g id="mono.base_cordate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Base_limbe" onclick=" showquest('Base_limbe')" onmousemove=" showrobotip('Base_limbe','Base du limbe')" onmouseout=" hidetooltip('Base_limbe')" cursor="pointer">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Marge_limbe" type="0"/>
+    </metadata>
+   <g>
+    <path fill="white" fill-opacity="0.149020" d="M19361 6396c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+    <path id="1" fill="none" stroke="black" stroke-width="7.62" d="M19361 6396c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+   </g>
+   <rect id="Cadre_Base" fill="white" stroke="black" stroke-width="7.62" x="19200" y="7600" width="2000" height="1800">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="Cadre_Base" type="0"/>
+    </metadata>
+   </rect>
+   <g id="cordate">
+     <metadata id="CorelCorpID_3">
+      <odm name="Name" value="cordate" type="0"/>
+     </metadata>
+    <path fill="#78B43C" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20368 8480c53,-14 236,146 267,178 31,30 181,91 264,83 221,-51 305,-309 165,-1142l-1693 0c-88,433 -158,771 -47,1001 46,240 454,134 524,69 37,-34 193,-195 241,-195 7,0 12,1 14,4 259,3 261,2 264,2z"/>
+    <path fill="#E5E5E5" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20104 8478c8,8 2,30 8,83 10,114 50,639 56,838l191 0c2,-283 -32,-734 -6,-902 1,-10 6,-16 14,-18 -2,1 -5,2 -264,-2z"/>
+    <polygon fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="20226,7700 20226,8437 "/>
+    <path fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20740 7617c-117,216 -314,411 -505,559"/>
+    <path fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M19570 7642c125,198 440,262 645,365"/>
+    <path fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20217 8320c-198,-271 -526,-39 -683,133"/>
+    <path fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20252 8417c223,-270 442,-378 620,-22"/>
+   </g>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20267 7329c53,133 61,187 85,319 -80,-180 -149,-166 -217,-214 44,5 48,-7 80,-15 -125,-155 -266,-170 -407,-193 79,16 160,-34 116,-137 66,81 186,147 309,311 19,-3 26,-55 34,-71z">
+   <metadata id="CorelCorpID_4">
+    <odm name="Name" value="A_arrow" type="0"/>
+   </metadata>
+  </path>
+ </g>

@@ -1,0 +1,18 @@
+
+ <g id="Fru_sil_d">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Fruit" onclick=" showquest('Fruit')" onmousemove=" showrobotip('Fruit','Type de fruit')" onmouseout=" hidetooltip('Fruit')" cursor="pointer" >
+   <rect fill="white" stroke="black" stroke-width="7.62" x="400" y="400" width="2400" height="3600"/>
+   <g id="Silique">
+    <path fill="#00C800" stroke="black" stroke-width="7.62" d="M2358 660c-189,152 -155,202 -386,338 -410,701 -915,1590 -1156,2386 -63,160 144,178 161,131 179,-177 889,-1467 1244,-2387 -38,-133 107,-244 138,-469z"/>
+    <path fill="#EB8748" stroke="black" stroke-width="7.62" d="M954 3555c-9,48 -54,41 -74,46 -32,12 -36,57 -82,84 -24,-14 -26,-2 -51,-29 0,-69 42,-99 18,-134 -25,-19 -12,-75 28,-69 49,130 149,67 161,102z"/>
+    <path fill="none" stroke="black" stroke-width="7.62" d="M841 3465c174,-703 746,-1633 1183,-2440"/>
+    <path fill="none" stroke="black" stroke-width="7.62" d="M926 3502c453,-565 875,-1557 1244,-2407"/>
+    <path fill="none" stroke="black" stroke-width="7.62" d="M892 3468c318,-677 755,-1481 1198,-2398"/>
+    <path fill="none" stroke="black" stroke-width="7.62" d="M2049 1006c75,-56 148,-196 295,-322"/>
+    <path fill="none" stroke="black" stroke-width="7.62" d="M2179 1064c19,-92 114,-191 164,-378"/>
+    <path fill="none" stroke="black" stroke-width="7.62" d="M2116 1037c19,-92 123,-156 220,-339"/>
+   </g>
+  </g>
+  <path id="A_Arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M2610 4139c-216,-244 -273,-353 -428,-617 310,323 446,242 630,291 -98,22 -98,51 -160,95 386,235 700,159 1020,101 -181,26 -318,195 -142,382 -204,-121 -511,-173 -901,-429 -38,22 -14,137 -19,178z"/>
+ </g>
