@@ -114,6 +114,15 @@ h1 {
     -webkit-animation:fade 3000ms infinite;
 }
 
+.warning{
+
+    text-align: center;
+  color: red;
+  font-weight: bold;
+  padding-top: 50px;
+
+}
+
 /*.end {
 
     text-align: center;

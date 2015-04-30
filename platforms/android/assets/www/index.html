@@ -1,22 +1,5 @@
 <!DOCTYPE html>
-<!--
-    Licensed to the Apache Software Foundation (ASF) under one
-    or more contributor license agreements.  See the NOTICE file
-    distributed with this work for additional information
-    regarding copyright ownership.  The ASF licenses this file
-    to you under the Apache License, Version 2.0 (the
-    "License"); you may not use this file except in compliance
-    with the License.  You may obtain a copy of the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing,
-    software distributed under the License is distributed on an
-    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-     KIND, either express or implied.  See the License for the
-    specific language governing permissions and limitations
-    under the License.
--->
 <html>
     <head>
         <meta charset="utf-8" />
@@ -24,10 +7,6 @@
         <meta name="format-detection" content="telephone=no" />
         <meta name="msapplication-tap-highlight" content="no" />
         <meta name="viewport"  content="width=device-width, height=device-height, initial-scale=0.8, user-scalable=1" />
-
-        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
-        <!--<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" /> -->
-
 
         <title>WIKWIO</title>
     <link rel="stylesheet" type="text/css" href="css/list.css" />
@@ -40,13 +19,6 @@
     <body>
 
 
-
-
-
-
-
-
-
 <div data-role="page" id="one">
         <div data-role="header"  class = "headercls">
         <a href="#"  class="ui-btn-right ui-btn ui-icon-bars ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini" id="showRight" data-role="button" data-direction="reverse"  role="button"> Menu</a>
@@ -57,12 +29,11 @@
         <a href="#" id="backbutton1" onclick="showresultspopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >Back</a>
         <a href="#" id="backbutton2" onclick="showlistpopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >Back</a>
 
-        <!--<button class="ui-btn ui-btn-inline ui-corner-all" style="float:left;" id="showRight">Afficher Menu</button>-->
             <h6>WIKWIO IDAO</h6>
         </div>
 
         <div class="canvasdiv" >
-         <canvas id="my_canvas" width="150" height="150" style="border:1px dashed #CCC;"></canvas>
+         <canvas id="my_canvas" width="150" height="150" onclick="showresults()"  style="border:1px dashed #CCC;"></canvas>
           </div>  
           
           <script>
@@ -85,21 +56,18 @@
             ctx.strokeStyle = "#09F";
             ctx.textAlign = 'center';
             console.log(al);
-            ctx.fillText(number+" epecies "+value+'%', cw*.5, ch*.5+2, cw);
+            ctx.fillText(number+" espèces à "+value+'%', cw*.5, ch*.5+2, cw);
             ctx.beginPath();
             ctx.arc(75, 75, 60, start, diff/10+start, false);
             ctx.stroke();
             if(al >= value){
-             // alert("val");
               clearTimeout(sim);
-                // Add scripting here that will run when progress completes
             }
             al++;
           }
           </script>
         <div id="deviceready" class="blink">
                 <p class="event listening"></p>
-                <!--<p class="event received"></p>-->
                  <p class="event received"></p>
         </div>
 
@@ -179,7 +147,6 @@
         <div class="tt speciespopup">
           
         </div>
-        <!--<div class="end ui-footer ui-bar-a  " data-role="footer"  onclick="showresults()" style="text-align:center;"></div>-->
 </div>    
 
 
@@ -254,8 +221,6 @@
 <script type="text/javascript" src="js/menu.js"></script>
 <script type="text/javascript" src="js/menuBar.js"></script>
 <script type="text/javascript" src="js/includefile.js"></script>
-
-<!--<script type="text/javascript" src="js/home.js"></script>-->
 <script type='application/javascript' src='js/fastclick.js'></script>
 <script type="text/javascript">
     $('.tt').hide();
@@ -270,34 +235,22 @@
         var percent = { "count": "345", "val": "0" }; 
         localStorage.setItem('percentage', JSON.stringify(percent));
 
-         
-        /*var width = window.innerWidth;
-        var b;
-        alert("width"+width);
-        b=width/2;
-        alert("bval"+b)*/
+      
         $('.buttons').css({'text-align':'center'});
         var a = window.innerHeight;
-        //alert(typeof(a));
-       // alert(a);
       
        var h;
         var style_h = '';
         if(a>700){
             h= a-240;
-            //$('.ui-footer').addClass('ui-footer-fixed');
-             
-           // alert("hval"+h);
-            //$('.message').css({'height':h}); 
+         
            style_h = 'style="height:'+h+'px;"';
         }else {
             h = a;
-             //$('.message').css({'min-height':h}); 
         }
 
          
          var isframe = '<svg  id="homesvg" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"  '+style_h+' image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 24000 18000" xmlns:xlink="http://www.w3.org/1999/xlink">';
-
 
          var test = 'staticSVGs/index.svg';    
             $.get(test, function(data) {
@@ -305,27 +258,12 @@
               isframe+='</svg>'; 
 
               $('.message').html(isframe).show();
-              //alert($('#hhhh g'));
               active_touch();
             },dataType="text");
             
-
-           
             $('.showSpeciesContents').html(showLoader());
             
             $('.showSpeciesContents').load("specieslistpage.html");
-           /* $.get("specieslistpage.html", function(data) {
-               // alert("hi");
-                 $('.showSpeciesContents').html(data);
-
-                   
-                 //$('.showspecies').show();
-                 //showresults();
-            });*/
-
-
-
-
        
            function extraHome(){
              var percent = { "count": "345", "val": "0" }; 
@@ -335,33 +273,17 @@
             var listvalues = localStorage.getItem('formvalues'); 
             var finalvalue = JSON.parse(listvalues);
              finalvalue.txtstore = "0";
-                    localStorage.setItem('formvalues', JSON.stringify(finalvalue));
-                   // al = 0;
-                    //sim = setInterval(function() { progressSim(345,0); }, 50);
-                    //$(".dial").val(0);
+            
              updateProcess(345,0);
             $(".end").html("<p> 345 espèces à </p>");
 
            }
-           /*function showspecies()
-            {
-                $('.tt').hide();
-
-                $('#backbutton').show();
-                $('.showspecies').show();
-                //$('.showSpeciesContent').show();
-
-                //$('.showspecies').trigger('click');
-                //$('.showSpeciesContent').html(showLoader());
-                
-                //window.location.href = "specieslist.html";
-            }*/
+       
             var listvalues = localStorage.getItem('percentage'); 
             var finalvalue = JSON.parse(listvalues);
             var number = finalvalue.count;
             var value = finalvalue.val;
-             var sim; // = setInterval(function() { progressSim(number,value); }, 20);
-             //$(".dial").val(0);
+             var sim; 
           updateProcess(345,0);
            $(".end").html("<p>" + number + " espèces à </p>");
 
@@ -378,7 +300,6 @@ function updateProcess(number,value1){
 var longpress;
 
 function active_touch(){ 
- //alert("calling");
  var newcheck = 0;
 
 $("#homesvg g").on('touchstart' ,function(ev){      
@@ -387,8 +308,7 @@ $("#homesvg g").on('touchstart' ,function(ev){
     if(longpress){
       newcheck = 1;
      alert("long press works!");
-     //console.log(ev);
-     //console.log(ev.target.id); 
+   
      for(var j = 0; j < Object.keys(object_asc).length; j++){
             if(object_asc[j]['Objet'] == ev.target.id){
               alert(object_asc[j]['TipText']);
@@ -398,8 +318,7 @@ $("#homesvg g").on('touchstart' ,function(ev){
 
     }
 
-     //console.log(ev.currentTarget);        
-                  }, 2000);
+  }, 2000);
  if(newcheck == 1){
   newcheck =0;
     return false;

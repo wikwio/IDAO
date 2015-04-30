@@ -7,13 +7,13 @@
     <preference
         name="loglevel"
         value="DEBUG" />
-
     <preference
         name="SplashScreen"
         value="screen" />
     <preference
         name="SplashScreenDelay"
-        value="30000" />
+        value="15000" />
+
     <feature name="SQLitePlugin" >
         <param
             name="android-package"
@@ -33,6 +33,19 @@
     <name>
 wikwio_idao
     </name>
+
+    <icon
+        height="72"
+        src="img/icon.png"
+        width="72" />
+    <icon
+        height="48"
+        src="img/icon.png"
+        width="48" />
+    <icon
+        height="36"
+        src="img/icon.png"
+        width="36" />
 
     <description>
         A sample Apache Cordova application that responds to the deviceready event.

@@ -16,22 +16,28 @@ var store = fnlvalue.txtstore;
 var appstr = fnlvalue.txtappstr;
 var ddno = fnlvalue.txtcurquest;
 
-
-//alert(fnlvalue.txtcurquest +"    "+fnlvalue.txtquest );
-
 var s = new Array();
 var tri = new Array();	
 var etat = new Array();
 
 var usrstore = new Array();// convert the user selections from string to an array
 
-//var nombre ;
 var	max = 1;
 var compteur = 0;
 
 var questname;
 var qname;
 var cname;
+
+var compare = "";
+
+for (var z=0; z<appstr.length; z++){
+
+	compare+=0;
+}
+
+$(".loading-icon").show();
+
 
 if (store.length == 1){
 		for (var i=0; i < state; i++){
@@ -61,36 +67,16 @@ for (var i = 0; i < appstr.length; i++){
 		 appstr += appellable[i];
 	}
 
-$(".loading-icon").show();
+	if(appstr == compare){
+	$('.nextbutton').hide();
+	$(".SearchWrapper").html("<p class='warning' >Pas plus d\'options disponibles </p>");
+}
+
 	searchquest();
 
-/*document.addEventListener("deviceready", onDeviceReady, false);
 
-                function onDeviceReady() {
-                    //alert("contra");
-                     $(".loading-icon").show();
-                     extractForsNextDB();
-                     
-                }
-
-                 function extractForsNextDB(){
-                     
-                     //alert("query db");
-                     //db.transaction(querycarDB, errorObjCB);
-                     florDb();
-                     //db.transaction(queryctrroboDB, errorObjCB);
-                    // getContraelements();
-                     
-                }
-                function florDb(){
-
-                  
-                       //$(".end").append( " char_val= "+char_val+"<br>");
-                       searchquest();
-                 }*/
 
                  function searchquest(){
-                 	//alert("hi");
                  	var tempvar;
                  	var provenance;
                  	var index_car;
@@ -165,32 +151,19 @@ $(".loading-icon").show();
 						}
 						if (max != "0")
 						{		
-							//alert("hello");
 							var temp = "";
-							//dno = object_asc[numero]["Desc_Num"];
 							questname = "quest/" + object_asc[numero]["Popup"];	
 							qname = object_asc[numero]["Desc_Num"];
 							cname = object_asc[numero]["Objet"];
 							$(".loading-icon").hide();
 							temp = '<object id="svgquest" type="image/svg+xml" data="'+questname+'" width="100%" height="100%" ><param name="src" value="'+questname+'" ></object>';
 								$(".SearchWrapper").html(temp);
-							/*$.get(questname, function(data) {
-	                           temp+=data;
-	                           $(".loading-icon").hide();
-	                           $(".SearchWrapper").html(temp);
-	                           //console.log(data);
-                          
-                       		},dataType="text");*/
+							
 						}
 						else
 						{
 							
 						}	
-
-
-
-						
-
 						fnlvalue.txtcurquest = qname;
 				      	fnlvalue.txtquest = cname;
 				      	fnlvalue.txtappstr = appstr;
