@@ -5,8 +5,8 @@
 
 console.log("aekfksdkf caluclate");
  
-	var userselcount = 0;	// Find number of components selected by the user
-	var usrstore1 = new Array(); // user selected components
+	var userselcount = 0;	
+	var usrstore1 = new Array(); 
 	var flag = false;
 	var ntopcount = 0;
 	var topval;
@@ -19,7 +19,7 @@ function carDB(store1){
 	for (var i = 0; i < Object.keys(caract_full).length; i++)
 	{
 		carac =  caract_full[i]["ID_CARAC"];	
-		usrstore1[carac] = store1.substr(i, 1); // convert the user selection string to array
+		usrstore1[carac] = store1.substr(i, 1);
 		if (store1.substr(i, 1) == "1")
 			userselcount++;
 	}	
@@ -73,7 +73,6 @@ function toDo(){
 
 	 outputarr = perarray.slice();
 	
-	// Sort the percentage array in descending order
 	var sortable = [];
 
 	for (var spename in perarray)

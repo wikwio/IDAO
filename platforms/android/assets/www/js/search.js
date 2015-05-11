@@ -19,7 +19,7 @@ var s = new Array();
 
 var etat = new Array();
 
-var usrstore = new Array();// convert the user selections from string to an array
+var usrstore = new Array();
 
 var	max = 1;
 var compteur = 0;
@@ -52,7 +52,6 @@ for (var i=0; i<state; i++){
 	usrstore[i] = store.substr( i, 1);
 }
 
-// get the appellable string and convert it to array
 var appellable = new Array();
 
 for (var i = 0; i < appstr.length; i++){

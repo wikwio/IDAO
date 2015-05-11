@@ -20,7 +20,7 @@ var s = new Array();
 var tri = new Array();	
 var etat = new Array();
 
-var usrstore = new Array();// convert the user selections from string to an array
+var usrstore = new Array();
 
 var	max = 1;
 var compteur = 0;
@@ -45,22 +45,17 @@ if (store.length == 1){
 		}
 }
 
-	// convert the user selections from string to an array
 for (var i=0; i<state; i++){
 	usrstore[i] = store.substr( i, 1);
 }
 
-// get the appellable string and convert it to array
 var appellable = new Array();
 
 for (var i = 0; i < appstr.length; i++){
 	appellable[i] = appstr.substr( i, 1);
 }
 
-// do manipulation with appellable array
 	appellable[ddno] = 0;
-	
-	//again change the appellable array to string
 	var appstrlen = appstr.length;
 	appstr = "";
 	for (var i = 0; i < appstrlen; i++){
@@ -138,7 +133,6 @@ for (var i = 0; i < appstr.length; i++){
 							compteur = compteur + 1;
 						}
 
-						// sort the array and get the maximum
 						max = 0;
 						var numero;
 						for (var i = 0; i <= compteur - 1; i++)

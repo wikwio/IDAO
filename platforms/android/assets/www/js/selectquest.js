@@ -60,7 +60,7 @@
 
                       if( new_arr[0]["Contrainte"] == null) {
 
-                        questname = "quest/" +  new_arr[0]["Popup"] ;//"robot/00/"+results.rows.item(i).Nom ;
+                        questname = "quest/" +  new_arr[0]["Popup"] ;
                         console.log("robot no values=== "+questname);
                         temp = '<object id="svgquest" type="image/svg+xml" data="'+questname+'" width="100%" height="100%" ><param name="src" value="'+questname+'" ></object>';
                         $(".selectQuestWrapper").html(temp);
@@ -75,7 +75,6 @@
                     for (var i = 0; i < len; i++)
                     {
                       if (new_arr[i]["Contrainte"] != null)
-                        // check whether the constraint value in array is 1
                       {       
                         if (char_val[new_arr[i]["Contrainte"]] == 1)
                         {
@@ -133,7 +132,7 @@
                        var cid = char_val_arr[charpos];
                         var a = document.getElementById("svgquest");
                         a.addEventListener("load",function(){
-                        var svgDoc = a.contentDocument; //get the inner DOM of alpha.svg
+                        var svgDoc = a.contentDocument; 
                         var bbox = svgdoc.getElementById(cid).getBBox();  
                         var node = svgdoc.getElementById("imgtick");
                         

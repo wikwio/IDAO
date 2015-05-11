@@ -1,8 +1,8 @@
 
 
-	var userselcount = 0;	// Find number of components selected by the user
-	var usrstore1 = new Array(); // user selected components
-	var perarray = new Array(); // percentage for each species
+	var userselcount = 0;	
+	var usrstore1 = new Array(); 
+	var perarray = new Array(); 
 	var flag = false;
 	var outputarr = new Array();
 	var floresult = new Array();
@@ -42,6 +42,16 @@
 
 function floreDB(){
 
+
+	var lang = 'fr';
+         $(".languagecheck").each(function(){         		
+         		var that = $(this);
+         		if(that.hasClass('ui-btn-active')){
+         			lang = that.attr('rel');	
+         		}
+         });
+
+
 	var target_url;
 	var portal_url;
 	var species_name;
@@ -49,19 +59,17 @@ function floreDB(){
 	for (var i = 0; i < Object.keys(flore_asc).length; i++){
 		perarray[flore_asc[i]["Code"]] = 0;
 
-		target_url = "species/";
+		target_url = "species/" + lang + "/";
 		temp = flore_asc[i]["Code"];
 
-		target_url += temp.substr(0,1) + "/" + temp + "/";
-
-		target_url = target_url + temp +"_fr.html";
+		target_url +=  temp + ".html";
 
 		target_url = target_url.toLowerCase();
 
 		species_name = flore_asc[i]["Espece"];
 
 		portal_url = flore_asc[i]["portal_url"];
-
+	
 		floresult[temp] = [ species_name, portal_url, target_url ];
 	}
 
@@ -78,7 +86,7 @@ function carDB(){
 	for (var i = 0; i < Object.keys(caract_full).length; i++)
 	{
 		carac =  caract_full[i]["ID_CARAC"];	
-		usrstore1[carac] = store1.substr(i, 1); // convert the user selection string to array
+		usrstore1[carac] = store1.substr(i, 1); 
 		if (store1.substr(i, 1) == "1")
 			userselcount++;
 	}
@@ -160,11 +168,11 @@ function resultss(){
 	htmlelement += "<div style=' overflow-y: scroll;'>";
 	htmlelement += ' <table data-role="table" id="movie-table-custom" data-mode="reflow" class="movie-list ui-responsive">';
 	htmlelement += "<thead><tr class='rowtop'>";
-	htmlelement += "<th style=\"width:25%; height:30px;\">Nom d'espèce</th>";
-	htmlelement += "<th style=\"width:15%;height:30px;\">Pourcentage</th>";
+	htmlelement += "<th class=\"resultlistspec\" style=\"width:25%; height:30px;\">Nom d'espèce</th>";
+	htmlelement += "<th class=\"resultpercentage\" style=\"width:15%;height:30px;\">Pourcentage</th>";
 
 	if (errorflag != "0")	{
-		htmlelement += "<th style=\"width:15%;height:30px;\">Erreurs</th>";
+		htmlelement += "<th class=\"resulterror\"  style=\"width:15%;height:30px;\">Erreurs</th>";
 	}
 	htmlelement += "</tr></thead><tbody>";
 	for (var key in outputarr)
@@ -188,7 +196,7 @@ function resultss(){
 				{
 					htmlelement += "<td style=\"text-align:center\">";
 					if (outputarr[key] != "100"){
-						htmlelement += "<a href='#' onclick=\"showerrors('" +key + "');\" style=\"color:white;\">View</a>";
+						htmlelement += "<a href='#' class=\"resultview\" onclick=\"showerrors('" +key + "');\" style=\"color:white;\">View</a>";
 					}
 					else{
 						htmlelement += "-";

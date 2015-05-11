@@ -16,7 +16,7 @@
 
   var usrstore = [];
 
-  var perarray = new Array(); // percentage for each species
+  var perarray = new Array(); 
 
 
   var str = "";
@@ -42,7 +42,6 @@
    document.addEventListener("deviceready", onDeviceReady, false);
 
                 function onDeviceReady() {
-                    //alert("select quest");
                     $(".loading-icon").show();
                      extractFromObjDB();
 
@@ -93,14 +92,13 @@
                           }
                         }
                     
-                        if (dependancy != 0) // userselection already there in the same quest
+                        if (dependancy != 0) 
                           {
                             desloop(depval);
                           }
 
-                          // If the character is already selected, toggle it.
                           if (presentflag == 1) {
-                             usrstore[userval] = "0";  // deselect the character
+                             usrstore[userval] = "0";  
                            }
                           else
                           {
@@ -111,7 +109,6 @@
                               start++;
                               incrval++;
                             }
-                            // Mark the user selected character as "1"      
                             usrstore[userval] = "1";  
                           }
 
@@ -180,7 +177,6 @@
 
                           var temp_var = parseInt(new_arr1[0]["Index_Car"]) + parseInt(new_arr1[0]["Nb_Car"]);
 
-                          //alert(temp_var+" temp");
                           for (var l = new_arr1[0]["Index_Car"]; l <=  (temp_var)  - 1; l++)
                             {
                               usrstore[l]  = 0;

@@ -126,7 +126,7 @@ document.addEventListener("deviceready", onDeviceReady, false);
 						{
 							if (usrstore[j] == "1")
 							{
-								key = arraySearch(char_val, j); // find the character name, whose index is 1
+								key = arraySearch(char_val, j); 
 
 								for (var m = 0; m < Object.keys(flore_full).length; m++) {
 									

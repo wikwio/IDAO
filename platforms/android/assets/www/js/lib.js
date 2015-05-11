@@ -6,15 +6,54 @@ function showhelp()
 	$('.tt').hide();
 	$('#backbutton').show();
 	$.get("help.html", function(data) {
-         $('.showhelp').html(data).show();
+         $('.showhelp').html(data);
+         var lan = 'fr';
+         $(".languagecheck").each(function(){         		
+         		var that = $(this);
+         		if(that.hasClass('ui-btn-active')){
+         			lan = that.attr('rel');	
+         		}
+         });
+          $('.showhelp').find('.hiding').hide();
+         $('.showhelp').find('.lang_'+lan).show();
+         $('.showhelp').show();
     });
  }
+
+ function showabout()
+{
+
+	menuCheck();
+	$('.tt').hide();
+	$('#backbutton').show();
+
+	$.get("about.html", function(data) {
+         $('.showabout').html(data);
+
+
+         var lan = 'fr';
+         $(".languagecheck").each(function(){         		
+         		var that = $(this);
+         		if(that.hasClass('ui-btn-active')){
+         			lan = that.attr('rel');	
+         		}
+         });
+          $('.showabout').find('.hiding').hide();
+         $('.showabout').find('.lang_'+lan).show();
+         $('.showabout').show();
+
+    });
+
+
+}
+
 
 
 function showhome()
 {
 	
 	menuCheck();
+	$('.lang_wrap').show();
 	$('.SearchWrapper').empty();
 
 	var appstrval =  localStorage.getItem('appstrvalue'); 
@@ -46,6 +85,7 @@ function showhome()
 
 function shownewhome(){
 	menuCheck();
+	$('.lang_wrap').show();
 	$('.canvasdiv').show();
 	$('.tt').hide();
 	$('#backbutton').hide();
@@ -84,19 +124,6 @@ function shownewhome(){
 }
 		
 
-function showabout()
-{
-
-	menuCheck();
-	$('.tt').hide();
-	$('#backbutton').show();
-
-	$.get("about.html", function(data) {
-         $('.showabout').html(data).show();
-    });
-
-
-}
 
 function shownext()
 {
@@ -120,6 +147,8 @@ function showspecies()
 
 function menuCheck(){
 
+	$('.lang_wrap').hide();
+	$('.lang_wraplocal').hide();
 	$('.canvasdiv').hide();
 	var hasclass = $( "#cbp-spmenu-s2" ).hasClass( "cbp-spmenu-open" ) ;
 	if(hasclass == true){
@@ -172,27 +201,65 @@ function showresults()
 	$('.showResultContent').html(showLoader()).show();
 
 	$.get("results.html", function(data) {
-         $('.showresults').html(data).show();
+         $('.showresults').html(data);//.show();
+
+          var lan = 'fr';
+         $(".languagecheck").each(function(){         		
+         		var that = $(this);
+         		if(that.hasClass('ui-btn-active')){
+         			lan = that.attr('rel');	
+         		}
+         });
+
+         $('.showresults').find('.resultlistspec').html(window.i8ln[lan].nomspecies);
+         $('.showresults').find('.resultpercentage').html(window.i8ln[lan].resultpercentage);
+         $('.showresults').find('.resulterror').html(window.i8ln[lan].resulterr);
+         $('.showresults').find('.resultview').html(window.i8ln[lan].resultview);
+
+         $('.showresults').show();
     });
 }
 
 function popup(portalLink, localLink){ 
 
+
+
+
+	menuCheck();
 	$('.tt').hide();
 	$('#backbutton1').show();
 	$('.popup').html(showLoader()).show();
 
-    $(".popup").html('<iframe height="100%" width="100%" allowTransparency="true" frameborder="0" scrolling="yes"  src="'+portalLink+'" type= "text/javascript"></iframe>').show();
+	$('.lang_wraplocal').show();
+
+	var linkvar = {  "linkresult": localLink ,"linkspecies": "" }
+
+	localStorage.setItem('linkvalues', JSON.stringify(linkvar));
+
+	$.get(localLink, function(data) {
+         $(".popup").html(data).show();
+    });
+
+    //$(".popup").html('<iframe height="100%" width="100%" allowTransparency="true" frameborder="0" scrolling="yes"  src="'+portalLink+'" type= "text/javascript"></iframe>').show();
     
 	    }
 
 function speciesPopup(link){
 
+		menuCheck();
 	$('.tt').hide();
 	$('#backbutton2').show();
+	$('.lang_wraplocal').show();
+
+
+	var listvalues = localStorage.getItem('linkvalues'); 
+   	var finalvalue = JSON.parse(listvalues);
+   	finalvalue.linkspecies = link;
+    localStorage.setItem('linkvalues', JSON.stringify(finalvalue));
+
 
 	$('.speciespopup').html(showLoader()).show();
-	    $(".speciespopup").html('<iframe  height="100%" width="100%" allowTransparency="true" frameborder="0" scrolling="yes" style="overflow:hidden;width:100%;height:200%;" src="'+link+'" type= "text/javascript"></iframe>').show();
+	   // $(".speciespopup").html('<iframe  height="100%" width="100%" allowTransparency="true" frameborder="0" scrolling="yes" style="overflow:hidden;width:100%;height:200%;" src="'+link+'" type= "text/javascript"></iframe>').show();
 
 }
 
@@ -224,6 +291,7 @@ function replacechar(cname)
     localStorage.setItem('formvalues', JSON.stringify(finalvalue));
 	menuCheck();
 	$('#showRight, #cbp-spmenu-s2 ').show();
+	$('.lang_wrap').show();
 	$('.canvasdiv').show();
 	$('.SearchWrapper').empty();
 	$('.tt').hide();
@@ -276,6 +344,7 @@ function pop(stype){
 	 if(stype==1){
 	 	
 	 	$("#commonnames").show();
+	 	$(".scrollnames").hide();
 	 }
 	 else if(stype==2){
 	 
@@ -284,6 +353,7 @@ function pop(stype){
 	 else{
 	 
 	 	$("#commonspecies").show();
+	 	$(".scrollspecies").hide();
 	 }
 
 }
@@ -295,10 +365,7 @@ function capitalizeFirstLetter(string) {
 
  function markselected(cid, svgdoc) {	
 
-	//alert(cid);
-
-//alert(svgdoc);
-//alert(svgdoc.getElementById(cid));
+	
 	var bbox = svgdoc.getElementById(cid).getBBox();	
 	var node = svgdoc.getElementById("imgtick");
 	var nwidth = bbox.width;

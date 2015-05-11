@@ -13,6 +13,7 @@
      <link rel="stylesheet" type="text/css" href="css/index.css" />
      <link rel="stylesheet" type="text/css" href="css/menu.css" />
      <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css">
+
      <link rel="stylesheet" href="css/my-custom-theme.min.css">
     
     </head>
@@ -22,50 +23,34 @@
 <div data-role="page" id="one">
         <div data-role="header"  class = "headercls">
         <a href="#"  class="ui-btn-right ui-btn ui-icon-bars ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini" id="showRight" data-role="button" data-direction="reverse"  role="button"> Menu</a>
-        <a href="#one"  onclick="showhome()" class="cancelbutton ui-btn-left ui-btn ui-icon-delete ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse"  role="button" style="display:none;background-color:#A0D37B">Cancel</a>
+        <a href="#one"  onclick="showhome()" class="cancelbutton ui-btn-left ui-btn ui-icon-delete ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse"  role="button" style="display:none;background-color:#A0D37B">annuler</a>
 
-        <a href="#"  class=" nextbutton ui-btn-right ui-btn ui-icon-arrow-r ui-btn-icon-right ui-btn-inline ui-corner-all ui-mini" data-role="button" data-direction="reverse" onclick="shownext()" role="button" style="display:none;">Next</a>
-        <a href="#" id="backbutton" onclick="showhome()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >Back</a>
-        <a href="#" id="backbutton1" onclick="showresultspopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >Back</a>
-        <a href="#" id="backbutton2" onclick="showlistpopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >Back</a>
+        <a href="#"  class=" nextbutton ui-btn-right ui-btn ui-icon-arrow-r ui-btn-icon-right ui-btn-inline ui-corner-all ui-mini" data-role="button" data-direction="reverse" onclick="shownext()" role="button" style="display:none;">prochaine</a>
+
+        <div class="lang_wrap" data-role="controlgroup" data-type="horizontal"  data-mini="true" style="float:left;">
+         <a href="#"  class="languagecheck ui-btn " role="button" rel="en"   >EN</a>
+         <a href="#"  class="languagecheck ui-btn ui-btn-active" role="button" rel="fr" >FR</a>
+         </div>
+         <div class="lang_wraplocal" data-role="controlgroup" data-type="horizontal"  data-mini="true" style="float:left;display:none;margin-left:80px;">
+         <a href="#"  class="languagechecklocal langen ui-btn " role="button" rel="en"   >EN</a>
+         <a href="#"  class="languagechecklocal langfr ui-btn ui-btn-active" role="button" rel="fr" >FR</a>
+         </div>
+
+        <a href="#" id="backbutton" onclick="showhome()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >dos</a>
+        <a href="#" id="backbutton1" onclick="showresultspopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >dos</a>
+        <a href="#" id="backbutton2" onclick="showlistpopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >dos</a>
 
             <h6>WIKWIO IDAO</h6>
         </div>
 
-        <div class="canvasdiv" >
-         <canvas id="my_canvas" width="150" height="150" onclick="showresults()"  style="border:1px dashed #CCC;"></canvas>
-          </div>  
-          
-          <script>
-          var al = 0;
-          var start = 4.72;
-          function progressSim(number,value){
+      
 
-            
-           
-          var ctx = document.getElementById('my_canvas').getContext('2d');
-         
-          var cw = ctx.canvas.width;
-          var ch = ctx.canvas.height; 
-          var diff;
+          <div class="canvasdiv" style="position: absolute;" onclick="showresults()" >
+              <div class="circle" style="position: absolute;"></div>
+              <p style="position: absolute;left: 30px;top: 32px;width: 100px;z-index: 9999;color: red;"><span class="per_cou">345</span> species</p><br><p style="position: absolute;top: 55px;width: 100px;left: 40px;z-index: 9999;color: red;">at <span class="per_num">100%</span></p>
+          </div>
 
-            diff = ((al / 100) * Math.PI*2*10).toFixed(2);
-            ctx.clearRect(0, 0, cw, ch);
-            ctx.lineWidth = 10;
-            ctx.fillStyle = '#09F';
-            ctx.strokeStyle = "#09F";
-            ctx.textAlign = 'center';
-            console.log(al);
-            ctx.fillText(number+" espèces à "+value+'%', cw*.5, ch*.5+2, cw);
-            ctx.beginPath();
-            ctx.arc(75, 75, 60, start, diff/10+start, false);
-            ctx.stroke();
-            if(al >= value){
-              clearTimeout(sim);
-            }
-            al++;
-          }
-          </script>
+
         <div id="deviceready" class="blink">
                 <p class="event listening"></p>
                  <p class="event received"></p>
@@ -73,15 +58,15 @@
 
         <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="cbp-spmenu-s2">
                 <img src="img/header3.jpg"/>
-                <a href="#" class="ui-btn nav_btn" onclick="shownewhome()" >Nouvelle Identification</a>
-                <a href="#" class="ui-btn nav_btn" onclick="showquest('Port')" >Port</a>
-                <a href="#" class="ui-btn nav_btn" onclick="showquest('Phyllo')">Phyllotaxie</a>
-                <a href="#" class="ui-btn nav_btn" onclick="showquest('Prefol')" >prèfoliaison</a>
-                <a href="#" class="ui-btn nav_btn" onclick="showsearch()" >Recherche</a>
-                <a href="#" class="ui-btn nav_btn" onclick="showspecies()" >Liste des espèces</a>
-                <a href="#" class="ui-btn nav_btn" onclick="showresults()" >Résultats</a>
-                <a href="#" class="ui-btn nav_btn" onclick="showabout()" >A propos de cette version</a>
-                <a href="#" class="ui-btn nav_btn" onclick="showhelp()" >Aide</a>
+                <a href="#" class="ui-btn nav_btn newidentification" onclick="shownewhome()" >Nouvelle Identification</a>
+                <a href="#" class="ui-btn nav_btn porting" onclick="showquest('Port')" >Port</a>
+                <a href="#" class="ui-btn nav_btn phyll" onclick="showquest('Phyllo')">Phyllotaxie</a>
+                <a href="#" class="ui-btn nav_btn prefo" onclick="showquest('Prefol')" >prèfoliaison</a>
+                <a href="#" class="ui-btn nav_btn search" onclick="showsearch()" >Recherche</a>
+                <a href="#" class="ui-btn nav_btn liste" onclick="showspecies()" >Liste des espèces</a>
+                <a href="#" class="ui-btn nav_btn result" onclick="showresults()" >Résultats</a>
+                <a href="#" class="ui-btn nav_btn propo" onclick="showabout()" >A propos de cette version</a>
+                <a href="#" class="ui-btn nav_btn help" onclick="showhelp()" >Aide</a>
              
         </nav> 
      
@@ -121,9 +106,9 @@
          <div class="tt showspecies">
              <div class="buttons" data-role="controlgroup"  data-type="horizontal" data-position="fixed"  data-shadow="false">
       
-                <a href="#" class="communs" data-role="button"  class="button1"  onclick="pop(1)">Noms communs</a>
-                <a href="#" class="famille" data-role="button" class="button2" onclick="pop(2)">Noms de famille</a>
-                <a href="#" class="Noms" data-role="button" class="button3" onclick="pop(3)">Noms d'espèce</a>
+                <a href="#" class="communs button1" data-role="button"   onclick="pop(1)">Noms communs</a>
+                <a href="#" class="famille button2" data-role="button" onclick="pop(2)">Noms de famille</a>
+                <a href="#" class="Noms button3" data-role="button" onclick="pop(3)">Noms d'espèce</a>
             </div>
             <div role="main" class="ui-content showSpeciesContents "></div>
         </div>
@@ -173,7 +158,7 @@
 
 <div data-role="page" id="showPopup" data-theme="a">
     <div data-role="header" data-position="fixed">
-        <a href="#one"  onclick="showresultspopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse" role="button">Back</a>
+        <a href="#one"  onclick="showresultspopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse" role="button">dos</a>
             <h4>WIKWIO IDAO</h4>
         </div>
     <div role="main" class="ui-content showPopupContent">
@@ -183,7 +168,7 @@
 
 <div data-role="page" id="showspeciesPopup" data-theme="a">
     <div data-role="header" data-position="fixed">
-        <a href="#one"  onclick="showlistpopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse" role="button">Back</a>
+        <a href="#one"  onclick="showlistpopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse" role="button">dos</a>
             <h4>WIKWIO IDAO</h4>
         </div>
     <div role="main" class="ui-content showSpeciesPopupContent" height="100%">
@@ -192,7 +177,7 @@
 
 <div data-role="page" id="showContra" data-theme="a">
     <div data-role="header" data-position="fixed">
-        <a href="#one"  class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse" role="button">Back</a>
+        <a href="#one"  class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse" role="button">dos</a>
             <h4>WIKWIO IDAO</h4>
         </div>
     <div role="main" class="ui-content showContraContent">
@@ -211,6 +196,7 @@
 
 
 <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="js/circle-progress.js"></script>
 <script type="text/javascript" src="js/jquery.mobile-1.4.5.min.js"></script>
 
 <script type="text/javascript" src="cordova.js"></script>
@@ -222,6 +208,9 @@
 <script type="text/javascript" src="js/menuBar.js"></script>
 <script type="text/javascript" src="js/includefile.js"></script>
 <script type='application/javascript' src='js/fastclick.js'></script>
+<script type="text/javascript" src="js/translate.js"></script>
+
+
 <script type="text/javascript">
     $('.tt').hide();
 
@@ -238,6 +227,8 @@
       
         $('.buttons').css({'text-align':'center'});
         var a = window.innerHeight;
+        $(".popup ").css("height", a);
+         $(".speciespopup").css("height", a);
       
        var h;
         var style_h = '';
@@ -283,15 +274,30 @@
             var finalvalue = JSON.parse(listvalues);
             var number = finalvalue.count;
             var value = finalvalue.val;
-             var sim; 
           updateProcess(345,0);
            $(".end").html("<p>" + number + " espèces à </p>");
 
 function updateProcess(number,value1){
- 
- al=0;
-  sim = setInterval(function() { progressSim(number,value1); }, 20);
 
+ var lan = 'fr';
+         $(".languagecheck").each(function(){             
+            var that = $(this);
+            if(that.hasClass('ui-btn-active')){
+              lan = that.attr('rel'); 
+            }
+         });
+
+  $(".canvasdiv").empty();
+  $(".canvasdiv").html('<div class="circle" style="position: absolute;"></div> <p style="position: absolute;z-index: 9999;color: red;left: 40px;top: 20px;width: 100px;"><span class="per_cou" style="margin-left: 10px;">'+number+'</span> <br>'+window.i8ln[lan].species+'</p><br><p style="position: absolute;top: 65px;width: 100px;left: 50px;z-index: 9999;color: red;"> '+window.i8ln[lan].at+' <span class="per_num">'+value1+'%</span></p>');
+  
+  var val1 = value1*0.01;
+  $('.circle').circleProgress({
+        value:val1,
+        size: 140,
+        fill: {
+            gradient: ["red", "orange"]
+        }
+    });
 }
 
 
@@ -307,11 +313,11 @@ $("#homesvg g").on('touchstart' ,function(ev){
  setTimeout(function() {    
     if(longpress){
       newcheck = 1;
-     alert("long press works!");
+     //alert("long press works!");
    
      for(var j = 0; j < Object.keys(object_asc).length; j++){
             if(object_asc[j]['Objet'] == ev.target.id){
-              alert(object_asc[j]['TipText']);
+              //alert(object_asc[j]['TipText']);
               return false;
             }
      }

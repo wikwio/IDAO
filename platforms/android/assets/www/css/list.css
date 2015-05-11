@@ -31,3 +31,32 @@
 *::-webkit-input-placeholder {
     color: green;
 }
+.hiding p {
+
+	background-color: white;
+	color:black;
+	}
+
+	.hiding li {
+    font-size: 14px;
+    margin-left: 10px;
+    list-style-type: circle;
+ }
+
+ .hiding ul li {
+    font-size: 14px;
+    margin-left: 10px;
+    list-style-type: circle;
+ }
+
+.lang_wrap{
+  float: left;
+  margin-left: 3px;
+  margin-top: -3px;
+}
+
+.lang_wraplocal {
+  float: left;
+  margin-left: 3px;
+  margin-top: -3px;
+}
