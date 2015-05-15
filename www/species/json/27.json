@@ -1,0 +1,1068 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 27,
+title: "<i>Anthoxanthum odoratum </i>L. ",
+taxonConcept: {
+id: 68,
+name: "Anthoxanthum odoratum L.",
+canonicalForm: "Anthoxanthum odoratum",
+italicisedForm: "<i>Anthoxanthum odoratum </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 67,
+name: "Anthoxanthum",
+canonicalForm: "Anthoxanthum",
+italicisedForm: "<i>Anthoxanthum</i>",
+rank: "Genus"
+},
+{
+id: 68,
+name: "Anthoxanthum odoratum L.",
+canonicalForm: "Anthoxanthum odoratum",
+italicisedForm: "<i>Anthoxanthum odoratum </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 512,
+name: "Anthoxanthum alpinum Schur [Invalid]",
+canonicalForm: "Anthoxanthum alpinum",
+italicisedForm: "<i>Anthoxanthum alpinum </i>Schur<i> [Invalid]</i>",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 513,
+name: "Anthoxanthum asperum W.Mann ex Opiz [Invalid]",
+canonicalForm: "Anthoxanthum asperum",
+italicisedForm: "<i>Anthoxanthum asperum </i>W.Mann<i> ex </i>Opiz<i> [Invalid]</i>",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 514,
+name: "Anthoxanthum maderense H.Teppner",
+canonicalForm: "Anthoxanthum maderense",
+italicisedForm: "<i>Anthoxanthum maderense </i>H.Teppner ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 515,
+name: "Anthoxanthum nebrodense Lojac.",
+canonicalForm: "Anthoxanthum nebrodense",
+italicisedForm: "<i>Anthoxanthum nebrodense </i>Lojac. ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 516,
+name: "Anthoxanthum odoratum var. alpinum Uechtr.",
+canonicalForm: "Anthoxanthum odoratum alpinum",
+italicisedForm: "<i>Anthoxanthum odoratum </i>var.<i> alpinum </i>Uechtr. ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 517,
+name: "Anthoxanthum odoratum var. altissimum Eaton & Wright",
+canonicalForm: "Anthoxanthum odoratum altissimum",
+italicisedForm: "<i>Anthoxanthum odoratum </i>var.<i> altissimum </i>Eaton<i> & </i>Wright ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 518,
+name: "Anthoxanthum odoratum var. asperum (Mann ex Opiz) Opiz",
+canonicalForm: "Anthoxanthum odoratum asperum",
+italicisedForm: "<i>Anthoxanthum odoratum </i>var.<i> asperum (</i>Mann<i> ex </i>Opiz<i>) </i>Opiz ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 519,
+name: "Anthoxanthum odoratum var. corsicum (Briq.) Rouy",
+canonicalForm: "Anthoxanthum odoratum corsicum",
+italicisedForm: "<i>Anthoxanthum odoratum </i>var.<i> corsicum (</i>Briq.<i>) </i>Rouy ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 520,
+name: "Anthoxanthum odoratum var. glaberrimum Schur",
+canonicalForm: "Anthoxanthum odoratum glaberrimum",
+italicisedForm: "<i>Anthoxanthum odoratum </i>var.<i> glaberrimum </i>Schur ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 521,
+name: "Anthoxanthum odoratum var. glabrescens Celak.",
+canonicalForm: "Anthoxanthum odoratum glabrescens",
+italicisedForm: "<i>Anthoxanthum odoratum </i>var.<i> glabrescens </i>Celak. ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 522,
+name: "Anthoxanthum odoratum f. montanum (Asch. & Graebn.) A.Nyár.",
+canonicalForm: "Anthoxanthum odoratum montanum",
+italicisedForm: "<i>Anthoxanthum odoratum </i>f.<i> montanum (</i>Asch.<i> & </i>Graebn.<i>) </i>A.Nyár. ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 523,
+name: "Anthoxanthum odoratum subsp. odoratum",
+canonicalForm: "Anthoxanthum odoratum odoratum",
+italicisedForm: "<i>Anthoxanthum odoratum </i>subsp.<i> odoratum</i>",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 524,
+name: "Anthoxanthum odoratum var. pilosum Döll",
+canonicalForm: "Anthoxanthum odoratum pilosum",
+italicisedForm: "<i>Anthoxanthum odoratum </i>var.<i> pilosum </i>Döll ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 525,
+name: "Anthoxanthum odoratum var. sommierianum (Ricci) Fiori",
+canonicalForm: "Anthoxanthum odoratum sommierianum",
+italicisedForm: "<i>Anthoxanthum odoratum </i>var.<i> sommierianum (</i>Ricci<i>) </i>Fiori ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 526,
+name: "Anthoxanthum odoratum f. tenerum (Asch. & Graebn.) A.Nyár.",
+canonicalForm: "Anthoxanthum odoratum tenerum",
+italicisedForm: "<i>Anthoxanthum odoratum </i>f.<i> tenerum (</i>Asch.<i> & </i>Graebn.<i>) </i>A.Nyár. ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 527,
+name: "Anthoxanthum odoratum var. villosum Loisel.",
+canonicalForm: "Anthoxanthum odoratum villosum",
+italicisedForm: "<i>Anthoxanthum odoratum </i>var.<i> villosum </i>Loisel. ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 528,
+name: "Anthoxanthum ovatum var. montanum Asch. & Graebn.",
+canonicalForm: "Anthoxanthum ovatum montanum",
+italicisedForm: "<i>Anthoxanthum ovatum </i>var.<i> montanum </i>Asch.<i> & </i>Graebn. ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 529,
+name: "Anthoxanthum ovatum var. strictum Asch. & Graebn.",
+canonicalForm: "Anthoxanthum ovatum strictum",
+italicisedForm: "<i>Anthoxanthum ovatum </i>var.<i> strictum </i>Asch.<i> & </i>Graebn. ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 530,
+name: "Anthoxanthum ovatum var. tenerum Asch. & Graebn.",
+canonicalForm: "Anthoxanthum ovatum tenerum",
+italicisedForm: "<i>Anthoxanthum ovatum </i>var.<i> tenerum </i>Asch.<i> & </i>Graebn. ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 531,
+name: "Anthoxanthum pauciflorum Adamovic",
+canonicalForm: "Anthoxanthum pauciflorum",
+italicisedForm: "<i>Anthoxanthum pauciflorum </i>Adamovic ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 532,
+name: "Anthoxanthum pilosum Döll",
+canonicalForm: "Anthoxanthum pilosum",
+italicisedForm: "<i>Anthoxanthum pilosum </i>Döll ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 533,
+name: "Anthoxanthum sommierianum Ricci",
+canonicalForm: "Anthoxanthum sommierianum",
+italicisedForm: "<i>Anthoxanthum sommierianum </i>Ricci ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 534,
+name: "Anthoxanthum villosum Dumort.",
+canonicalForm: "Anthoxanthum villosum",
+italicisedForm: "<i>Anthoxanthum villosum </i>Dumort. ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 535,
+name: "Phalaris ciliata Pourr.",
+canonicalForm: "Phalaris ciliata",
+italicisedForm: "<i>Phalaris ciliata </i>Pourr. ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 536,
+name: "Xanthonanthos odoratus (L.) St.-Lag.",
+canonicalForm: "Xanthonanthos odoratus",
+italicisedForm: "<i>Xanthonanthos odoratus (</i>L.<i>) </i>St.-Lag. ",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 200,
+name: "Flouve odorante",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 201,
+name: "Fou à mental",
+taxonConcept: {
+id: 68
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T16:59:43Z",
+lastRevised: "2015-03-19T11:05:00Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20020724_144702_th1.jpg",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>AOXOD</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>AOXOD</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 296,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>AOXOD</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:00:29Z",
+lastUpdated: "2014-09-24T17:00:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578029027,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 295,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Anthoxanthum odoratum L.",
+dateCreated: "2014-09-24T17:00:29Z",
+lastUpdated: "2014-09-24T17:00:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578029026,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2879,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Anthoxanthum odoratum est une plante vivace se développant en touffes espacées, hautes de 30 à 60 cm. Les feuilles d'un vert clair, de 15 à 30 cm de long sont linéaires. Elles sont légèrement poilues et rugueuses au toucher. La ligule de 1 à 5 mm est membraneuse. L'inflorescence ressemble à un épi cylindrique, long de 3 à 12 cm. Les épillets mesurent 7 à 10 mm, sont pointus et plus ou moins velus. A maturité, la plante dégage une forte odeur de foin coupé (coumarine) caractéristique.</p>",
+dateCreated: "2015-03-19T11:05:00Z",
+lastUpdated: "2015-03-19T11:05:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763100123,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2872,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>AOXOD</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:04:56Z",
+lastUpdated: "2015-03-19T11:04:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763096369,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2874,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Anthoxanthum odoratum</em> est une plante vivace se d&eacute;veloppant en touffes espac&eacute;es, hautes de 30 &agrave; 60 cm. Les feuilles d&#39;un vert clair, de 15 &agrave; 30 cm de long sont lin&eacute;aires. Elles sont l&eacute;g&egrave;rement poilues et rugueuses au toucher. La ligule de 1 &agrave; 5 mm est membraneuse. L&#39;inflorescence ressemble &agrave; un &eacute;pi cylindrique, long de 3 &agrave; 12 cm. Les &eacute;pillets mesurent 7 &agrave; 10 mm, sont pointus et plus ou moins velus. A maturit&eacute;, la plante d&eacute;gage une forte odeur de foin coup&eacute; (coumarine) caract&eacute;ristique.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Les premi&egrave;res feuilles sont alternes &agrave; pr&eacute;foliaison enroul&eacute;e. La gaine est glabre, elle pr&eacute;sente seulement au niveau de la ligule une s&eacute;rie de poils presque en moustache. La ligule, membraneuse, mesure environ 1,5 mm. Le limbe est lin&eacute;aire &agrave; lanc&eacute;ol&eacute;, portant de longs poils blancs &eacute;pars. Elles pr&eacute;sentent l&#39;odeur caract&eacute;ristique de la plante.</p> <h6> Port</h6> <p> Herbe vivace dress&eacute;e, d&#39;une hauteur de 30 &agrave; 100 cm. Cette plante se pr&eacute;sente en touffe peu dense.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Les racines sont fascicul&eacute;es et fibreuses. Elles d&eacute;gagent une odeur de foin coup&eacute;.</p> <h6> Tige</h6> <p> La tige est dress&eacute;s, cylindrique avec des noeuds glabres.</p> <h6> Feuille</h6> <p> Les feuilles sont alternes, de couleur vert clair. La gaine est cylindrique, presque glabre. La ligule est membraneuse, tronqu&eacute;e, parfois d&eacute;chir&eacute;e. Elle est haute de 1 &agrave; 5 mm. Le limbe est plat, le plus souvent lin&eacute;aire mais parfois lanc&eacute;ol&eacute;. Il mesure 5 &agrave; 30 cm de long et 2 &agrave; 9 mm de large. La face sup&eacute;rieure du limbe est couverte de poils blancs &eacute;pars, et finement stri&eacute;e par les nombreuses nervures. La face inf&eacute;rieure est mate et le plus souvent glabre. La base des feuilles est garnie de petits poils mous.</p> <h6> Inflorescence</h6> <p> L&rsquo;inflorescence est une panicule contract&eacute;e en faux &eacute;pi cylindrique, de 3 &agrave; 12 cm de long, et rarement r&eacute;duite &agrave; un rac&egrave;me simple.</p> <h6> Fleur</h6> <p> Les &eacute;pillets, longs de 7 &agrave; 10 mm, sont tous semblables, p&eacute;dicell&eacute;s, oblongs &agrave; &eacute;troitement lanc&eacute;ol&eacute;s, l&eacute;g&egrave;rement comprim&eacute;s lat&eacute;ralement et bri&egrave;vement arist&eacute;s. La glume inf&eacute;rieure est longue de la moiti&eacute; de l&#39;&eacute;pillet et uninerv&eacute;e, la glume sup&eacute;rieure est aussi longue que l&#39;&eacute;pillet et trinerv&eacute;e. Elles sont car&eacute;n&eacute;es, aigu&euml;s au sommet mais ne pr&eacute;sentent pas d&#39;ar&ecirc;tes. Il y a 3 fleurs mais une seule est fertile. Les 2 glumelles st&eacute;riles sont poilues, oblongues, pli&eacute;es. La premi&egrave;re lemma porte une ar&ecirc;te droite, longue de 2 &agrave; 3 mm, ins&eacute;r&eacute;e au-dessus du milieu. La seconde lemma porte une ar&ecirc;te genouill&eacute;e, longue de 2 &agrave; 4 mm, ins&eacute;r&eacute;e au-dessous du milieu. Trois &eacute;tamines sont ins&eacute;r&eacute;es dans chaque lemma st&eacute;rile. La lemma de la fleur fertile est glabre, &eacute;mouss&eacute;e et d&eacute;pourvue d&#39;ar&ecirc;te, g&eacute;n&eacute;ralement plus courte que celles des fleurs st&eacute;riles. Elle est &eacute;troitement oblongue &agrave; lin&eacute;aire, de 2,5 mm de long.</p> <h6> Graine</h6> <p> Le grain est oblong, l&eacute;g&egrave;rement comprim&eacute; lat&eacute;ralement, long de 2 mm. Il est libre dans les glumelles.</p> ",
+dateCreated: "2015-03-19T11:04:56Z",
+lastUpdated: "2015-05-07T08:30:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763096743,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2875,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Anthoxanthum odoratum L.",
+dateCreated: "2015-03-19T11:04:56Z",
+lastUpdated: "2015-03-19T11:04:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763096920,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2877,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>A. odoratum</em> est une Gramin&eacute;e vivace. Elle se d&eacute;veloppe en touffe &agrave; partir d&#39;une souche fibreuse.<br /> ",
+dateCreated: "2015-03-19T11:04:57Z",
+lastUpdated: "2015-05-07T08:30:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763097296,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2876,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Madagascar </strong>: <em>A. odoratum</em> est esp&egrave;ce r&eacute;cemment introduite, pr&eacute;sente sur les Hauts plateaux dans la r&eacute;gion de Fianarantsoa et dans l&#39;Ankaratra. Elle se d&eacute;veloppe en rud&eacute;rale.<br /> <strong>Maurice :</strong> Esp&egrave;ce dont la pr&eacute;sence est incertaine sur l&#39;&icirc;le.<br /> <strong>La R&eacute;union : </strong>Cette esp&egrave;ce s&#39;est naturalis&eacute;e dans les p&acirc;turages d&#39;altitude &agrave; partir de 1000 m. Elle est fr&eacute;quente dans les prairies humides de la Plaine des Cafres.<br /> <strong>Seychelles :</strong> absente.<br /> ",
+dateCreated: "2015-03-19T11:04:57Z",
+lastUpdated: "2015-05-07T08:30:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763097169,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2878,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Madagascar :</strong> <em>A. odoratum</em> est esp&egrave;ce rud&eacute;rale d&#39;altitude, tr&egrave;s peu pr&eacute;sente dans les cultures.<br /> <strong>La R&eacute;union </strong>: <em>A. odoratum </em>n&rsquo;est pas une adventice tr&egrave;s r&eacute;pandue sur l&#39;ensemble de l&#39;&icirc;le. Elle est surtout pr&eacute;sente dans les prairies d&#39;altitude dans lesquelles sont taux de recouvrement moyen est de 15 &agrave; 30 %.<br /> <strong>Seychelles </strong>: absente.</p> ",
+dateCreated: "2015-03-19T11:04:57Z",
+lastUpdated: "2015-05-07T08:31:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763097423,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2873,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:56Z",
+lastUpdated: "2015-03-30T08:47:19Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763096496,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 525,
+url: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20020724_144702.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20020724_144702_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:46Z",
+rating: 0
+},
+{
+id: 526,
+url: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20080609_101234_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20080609_101234_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:46Z",
+rating: 0
+},
+{
+id: 527,
+url: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20080609_101234_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20080609_101234_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:46Z",
+rating: 0
+},
+{
+id: 528,
+url: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20080609_101234.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20080609_101234_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:46Z",
+rating: 0
+},
+{
+id: 529,
+url: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20080609_101234_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20080609_101234_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:46Z",
+rating: 0
+},
+{
+id: 530,
+url: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20080609_101234_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20080609_101234_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:46Z",
+rating: 0
+},
+{
+id: 531,
+url: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20080609_101234_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Anthoxanthum odoratum/aoxod_20080609_101234_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:46Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

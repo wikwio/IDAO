@@ -1,0 +1,3761 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 96,
+title: "<i>Cyperus esculentus </i>L. ",
+taxonConcept: {
+id: 216,
+name: "Cyperus esculentus L.",
+canonicalForm: "Cyperus esculentus",
+italicisedForm: "<i>Cyperus esculentus </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 10,
+name: "Cyperaceae",
+canonicalForm: "Cyperaceae",
+italicisedForm: "<i>Cyperaceae</i>",
+rank: "Family"
+},
+{
+id: 213,
+name: "Cyperus",
+canonicalForm: "Cyperus",
+italicisedForm: "<i>Cyperus</i>",
+rank: "Genus"
+},
+{
+id: 216,
+name: "Cyperus esculentus L.",
+canonicalForm: "Cyperus esculentus",
+italicisedForm: "<i>Cyperus esculentus </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 2123,
+name: "Chlorocyperus aureus (K.Richt.) Palla ex Kneuck.",
+canonicalForm: "Chlorocyperus aureus",
+italicisedForm: "<i>Chlorocyperus aureus (</i>K.Richt.<i>) </i>Palla<i> ex </i>Kneuck. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2124,
+name: "Chlorocyperus phymatodes (Muhl.) Palla",
+canonicalForm: "Chlorocyperus phymatodes",
+italicisedForm: "<i>Chlorocyperus phymatodes (</i>Muhl.<i>) </i>Palla ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2125,
+name: "Cyperus aureus Ten. [Illegitimate]",
+canonicalForm: "Cyperus aureus",
+italicisedForm: "<i>Cyperus aureus </i>Ten.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2126,
+name: "Cyperus bahiensis Steud.",
+canonicalForm: "Cyperus bahiensis",
+italicisedForm: "<i>Cyperus bahiensis </i>Steud. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2127,
+name: "Cyperus buchananii Boeckeler",
+canonicalForm: "Cyperus buchananii",
+italicisedForm: "<i>Cyperus buchananii </i>Boeckeler ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2128,
+name: "Cyperus callistus Ridl.",
+canonicalForm: "Cyperus callistus",
+italicisedForm: "<i>Cyperus callistus </i>Ridl. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2129,
+name: "Cyperus chrysostachys Boeckeler",
+canonicalForm: "Cyperus chrysostachys",
+italicisedForm: "<i>Cyperus chrysostachys </i>Boeckeler ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2130,
+name: "Cyperus cubensis Steud.",
+canonicalForm: "Cyperus cubensis",
+italicisedForm: "<i>Cyperus cubensis </i>Steud. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2131,
+name: "Cyperus damiettensis A.Dietr.",
+canonicalForm: "Cyperus damiettensis",
+italicisedForm: "<i>Cyperus damiettensis </i>A.Dietr. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2132,
+name: "Cyperus esculentus var. angustispicatus Britton",
+canonicalForm: "Cyperus esculentus angustispicatus",
+italicisedForm: "<i>Cyperus esculentus </i>var.<i> angustispicatus </i>Britton ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2133,
+name: "Cyperus esculentus subsp. aureus K.Richt.",
+canonicalForm: "Cyperus esculentus aureus",
+italicisedForm: "<i>Cyperus esculentus </i>subsp.<i> aureus </i>K.Richt. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2134,
+name: "Cyperus esculentus var. cyclolepis Boeckeler ex Kük.",
+canonicalForm: "Cyperus esculentus cyclolepis",
+italicisedForm: "<i>Cyperus esculentus </i>var.<i> cyclolepis </i>Boeckeler<i> ex </i>Kük. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2135,
+name: "Cyperus esculentus var. esculentus",
+canonicalForm: "Cyperus esculentus esculentus",
+italicisedForm: "<i>Cyperus esculentus </i>var.<i> esculentus</i>",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2136,
+name: "Cyperus esculentus f. evolutus C.B.Clarke",
+canonicalForm: "Cyperus esculentus evolutus",
+italicisedForm: "<i>Cyperus esculentus </i>f.<i> evolutus </i>C.B.Clarke ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2137,
+name: "Cyperus esculentus var. heermannii (Buckley) Britton",
+canonicalForm: "Cyperus esculentus heermannii",
+italicisedForm: "<i>Cyperus esculentus </i>var.<i> heermannii (</i>Buckley<i>) </i>Britton ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2138,
+name: "Cyperus esculentus var. helodes (Schrad. ex Nees) C.B.Clarke",
+canonicalForm: "Cyperus esculentus helodes",
+italicisedForm: "<i>Cyperus esculentus </i>var.<i> helodes (</i>Schrad.<i> ex </i>Nees<i>) </i>C.B.Clarke ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2139,
+name: "Cyperus esculentus var. leptostachyus Boeckeler",
+canonicalForm: "Cyperus esculentus leptostachyus",
+italicisedForm: "<i>Cyperus esculentus </i>var.<i> leptostachyus </i>Boeckeler ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2140,
+name: "Cyperus esculentus var. lutescens (Torr. & Hook.) Kük. ex Osten",
+canonicalForm: "Cyperus esculentus lutescens",
+italicisedForm: "<i>Cyperus esculentus </i>var.<i> lutescens (</i>Torr.<i> & </i>Hook.<i>) </i>Kük.<i> ex </i>Osten ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2141,
+name: "Cyperus esculentus var. macrostachyus Boeckeler",
+canonicalForm: "Cyperus esculentus macrostachyus",
+italicisedForm: "<i>Cyperus esculentus </i>var.<i> macrostachyus </i>Boeckeler ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2142,
+name: "Cyperus esculentus var. phymatodes (Muhl.) Kük.",
+canonicalForm: "Cyperus esculentus phymatodes",
+italicisedForm: "<i>Cyperus esculentus </i>var.<i> phymatodes (</i>Muhl.<i>) </i>Kük. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2143,
+name: "Cyperus esculentus f. princeps C.B.Clarke",
+canonicalForm: "Cyperus esculentus princeps",
+italicisedForm: "<i>Cyperus esculentus </i>f.<i> princeps </i>C.B.Clarke ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2144,
+name: "Cyperus esculentus var. sativus Boeckeler",
+canonicalForm: "Cyperus esculentus sativus",
+italicisedForm: "<i>Cyperus esculentus </i>var.<i> sativus </i>Boeckeler ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2145,
+name: "Cyperus esculentus var. sprucei C.B.Clarke",
+canonicalForm: "Cyperus esculentus sprucei",
+italicisedForm: "<i>Cyperus esculentus </i>var.<i> sprucei </i>C.B.Clarke ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2146,
+name: "Cyperus fulvescens Liebm.",
+canonicalForm: "Cyperus fulvescens",
+italicisedForm: "<i>Cyperus fulvescens </i>Liebm. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2147,
+name: "Cyperus gracilescens Schult.",
+canonicalForm: "Cyperus gracilescens",
+italicisedForm: "<i>Cyperus gracilescens </i>Schult. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2148,
+name: "Cyperus gracilis Link [Illegitimate]",
+canonicalForm: "Cyperus gracilis",
+italicisedForm: "<i>Cyperus gracilis </i>Link<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2149,
+name: "Cyperus heermannii Buckley",
+canonicalForm: "Cyperus heermannii",
+italicisedForm: "<i>Cyperus heermannii </i>Buckley ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2150,
+name: "Cyperus helodes Schrad. ex Nees",
+canonicalForm: "Cyperus helodes",
+italicisedForm: "<i>Cyperus helodes </i>Schrad.<i> ex </i>Nees ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2151,
+name: "Cyperus hydra Kunth [Illegitimate]",
+canonicalForm: "Cyperus hydra",
+italicisedForm: "<i>Cyperus hydra </i>Kunth<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2152,
+name: "Cyperus lutescens Torr. & Hook.",
+canonicalForm: "Cyperus lutescens",
+italicisedForm: "<i>Cyperus lutescens </i>Torr.<i> & </i>Hook. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2153,
+name: "Cyperus melanorhizus Delile",
+canonicalForm: "Cyperus melanorhizus",
+italicisedForm: "<i>Cyperus melanorhizus </i>Delile ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2154,
+name: "Cyperus nervosus Bertol.",
+canonicalForm: "Cyperus nervosus",
+italicisedForm: "<i>Cyperus nervosus </i>Bertol. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2155,
+name: "Cyperus officinalis T.Nees",
+canonicalForm: "Cyperus officinalis",
+italicisedForm: "<i>Cyperus officinalis </i>T.Nees ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2156,
+name: "Cyperus pallidus Savi [Illegitimate]",
+canonicalForm: "Cyperus pallidus",
+italicisedForm: "<i>Cyperus pallidus </i>Savi<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2157,
+name: "Cyperus phymatodes Muhl.",
+canonicalForm: "Cyperus phymatodes",
+italicisedForm: "<i>Cyperus phymatodes </i>Muhl. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2158,
+name: "Cyperus phymatodes var. heermannii (Buckley) S.Watson",
+canonicalForm: "Cyperus phymatodes heermannii",
+italicisedForm: "<i>Cyperus phymatodes </i>var.<i> heermannii (</i>Buckley<i>) </i>S.Watson ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2159,
+name: "Cyperus repens Elliott",
+canonicalForm: "Cyperus repens",
+italicisedForm: "<i>Cyperus repens </i>Elliott ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2160,
+name: "Cyperus ruficomus Buckley",
+canonicalForm: "Cyperus ruficomus",
+italicisedForm: "<i>Cyperus ruficomus </i>Buckley ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2161,
+name: "Cyperus sieberianus Link",
+canonicalForm: "Cyperus sieberianus",
+italicisedForm: "<i>Cyperus sieberianus </i>Link ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2162,
+name: "Cyperus tenoreanus Schult.",
+canonicalForm: "Cyperus tenoreanus",
+italicisedForm: "<i>Cyperus tenoreanus </i>Schult. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2163,
+name: "Cyperus tenorei C.Presl",
+canonicalForm: "Cyperus tenorei",
+italicisedForm: "<i>Cyperus tenorei </i>C.Presl ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2164,
+name: "Cyperus tenorianus Roem. & Schult.",
+canonicalForm: "Cyperus tenorianus",
+italicisedForm: "<i>Cyperus tenorianus </i>Roem.<i> & </i>Schult. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2165,
+name: "Cyperus tuberosus Pursh [Illegitimate]",
+canonicalForm: "Cyperus tuberosus",
+italicisedForm: "<i>Cyperus tuberosus </i>Pursh<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2166,
+name: "Cyperus variabilis Salzm. ex Steud.",
+canonicalForm: "Cyperus variabilis",
+italicisedForm: "<i>Cyperus variabilis </i>Salzm.<i> ex </i>Steud. ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2167,
+name: "Pterocyperus esculentus (L.) Opiz",
+canonicalForm: "Pterocyperus esculentus",
+italicisedForm: "<i>Pterocyperus esculentus (</i>L.<i>) </i>Opiz ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2168,
+name: "Pycreus esculentus (L.) Hayek",
+canonicalForm: "Pycreus esculentus",
+italicisedForm: "<i>Pycreus esculentus (</i>L.<i>) </i>Hayek ",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 546,
+name: "Karepoka",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 550,
+name: "Tsingetsetse",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 551,
+name: "Herbe oignon",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 549,
+name: "Laiche",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 552,
+name: "Lerb zonnyon",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 553,
+name: "Makunu",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 548,
+name: "Gros zoumine",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 547,
+name: "Souchet comestible",
+taxonConcept: {
+id: 216
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:16:45Z",
+lastRevised: "2015-03-19T11:19:56Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110907_112158_th1.jpg",
+notes: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>CYPES</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>CYPES</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 785,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>CYPES</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145586,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 775,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Grasslike, up to 30 cm long and 12 mm wide, expanded, glabrous, smooth and shiny. Forms from the base of the plant.</p><h6>General Habit</h6><p>Erect sedge.</p><h6>Underground System</h6><p>With fibrous roots, stolons filiform, elongate, covered with pale brown scales, terminated by a small tuber. Two types of rhizomes are produced; short rhizomes from germinating tubers which end in basal bulbs, and long wiry rhizomes from basal bulbs which can end in tubers or basal bulbs. Rhizomes are slender, scaly; long rhizomes terminating with one tuber can occur up to 14 in. (36 cm) below the soil surface. Tubers are unevenly globose, 0.1-0.8 in. (0.3-1.9 cm) in diameter, black to brown, hard, smooth (scales shed with maturity), with buds at the apex only.</p><h6>Flower</h6><p>Spikelets arranged in spikes along rays of umbel; spikelets divaricate, strongly flattened, linear, tip acute to round; 0.2-1.2 in. (5-30 mm) long, 0.1 in. (1.5-3 mm) wide; numerous; straw-colored to gold-brown; several to approximately 40 florets per spikelet. Florets perfect. Glumes of 2.0-2.5 mm long, ovates-elliptics, apex obtuse. Flowering period from April to September.</p><h6>Fruit</h6><p>Achenes light brown to greyish, obovoid, triangular in cross-section (trigonous); about 1-1.5 mm long; impressed-puncticulate.</p><h6>Global Description</h6><p>A perennial sedge, 30 to 80 cm high , triangular stems, underground along with fibrous roots are many slender rhizomes which form a tuber at each end.</p><h6>Inflorescence</h6><p>A compound or simple umbel, bracteate, bracts three to five, similar to leaves, as long or longer than the umbel.</p><h6>Stem</h6><p>Erect, unbranched, and 3-sided and triangular in cross section.</p>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145566,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 789,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Cyperus esculentus L.",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145592,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 787,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Erect perennial sedge, propagated by seeds.<br>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145589,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 776,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Moist depressions of upland prairies, pond margins, stream edges, pastures, old fields, roadsides, railroads, moist open areas. Disturbed moist areas are preferred. Growing in flat, wet, slightly acidic, sandy, well-drained soils.<br>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145567,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 778,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Widely distributed in India, Indochina, Madagascar, the Mediterranean and South Europa.</p><h6>Origin</h6><p>Native to both North America and South America, as well as Eurasia and Africa.</p>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145570,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 790,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>Tubers and roots being interconnected to each other to a depth of 50 cm (19.68 inch) or more. The tubers are connected by fragile roots that are extremely prone to snapping when pulled on, so it is extremely difficult to remove C. esculentus with its entire root system intact. The plant will regenerate completely if even a single tuber is left in place. Tubers typically survive up to ~ 3-4 years.</p><h6>Local Weediness</h6><p>Kenya: Frequent and usually abundant. Tanzania: Frequent and usually abundant. Uganda:Frequent and usually abundant.</p>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145593,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 784,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>With C. rotundus, C. esculentus and, propably, some other species 2,4-D or MCPA at relatively high rates give some degree of control. The tops of young plants are killed and regrowth may be delayed but the tubers themselves are little affected. In newly planted sugar cane this degree of control may delay weed growth long enough for the crop to establish and shade out the later emerging shoots. In most other crop the effects of such treatment are not sufficiently long lasting. Among other leaf-absorbed chemicals, glyphosphate at higher rates (preferably as a split application of 2 kg/ha fallowed by another 1 kg/ha on any regrowth that appears) gives effective control and also can be used as a pre-planting or directed treatment. Paraquat also kills the tops but must be applied repeatedly at about 4-week internals to give lasting control. Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145585,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 780,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-02-19T12:27:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.illinoiswildflowers.info/grasses/plants/yn_sedge.htm"
+},
+{
+url: "http://www.maltawildplants.com/CYPR/Cyperus_esculentus.php#DSC"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1256"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p; TAMES, R.S., GETSO, M.D.V. & VIEITEZ, E., 1973. Growth substances isolated from tubers of Cyperus esculentus var aureus. Physiology of Plants 28, 195-200; Troupin G. (1987). Flore du Rwanda, spermatophytes (Volume IV), Musée Royal de l'Afrique centrale, Tervuren, Belgique. Musée Royal de l'Afrique centrale, Tervuren, Belgique.438p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.bayercropscience.co.za/crops/maize/Maize_cyperuse.aspx"
+},
+{
+url: "http://www.ipm.ucdavis.edu/PMG/WEEDS/yellow_nutsedge.html"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145574,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 779,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-02-19T12:28:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.maltawildplants.com/CYPR/Cyperus_esculentus.php#DSC"
+},
+{
+url: "http://www.bayercropscience.co.za/crops/maize/Maize_cyperuse.aspx"
+},
+{
+url: "http://www.ipm.ucdavis.edu/PMG/WEEDS/yellow_nutsedge.html"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1256"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p; TAMES, R.S., GETSO, M.D.V. & VIEITEZ, E., 1973. Growth substances isolated from tubers of Cyperus esculentus var aureus. Physiology of Plants 28, 195-200; Troupin G. (1987). Flore du Rwanda, spermatophytes (Volume IV), Musée Royal de l'Afrique centrale, Tervuren, Belgique. Musée Royal de l'Afrique centrale, Tervuren, Belgique.438p."
+},
+{
+url: "http://www.illinoiswildflowers.info/grasses/plants/yn_sedge.htm"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145571,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 786,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-07T17:46:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://plants.jstor.org/upwta/1_1256"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p; TAMES, R.S., GETSO, M.D.V. & VIEITEZ, E., 1973. Growth substances isolated from tubers of Cyperus esculentus var aureus. Physiology of Plants 28, 195-200; Troupin G. (1987). Flore du Rwanda, spermatophytes (Volume IV), Musée Royal de l'Afrique centrale, Tervuren, Belgique. Musée Royal de l'Afrique centrale, Tervuren, Belgique.438p."
+},
+{
+url: "http://www.ipm.ucdavis.edu/PMG/WEEDS/yellow_nutsedge.html"
+},
+{
+url: "http://www.maltawildplants.com/CYPR/Cyperus_esculentus.php#DSC"
+},
+{
+url: "http://www.bayercropscience.co.za/crops/maize/Maize_cyperuse.aspx"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.illinoiswildflowers.info/grasses/plants/yn_sedge.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145586,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 782,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-07T17:46:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://plants.jstor.org/upwta/1_1256"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://plants.jstor.org/upwta/1_1256"
+},
+{
+url: "http://www.bayercropscience.co.za/crops/maize/Maize_cyperuse.aspx"
+},
+{
+url: "http://www.maltawildplants.com/CYPR/Cyperus_esculentus.php#DSC"
+},
+{
+url: "http://www.ipm.ucdavis.edu/PMG/WEEDS/yellow_nutsedge.html"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.illinoiswildflowers.info/grasses/plants/yn_sedge.htm"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p; TAMES, R.S., GETSO, M.D.V. & VIEITEZ, E., 1973. Growth substances isolated from tubers of Cyperus esculentus var aureus. Physiology of Plants 28, 195-200; Troupin G. (1987). Flore du Rwanda, spermatophytes (Volume IV), Musée Royal de l'Afrique centrale, Tervuren, Belgique. Musée Royal de l'Afrique centrale, Tervuren, Belgique.438p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145579,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 783,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-07T17:46:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.illinoiswildflowers.info/grasses/plants/yn_sedge.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.ipm.ucdavis.edu/PMG/WEEDS/yellow_nutsedge.html"
+},
+{
+url: "http://www.bayercropscience.co.za/crops/maize/Maize_cyperuse.aspx"
+},
+{
+url: "http://www.maltawildplants.com/CYPR/Cyperus_esculentus.php#DSC"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p; TAMES, R.S., GETSO, M.D.V. & VIEITEZ, E., 1973. Growth substances isolated from tubers of Cyperus esculentus var aureus. Physiology of Plants 28, 195-200; Troupin G. (1987). Flore du Rwanda, spermatophytes (Volume IV), Musée Royal de l'Afrique centrale, Tervuren, Belgique. Musée Royal de l'Afrique centrale, Tervuren, Belgique.438p."
+},
+{
+url: "http://www.bayercropscience.co.za/crops/maize/Maize_cyperuse.aspx"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://plants.jstor.org/upwta/1_1256"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145582,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 781,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-07T17:46:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://www.ipm.ucdavis.edu/PMG/WEEDS/yellow_nutsedge.html"
+},
+{
+url: "http://www.illinoiswildflowers.info/grasses/plants/yn_sedge.htm"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1256"
+},
+{
+url: "http://www.maltawildplants.com/CYPR/Cyperus_esculentus.php#DSC"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p; TAMES, R.S., GETSO, M.D.V. & VIEITEZ, E., 1973. Growth substances isolated from tubers of Cyperus esculentus var aureus. Physiology of Plants 28, 195-200; Troupin G. (1987). Flore du Rwanda, spermatophytes (Volume IV), Musée Royal de l'Afrique centrale, Tervuren, Belgique. Musée Royal de l'Afrique centrale, Tervuren, Belgique.438p."
+},
+{
+url: "http://www.bayercropscience.co.za/crops/maize/Maize_cyperuse.aspx"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145576,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 777,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-07T17:46:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.illinoiswildflowers.info/grasses/plants/yn_sedge.htm"
+},
+{
+url: "http://www.maltawildplants.com/CYPR/Cyperus_esculentus.php#DSC"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1256"
+},
+{
+url: "http://www.ipm.ucdavis.edu/PMG/WEEDS/yellow_nutsedge.html"
+},
+{
+url: "http://www.bayercropscience.co.za/crops/maize/Maize_cyperuse.aspx"
+},
+{
+url: "http://www.illinoiswildflowers.info/grasses/plants/yn_sedge.htm"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p; TAMES, R.S., GETSO, M.D.V. & VIEITEZ, E., 1973. Growth substances isolated from tubers of Cyperus esculentus var aureus. Physiology of Plants 28, 195-200; Troupin G. (1987). Flore du Rwanda, spermatophytes (Volume IV), Musée Royal de l'Afrique centrale, Tervuren, Belgique. Musée Royal de l'Afrique centrale, Tervuren, Belgique.438p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145568,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 788,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-07T17:46:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.maltawildplants.com/CYPR/Cyperus_esculentus.php#DSC"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://www.maltawildplants.com/CYPR/Cyperus_esculentus.php#DSC"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.bayercropscience.co.za/crops/maize/Maize_cyperuse.aspx"
+},
+{
+url: "http://www.ipm.ucdavis.edu/PMG/WEEDS/yellow_nutsedge.html"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p; TAMES, R.S., GETSO, M.D.V. & VIEITEZ, E., 1973. Growth substances isolated from tubers of Cyperus esculentus var aureus. Physiology of Plants 28, 195-200; Troupin G. (1987). Flore du Rwanda, spermatophytes (Volume IV), Musée Royal de l'Afrique centrale, Tervuren, Belgique. Musée Royal de l'Afrique centrale, Tervuren, Belgique.438p."
+},
+{
+url: "http://www.illinoiswildflowers.info/grasses/plants/yn_sedge.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.ipm.ucdavis.edu/PMG/WEEDS/yellow_nutsedge.html"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1256"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145590,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3658,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Cyperus esculentus est une espèce vivace qui se développe en petite touffe, à un seul axe florifère, mais reliée à de nombreux pieds-fils par des rhizomes. A la base d'un pied-mère se trouve un tubercule-mère sphérique et noir. L'inflorescence est formée d'une ombelle dont les rayons portent à leur sommet des épillets de couleur jaune doré.</p>",
+dateCreated: "2015-03-19T11:19:56Z",
+lastUpdated: "2015-03-19T11:19:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763996206,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3638,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CYPES</p><h6>Type Biologique</h6><p>cyperacée</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:19:35Z",
+lastUpdated: "2015-03-19T11:19:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763975602,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3649,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Cyperus esculentus est une espèce vivace qui se développe en petite touffe, à un seul axe florifère, mais reliée à de nombreux pieds-fils par des rhizomes. A la base d'un pied-mère se trouve un tubercule-mère sphérique et noir. L'inflorescence est formée d'une ombelle dont les rayons portent à leur sommet des épillets de couleur jaune doré.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont linéaires, au sommet en coin aigu, longues de 2 à 10 cm et larges de 4 mm. La section du limbe forme un V large. A la base du limbe se trouve une courte gaine trigone. Les feuilles sont disposées de façon tristique. La plantule peut être reliée à un pied-mère par un rhizome ou isolée. La plantule est alors issue d'un tubercule-mère sphérique et noir plus ou moins profond qui développe un axe vertical, écailleux dans sa partie souterraine, se transformant en petite touffe feuillée à la surface du sol.</p><h6>Port</h6><p>Plante à port en touffe. Cette touffe est constituée par l'emboîtement des gaines des feuilles de façon tristique. Chaque touffe ne développe qu'un seul axe florifère dressé. La plante peut mesurer 30 à 80 cm de haut. Un pied-mère est relié à des pieds-fils par des rhizomes superficiels.</p><h6>Système Souterrain</h6><p>Les racines sont fasciculées. Elles sont simples, filiformes et très nombreuses, formant un chevelu racinaire important. L'appareil souterrain de C. esculentus est caractérisé par la présence d'un tubercule-mère sphérique et noir à la base de l'axe principal mais aussi par des rhizomes horizontaux blancs, portant quelques écailles et émergeant après quelques centimètres pour donner un nouveau pied. Le pied-mère développe également des rhizomes plus profonds à l'extrémité desquels se trouve un unique tubercule sphérique de couleur blanche, légèrement écailleux. Ces tubercules mesurent jusqu'à 1 cm de diamètre. Ils ont une odeur douce et un goût sucré.</p><h6>Tige</h6><p>La tige aérienne correspond à l'axe florifère. Elle est pleine et de section triangulaire aux angles nets. Elle est large de 3 à 6 mm. Elle est totalement glabre et de couleur vert brillant.</p><h6>Feuille</h6><p>Les feuilles sont linéaires, aussi longues ou parfois plus longues que la tige. Elles sont situées dans la partie inférieure de la tige et disposées de façon tristique. La gaine est trigone. Le limbe est large de 5 à 6 mm. Il a une section en forme de V large. La marge est scabre dans la partie terminale du limbe. La face supérieure est vert clair brillant tandis que la face inférieure est plus pâle. Les deux faces sont glabres.</p><h6>Inflorescence</h6><p>Les fleurs sont assemblées en épillets plats échelonnés au sommet des rayons de l'ombelle qui constitue l'inflorescence. Cette ombelle peut être simple ou composée. Elle est sous-tendue par 3 à 5 bractées foliacées longues de 5 à 25 cm. L'ombelle comporte de nombreux rayons glabres et longs de 2 à 10 cm. Chacun porte, le long des 2 à 3 cm terminaux, 5 à 30 épillets disposés perpendiculairement à l'axe.</p><h6>Fleur</h6><p>Les épillets sont linéaires, ils mesurent 1 à 3 cm de long et 1 à 1,5 mm de large. Ils sont plats car les fleurs sont disposées de façon alterne distique le long du rachis. Un épillet comprend 8 à 14 fleurs. Les glumes sont longues de 3 mm. Dans l'épillet, le sommet d'une glume atteint le milieu de la glume précédente. Le sommet est légèrement émarginé et très courtement mucroné. La glume est marquée de 3 ou 4 fortes stries longitudinales. Elle est de couleur jaune doré à maturité avec une marge plus claire, papyracée. L'ovaire est surmonté d'un style longuement trifide, dépassant les glumes.</p><h6>Fruit</h6><p>Le fruit est un akène trigone, de forme obovoïde, légèrement aplati et aux angles arrondis. Il mesure 1,5 mm de long et 0,7 mm de large. Il est de couleur grisâtre et surmonté d'un style trifide. Le tégument est orné de petites alvéoles.</p>",
+dateCreated: "2015-03-19T11:19:39Z",
+lastUpdated: "2015-03-19T11:19:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763979015,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3651,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Cyperus esculentus L.",
+dateCreated: "2015-03-19T11:19:39Z",
+lastUpdated: "2015-03-19T11:19:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763979854,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3650,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : L'émergence des jeunes pieds de C. esculentus s'effectue tout au long de la période d'humidité du sol. Elle est favorisée par les sarclages, qui, en séparant les tubercules du pied-mère, lèvent leur dormance. La floraison est induite par les jours longs et a lieu entre juillet et octobre, 4 à 8 semaines après l'émergence. Certaines populations ne fleurissent pas, notamment les populations cultivées. Les plantes se dessèchent en début de saison sèche, en fonction de la dessiccation du sol.<br>",
+dateCreated: "2015-03-19T11:19:39Z",
+lastUpdated: "2015-03-19T11:19:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763979422,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3655,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. esculentus est une espèce vivace dont l'essentiel de la multiplication est assuré de façon végétative. D'une part, des rhizomes horizontaux situés sous la surface du sol donnent directement un nouveau pied. D'autre part, des rhizomes se dirigeant en profondeur se terminent par un tubercule plus ou moins dormant, à partir duquel se développe un nouveau pied après la saison sèche. Un pied-mère issu d'un tubercule initial peut produire 36 pieds-fils et 339 tubercules-fils en 16 semaines de végétation. C. esculentus se multiplie aussi par graines.<br>",
+dateCreated: "2015-03-19T11:19:41Z",
+lastUpdated: "2015-03-19T11:19:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763981560,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3652,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Originaire d'Asie, probablement d'Inde occidentale.</p><h6>Distribution Mondiale</h6><p>Espèce pantropicale. C. esculentus est une adventice très commune dans toutes les régions chaudes du globe. Elle commence à se développer en zone tempérée.</p>",
+dateCreated: "2015-03-19T11:19:40Z",
+lastUpdated: "2015-03-19T11:19:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763980287,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3648,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. esculentus peut être facilement confondue au stade végétatif avec C. rotundus. Un pied adulte de C. esculentus émet des rhizomes ne comprenant qu'un unique tubercule terminal, sphérique, au goût sucré, alors que C. rotundus produit des tubercules ellipsoïdaux aux parois fibreuses de couleur foncée et disposés en chapelets le long de rhizomes ramifiés. De plus, les tubercules de C. rotundus ainsi que la base de la plante dégagent une forte odeur poivrée. L'inflorescence de C. esculentus est formée d'une ombelle dont les rayons portent à leur sommet des épillets de couleur jaune doré disposés perpendiculairement au rachis.<br>",
+dateCreated: "2015-03-19T11:19:38Z",
+lastUpdated: "2015-03-19T11:19:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763978582,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3654,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : C. esculentus se rencontre sur tous les sols ayant un pH situé entre 5 et 7. Cette espèce est généralement plus abondante sur les sols alluviaux limono-sableux en bordure de fleuve. Elle est très tolérante à une forte humidité du sol. Elle est souvent associée à C. rotundus mais, dans les stations les plus humides, elle a tendance à remplacer C. rotundus et Cynodon dactylon. Elle tolère l'ombrage des cultures. Comores : Plante rudérale qui se rencontre surtout dans les régions exposés au soleil, à basse et à moyenne altitude. Madagascar : Espèce assez commune des cultures sèches, qui s’installe dans les parcelles à sol relativement riche et assez humide, en bas de pente ou dans les plaines alluviales. Maurice : Mauvaise herbe des cultures, on la trouve surtout dans les stations humides et fraiches. La Réunion : espèce peu fréquente mais répartie sur l'ensemble du pourtour de l'île et pouvant monter jusqu'à 1000 m d'altitude Seychelles : Cette espèce est observée en cultures fortement irriguées, dans les champs humides et les sols lourds. Elle tolère les sols très humides mais pousse très bien sur tous les types de sols.<br>",
+dateCreated: "2015-03-19T11:19:41Z",
+lastUpdated: "2015-03-19T11:19:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763981126,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3653,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Originaire d'Asie, probablement d'Inde occidentale.</p><h6>Distribution Mondiale</h6><p>Espèce pantropicale. C. esculentus est une adventice très commune dans toutes les régions chaudes du globe. Elle commence à se développer en zone tempérée.</p>",
+dateCreated: "2015-03-19T11:19:40Z",
+lastUpdated: "2015-03-19T11:19:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763980694,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3656,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Globale</h6><p>Les graines de C. esculentus germant dans les premiers centimètres du sol et les tubercules émergeant dans les 20 premiers centimètres, cette espèce est favorisée par les opérations culturales superficielles. Elle est insensible aux herbicides de pré-levée et peu sensible aux herbicides de post-levée de contact ou systémiques. Du fait de sa capacité de multiplication végétative tout au long de la période de végétation, cette espèce devient très vite envahissante.</p><h6>Nuisibilité Locale</h6><p>Nord-Cameroun : C. esculentus est une adventice majeure locale. Comores : Adventice présente dans les plantations de bananier, de manioc et de canne à sucre. Madagascar : Adventice à fréquence faible, mais parfois localement abondante sous forme de petites taches plus ou moins étendues, surtout dans les cultures de maïs ou de haricot. Maurice : Adventice importante des cultures, pouvant avoir une nuisibilité forte. Nouvelle Calédonie : L'espèce est signalée depuis les années 1850 et constitue l'adventice principale en maraîchage. Elle est dotée d'une remarquable plasticité. Cependant les facteurs environnementaux conditionnent son développement, l'humidité lui est ainsi indispensable tant pour sa reproduction que pour sa croissance. Dans certaines conditions, elle peut donc devenir aussi une espèce envahissante des cultures fourragères dégradées ou lors du semis. Mais elle ne tolère pas la compétition pour la lumière par les autres plantes et tend à disparaître lorsque la végétation se développe. Les tubercules restent dormants dans le sol jusqu'au prochain travail du sol. La Réunion : Adventice peu fréquente, que l'on rencontre ponctuellement en arboriculture, canne à sucre et surtout maraîchage car elle est favorisée par le travail du sol au rotovator. Son développement en tache par multiplication des tubercules, entraine dans certaines situations des recouvrement de 30 à 50 % de la parcelle. Seychelles : Adventice sérieuse ou principale des cultures fruitières, légumières et de tubercules. Bénin : fréquente et généralement abondante. Burkina Faso : fréquente et peu abondante. Côte d'Ivoire : fréquente et peu abondante. Ghana : fréquente et généralement abondante. Mali : rare mais abondante quand elle est présente. Nigeria : fréquente et généralement abondante. Sénégal : rare mais abondante quand elle est présente. Ouganda : fréquente et généralement abondante. Tanzanie : fréquente et généralement abondante. Tchad : fréquente et généralement abondante.</p>",
+dateCreated: "2015-03-19T11:19:41Z",
+lastUpdated: "2015-03-19T11:19:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763981993,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3659,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Usages</h6><p>Nord-Cameroun : C. esculentus est cultivée pour ses tubercules, utilisés en alimentation humaine.</p>",
+dateCreated: "2015-03-19T11:19:56Z",
+lastUpdated: "2015-03-19T11:19:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763996565,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3657,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Conseils de gestion des cypéracées vivaces en riz irrigué : http://portal.wikwio.org/document/show/29</p><h6>Lutte Locale</h6><p>Madagascar : Le travail du sol ou l’arrachage (très laborieux) fragmentent les chaînettes de bulbilles, libérant les pieds-fils de la dominance du pied-mère, contribuant ainsi à leur multiplication rapide. Tolérants à la plupart des herbicides de pré-levée. Sensibles au 2,4-D et au glyphosate, mais dans des conditions d’application difficiles sur des cultures. Il est préférable de contrôler ces adventices (glyphosate à 2160 g/ha) en fin de saison de culture, pour préparer l’année suivante. En revanche, ces cypéracées supportent mal l’ombrage. Une bonne couverture végétale qui retarde (mais n’arrête pas) leur émergence et un semis dense d’une culture qui couvre rapidement le sol permettent de bien les contrôler.</p>",
+dateCreated: "2015-03-19T11:19:42Z",
+lastUpdated: "2015-03-19T11:19:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763982511,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3646,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:19:37Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763977982,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3640,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:19:37Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763977981,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3641,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:19:37Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763977981,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3642,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:19:37Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763977981,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3643,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:19:37Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763977981,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3644,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:19:37Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.issg.org/database/species/ecology.asp?si=1448&fr=1&sts=sss&lang=FR"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763977982,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3645,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:19:37Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763977982,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3647,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:19:37Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=oswald/species/c/cypro/cypro_en.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763977982,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3639,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:19:37Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Blanfort V., Desmoulins F., Prosperi J., Le Bourgeois T., Guiglion R. & Grard P. 2010. AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. IAC, Cirad, Montpellier, France, Cédérom. http://idao.cirad.fr/applications."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763977980,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 1924,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110907_112158.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110907_112158_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:08Z",
+rating: 0
+},
+{
+id: 1925,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_180035.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_180035_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:08Z",
+rating: 0
+},
+{
+id: 1926,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110914_113234.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110914_113234_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:08Z",
+rating: 0
+},
+{
+id: 1927,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110914_113350.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110914_113350_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:08Z",
+rating: 0
+},
+{
+id: 1928,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110914_113320.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110914_113320_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:08Z",
+rating: 0
+},
+{
+id: 1929,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20101207_102809.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20101207_102809_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:08Z",
+rating: 0
+},
+{
+id: 1930,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060909_1603140.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060909_1603140_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:08Z",
+rating: 0
+},
+{
+id: 1931,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060921_0605500.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060921_0605500_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:08Z",
+rating: 0
+},
+{
+id: 1932,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060909_1532580.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060909_1532580_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:08Z",
+rating: 0
+},
+{
+id: 1933,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060916_1456030.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060916_1456030_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:08Z",
+rating: 0
+},
+{
+id: 1934,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060909_1619520.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060909_1619520_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:08Z",
+rating: 0
+},
+{
+id: 1935,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060909_1619380.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060909_1619380_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:08Z",
+rating: 0
+},
+{
+id: 1936,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060921_0605330.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060921_0605330_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1937,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060909_1531430.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20060909_1531430_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1938,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110907_112210.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110907_112210_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1939,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120528_140442.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120528_140442_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1940,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120528_140448.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120528_140448_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1941,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120528_140512.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120528_140512_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1942,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120528_140432.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120528_140432_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1943,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120528_140436.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120528_140436_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1944,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120709_230611.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120709_230611_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1945,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20020523_105000.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20020523_105000_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1946,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20080609_1012080.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20080609_1012080_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1947,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120620_102550.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120620_102550_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1948,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120620_102218.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120620_102218_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1949,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110911_141953.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110911_141953_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:09Z",
+rating: 0
+},
+{
+id: 1950,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110911_141949.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110911_141949_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1951,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20111012_114014.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20111012_114014_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1952,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20080519_1002000.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20080519_1002000_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1953,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20080519_1002250.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20080519_1002250_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1954,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20080519_1002090.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20080519_1002090_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1955,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20111012_114054.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20111012_114054_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1956,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_142002.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_142002_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1957,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_141920.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_141920_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1958,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_141930.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_141930_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1959,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_141956.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_141956_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1960,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_141916.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_141916_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1961,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_141928.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_141928_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1962,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_141902.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_141902_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1963,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_142006.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120529_142006_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:10Z",
+rating: 0
+},
+{
+id: 1964,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_180125.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_180125_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:11Z",
+rating: 0
+},
+{
+id: 1965,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_140544.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_140544_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:11Z",
+rating: 0
+},
+{
+id: 1966,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_180204.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_180204_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:11Z",
+rating: 0
+},
+{
+id: 1967,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_170023.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_170023_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:11Z",
+rating: 0
+},
+{
+id: 1968,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110907_112216.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110907_112216_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:11Z",
+rating: 0
+},
+{
+id: 1969,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110711_1109210.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110711_1109210_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:11Z",
+rating: 0
+},
+{
+id: 1970,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_165908.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_165908_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:11Z",
+rating: 0
+},
+{
+id: 1971,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120504_114423.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20120504_114423_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:11Z",
+rating: 0
+},
+{
+id: 1972,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20101201_162344.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20101201_162344_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:11Z",
+rating: 0
+},
+{
+id: 1973,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110907_112144.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110907_112144_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:11Z",
+rating: 0
+},
+{
+id: 1974,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_165844.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20090218_165844_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:11Z",
+rating: 0
+},
+{
+id: 1975,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110911_141936.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110911_141936_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:11Z",
+rating: 0
+},
+{
+id: 1976,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20111012_114031.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20111012_114031_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:11Z",
+rating: 0
+},
+{
+id: 1977,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110911_142007.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus esculentus/cypes_20110911_142007_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:17:12Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

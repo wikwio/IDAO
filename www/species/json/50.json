@@ -1,0 +1,1801 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 50,
+title: "<i>Cardiospermum microcarpum </i>Kunth ",
+taxonConcept: {
+id: 126,
+name: "Cardiospermum microcarpum Kunth",
+canonicalForm: "Cardiospermum microcarpum",
+italicisedForm: "<i>Cardiospermum microcarpum </i>Kunth ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 124,
+name: "Sapindaceae",
+canonicalForm: "Sapindaceae",
+italicisedForm: "<i>Sapindaceae</i>",
+rank: "Family"
+},
+{
+id: 125,
+name: "Cardiospermum",
+canonicalForm: "Cardiospermum",
+italicisedForm: "<i>Cardiospermum</i>",
+rank: "Genus"
+},
+{
+id: 126,
+name: "Cardiospermum microcarpum Kunth",
+canonicalForm: "Cardiospermum microcarpum",
+italicisedForm: "<i>Cardiospermum microcarpum </i>Kunth ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 1316,
+name: "Cardiospermum halicacabum var. microcarpum (Kunth) Blume",
+canonicalForm: "Cardiospermum halicacabum microcarpum",
+italicisedForm: "<i>Cardiospermum halicacabum </i>var.<i> microcarpum (</i>Kunth<i>) </i>Blume ",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1317,
+name: "Cardiospermum microspermum E.Mey.",
+canonicalForm: "Cardiospermum microspermum",
+italicisedForm: "<i>Cardiospermum microspermum </i>E.Mey. ",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 298,
+name: "Masontsokina",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 299,
+name: "Liane pocpoc",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 300,
+name: "Ikhambi leziduli",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 482,
+name: "Zulu"
+}
+},
+{
+id: 301,
+name: "Blaasklimop",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 302,
+name: "Lesser ballon",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 303,
+name: "Pokepoke",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 304,
+name: "Liane pocpoc",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 305,
+name: "Vahintsokina",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 306,
+name: "Pois de merveille",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 307,
+name: "Quinquenge",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 308,
+name: "Mbaba unandzo",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 309,
+name: "Poc poc",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 310,
+name: "Quinquange",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 311,
+name: "Balloon vine",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 312,
+name: "Uzipho",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 313,
+name: "Kalisso",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 314,
+name: "Bonnet de prêtre",
+taxonConcept: {
+id: 126
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:04:02Z",
+lastRevised: "2015-03-19T11:09:11Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_07_th1.jpg",
+notes: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>CRIMI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>CRIMI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 454,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>CRIMI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2014-09-24T17:04:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278249,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 451,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>First Leaves</h6><p>Opposite, eventually becoming alternate, stalked, composed trifoliate. The leaflets lateral sessile toothed at the summit, the terminal leaflet is trefoil and finely toothed at the apex of each lobe. Faces are smooth.</p><h6>Leaf</h6><p>Leaves alternate, trifoliate and oval shaped, 7 to 12 cm. Long petiolate, margin is toothed. The apex is elongated, acute and rounded base.The upper surface is finely pubescent, lower surface is almost glabrous. Glaucous green color, light green underneath.</p><h6>General Habit</h6><p>A climber or creeper weed.</p><h6>Underground System</h6><p>It has a tap root.</p><h6>Flower</h6><p>Small white flowers, 4 mm in diameter, carried by a short pedicel, 4 mm. Internal parts of the flowers are golden yellow. Flowering throughout the year.</p><h6>Fruit</h6><p>The fruit is a small capsule blistered parchment pointed at the pedicel three sides. The fruit capsule is light green to pink and tan when matured.</p><h6>Seed</h6><p>There are three round seeds in a capsule, 4 mm, bearing a small white spot roped.</p><h6>Global Description</h6><p>C. microcarpum is a vine climbing, slender, woody at the base and herbaceous. The stem is thin, cylindrical, ridged and long internodes. It can grow up to 5 m height. The leaves are triangular shaped, alternate along the stem. Carried by a long stalk, they are composed of three leaflets, deeply indented on board.</p><h6>Inflorescence</h6><p>Flowers are grouped in corymbs, top stalk is a hail of 5 to 10 cm, inserted in the axils of the leaves. Each high bush is subtended by two bracts filiform, transformed into tendrils. Tendrils, rays and pedicels are under pinned by very small bracteoles1 mm long.</p><h6>Cotyledons</h6><p>Cotyledons are sessile, fleshy, elliptic to lanceolate, rounded at the top, 8 to 10 mm and 3 mm wide.</p><h6>Stem</h6><p>Thin, cylindrical grooved to square, full, it has long internodes. It is smooth to finely hairy, green to purple on the side exposed to the sun.</p>",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2014-09-24T17:04:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278248,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 441,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Cardiospermum microcarpum Kunth",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2014-09-24T17:04:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278225,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 445,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "This is an annual weed. It reproduces by seed. It spreads through its capsules filled with air that allow it to dispers with the wind and streams.<br>",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2014-09-24T17:04:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278228,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 443,
+field: {
+concept: "Natural History",
+category: "Look Alikes",
+description: "Other taxa that this taxon may be confused with, and characters useful for their differentiation. Useful for identification and comparison. Common in invasive species communities.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Cardiospermum microcarpum is very similar to another closely related species, Cardiospermum grandiflorum. These two species can be distinguished by the following differences: - C. microcarpum (small balloon vine) has relatively small leaves (4-12 cm long) and finely pale hairy to almost hairless (puberulent to sub-glabrous) younger stems. Its flowers (3-4 mm long) and papery capsules (1-3 cm long) are also rounded and relatively small. The seed of C. halicacabum has a kidney-shaped hilum. - C. grandiflorum (balloon vine) has relatively large leaves (6-16 cm long) and usually densely hairy (pale-rusty) younger stems. Its flowers (6-11 mm long) and the papery capsules (5-6.5 cm long) are relatively large and pointed. The seed of C. grandiflorum has an oblong to heart-shaped hilum.<br>",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2014-09-24T17:04:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278227,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 444,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "It occurs in dry areas as well as wetland, dump site, roadsides and sugar cane fields.<br>",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2014-09-24T17:04:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278228,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 448,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Origin</h6><p>Native to South America</p>",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2014-09-24T17:04:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278233,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 450,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>It is common in crops of cassava, banana, vanilla and sugar cane. It can smother trees by covering them completely when conditions are favorable. It has an average ecological impact.</p><h6>Local Weediness</h6><p>South Africa: Classified as category 1 weed, prohobited weed.</p>",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2014-09-24T17:04:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278247,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 452,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Used as medicinal plant to treat diarrhea, catarrh and body sore.<br>",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2014-09-24T17:04:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278248,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 453,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Manual clearing is possible by pulling rod complete, in small infested areas.</p>",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2014-09-24T17:04:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278248,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 447,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2015-04-06T08:15:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Blanfort, V., F. Desmoulins, J. Prosperi, T. Le Bourgeois, R. Guiglion and P. Grard (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/criha/criha_fr.html"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278231,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 446,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2015-03-02T12:55:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Blanfort, V., F. Desmoulins, J. Prosperi, T. Le Bourgeois, R. Guiglion and P. Grard (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/criha/criha_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278229,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 442,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2015-03-06T01:56:44Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/criha/criha_fr.html"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/criha/criha_fr.html"
+},
+{
+title: "Blanfort, V., F. Desmoulins, J. Prosperi, T. Le Bourgeois, R. Guiglion and P. Grard (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278226,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 449,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:04:38Z",
+lastUpdated: "2015-03-06T01:56:44Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Blanfort, V., F. Desmoulins, J. Prosperi, T. Le Bourgeois, R. Guiglion and P. Grard (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/criha/criha_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578278245,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3128,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Cardiospermum microcarpum est une liane grimpante, grêle, ligneuse à la base, puis herbacée. La tige est fine, cylindrique, cannelée et à longs entre-noeuds. Elle peut atteindre 5 m de long. Les feuilles de forme générale triangulaire, sont disposées alternativement le long de la tige. Portées par un long pétiole, elles sont composées de 3 folioles, elles-mêmes composées de 3 autres petites folioles, à bord profondément découpé. Les fleurs sont disposées en groupes de 3 au bout d'un long pédoncule inséré à la base d'une feuille. Elles sont de petite taille et de couleur blanchâtre. A la base du groupe de fleurs, se trouvent 2 petites vrilles enroulées. Les fruits sont des capsules globuleuses à 3 côtés, de couleur vert mauve, de 1 à 4 cm de long et de 0,8 à 3 cm de large.</p>",
+dateCreated: "2015-03-19T11:09:11Z",
+lastUpdated: "2015-03-19T11:09:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763351046,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3121,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CRIMI</p><h6>Type Biologique</h6><p>liane</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:09:08Z",
+lastUpdated: "2015-03-19T11:09:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763348501,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3123,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Cardiospermum microcarpum est une liane grimpante, grêle, ligneuse à la base, puis herbacée. La tige est fine, cylindrique, cannelée et à longs entre-noeuds. Elle peut atteindre 5 m de long. Les feuilles de forme générale triangulaire, sont disposées alternativement le long de la tige. Portées par un long pétiole, elles sont composées de 3 folioles, elles-mêmes composées de 3 autres petites folioles, à bord profondément découpé. Les fleurs sont disposées en groupes de 3 au bout d'un long pédoncule inséré à la base d'une feuille. Elles sont de petite taille et de couleur blanchâtre. A la base du groupe de fleurs, se trouvent 2 petites vrilles enroulées. Les fruits sont des capsules globuleuses à 3 côtés, de couleur vert mauve, de 1 à 4 cm de long et de 0,8 à 3 cm de large.</p><h6>Cotylédons</h6><p>Les cotylédons sont sessiles, charnus, elliptiques à lancéolés, arrondis au sommet, longs de 8 à 10 mm et larges de 3 mm. Rapidement caduques</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont opposées, devenant par la suite alternes, pétiolées, composées trifoliolées. Les folioles latérales sont sessiles tridentées au sommet, la foliole terminale est trilobée et finement dentée au sommet de chaque lobe. Les faces sont glabres.</p><h6>Port</h6><p>Plante herbacée lianescente, plus ou moins ramifiée, glabre, mesurant 2 à 5 m de long.</p><h6>Système Souterrain</h6><p>La racine est un pivot.</p><h6>Tige</h6><p>La tige est fine, cylindrique cannelée à quadrangulaire, pleine, à longs entre-noeuds. Elle est glabre à finement pubescente, de couleur verte à pourpre sur la face exposée au soleil.</p><h6>Feuille</h6><p>Les feuilles sont alternes, longuement pétiolées (4 cm), composées à 3 folioles pétiolulées, elles-mêmes trifoliolées. Limbe de forme générale triangulaire, long et large de 7 à 12 cm. Chaque foliolule est de forme ovale, au sommet allongé en coin aigu, à base arrondie. La marge est plus ou moins profondément lobée ou dentée. La face supérieure est finement pubescente, la face inférieure presque glabre. De couleur vert glauque, la face inférieure plus claire.</p><h6>Inflorescence</h6><p>L’inflorescence est formée de fleurs groupées en corymbe au sommet d'un pédoncule grêle de 5 à 10 cm, inséré à l'aisselle des feuilles. Chaque corymbe est sous-tendu par deux bractées filiformes, transformées en vrilles. Vrilles, rayons et pédicelles sont sous-tendus de très petites bractéoles de 1 mm de long.</p><h6>Fleur</h6><p>Les fleurs sont réduites, de 4 mm de diamètre, portées par un pédicelle court (4 mm) au sommet d'un rayon du corymbe, long de 2 cm. Il peut exister des fleurs mâles ou femelles et des fleurs hermaphrodites, qui peuvent se trouver sur des pieds différents ou sur un même individu. Calice à 4 sépales libres, oblongs ; les 2 externes plus courts, pubescents. Corolle à 4 pétales blancs, de 2 à 4 mm de longueur, à très petits flocons laineux et présentant une petite écaille à la base. 8 étamines, à filets poilus inégaux, anthères rouges. Ovaire supère, triloculaire, contenant un ovule par loge. Surmonté d'un style trifide court.</p><h6>Fruit</h6><p>Le fruit est une capsule membraneuse, globuleuse, trigone, déhiscente, finement pubescente, de couleur vert clair à brun clair à maturité, pleine d'air, longue de 3 à 5 cm et large de 2 à 3 cm. A maturité, les parois se déchirent.</p><h6>Graine</h6><p>Les graines sont dures, globuleuses, de couleur bleu foncé, de 3 à 4 mm de diamètre et au hile large en forme de coeur</p>",
+dateCreated: "2015-03-19T11:09:09Z",
+lastUpdated: "2015-03-19T11:09:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763349167,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3124,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Cardiospermum microcarpum Kunth",
+dateCreated: "2015-03-19T11:09:09Z",
+lastUpdated: "2015-03-19T11:09:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763349514,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3126,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. microcarpum est une espèce annuelle. Elle se reproduit par graines.<br>",
+dateCreated: "2015-03-19T11:09:10Z",
+lastUpdated: "2015-03-19T11:09:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763350182,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3125,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Comores : C. microcarpum est une espèce rudérale présente dans les trois îles des Comores, en zone sèche ainsi qu'en zone humide, jusqu'à 400 m d'altitude. Elle est très abondante dans les friches abandonnées. Madagascar : Espèce rudérale très commune dans toutes les régions de Madagascar, sauf dans l'extrême Sud. Elle se développe sur les haies, le bord des chemins et des parcelles de culture, parfois dans les cultures. Maurice : Mauvaise herbe poussant dans les zones basses, dans les endroits incultes, au bord des routes, dans les champs de canne à sucre et d'autres cultures. La Réunion : Cette espèce est courante sur les talus et au bord des routes. Elle est très répandue à La Réunion, où elle est particulièrement fréquente dans toutes les zones humides et sèches ainsi qu'en altitude jusqu'à 1000 m. Elle recherche la lumière et forme quelquefois des peuplements denses. Seychelles : Espèce des zones cultivées et des lieux abandonnés. Elle est rarement abondante.<br>",
+dateCreated: "2015-03-19T11:09:09Z",
+lastUpdated: "2015-03-19T11:09:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763349926,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3127,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Comores : C. microcarpum est une adventice très fréquente dans les cultures de manioc, de bananier, de vanille et de canne à sucre. Madagascar : Espèce peu fréquente et peu abondante dans les cultures. Maurice : Adventice gênante pour le développement des jeunes tiges de canne, ayant ainsi une nuisibilité moyenne. La nuisibilité peut être forte dans les cultures maraîchères. La Réunion : Les principales cultures infestées par C. microcarpum sont les cultures maraîchères, ainsi que la canne à sucre. Elle a une amplitude écologique moyenne (25 % < Fr < 50 %), elle peut être ponctuellement abondante avec un recouvrement entre 30 et 50 %, mais dans la plupart des cas ne constitue pas une contrainte agronomique majeure. Seychelles : Adventice à faible nuisibilité.</p>",
+dateCreated: "2015-03-19T11:09:10Z",
+lastUpdated: "2015-03-19T11:09:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763350413,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3122,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:09:08Z",
+lastUpdated: "2015-03-31T06:52:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Montpellier, France, Cirad éd.."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763348732,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 883,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 884,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_12.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_12_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 885,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20090701_212150.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20090701_212150_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 886,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20090216_171227.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20090216_171227_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 887,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20090701_211744.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20090701_211744_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 888,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20090701_212353.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20090701_212353_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 889,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 890,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 891,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 892,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 893,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20090701_211601.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20090701_211601_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 894,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 895,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_10.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_10_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 896,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_11.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_11_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 897,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 898,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 899,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20080609_101206_05_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 900,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20110517_105208.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20110517_105208_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+},
+{
+id: 901,
+url: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20020724_154228.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cardiospermum microcarpum/crimi_20020724_154228_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:11Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

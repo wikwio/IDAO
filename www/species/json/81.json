@@ -1,0 +1,1959 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 81,
+title: "<i>Crotalaria goreensis </i>Guill.<i> & </i>Perr. ",
+taxonConcept: {
+id: 189,
+name: "Crotalaria goreensis Guill. & Perr.",
+canonicalForm: "Crotalaria goreensis",
+italicisedForm: "<i>Crotalaria goreensis </i>Guill.<i> & </i>Perr. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 5,
+name: "Fabaceae",
+canonicalForm: "Fabaceae",
+italicisedForm: "<i>Fabaceae</i>",
+rank: "Family"
+},
+{
+id: 188,
+name: "Crotalaria",
+canonicalForm: "Crotalaria",
+italicisedForm: "<i>Crotalaria</i>",
+rank: "Genus"
+},
+{
+id: 189,
+name: "Crotalaria goreensis Guill. & Perr.",
+canonicalForm: "Crotalaria goreensis",
+italicisedForm: "<i>Crotalaria goreensis </i>Guill.<i> & </i>Perr. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 1890,
+name: "Crotalaria cylindrocarpa sensu auct.",
+canonicalForm: "Crotalaria cylindrocarpa",
+italicisedForm: "<i>Crotalaria cylindrocarpa sensu </i>auct. ",
+taxonConcept: {
+id: 189
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1891,
+name: "Crotalaria falcata Schumach. & Thonn.",
+canonicalForm: "Crotalaria falcata",
+italicisedForm: "<i>Crotalaria falcata </i>Schumach.<i> & </i>Thonn. ",
+taxonConcept: {
+id: 189
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1892,
+name: "Crotalaria goreensis var. angustifolia Baker",
+canonicalForm: "Crotalaria goreensis angustifolia",
+italicisedForm: "<i>Crotalaria goreensis </i>var.<i> angustifolia </i>Baker ",
+taxonConcept: {
+id: 189
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1893,
+name: "Crotalaria goreensis var. macrostipula (Steud. ex A. Rich.) Baker f.",
+canonicalForm: "Crotalaria goreensis macrostipula",
+italicisedForm: "<i>Crotalaria goreensis </i>var.<i> macrostipula (</i>Steud.<i> ex </i>A. Rich.<i>) </i>Baker f. ",
+taxonConcept: {
+id: 189
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1894,
+name: "Crotalaria guineensis D. Dietr.",
+canonicalForm: "Crotalaria guineensis",
+italicisedForm: "<i>Crotalaria guineensis </i>D. Dietr. ",
+taxonConcept: {
+id: 189
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1895,
+name: "Crotalaria leopoldvillensis De Wild.",
+canonicalForm: "Crotalaria leopoldvillensis",
+italicisedForm: "<i>Crotalaria leopoldvillensis </i>De Wild. ",
+taxonConcept: {
+id: 189
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1896,
+name: "Crotalaria macrostipula Steud. ex A. Rich",
+canonicalForm: "Crotalaria macrostipula",
+italicisedForm: "<i>Crotalaria macrostipula </i>Steud.<i> ex </i>A. Rich ",
+taxonConcept: {
+id: 189
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:12:06Z",
+lastRevised: "2015-03-19T11:16:28Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Crotalaria goreensis/cvtgo_20111105_183640_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CVTGO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CVTGO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 672,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CVTGO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2014-09-24T17:14:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860594,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 665,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Alternate, compound, 3-foliolate,carried by a petiole as long as the leaflets (2-6 cm). At the base of the petiole is two foliaceous stipules (triangulate to lanceolate) well developed. Leaflets variable, narrowly oblanceolate-oblong to obovate, up to 35-85 mm long, 8-25 mm wide, glabrous or sparsely appressed pubescent above. Thinly appressed pubescent beneath; petiole up to 35-65 mm long Alternate, spiral, compound, ternate, stipulate (stipules foliaceous, falcate), petiolate, petiole 20-55 mm long. The limb is obovate to oblanceolate in shape. It measures 2-6 cm long and 7-25 mm wide. The base ends in sharply and the top is rounded or slightly notched and provided with a short mucron. The terminal leaflet is slightly more developed than the lateral leaflets. The margin is entire. The upper surface is nearly smooth while the underside is covered with small hairs. The limb is covered by 7 to 10 pairs of secondary veins slightly arching.</p><h6>General Habit</h6><p>Herb.</p><h6>Flower</h6><p>20-flowered; pedicels to 3 mm long, calyx 4-5 mm long, appressed or rather spreading pubescent especially on the lobes; lobes subulate-triangular, ? as long as the tube. Standard ovate, yellow, veined or suffused with orange, brown or purple, glabrous outside; wings oblong, a little shorter than the keel; keel bent at right-angles in the lower half, with a well-developed straight untwisted beak, 8.5-10 (-11.5) mm long, conspicuously white lanate-pubescent on the lateral surfaces towards the upper margin.</p><h6>Fruit</h6><p>Pod subsessile, oblong-ellipsoid, 15-20 mm long, 7-9 mm across, thinly pubescent with appressed or slightly spreading hairs, often mottled brown or purplish, 12-16-seeded. Seeds oblong-reniform, ? 4 mm long, with a small aril, minutely granulate, sometimes radially veined, yellow, usually tinged orange or red. Dehiscent, a legume, non-fleshy, 16-20 mm long, 7-9 mm wide (Gillett et al., 1971; pp. 875-876). Fruiting period from March to June.</p><h6>Global Description</h6><p>Erect annual or short-lived perennial, herb, upto 2.6 m high.</p><h6>Inflorescence</h6><p>Inflorescence terminal, Inflorescence leaf opposed. Racemes 4-24 cm long, with many flowers crowded at least towards the top; bracts subulate or filiform, 3-4 mm long, early caducous; bracteoles inserted on the pedicel, filiform, 1-1.5 mm long, caducous.</p><h6>Stem</h6><p>Appressed-pubescent.</p>",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2014-09-24T17:14:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860585,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 666,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Crotalaria goreensis Guill. & Perr.",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2014-09-24T17:14:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860586,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 675,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Annual or short-lived perennial, reproduces by seeds.<br>",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2014-09-24T17:14:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860597,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 670,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Common on disturbed sites, roadsides, overgrazed pastures and in riparian habitats.<br>",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2014-09-24T17:14:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860592,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 671,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Origin</h6><p>Tropical Africa.</p>",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2014-09-24T17:14:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860593,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 674,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Local Weediness</h6><p>Tanzania: Rare and not abundant.</p>",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2014-09-24T17:14:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860596,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 673,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2015-04-06T09:14:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://plants.jstor.org/search?searchText=Crotalaria%20goreensis"
+},
+{
+url: "http://plants.jstor.org/search?searchText=Crotalaria%20goreensis"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventrop/species/c/cvtgo/cvtgo_fr.html"
+},
+{
+title: "Gillett, J. B., R. M. Polhill and B. Verdcourt. 1971. Leguminosae (Part 4) Subfamily Papilionoideae (2). In: Milne-Redhead, E. and R. M. Polhill, eds. 1971. Leguminosae (Part 4) Subfamily Papilionoideae (2). In: Milne-Redhead, E., and R. M. Polhill, eds. Flora Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds.of tropical east Africa. Crown Agents, London;"
+},
+{
+url: "http://wwwpublic.jcu.edu.au/discovernature/weeds/JCUDEV_011597"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 112 pp; Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 112 pp; Thaman, R. R./Fosberg, F. R./Manner, H. I./Hassall, D. C. 1994. The flora of Nauru. Smithsonian Institution, Washington. Atoll Research Bulletin 392:1-223"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860594,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 669,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2015-02-19T17:45:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://wwwpublic.jcu.edu.au/discovernature/weeds/JCUDEV_011597"
+},
+{
+url: "http://plants.jstor.org/search?searchText=Crotalaria%20goreensis"
+},
+{
+title: "Gillett, J. B., R. M. Polhill and B. Verdcourt. 1971. Leguminosae (Part 4) Subfamily Papilionoideae (2). In: Milne-Redhead, E. and R. M. Polhill, eds. 1971. Leguminosae (Part 4) Subfamily Papilionoideae (2). In: Milne-Redhead, E., and R. M. Polhill, eds. Flora Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds.of tropical east Africa. Crown Agents, London;"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 112 pp; Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 112 pp; Thaman, R. R./Fosberg, F. R./Manner, H. I./Hassall, D. C. 1994. The flora of Nauru. Smithsonian Institution, Washington. Atoll Research Bulletin 392:1-223"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventrop/species/c/cvtgo/cvtgo_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860590,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 667,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2015-04-06T09:14:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://wwwpublic.jcu.edu.au/discovernature/weeds/JCUDEV_011597"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 112 pp; Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 112 pp; Thaman, R. R./Fosberg, F. R./Manner, H. I./Hassall, D. C. 1994. The flora of Nauru. Smithsonian Institution, Washington. Atoll Research Bulletin 392:1-223"
+},
+{
+url: "http://plants.jstor.org/search?searchText=Crotalaria%20goreensis"
+},
+{
+title: "Gillett, J. B., R. M. Polhill and B. Verdcourt. 1971. Leguminosae (Part 4) Subfamily Papilionoideae (2). In: Milne-Redhead, E. and R. M. Polhill, eds. 1971. Leguminosae (Part 4) Subfamily Papilionoideae (2). In: Milne-Redhead, E., and R. M. Polhill, eds. Flora Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds.of tropical east Africa. Crown Agents, London;"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventrop/species/c/cvtgo/cvtgo_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860586,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 668,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2015-04-06T09:14:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://plants.jstor.org/search?searchText=Crotalaria%20goreensis"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 112 pp; Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 112 pp; Thaman, R. R./Fosberg, F. R./Manner, H. I./Hassall, D. C. 1994. The flora of Nauru. Smithsonian Institution, Washington. Atoll Research Bulletin 392:1-223"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventrop/species/c/cvtgo/cvtgo_fr.html"
+},
+{
+title: "Gillett, J. B., R. M. Polhill and B. Verdcourt. 1971. Leguminosae (Part 4) Subfamily Papilionoideae (2). In: Milne-Redhead, E. and R. M. Polhill, eds. 1971. Leguminosae (Part 4) Subfamily Papilionoideae (2). In: Milne-Redhead, E., and R. M. Polhill, eds. Flora Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds.of tropical east Africa. Crown Agents, London;"
+},
+{
+url: "http://wwwpublic.jcu.edu.au/discovernature/weeds/JCUDEV_011597"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860588,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 664,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2015-04-06T09:14:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://wwwpublic.jcu.edu.au/discovernature/weeds/JCUDEV_011597"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventrop/species/c/cvtgo/cvtgo_fr.html"
+},
+{
+url: "http://wwwpublic.jcu.edu.au/discovernature/weeds/JCUDEV_011597"
+},
+{
+title: "Gillett, J. B., R. M. Polhill and B. Verdcourt. 1971. Leguminosae (Part 4) Subfamily Papilionoideae (2). In: Milne-Redhead, E. and R. M. Polhill, eds. 1971. Leguminosae (Part 4) Subfamily Papilionoideae (2). In: Milne-Redhead, E., and R. M. Polhill, eds. Flora Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds.of tropical east Africa. Crown Agents, London;"
+},
+{
+url: "http://plants.jstor.org/search?searchText=Crotalaria%20goreensis"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventrop/species/c/cvtgo/cvtgo_fr.html"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 112 pp; Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 112 pp; Thaman, R. R./Fosberg, F. R./Manner, H. I./Hassall, D. C. 1994. The flora of Nauru. Smithsonian Institution, Washington. Atoll Research Bulletin 392:1-223"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860583,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3509,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Crotalaria goreensis est une plante dressée, subligneuse à la base et recouverte d'une pubescence plus ou moins appliquée. Elle porte des feuilles alternes et trifoliolées, aux pétioles aussi longs que les folioles. Celles-ci sont de forme oblancéolée. La base du pétiole est encadrée par 2 stipules foliacées falciformes. Les fleurs sont disposées en courtes grappes terminales. Elles sont jaunes et rouges. Le fruit est une courte gousse cylindrique pubescente, terminée par un court bec recourbé. Il contient des graines lisses et brillantes de couleur rouge orangé.</p>",
+dateCreated: "2015-03-19T11:16:28Z",
+lastUpdated: "2015-03-19T11:16:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763788628,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3492,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CVTGO</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:16:21Z",
+lastUpdated: "2015-03-19T11:16:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763781046,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3500,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Crotalaria goreensis est une plante dressée, subligneuse à la base et recouverte d'une pubescence plus ou moins appliquée. Elle porte des feuilles alternes et trifoliolées, aux pétioles aussi longs que les folioles. Celles-ci sont de forme oblancéolée. La base du pétiole est encadrée par 2 stipules foliacées falciformes. Les fleurs sont disposées en courtes grappes terminales. Elles sont jaunes et rouges. Le fruit est une courte gousse cylindrique pubescente, terminée par un court bec recourbé. Il contient des graines lisses et brillantes de couleur rouge orangé.</p><h6>Cotylédons</h6><p>Les cotylédons sont réniformes. Ils sont longs de 10 mm et larges de 4 mm. Ils sont subsessiles.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont alternes et composées, trifoliolées. Elles sont portées par un pétiole aussi long que les folioles. Celles-ci sont de forme obovale à oblancéolée. Le sommet est émarginé et mucroné. La face supérieure du limbe est marquée de 5 à 7 paires de nervures légèrement arquées. La base du pétiole est encadrée par 2 stipules foliacées falciformes.</p><h6>Port</h6><p>Le port est dressé. La plante est buissonnante, subligneuse à la base et peut mesurer 40 à 150 cm de hauteur.</p><h6>Système Souterrain</h6><p>La racine est un fort pivot ligneux.</p><h6>Tige</h6><p>La tige est cylindrique et pleine. Elle est couverte de poils appliqués.</p><h6>Feuille</h6><p>Les feuilles sont alternes et composées, trifoliolées. Elles sont portées par un pétiole aussi long que les folioles (2 à 6 cm). A la base du pétiole se trouvent deux stipules foliacées très développées. Elles sont falciformes et entourent presque la tige. Elles mesurent 10 à 20 mm de long et 2 à 4 mm de large. Chaque foliole est portée par un court pétiolule. Le limbe est de forme oblancéolée à obovale. Il mesure 2 à 6 cm de long et 7 à 25 mm de large. La base est en coin aigu et le sommet est arrondi ou légèrement émarginé et pourvu d'un court mucron. La foliole terminale est légèrement plus développée que les folioles latérales. La marge est entière. La face supérieure est pratiquement glabre tandis que la face inférieure est couverte d'une faible pubescence rase, appliquée. Le limbe est parcouru par 7 à 10 paires de nervures secondaires légèrement arquées.</p><h6>Inflorescence</h6><p>L'inflorescence est disposée en courtes grappes terminales de 2 à 8 cm.</p><h6>Fleur</h6><p>Les fleurs papilionacées sont portées par un court pédicelle de 1 à 2 mm. Le calice est soudé à la base et se divise en 5 dents triangulaires. Il est long de 1 à 2 mm et finement pubescent. La corolle est composée d'un pétale supérieur bilobé très arrondi (étendard) de couleur brun rouge sur la face supérieure, de 2 pétales latéraux (ailes) et d'un pétale inférieur (carène) renfermant les étamines, de couleur jaune. La corolle est longue et large de 9 à 11 mm. Les filets des 10 étamines sont tous soudés à la base en un tube.</p><h6>Fruit</h6><p>Les fruits sont des gousses cylindriques, longues de 12 à 13 mm et large de 6 à 8 mm. L'extrémité se termine par un bec recourbé correspondant à la base du style. La paroi est finement pubescente. La gousse contient 6 à 8 graines.</p><h6>Graine</h6><p>Les graines sont aplaties et recourbées sur elles-mêmes. Elles mesurent 2 mm de long et 1,5 mm de large. Le tégument est lisse et brillant, de couleur rouge orangé.</p>",
+dateCreated: "2015-03-19T11:16:23Z",
+lastUpdated: "2015-03-19T11:16:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763783395,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3502,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Crotalaria goreensis Guill. & Perr.",
+dateCreated: "2015-03-19T11:16:24Z",
+lastUpdated: "2015-03-19T11:16:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763784163,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3501,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : C. goreensis germe en juin lorsque les pluies sont abondantes et régulières. Le labour de début de cycle n'influe pas sur la germination. Cette phase de germination est de courte durée (1 à 2 semaines). Mais de nouvelles levées apparaissent après chaque opération culturale (sarclage, buttage). La période de végétation est très longue et dure jusqu'en septembre. A cette époque, le raccourcissement de la longueur du jour induit la floraison. Celle-ci est échelonnée jusqu'en octobre. La fructification débute 1 à 2 semaines après la floraison. Elle s'achève en début de saison sèche (fin novembre) avec le dessèchement de la plante. Pour des plantes ayant germé en juin, le cycle de développement complet dure 4 mois tandis que pour les individus levés tardivement, il peut être réduit à 1,5 mois.<br>",
+dateCreated: "2015-03-19T11:16:23Z",
+lastUpdated: "2015-03-19T11:16:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763783779,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3506,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. goreensis est une espèce annuelle. Elle se multiplie uniquement par graines.<br>",
+dateCreated: "2015-03-19T11:16:25Z",
+lastUpdated: "2015-03-19T11:16:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763785653,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3503,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>C. goreensis est une espèce commune dans toute l'Afrique tropicale.</p>",
+dateCreated: "2015-03-19T11:16:24Z",
+lastUpdated: "2015-03-19T11:16:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763784524,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3505,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : C. goreensis est une adventice commune en région soudano-sahélienne où la pluviométrie annuelle est comprise entre 800 et 1200 mm. Elle croît principalement sur les sols sablo-argileux pouvant être caillouteux en surface comme les sols fersialitiques. On la rencontre également sur sol ferrugineux. En revanche, elle n'apparaît pas sur les sols lourds et très humides, argileux ou argilo-limoneux, comme les vertisols et les planosols. C'est une espèce fréquente et parfois abondante dans les cultures traditionnelles ne recevant pas d'herbicide et recevant peu d'engrais. Le labour y est généralement superficiel. C. goreensis est une adventice commune en culture d'arachide ou de sorgho.<br>",
+dateCreated: "2015-03-19T11:16:25Z",
+lastUpdated: "2015-03-19T11:16:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763785294,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3504,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>C. goreensis est une espèce commune dans toute l'Afrique tropicale.</p>",
+dateCreated: "2015-03-19T11:16:24Z",
+lastUpdated: "2015-03-19T11:16:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763784908,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3507,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Burkina Faso : C. goreensis est rare et peu abondante. Nord-Cameroun : C. goreensis est présente dans 25 % des parcelles cultivées de la région soudano-sahélienne et considérée comme une espèce régionale. Elle est moins fréquente en région sahélo-soudanienne plus sèche et elle est rare en région soudanienne plus humide, aux cultures plus intensives. Côte d'Ivoire : rare et peu abondante. Sénégal : rare et peu abondante. Tanzanie : rare et peu abondante.</p>",
+dateCreated: "2015-03-19T11:16:26Z",
+lastUpdated: "2015-03-19T11:16:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763786040,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3508,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Conseils de gestion des adventices annuelles à feuilles larges en riz irrigué : http://portal.wikwio.org/document/show/19</p>",
+dateCreated: "2015-03-19T11:16:26Z",
+lastUpdated: "2015-03-19T11:16:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763786500,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3493,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:16:22Z",
+lastUpdated: "2015-03-31T06:52:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Merlier, H. 1995. Adventrop - Les adventices d'Afrique soudano-sahélienne. Cirad, Montpellier, France."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763782724,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3494,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:16:22Z",
+lastUpdated: "2015-03-31T06:52:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763782725,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3495,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:16:22Z",
+lastUpdated: "2015-03-31T06:52:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763782725,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3496,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:16:22Z",
+lastUpdated: "2015-03-31T06:52:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1976. Flore illustrée du Sénégal. Tome 5. Clairafrique éd., Dakar, Sénégal, 658 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763782725,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3497,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:16:22Z",
+lastUpdated: "2015-03-31T06:52:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hutchinson J., Dalziel J. M., Keay R. W. J. & Hepper F. N., 1958. Flora of West Tropical Africa. Vol. I part. 2. 2ème éd. The Whitefriars Press ed., London & Tonbridge, 828 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763782725,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3498,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:16:22Z",
+lastUpdated: "2015-03-31T06:52:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois Th., 1993. Les mauvaises herbes dans la rotation cotonnière au Nord-Cameroun (Afrique) - Amplitude d'habitat et degré d'infestation - Cycle de développement. Thèse USTL Montpellier II, Montpellier, France, 241p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763782726,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3499,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:16:22Z",
+lastUpdated: "2015-03-31T06:52:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=adventrop/species/c/cvtgo/cvtgo_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763782726,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 1508,
+url: "http://portal.wikwio.org/biodiv/img//Crotalaria goreensis/cvtgo_20111105_183640.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Crotalaria goreensis/cvtgo_20111105_183640_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:12:08Z",
+rating: 0
+},
+{
+id: 1509,
+url: "http://portal.wikwio.org/biodiv/img//Crotalaria goreensis/cvtgo_20110125_160137.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crotalaria goreensis/cvtgo_20110125_160137_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:12:09Z",
+rating: 0
+},
+{
+id: 1510,
+url: "http://portal.wikwio.org/biodiv/img//Crotalaria goreensis/cvtgo_20110125_160105.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crotalaria goreensis/cvtgo_20110125_160105_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:12:09Z",
+rating: 0
+},
+{
+id: 1511,
+url: "http://portal.wikwio.org/biodiv/img//Crotalaria goreensis/cvtgo_20110125_160146.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crotalaria goreensis/cvtgo_20110125_160146_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:12:09Z",
+rating: 0
+},
+{
+id: 1512,
+url: "http://portal.wikwio.org/biodiv/img//Crotalaria goreensis/cvtgo_20020523_101338.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crotalaria goreensis/cvtgo_20020523_101338_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:12:09Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

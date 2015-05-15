@@ -1,0 +1,1279 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 279,
+title: "<i>Rubus rosifolius </i>Sm. ",
+taxonConcept: {
+id: 533,
+name: "Rubus rosifolius Sm.",
+canonicalForm: "Rubus rosifolius",
+italicisedForm: "<i>Rubus rosifolius </i>Sm. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 529,
+name: "Rosaceae",
+canonicalForm: "Rosaceae",
+italicisedForm: "<i>Rosaceae</i>",
+rank: "Family"
+},
+{
+id: 530,
+name: "Rubus",
+canonicalForm: "Rubus",
+italicisedForm: "<i>Rubus</i>",
+rank: "Genus"
+},
+{
+id: 533,
+name: "Rubus rosifolius Sm.",
+canonicalForm: "Rubus rosifolius",
+italicisedForm: "<i>Rubus rosifolius </i>Sm. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 5831,
+name: "Rubus comintanus Blanco",
+canonicalForm: "Rubus comintanus",
+italicisedForm: "<i>Rubus comintanus </i>Blanco ",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5832,
+name: "Rubus commersonii Poir.",
+canonicalForm: "Rubus commersonii",
+italicisedForm: "<i>Rubus commersonii </i>Poir. ",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5833,
+name: "Rubus commersonii var. simpliciflorus Koidz.",
+canonicalForm: "Rubus commersonii simpliciflorus",
+italicisedForm: "<i>Rubus commersonii </i>var.<i> simpliciflorus </i>Koidz. ",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5834,
+name: "Rubus glandulosopunctatus Hayata",
+canonicalForm: "Rubus glandulosopunctatus",
+italicisedForm: "<i>Rubus glandulosopunctatus </i>Hayata ",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5835,
+name: "Rubus hopingensis Y.C.Liu & F.Y.Lu",
+canonicalForm: "Rubus hopingensis",
+italicisedForm: "<i>Rubus hopingensis </i>Y.C.Liu<i> & </i>F.Y.Lu ",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5836,
+name: "Rubus jamaicensis Blanco",
+canonicalForm: "Rubus jamaicensis",
+italicisedForm: "<i>Rubus jamaicensis </i>Blanco ",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5837,
+name: "Rubus minusculus H.L‚v. & Vaniot",
+canonicalForm: "Rubus minusculus",
+italicisedForm: "<i>Rubus minusculus </i>H.L‚v.<i> & </i>Vaniot ",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5838,
+name: "Rubus rosaefolius Sm. [Spelling variant]",
+canonicalForm: "Rubus rosaefolius",
+italicisedForm: "<i>Rubus rosaefolius </i>Sm.<i> [Spelling variant]</i>",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5839,
+name: "Rubus rosifolius Sm. ex Baker",
+canonicalForm: "Rubus rosifolius",
+italicisedForm: "<i>Rubus rosifolius </i>Sm.<i> ex </i>Baker ",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5840,
+name: "Rubus rosifolius var. rosifolius",
+canonicalForm: "Rubus rosifolius rosifolius",
+italicisedForm: "<i>Rubus rosifolius </i>var.<i> rosifolius</i>",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5841,
+name: "Rubus tagallus Cham. & Schltdl.",
+canonicalForm: "Rubus tagallus",
+italicisedForm: "<i>Rubus tagallus </i>Cham.<i> & </i>Schltdl. ",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5842,
+name: "Rubus taiwanianus Matsum.",
+canonicalForm: "Rubus taiwanianus",
+italicisedForm: "<i>Rubus taiwanianus </i>Matsum. ",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5843,
+name: "Rubus thunbergii var. glabellus Focke",
+canonicalForm: "Rubus thunbergii glabellus",
+italicisedForm: "<i>Rubus thunbergii </i>var.<i> glabellus </i>Focke ",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1286,
+name: "Framboise",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1287,
+name: "Roy",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1288,
+name: "Frambwazi",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 1289,
+name: "Framboise marron",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 1290,
+name: "Framboisier",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 1291,
+name: "Mbwadigo",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 1292,
+name: "Franbwaz",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1293,
+name: "Framboisier",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1294,
+name: "Voaroisaka",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1295,
+name: "Roneza",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 1296,
+name: "Roifotsy",
+taxonConcept: {
+id: 533
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:26:21Z",
+lastRevised: "2015-04-30T09:59:10Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121407_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>RUBRO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>perennial</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>RUBRO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>perennial</p>",
+fields: [
+{
+id: 1963,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>RUBRO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>perennial</p>",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216538,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1964,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Rubus rosifolius Sm.",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216539,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5774,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Rubus rosifolius est une plante dressée, herbacée, subligneuse à la base, haute de 0,4 à 1 m, à tiges vertes à pilosité éparse et pourvues d'aiguillons recourbés. Les feuilles sont composées, alternes, longues de 12 à 17 cm, imparipennées, généralement à 7 folioles ovales allongées, à base arrondie, sommet aigu et marge dentée. Les deux faces sont pubescentes. Les fleurs sont solitaires ou en petits groupes terminaux, de 2 à 3 cm de diamètre, à 5 pétales blancs arrondis, de très nombreuses étamines et de très nombreux carpelles disposés en une colonne centrale. Les fruits sont globuleux, ovales ou oblongs, formés de nombreuses petites baies rouges.</p>",
+dateCreated: "2015-03-19T12:02:58Z",
+lastUpdated: "2015-03-19T12:02:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766578154,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5762,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>RUBRO</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>pérenne</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T12:02:54Z",
+lastUpdated: "2015-03-19T12:02:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766574344,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5767,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Rubus rosifolius</em> est une plante dress&eacute;e, herbac&eacute;e, subligneuse &agrave; la base, haute de 0,4 &agrave; 1 m, &agrave; tiges vertes &agrave; pilosit&eacute; &eacute;parse et pourvues d&#39;aiguillons recourb&eacute;s. Les feuilles sont compos&eacute;es, alternes, longues de 12 &agrave; 17 cm, imparipenn&eacute;es, g&eacute;n&eacute;ralement &agrave; 7 folioles ovales allong&eacute;es, &agrave; base arrondie, sommet aigu et marge dent&eacute;e. Les deux faces sont pubescentes. Les fleurs sont solitaires ou en petits groupes terminaux, de 2 &agrave; 3 cm de diam&egrave;tre, &agrave; 5 p&eacute;tales blancs arrondis, de tr&egrave;s nombreuses &eacute;tamines et de tr&egrave;s nombreux carpelles dispos&eacute;s en une colonne centrale. Les fruits sont globuleux, ovales ou oblongs, form&eacute;s de nombreuses petites baies rouges.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Premi&egrave;res feuilles simples, alternes et p&eacute;tiol&eacute;es, au limbe ovale, pubescent &agrave; marge dent&eacute;e. Les feuilles deviennent compos&eacute;es imparipenn&eacute;es &agrave; partir de la troisi&egrave;me ou de la quatri&egrave;me, avec d&#39;abord 3 folioles puis passent progressivement &agrave; 5 puis 7 folioles. La jeune tige est pubescente &agrave; pilosit&eacute; &eacute;parse, parsem&eacute;e de glandes sessiles et pr&eacute;sente des aiguillons r&eacute;curv&eacute;s ac&eacute;r&eacute;s.</p> <h6> Port</h6> <p> Plante buissonnante p&eacute;renne, dress&eacute;e &agrave; diffuse, haute de 0,4 &agrave; 1 m.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Racine pivotante.</p> <h6> Tige</h6> <p> Tige verte gr&ecirc;le, &agrave; pilosit&eacute; &eacute;parse, m&ecirc;l&eacute;e de petites glandes sessiles jaunes, translucides, aplaties ; aiguillons &eacute;pars, l&eacute;g&egrave;rement r&eacute;curv&eacute;s, tr&egrave;s ac&eacute;r&eacute;s, atteignant 3,5 mm de longueur.</p> <h6> Feuille</h6> <p> Feuilles compos&eacute;es, alternes, longues de 12 &agrave; 17 cm, imparipenn&eacute;es, g&eacute;n&eacute;ralement &agrave; 7 folioles (5 ou 3 pr&egrave;s de l&#39;inflorescence ou chez les plantes jeunes). La feuille est port&eacute;e par un p&eacute;tiole de 1 &agrave; 4 cm &agrave; pilosit&eacute; &eacute;parse et portant des aiguillons l&eacute;g&egrave;rement r&eacute;curv&eacute;s, ac&eacute;r&eacute;s. A 2 mm de la base du p&eacute;tiole, se trouvent 2 stipules filiformes de 5 &agrave; 11 mm de long &agrave; pilosit&eacute; &eacute;parse. Les folioles sont port&eacute;es par un p&eacute;tiolule de 1 &agrave; 2 mm de long. Le limbe des folioles est ovale allong&eacute;, arrondi &agrave; la base, aigu au sommet, &agrave; marge doublement dent&eacute;e, 2,5 &agrave; 7,5 cm de long et 1,5 &agrave; 3,5 cm de large. Les 2 faces portent une pilosit&eacute; tr&egrave;s &eacute;parse, avec des glandes jaunes sessiles, beaucoup plus nombreuses &agrave; la face inf&eacute;rieure. La nervation est alterne. La face sup&eacute;rieure est de couleur plus sombre que la face inf&eacute;rieure.</p> <h6> Inflorescence</h6> <p> Inflorescences axillaires et terminales, en cymes pauciflores.</p> <h6> Fleur</h6> <p> Les fleurs sont blanches, de 2 &agrave; 3 cm de diam&egrave;tre lorsqu&#39;elles sont &eacute;panouies. Le calice comporte 5 s&eacute;pales longs de 14 mm, au sommet longuement acumin&eacute;, et couverts de poils &eacute;pars m&ecirc;l&eacute;s de glandes jaunes, sur la face externe, tomenteux sur la face interne. La corolle comporte 5 &agrave; 6 p&eacute;tales, parfois jusqu&#39;&agrave; 10, subcirculaires, onguicul&eacute;s, longs de 9 mm. Les &eacute;tamines sont tr&egrave;s nombreuses, longues de 3 &agrave; 4,5 mm, dispos&eacute;es sur 2 rangs. Les carpelles sont tr&egrave;s nombreux, longs de 2 mm, dispos&eacute;s sur une colonne cylindrique haute de 5 &agrave; 6 mm.</p> <h6> Fruit</h6> <p> Le fruit est une polydrupe de forme cylindrique, de 20 mm de long et 15 mm de diam&egrave;tre &agrave; maturit&eacute;, regroupant de nombreuses drup&eacute;oles (g&eacute;n&eacute;ralement plus de 50) de couleur rouge orange vif. Lensemble de la polydrupe se d&eacute;tache facilement du r&eacute;ceptacle &agrave; maturit&eacute;. Chaque drup&eacute;ole contient une graine.</p> <h6> Graine</h6> <p> Graine obovale, dissym&eacute;trique, de 1,5 mm de long et 1 mm de large. Le t&eacute;gument est de couleur cr&egrave;me, fortement r&eacute;ticul&eacute;.</p> ",
+dateCreated: "2015-03-19T12:02:55Z",
+lastUpdated: "2015-04-29T14:13:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766575200,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5768,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Rubus rosifolius Sm.",
+dateCreated: "2015-03-19T12:02:55Z",
+lastUpdated: "2015-03-19T12:02:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766575454,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5772,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Rubus rosifolius</em> est une esp&egrave;ce p&eacute;renne. Elle se multiplie uniquement par graines diss&eacute;min&eacute;es par les oiseaux, les rats et l&#39;homme. Elle ne rejette pas de souche et ne marcotte pas, contrairement &agrave; R. alceifolius.<br /> ",
+dateCreated: "2015-03-19T12:02:56Z",
+lastUpdated: "2015-04-29T14:14:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766576199,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5766,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>R. fraxinifolius</em> Poir. peut &ecirc;tre facilement confondue &agrave; <em>R. rosifolius</em> au stade jeune. Elle s&rsquo;en diff&eacute;rencie par des tiges et des feuilles glabres et brillantes ou avec quelques rares poils le long des nervures et par des glandes sessiles tr&egrave;s rares. Au stade adulte, cette esp&egrave;ce a des feuilles et des folioles nettement plus grandes, elle rejette de souche et &eacute;met des tiges sarmenteuses &eacute;paisses, de plusieurs m&egrave;tres de long.<br /> ",
+dateCreated: "2015-03-19T12:02:54Z",
+lastUpdated: "2015-04-29T14:14:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766574999,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5771,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: <em>R. <em>rosifolius </em></em>est une esp&egrave;ce pr&eacute;sente dans les trois &icirc;les en zones humides &agrave; sol compact, parfois rocheux, jusqu&#39;&agrave; 1000 m d&#39;altitude.<br /> <strong>Madagascar </strong>: Esp&egrave;ce introduite et naturalis&eacute;e &agrave; Madagascar, r&eacute;pandue dans les lieux frais et humides des Hautes Terres et du versant oriental : lieux ombrag&eacute;s en bas de pente, sur les talus le long de canaux et des cours d&#39;eau.<br /> <strong>Maurice </strong>: Plante commune pouvant devenir envahissante. Elle se d&eacute;veloppe dans les terrains abandonn&eacute;s, &agrave; la lisi&egrave;re des for&ecirc;t, sur les pentes des collines et des montagnes et sur les gros tas de pierres. On rencontre &eacute;galement des jeunes plants dans les champs de canne &agrave; sucre.<br /> <strong>La R&eacute;union</strong> : Esp&egrave;ce des milieux hygrophiles et des for&ecirc;ts claires. Elle colonise les bords de chemins forestiers, les sous bois clairs et les friches de milieu humide, jusqu&#39;&agrave; 1500 m d&#39;altitude.<br /> <strong>Seychelles </strong>: Esp&egrave;ce de bord de champ et de sous-bois clair.<br /> ",
+dateCreated: "2015-03-19T12:02:56Z",
+lastUpdated: "2015-04-29T14:16:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766576017,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5770,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Originaire d'Asie, Sri Lanka.</p>",
+dateCreated: "2015-03-19T12:02:55Z",
+lastUpdated: "2015-03-19T12:02:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766575835,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5773,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>: <em>R. <em>rosifolius </em></em>est une plante pr&eacute;sente dans les vieilles cultures de manioc et de bananier. On le retrouve aussi dans les friches abandonn&eacute;es et au bord des routes. Avec ses &eacute;pines, elle pose d&rsquo;&eacute;normes probl&egrave;mes aux agriculteurs lors des op&eacute;rations de d&eacute;sherbage.<br /> <strong>Hawaii </strong>: Pr&eacute;sente et envahissante.<br /> <strong>Madagascar </strong>: Esp&egrave;ce de fr&eacute;quence faible dans les cultures annuelles pouvant former des buissons g&ecirc;nant au bord des champs et le long des canaux.<br /> <strong>Maurice </strong>: Adventice &agrave; faible nuisibilit&eacute;, dont la persistante dans les cultures est r&eacute;duite.<br /> <strong>Nouvelle-Guin&eacute;e</strong> : Pr&eacute;sente et envahissante.<br /> <strong>Polyn&eacute;sie fran&ccedil;aise</strong> : Esp&egrave;ce introduite en 1920 comme plante fruiti&egrave;re. Elle est maintenant envahissante dans les for&ecirc;ts humides de basse, moyenne et haute altitude de 0 &agrave; 2200 m dans les Australes (Rapat), Gambier (Mangareva), Marquises (Hiva Oa), Soci&eacute;t&eacute;.<br /> <strong>La R&eacute;union</strong> : Adventice fr&eacute;quente en sous bois humide, clair, d&eacute;grad&eacute;. Elle peut, dans certains cas, former des taches importantes et prendre un caract&egrave;re envahissant pour le milieu naturel. Elle est tr&egrave;s rare en culture et appara&icirc;t ponctuellement dans les p&acirc;turages d&#39;altitude.<br /> <strong>Seychelles</strong> : Adventice rare en culture.</p> ",
+dateCreated: "2015-03-19T12:02:56Z",
+lastUpdated: "2015-04-29T14:18:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766576400,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5764,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:54Z",
+lastUpdated: "2015-03-31T04:44:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766574748,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5765,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:54Z",
+lastUpdated: "2015-03-20T10:23:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766574748,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5763,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:54Z",
+lastUpdated: "2015-03-20T10:23:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=500&fr=1&sts=sss&lang=FR"
+},
+{
+title: "DEDR, (2008). Les plantes envahissantes en Polynésie française. Guide illustré d'identification. Tahiti."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766574747,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 5826,
+url: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121407.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121407_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:26:28Z",
+rating: 0
+},
+{
+id: 5827,
+url: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121409.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121409_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:26:29Z",
+rating: 0
+},
+{
+id: 5828,
+url: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121408.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121408_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:26:29Z",
+rating: 0
+},
+{
+id: 5829,
+url: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121410.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121410_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:26:29Z",
+rating: 0
+},
+{
+id: 5830,
+url: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121403.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121403_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:26:29Z",
+rating: 0
+},
+{
+id: 5831,
+url: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121405.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121405_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:26:29Z",
+rating: 0
+},
+{
+id: 5832,
+url: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121402.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121402_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:26:30Z",
+rating: 0
+},
+{
+id: 5833,
+url: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121404.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121404_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:26:30Z",
+rating: 0
+},
+{
+id: 5834,
+url: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121406.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_10121406_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:26:30Z",
+rating: 0
+},
+{
+id: 5835,
+url: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_101214.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rubus rosifolius/rubro_20080609_101214_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:26:30Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

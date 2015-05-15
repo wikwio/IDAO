@@ -1,0 +1,3245 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 284,
+title: "<i>Salvinia adnata </i>Desv. ",
+taxonConcept: {
+id: 544,
+name: "Salvinia adnata Desv.",
+canonicalForm: "Salvinia adnata",
+italicisedForm: "<i>Salvinia adnata </i>Desv. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 393,
+name: "Polypodiopsida",
+canonicalForm: "Polypodiopsida",
+italicisedForm: "<i>Polypodiopsida</i>",
+rank: "Class"
+},
+{
+id: 542,
+name: "Salviniaceae",
+canonicalForm: "Salviniaceae",
+italicisedForm: "<i>Salviniaceae</i>",
+rank: "Family"
+},
+{
+id: 543,
+name: "Salvinia",
+canonicalForm: "Salvinia",
+italicisedForm: "<i>Salvinia</i>",
+rank: "Genus"
+},
+{
+id: 544,
+name: "Salvinia adnata Desv.",
+canonicalForm: "Salvinia adnata",
+italicisedForm: "<i>Salvinia adnata </i>Desv. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 5867,
+name: "Salvinia molesta D.S. Mitch.",
+canonicalForm: "Salvinia molesta",
+italicisedForm: "<i>Salvinia molesta </i>D.S. Mitch. ",
+taxonConcept: {
+id: 544
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1308,
+name: "Watervaring",
+taxonConcept: {
+id: 544
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 1310,
+name: "African pyle",
+taxonConcept: {
+id: 544
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1311,
+name: "Kariba weed",
+taxonConcept: {
+id: 544
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1309,
+name: "Water fern",
+taxonConcept: {
+id: 544
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:28:17Z",
+lastRevised: "2015-03-19T12:03:18Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20101122_113442_th1.jpg",
+notes: "<h6>Biological Type</h6><p>ferns</p><h6>Code</h6><p>SAVMO</p><h6>Habitat</h6><p>aquatic</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>ferns</p><h6>Code</h6><p>SAVMO</p><h6>Habitat</h6><p>aquatic</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 2001,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>ferns</p><h6>Code</h6><p>SAVMO</p><h6>Habitat</h6><p>aquatic</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2014-09-24T18:30:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426847,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1985,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>First Leaves</h6><p>First fronds ovate to obovate, fleshy, truncate or cordate at base and apex rounded to obtuse. They measure 1.5 cm long and 0.8 cm wide. The upper surface is covered with hairs associated forming small cages. They are arranged in whorls of 3 leaves, 2 green in surface and 1 lower surface immersed in filaments.</p><h6>Leaf</h6><p>Fronds are simple in whorls of 3. Two of them are floating and green. The third is immersed is divided into many filaments similar to roots whose role is to draw the nutrients in the water. Floating fronds are carried by a short petiole false. They are oval oblong, base cordate and deeply emarginate apex. They measure 38 mm long and 25 mm wide. The upper surface is covered with hair compounds, formed by the juxtaposition of four that diverge uniseriate hairs then joined to form a structure shape of small cage. The underside is glabrous except for a few simple hairs along the center crease. Submerged filamentous fronds are dark brown and measure up to 4 cm long. They are covered with hairs.</p><h6>General Habit</h6><p>Salvinia molesta is a floating fern annual or perennial, branched rhizome and floating slim, measuring up to 30 cm long. Rapid growth, it forms dense mats.</p><h6>Underground System</h6><p>It is a plant without roots.</p><h6>Fruit</h6><p>Salvinia plants are usually sterile. If sporocarps (spore sacs) are formed they are 2-3 mm long and borne in clusters along the root-like leaves. Spores, when produced, are not viable.</p><h6>Global Description</h6><p>Salvinia adnata is an aquatic, mat-forming, free-floating fern with horizontal stems up to 25cm long. The ?leaves? (fronds), borne on short stalks, are arranged along the stems in threes, two unwettable floating leaves and a submerged leaf at each node. The floating leaf-like fronds are oval with a cordate base, 7-40 mm long and 7-25 mm wide, pale green to greenish brown, frequently overlapping and folded along the midrib. Their upper surfaces are covered with water-repellent waxy hairs. These hairs (1-3 mm long) are arranged in distinct rows and are tipped with distinctive egg-beater shaped structures that aid buoyancy. The lower surface only has simple hairs near the midrib. The third frond is submerged in water, root-like and slender, up to 30 cm long and covered with fine brown hairs.</p><h6>Inflorescence</h6><p>The central filaments submerged fronds, fertile, are sporocarpswhich are globose, indehiscent, staggered in pairs along the filament and covered with short hairs. Those of the base are smaller females. The subsessile ones are male. They are surrounded by a thin indusium globose attached to the base of the cylindrical receptacle.</p><h6>Stem</h6><p>Plants produce slender, branching runners and form mats of vegetation very quickly. These slender stems (1-2 mm thick) are much-branched and grow up to 30 cm long (usually only 6-25 cm long) before separating to form new plants. The length of stem between the joints (nodes), that is the internode length, varies depending on the density of the weed. When plant density is low the 'internode' length is relatively long, but as plant density increases, the 'internode' length may become very short.</p>",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2014-09-24T18:30:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426767,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1994,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Salvinia adnata Desv.",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2014-09-24T18:30:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426822,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1995,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Annual or perennial species. It multiplies by spores and fragmentation of plants carried by water, animals and released by human activities.Salvinia adnata spreads only vegetatively by fragmentation. Individual plants can consist of as little as a piece of stem with two floating 'leaves' and a third 'leaf', which is modified into feathery 'roots' and remains submerged. Dispersal of these plants occurs during floods and also during water movement caused by water currents or wind and through dumping of pond waste. It may also be spread by animals (through long distances by water birds), vehicles and boats.<br>",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2014-09-24T18:30:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426823,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1983,
+field: {
+concept: "Natural History",
+category: "Look Alikes",
+description: "Other taxa that this taxon may be confused with, and characters useful for their differentiation. Useful for identification and comparison. Common in invasive species communities.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Salvinia adnata is a very distinctive floating plant and is rarely confused with other species. However, it has been confused with Azolla filiculoides (red azolla) when young. Azolla filiculoides can be distinguished from Salvinia adnata by having tiny overlapping scale-like leaves, not having egg-beater shaped hairs on the upper surface of their leaves, and by the fact that individual plants rarely grow larger than 2 cm in size. A more likely cause of confusion is with Salvinia hastate, which is a native species.<br>",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2014-09-24T18:30:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426762,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2004,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Shallow water, slow or stagnant. Irrigated lowland rice. Salvinia adnata prefers tropical, sub-tropical or warm temperate areas of the world and grows best in still or slow-moving water bodies including ditches, ponds, lakes, slow rivers and canals. It grows optimally at a water temperature of between 20?C and 30?C. Buds are killed when exposed for more than two hours to temperatures below -3?C or above 43?C. Salvinia is able to tolerate salinity levels one tenth that of seawater, allowing the weed to adapt to a wide range of benthic environments. Growth is greatly stimulated by an increase in nutrient levels.<br>",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2014-09-24T18:30:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426854,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1981,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Origin</h6><p>Native to South America (south-eastern Brazil).</p>",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2014-09-24T18:30:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426762,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2002,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Local Weediness</h6><p>South Africa: Existing legislation: CARA 2002 ? Category 1 Proposed legislation: NEMBA ? Category 1b. A problem in Western and Eastern Cape, KwaZulu-Natal, Gauteng, Mpumalanga and Limpopo. Forms dense mats up to 50 cm thick which completely cover a water surface. The mats clog waterways and irrigation equipment, reduce waterflow, impede navigation, fishing and other recreational activities, provide a breeding place for mosquitoes and bilharzia-carrying snails. Dense mats reduce light penetration, reduce oxygen levels and result in poor water quality. Dense mats threaten indigenous aquatic plant and animal life.</p>",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2014-09-24T18:30:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426848,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1982,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Ornament.<br>",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2014-09-24T18:30:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426762,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2003,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-04-01T16:57:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+title: "-Invasive Species South Africa."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426848,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1987,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-04-01T16:57:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "-Invasive Species South Africa."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426789,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1989,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-04-01T16:57:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+title: "-Invasive Species South Africa."
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+title: "-Australian Government. Weeds in Australia."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426800,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1996,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-04-01T16:57:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "-Invasive Species South Africa."
+},
+{
+title: "-Invasive Species South Africa."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426823,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1999,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-04-01T16:57:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+title: "-Invasive Species South Africa."
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426837,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1998,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-04-01T16:57:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+title: "-Invasive Species South Africa."
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426833,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1997,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-04-01T16:57:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+title: "-Invasive Species South Africa."
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426828,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1988,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-04-01T16:57:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+title: "-Invasive Species South Africa."
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426793,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1980,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-04-01T16:57:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+title: "-Invasive Species South Africa."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426742,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1993,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-03-06T01:58:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+title: "-Invasive Species South Africa."
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426818,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1984,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-04-01T16:57:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Invasive Species South Africa."
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426763,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1990,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-03-12T02:22:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+title: "-Invasive Species South Africa."
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426804,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1986,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-04-01T16:57:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-BioNET-EAFRINET."
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+title: "-Invasive Species South Africa."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426768,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1992,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-03-17T03:09:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+title: "-Invasive Species South Africa."
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426813,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1991,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-04-01T16:57:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "-Invasive Species South Africa."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426809,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2000,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:26Z",
+lastUpdated: "2015-04-01T16:57:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.hear.org/pier/species/salvinia_molesta.htm"
+},
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+},
+{
+title: "-Hyde, M.A., Wursten, B.T. & Ballings, P. (2013). Flora of Zimbabwe: Species information: Salvinia molesta."
+},
+{
+url: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Salvinia_molesta_%28Kariba_Weed%29.htm"
+},
+{
+title: "-Australian Government. Weeds in Australia."
+},
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=569&fr=1&sts=sss&lang=EN"
+},
+{
+title: "-BioNET-EAFRINET."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=102890"
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+title: "-Global Invasive Species Database (GISD)."
+},
+{
+title: "-Pacific Island Ecosystems at Risk (PIER)."
+},
+{
+title: "-Invasive Species South Africa."
+},
+{
+url: "http://www.environment.gov.au/cgi-bin/biodiversity/invasive/weeds/weeddetails.pl?taxon_id=13665"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.invasives.org.za/component/k2/item/336-kariba-weed%7Csalvinia-molesta.html"
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.393."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583426842,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5828,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Salvinia adnata est une fougère flottante annuelle à vivace, ramifiée et à rhizome flottant. C'est une plante sans racine, composée uniquement de frondes qui sont disposées en verticilles par 3. Deux d'entre elles sont flottantes et vertes, la troisième immergée est découpée en filaments nombreux semblables à des racines. Sporocarpes globuleux en chainettes fixés sur les filaments centraux des frondes immergées.</p>",
+dateCreated: "2015-03-19T12:03:18Z",
+lastUpdated: "2015-03-19T12:03:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766598793,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5817,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>SAVMO</p><h6>Type Biologique</h6><p>fougère</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>aquatique</p>",
+dateCreated: "2015-03-19T12:03:16Z",
+lastUpdated: "2015-03-19T12:03:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766596376,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5820,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Salvinia adnata est une fougère flottante annuelle à vivace, ramifiée et à rhizome flottant. C'est une plante sans racine, composée uniquement de frondes qui sont disposées en verticilles par 3. Deux d'entre elles sont flottantes et vertes, la troisième immergée est découpée en filaments nombreux semblables à des racines. Sporocarpes globuleux en chainettes fixés sur les filaments centraux des frondes immergées.</p><h6>Premières Feuilles</h6><p>Premières frondes ovales à obovales, charnues, à base tronquée ou cordée et sommet arrondi à obtus. Elles mesurent 1,5 cm de long et 0,8 cm de large. La face supérieure est couverte de poils associés formant de petites cages. Elles sont disposées par verticilles de 3 feuilles, 2 vertes en surface et 1 inférieure immergée en forme de filaments.</p><h6>Port</h6><p>Salvinia adnata est une fougère flottante annuelle à vivace, ramifiée et à rhizome flottant élancé, qui mesure jusqu'à 30 cm de long. De croissance rapide, elle forme des tapis denses.</p><h6>Système Souterrain</h6><p>C'est une plante sans racine.</p><h6>Tige</h6><p>Rhizome flottant.</p><h6>Feuille</h6><p>Frondes simples qui sont disposées en verticilles par 3. Deux d'entre elles sont flottantes et vertes. La troisième qui est immergée est découpée en filaments nombreux semblables à des racines dont le rôle est de puiser les éléments nutritifs dans l'eau. Les frondes flottantes sont portées par un court faux pétiole. Elles sont ovales oblongues, à base cordée et sommet profondément émarginé. Elles mesurent 38 mm de long et 25 mm de large. La face supérieure est couverte de poils composés, constitués par la juxtaposition de 4 poils unisériés qui s'écartent puis se rejoignent pour former une structure à allure de petite cage. La face inférieure est glabre à l'exception de quelques poils simples le long du pli central. Les frondes submergées filamenteuses sont de couleur brun foncé et mesurent jusqu'à 4 cm de long. Elles sont couvertes de poils absorbants.</p><h6>Inflorescence</h6><p>Les filaments centraux des frondes immergées, fertiles, portent les sporocarpes globuleux, indéhiscents, échelonnés par paires le long du filament et couverts d'une pubescence courte. Ceux de la base, plus petit sont femelles. Les autres, subsessiles, sont mâles. Ils sont tous entourés par une fine indusie globuleuse fixée à la base du réceptacle cylindrique.</p>",
+dateCreated: "2015-03-19T12:03:17Z",
+lastUpdated: "2015-03-19T12:03:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766597031,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5821,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Salvinia adnata Desv.",
+dateCreated: "2015-03-19T12:03:17Z",
+lastUpdated: "2015-03-19T12:03:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766597316,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5825,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Espèce annuelle à vivace. Elle se multiplie par spores et par fragmentation des plantes transportées par l'eau, les animaux et diffusées par les activités humaines.<br>",
+dateCreated: "2015-03-19T12:03:18Z",
+lastUpdated: "2015-03-19T12:03:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766598093,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5822,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Amérique du sud</p>",
+dateCreated: "2015-03-19T12:03:17Z",
+lastUpdated: "2015-03-19T12:03:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766597505,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5824,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "S. adnata se développe dans les eaux peu profondes, lentes ou stagnantes. Rizières irriguées de bas-fonds.<br>",
+dateCreated: "2015-03-19T12:03:17Z",
+lastUpdated: "2015-03-19T12:03:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766597902,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5823,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Amérique du sud</p>",
+dateCreated: "2015-03-19T12:03:17Z",
+lastUpdated: "2015-03-19T12:03:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766597693,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5826,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Mali : Fréquente et généralement abondante. Mayotte : Présente et très envahissante sur le lac de Combani.</p>",
+dateCreated: "2015-03-19T12:03:18Z",
+lastUpdated: "2015-03-19T12:03:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766598282,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5827,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Pour des conseils de désherbage des adventices aquatiques flottantes du riz irrigué et de bas-fond en Afrique consulter: http://portal.wikwio.org/document/show/21</p>",
+dateCreated: "2015-03-19T12:03:18Z",
+lastUpdated: "2015-03-19T12:03:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766598535,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5819,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:03:16Z",
+lastUpdated: "2015-03-31T06:53:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766596692,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5818,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:03:16Z",
+lastUpdated: "2015-03-31T06:53:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766596691,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 5917,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20101122_113442.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20101122_113442_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:29Z",
+rating: 0
+},
+{
+id: 5918,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_095320.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_095320_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:29Z",
+rating: 0
+},
+{
+id: 5919,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_103952.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_103952_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:29Z",
+rating: 0
+},
+{
+id: 5920,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123930.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123930_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:29Z",
+rating: 0
+},
+{
+id: 5921,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_122731.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_122731_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:29Z",
+rating: 0
+},
+{
+id: 5922,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123851.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123851_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:30Z",
+rating: 0
+},
+{
+id: 5923,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123949.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123949_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:30Z",
+rating: 0
+},
+{
+id: 5924,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123158.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123158_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:30Z",
+rating: 0
+},
+{
+id: 5925,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123024.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123024_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:30Z",
+rating: 0
+},
+{
+id: 5926,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_103900.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_103900_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:30Z",
+rating: 0
+},
+{
+id: 5927,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123057.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123057_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:31Z",
+rating: 0
+},
+{
+id: 5928,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123105.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123105_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:31Z",
+rating: 0
+},
+{
+id: 5929,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_093438.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_093438_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:31Z",
+rating: 0
+},
+{
+id: 5930,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_124058.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_124058_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:31Z",
+rating: 0
+},
+{
+id: 5931,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_122758.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_122758_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:31Z",
+rating: 0
+},
+{
+id: 5932,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20070516_151540.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20070516_151540_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:32Z",
+rating: 0
+},
+{
+id: 5933,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123129.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_123129_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:32Z",
+rating: 0
+},
+{
+id: 5934,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_103832.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_103832_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:32Z",
+rating: 0
+},
+{
+id: 5935,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_103934.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_103934_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:32Z",
+rating: 0
+},
+{
+id: 5936,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_124026.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_124026_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:33Z",
+rating: 0
+},
+{
+id: 5937,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_103644.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_103644_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:33Z",
+rating: 0
+},
+{
+id: 5938,
+url: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_103820.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Salvinia adnata/savmo_20120125_103820_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:28:33Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

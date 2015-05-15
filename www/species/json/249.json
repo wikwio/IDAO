@@ -1,0 +1,2765 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 249,
+title: "<i>Pennisetum polystachion (</i>L.<i>) </i>Schult. ",
+taxonConcept: {
+id: 471,
+name: "Pennisetum polystachion (L.) Schult.",
+canonicalForm: "Pennisetum polystachion",
+italicisedForm: "<i>Pennisetum polystachion (</i>L.<i>) </i>Schult. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 468,
+name: "Pennisetum",
+canonicalForm: "Pennisetum",
+italicisedForm: "<i>Pennisetum</i>",
+rank: "Genus"
+},
+{
+id: 471,
+name: "Pennisetum polystachion (L.) Schult.",
+canonicalForm: "Pennisetum polystachion",
+italicisedForm: "<i>Pennisetum polystachion (</i>L.<i>) </i>Schult. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 5304,
+name: "Cenchrus retusus Sw.",
+canonicalForm: "Cenchrus retusus",
+italicisedForm: "<i>Cenchrus retusus </i>Sw. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5305,
+name: "Cenchrus setosus Sw.",
+canonicalForm: "Cenchrus setosus",
+italicisedForm: "<i>Cenchrus setosus </i>Sw. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5306,
+name: "Gymnotrix geniculata Schult.",
+canonicalForm: "Gymnotrix geniculata",
+italicisedForm: "<i>Gymnotrix geniculata </i>Schult. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5307,
+name: "Gymnotrix polystachya (L.) Sw. ex Trin.",
+canonicalForm: "Gymnotrix polystachya",
+italicisedForm: "<i>Gymnotrix polystachya (</i>L.<i>) </i>Sw.<i> ex </i>Trin. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5308,
+name: "Gymnotrix ramosa Hochst.",
+canonicalForm: "Gymnotrix ramosa",
+italicisedForm: "<i>Gymnotrix ramosa </i>Hochst. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5309,
+name: "Panicum alopecuros Lam.",
+canonicalForm: "Panicum alopecuros",
+italicisedForm: "<i>Panicum alopecuros </i>Lam. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5310,
+name: "Panicum barbatum Roxb. [Illegitimate]",
+canonicalForm: "Panicum barbatum",
+italicisedForm: "<i>Panicum barbatum </i>Roxb.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5311,
+name: "Panicum cauda-ratti Schumach.",
+canonicalForm: "Panicum cauda-ratti",
+italicisedForm: "<i>Panicum cauda-ratti </i>Schumach. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5312,
+name: "Panicum cenchroides Rich.",
+canonicalForm: "Panicum cenchroides",
+italicisedForm: "<i>Panicum cenchroides </i>Rich. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5313,
+name: "Panicum densispica Poir. [Illegitimate]",
+canonicalForm: "Panicum densispica",
+italicisedForm: "<i>Panicum densispica </i>Poir.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5314,
+name: "Panicum dentispica Kunth [Spelling variant]",
+canonicalForm: "Panicum dentispica",
+italicisedForm: "<i>Panicum dentispica </i>Kunth<i> [Spelling variant]</i>",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5315,
+name: "Panicum erubescens Willd.",
+canonicalForm: "Panicum erubescens",
+italicisedForm: "<i>Panicum erubescens </i>Willd. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5316,
+name: "Panicum holcoides Roxb.",
+canonicalForm: "Panicum holcoides",
+italicisedForm: "<i>Panicum holcoides </i>Roxb. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5317,
+name: "Panicum longisetum Poir.",
+canonicalForm: "Panicum longisetum",
+italicisedForm: "<i>Panicum longisetum </i>Poir. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5318,
+name: "Panicum polystachion L.",
+canonicalForm: "Panicum polystachion",
+italicisedForm: "<i>Panicum polystachion </i>L. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5319,
+name: "Panicum subangustum Schumach.",
+canonicalForm: "Panicum subangustum",
+italicisedForm: "<i>Panicum subangustum </i>Schumach. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5320,
+name: "Panicum triticoides Poir.",
+canonicalForm: "Panicum triticoides",
+italicisedForm: "<i>Panicum triticoides </i>Poir. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5321,
+name: "Pennisetum alopecuroides Ham. [Illegitimate]",
+canonicalForm: "Pennisetum alopecuroides",
+italicisedForm: "<i>Pennisetum alopecuroides </i>Ham.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5322,
+name: "Pennisetum amethystinum P.Beauv. [Invalid]",
+canonicalForm: "Pennisetum amethystinum",
+italicisedForm: "<i>Pennisetum amethystinum </i>P.Beauv.<i> [Invalid]</i>",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5323,
+name: "Pennisetum arvense Pilg.",
+canonicalForm: "Pennisetum arvense",
+italicisedForm: "<i>Pennisetum arvense </i>Pilg. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5324,
+name: "Pennisetum barbatum Schult.",
+canonicalForm: "Pennisetum barbatum",
+italicisedForm: "<i>Pennisetum barbatum </i>Schult. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5325,
+name: "Pennisetum borbonicum Kunth",
+canonicalForm: "Pennisetum borbonicum",
+italicisedForm: "<i>Pennisetum borbonicum </i>Kunth ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5326,
+name: "Pennisetum breve Nees",
+canonicalForm: "Pennisetum breve",
+italicisedForm: "<i>Pennisetum breve </i>Nees ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5327,
+name: "Pennisetum cauda-ratti (Schumach.) Franch.",
+canonicalForm: "Pennisetum cauda-ratti",
+italicisedForm: "<i>Pennisetum cauda-ratti (</i>Schumach.<i>) </i>Franch. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5328,
+name: "Pennisetum ciliares Hook.f. [Invalid]",
+canonicalForm: "Pennisetum ciliares",
+italicisedForm: "<i>Pennisetum ciliares </i>Hook.f.<i> [Invalid]</i>",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5329,
+name: "Pennisetum ciliatum Parl. ex Webb",
+canonicalForm: "Pennisetum ciliatum",
+italicisedForm: "<i>Pennisetum ciliatum </i>Parl.<i> ex </i>Webb ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5330,
+name: "Pennisetum dasystachyum Desv.",
+canonicalForm: "Pennisetum dasystachyum",
+italicisedForm: "<i>Pennisetum dasystachyum </i>Desv. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5331,
+name: "Pennisetum erubescens (Willd.) Desv. ex Ham.",
+canonicalForm: "Pennisetum erubescens",
+italicisedForm: "<i>Pennisetum erubescens (</i>Willd.<i>) </i>Desv.<i> ex </i>Ham. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5332,
+name: "Pennisetum flavescens J.Presl",
+canonicalForm: "Pennisetum flavescens",
+italicisedForm: "<i>Pennisetum flavescens </i>J.Presl ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5333,
+name: "Pennisetum gabonense Franch.",
+canonicalForm: "Pennisetum gabonense",
+italicisedForm: "<i>Pennisetum gabonense </i>Franch. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5334,
+name: "Pennisetum gracile Benth.",
+canonicalForm: "Pennisetum gracile",
+italicisedForm: "<i>Pennisetum gracile </i>Benth. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5335,
+name: "Pennisetum hamiltonii Steud.",
+canonicalForm: "Pennisetum hamiltonii",
+italicisedForm: "<i>Pennisetum hamiltonii </i>Steud. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5336,
+name: "Pennisetum hirsutum Nees",
+canonicalForm: "Pennisetum hirsutum",
+italicisedForm: "<i>Pennisetum hirsutum </i>Nees ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5337,
+name: "Pennisetum holcoides (Roxb.) Schult.",
+canonicalForm: "Pennisetum holcoides",
+italicisedForm: "<i>Pennisetum holcoides (</i>Roxb.<i>) </i>Schult. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5338,
+name: "Pennisetum myurus Parl.",
+canonicalForm: "Pennisetum myurus",
+italicisedForm: "<i>Pennisetum myurus </i>Parl. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5339,
+name: "Pennisetum nicaraguense E.Fourn.",
+canonicalForm: "Pennisetum nicaraguense",
+italicisedForm: "<i>Pennisetum nicaraguense </i>E.Fourn. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5340,
+name: "Pennisetum ovale Rupr. ex Steud. [Illegitimate]",
+canonicalForm: "Pennisetum ovale",
+italicisedForm: "<i>Pennisetum ovale </i>Rupr.<i> ex </i>Steud.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5341,
+name: "Pennisetum pallidum Nees",
+canonicalForm: "Pennisetum pallidum",
+italicisedForm: "<i>Pennisetum pallidum </i>Nees ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5342,
+name: "Pennisetum polystachion subsp. polystachion",
+canonicalForm: "Pennisetum polystachion polystachion",
+italicisedForm: "<i>Pennisetum polystachion </i>subsp.<i> polystachion</i>",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5343,
+name: "Pennisetum polystachion subsp. setosum (Sw.) Brunken",
+canonicalForm: "Pennisetum polystachion setosum",
+italicisedForm: "<i>Pennisetum polystachion </i>subsp.<i> setosum (</i>Sw.<i>) </i>Brunken ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5344,
+name: "Pennisetum polystachion f. viviparum Fosberg & Sachet",
+canonicalForm: "Pennisetum polystachion viviparum",
+italicisedForm: "<i>Pennisetum polystachion </i>f.<i> viviparum </i>Fosberg<i> & </i>Sachet ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5345,
+name: "Pennisetum ramosum (Hochst.) Schweinf.",
+canonicalForm: "Pennisetum ramosum",
+italicisedForm: "<i>Pennisetum ramosum (</i>Hochst.<i>) </i>Schweinf. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5346,
+name: "Pennisetum reversum Hack.",
+canonicalForm: "Pennisetum reversum",
+italicisedForm: "<i>Pennisetum reversum </i>Hack. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5347,
+name: "Pennisetum richardii Kunth",
+canonicalForm: "Pennisetum richardii",
+italicisedForm: "<i>Pennisetum richardii </i>Kunth ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5348,
+name: "Pennisetum setosum (Sw.) Rich.",
+canonicalForm: "Pennisetum setosum",
+italicisedForm: "<i>Pennisetum setosum (</i>Sw.<i>) </i>Rich. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5349,
+name: "Pennisetum setosum var. breve (Nees) Döll",
+canonicalForm: "Pennisetum setosum breve",
+italicisedForm: "<i>Pennisetum setosum </i>var.<i> breve (</i>Nees<i>) </i>Döll ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5350,
+name: "Pennisetum sieberi Kunth",
+canonicalForm: "Pennisetum sieberi",
+italicisedForm: "<i>Pennisetum sieberi </i>Kunth ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5351,
+name: "Pennisetum stenostachyum Peter",
+canonicalForm: "Pennisetum stenostachyum",
+italicisedForm: "<i>Pennisetum stenostachyum </i>Peter ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5352,
+name: "Pennisetum subangustum (Schumach.) Stapf & C.E.Hubb.",
+canonicalForm: "Pennisetum subangustum",
+italicisedForm: "<i>Pennisetum subangustum (</i>Schumach.<i>) </i>Stapf<i> & </i>C.E.Hubb. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5353,
+name: "Pennisetum tenuispiculatum Steud.",
+canonicalForm: "Pennisetum tenuispiculatum",
+italicisedForm: "<i>Pennisetum tenuispiculatum </i>Steud. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5354,
+name: "Pennisetum triticoides (Poir.) Roem. & Schult.",
+canonicalForm: "Pennisetum triticoides",
+italicisedForm: "<i>Pennisetum triticoides (</i>Poir.<i>) </i>Roem.<i> & </i>Schult. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5355,
+name: "Pennisetum uniflorum Kunth",
+canonicalForm: "Pennisetum uniflorum",
+italicisedForm: "<i>Pennisetum uniflorum </i>Kunth ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5356,
+name: "Setaria cenchroides (Rich.) Roem. & Schult.",
+canonicalForm: "Setaria cenchroides",
+italicisedForm: "<i>Setaria cenchroides (</i>Rich.<i>) </i>Roem.<i> & </i>Schult. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5357,
+name: "Setaria erubescens (Willd.) P.Beauv.",
+canonicalForm: "Setaria erubescens",
+italicisedForm: "<i>Setaria erubescens (</i>Willd.<i>) </i>P.Beauv. ",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5358,
+name: "Setaria geniculata Sieber ex Kunth [Invalid]",
+canonicalForm: "Setaria geniculata",
+italicisedForm: "<i>Setaria geniculata </i>Sieber<i> ex </i>Kunth<i> [Invalid]</i>",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1204,
+name: "Rambonalika",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1202,
+name: "Solonalika",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1203,
+name: "Herbe ma tante",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1206,
+name: "Lerb ma tant",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1205,
+name: "Ma tante",
+taxonConcept: {
+id: 471
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:14:09Z",
+lastRevised: "2015-05-08T16:06:16Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20040813_175656_th1.jpg",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>PESPO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>PESPO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1807,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>PESPO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:15:07Z",
+lastUpdated: "2014-09-24T18:15:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582507273,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1806,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Pennisetum polystachion (L.) Schult.",
+dateCreated: "2014-09-24T18:15:07Z",
+lastUpdated: "2014-09-24T18:15:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582507272,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5426,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Pennisetum polystachion est une plante herbacée en touffe plus ou moins importante, de 60 à 150 cm de hauteur. Les feuilles sont linéaires lancéolées. La ligule est membrano-ciliée. L'inflorescence est un épi terminal de 3 cm de diamètre, d'aspect laineux, de couleur rose foncé à argenté.</p>",
+dateCreated: "2015-03-19T11:58:54Z",
+lastUpdated: "2015-03-19T11:58:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766334255,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5400,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>PESPO</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:58:49Z",
+lastUpdated: "2015-03-19T11:58:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766329458,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5417,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Pennisetum polystachion</em> est une plante herbac&eacute;e en touffe plus ou moins importante, de 60 &agrave; 150 cm de hauteur. Les feuilles sont lin&eacute;aires lanc&eacute;ol&eacute;es. La ligule est membrano-cili&eacute;e. L&#39;inflorescence est un &eacute;pi terminal de 3 cm de diam&egrave;tre, d&#39;aspect laineux, de couleur rose fonc&eacute; &agrave; argent&eacute;.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Les premi&egrave;res feuilles ont une pr&eacute;foliaison enroul&eacute;e. Le limbe est lanc&eacute;ol&eacute;, long de 2 &agrave; 5 cm et large de 9 &agrave; 12 mm. Il est &eacute;tal&eacute;. La ligule est membrano-cili&eacute;e. La gaine est parsem&eacute;e de poils longs de 2 mm, surtout &agrave; proximit&eacute; de la ligule. La nervure centrale forme une goutti&egrave;re peu marqu&eacute;e. Les jeunes feuilles sont souvent teint&eacute;es de pourpre &agrave; la base.</p> <h6> Port</h6> <p> Plante en touffe &eacute;paisse. La plante pr&eacute;sente g&eacute;n&eacute;ralement un fort tallage. Elle mesure jusqu&#39;&agrave; 150 cm de hauteur.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Racines fascicul&eacute;es.</p> <h6> Tige</h6> <p> Chaume cylindrique et glabre. Il est robuste &agrave; la base, large de 2 &agrave; 4 mm, de couleur verd&acirc;tre, souvent teint&eacute; de pourpre &agrave; la base. Les noeuds sont glabres et de couleur claire.</p> <h6> Feuille</h6> <p> Feuilles alternes, simples. La gaine est glabre. Elle est cylindrique et pr&eacute;sente une car&egrave;ne ronde peu marqu&eacute;e. Elle est souvent teint&eacute;e de pourpre. La ligule est membrano-cili&eacute;e, haute de 1 mm. Le limbe est lin&eacute;aire &agrave; lanc&eacute;ol&eacute;, au sommet en pointe aigu&euml;. Il est dress&eacute; obliquement et plat. La nervure centrale forme une goutti&egrave;re peu marqu&eacute;e, &agrave; section triangulaire. Le limbe est long de 10 &agrave; 45 cm et large de 5 &agrave; 12 mm. La marge et la face sup&eacute;rieure sont scabres. Les deux faces du limbe sont plus ou moins parsem&eacute;es de longs poils tubercul&eacute;s.</p> <h6> Inflorescence</h6> <p> Inflorescence en panicule cylindrique tr&egrave;s contract&eacute;e, ayant l&#39;aspect d&#39;un &eacute;pi terminal, long de 5 &agrave; 20 cm et large de 1 &agrave; 2 cm. Le rachis est anguleux, pr&eacute;sentant des c&ocirc;tes saillantes sous les involucres de soies. Chaque involucre entoure un &eacute;pillet unique et sessile. Les soies de l&#39;involucre sont filiformes, longues de 0,5 &agrave; 10 mm et g&eacute;n&eacute;ralement de couleur pourpre. La plus longue peut mesurer jusqu&#39;&agrave; 30 mm. La partie terminale des bract&eacute;es est scabre et la partie basale est laineuse aux poils enchev&ecirc;tr&eacute;s.</p> <h6> Fleur</h6> <p> Les &eacute;pillets sont lanc&eacute;ol&eacute;s fusiformes, longs de 4 &agrave; 5 mm. Ils sont compos&eacute;s de 2 fleurs ; l&#39;inf&eacute;rieure est m&acirc;le ou st&eacute;rile, la sup&eacute;rieure est fertile. La glume inf&eacute;rieure est lanc&eacute;ol&eacute;e et mesure moins de la moiti&eacute; de la longueur de l&#39;&eacute;pillet. La glume sup&eacute;rieure et la lemma de la fleur inf&eacute;rieure sont aussi longues que l&#39;&eacute;pillet. Elles sont trifides au sommet, la glume sup&eacute;rieure est l&eacute;g&egrave;rement apicul&eacute;e. Les glumes et la lemma inf&eacute;rieure sont membraneuses et glabres. La lemma de la fleur sup&eacute;rieure est dure, lisse et brillante. Elle mesure 2 mm de long. Ses bords se referment partiellement sur la pal&eacute;a, de m&ecirc;me nature. A maturit&eacute;, l&#39;ensemble de l&#39;involucre se d&eacute;tache du rachis.</p> <h6> Fruit</h6> <p> Grain fusiforme, long de 1,5 &agrave; 2,5 mm et reste inclus dans la pal&eacute;a et la lemma.</p> ",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-05-08T16:05:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330401,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5419,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Pennisetum polystachion (L.) Schult.",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-19T11:58:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330570,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5418,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Nord-Cameroun</strong> : La p&eacute;riode de germination de <em>P. polystachion</em> commence en avril d&egrave;s les premi&egrave;res pluies et se prolonge jusqu&#39;&agrave; fin mai. Les labours pr&eacute;coces effectu&eacute;s en mai sont suivis de nouvelles germinations jusqu&#39;en juin. Lorsque le labour est tardif (fin juin), les nouvelles lev&eacute;es sont rares. En revanche, les red&eacute;marrages de touffes mal enfouies sont tr&egrave;s fr&eacute;quents et participent rapidement &agrave; l&#39;envahissement de la parcelle. La p&eacute;riode de v&eacute;g&eacute;tation est longue et les inflorescences n&#39;apparaissent qu&#39;au mois d&#39;ao&ucirc;t, voire fin septembre pour les individus lev&eacute;s tardivement. La fructification et la diss&eacute;mination ont lieu d&#39;octobre &agrave; d&eacute;but d&eacute;cembre jusqu&#39;au dess&egrave;chement de la plante en d&eacute;but de saison s&egrave;che.<br /> ",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-05-08T16:05:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330485,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5423,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Pennistum polystachion</em> est une esp&egrave;ce annuelle qui se multiplie uniquement par graines.<br /> ",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-05-08T16:06:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330928,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5416,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Cette esp&egrave;ce se distingue de <em>P. pedicellatum</em> par ses involucres comprenant un seul &eacute;pillet sessile et totalement glabre.<br /> ",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-05-08T16:06:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330317,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5422,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Nord-Cameroun</strong> : <em>P. polystachion</em> est une esp&egrave;ce qui se d&eacute;veloppe des r&eacute;gions sah&eacute;lo-soudaniennes aux r&eacute;gions soudaniennes et jusque dans les for&ecirc;ts et les savanes guin&eacute;ennes. Les savanes sah&eacute;lo-soudaniennes constituent la limite nord de r&eacute;partition de cette esp&egrave;ce, plus fr&eacute;quente et plus abondante en r&eacute;gion humide. Lorsque le climat ou le sol devient plus sec, des r&eacute;gions soudaniennes aux r&eacute;gions sah&eacute;lo-soudaniennes, <em>P. polystachion</em> est progressivement remplac&eacute;e par <em>P. pedicellatum</em>.<em> P. polystachion</em> est une esp&egrave;ce rud&eacute;rale pr&eacute;sente le long des chemins et tr&egrave;s abondante dans les jeunes jach&egrave;res o&ugrave; elle constitue l&#39;une des composantes principales de la couverture v&eacute;g&eacute;tale. C&#39;est &eacute;galement une adventice tr&egrave;s fr&eacute;quente dans les parcelles cultiv&eacute;es. Elle cro&icirc;t principalement sur les sols limoneux argilo-sableux bien structur&eacute;s et humides comme les planosols et les sols alluviaux. Cette esp&egrave;ce constitue un bon indicateur &eacute;cologique de sol fertile, utilis&eacute; par les agriculteurs pour rep&eacute;rer, lors du d&eacute;frichement, les zones favorables &agrave; la culture du ma&iuml;s.<br /> <strong>Comores </strong>: Cette plante est fr&eacute;quente dans les sols meubles, dans les prairies de moyenne altitude et dans les vieilles cultures.<br /> <strong>Madagascar </strong>: Esp&egrave;ce commune dans toutes les r&eacute;gions climatiques de Madagascar sauf dans le Sud subaride, comme esp&egrave;ce rud&eacute;rale et adventice des cultures sur les sols profonds, de bonne fertilit&eacute; et bien drain&eacute;s. C&rsquo;est une esp&egrave;ce de milieu ou de fin de cycle.<br /> <strong>Maurice </strong>: Esp&egrave;ce dont la pr&eacute;sence est incertaine sur l&#39;&icirc;le.<br /> <strong>La R&eacute;union</strong> : Esp&egrave;ce des savanes s&egrave;ches, herbac&eacute;es de la c&ocirc;te Ouest de l&#39;&icirc;le.<br /> <strong>Seychelles </strong>: Esp&egrave;ce peu fr&eacute;quente.<br /> ",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-05-08T16:07:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330844,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5421,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>Cette espèce est répandue dans toutes les régions tropicales du globe.</p>",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-19T11:58:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330738,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5424,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Nord-Cameroun</strong> :<em> P. polystachion</em> constitue une adventice potentielle g&eacute;n&eacute;rale pr&eacute;sente dans plus de 50 % des parcelles cultiv&eacute;es et souvent de fa&ccedil;on abondante. Les touffes de <em>P. polystachion</em> deviennent tr&egrave;s rapidement robustes, et sont peu affect&eacute;es par les labours tardifs qui ne parviennent pas &agrave; les retourner et &agrave; les enfouir correctement. Elle constitue une adventice importante des cultures intensives et tardives car les herbicides de pr&eacute;lev&eacute;e sont inefficaces contre les individus d&eacute;j&agrave; en place et les herbicides de contact n&#39;ont qu&#39;une faible efficacit&eacute;. La base des touffes &eacute;tant plus ou moins recouverte de terre apr&egrave;s le labour, l&#39;herbicide n&#39;est pulv&eacute;ris&eacute; que sur le sommet des feuilles et ne parvient pas &agrave; tuer la plante qui &eacute;met rapidement de nouvelles feuilles. <em>P. polystachion</em> et <em>P. pedicellatum</em> se rencontrent r&eacute;guli&egrave;rement en association dans les m&ecirc;mes parcelles.<br /> <strong>Comores</strong> : Cette esp&egrave;ce est fr&eacute;quente dans les champs abandonn&eacute;s et rend difficile la remise en culture dans ces milieux<br /> <strong>Madagascar </strong>: Esp&egrave;ce de fr&eacute;quence relativement faible mais localement abondante et tr&egrave;s nuisible pour les cultures de manioc, de riz pluvial ou du coton.<br /> <strong>Maurice </strong>: Elle n&#39;est pas pr&eacute;sente dans les cultures.<br /> <strong>La R&eacute;union</strong> : Esp&egrave;ce non recens&eacute;e en culture.<br /> <strong>Seychelles </strong>: Adventice peu fr&eacute;quente en culture.</p> ",
+dateCreated: "2015-03-19T11:58:51Z",
+lastUpdated: "2015-05-08T16:08:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766331013,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5427,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Usages</h6> <p> <u>Alimentation du b&eacute;tail</u> : De nombreuses esp&egrave;ces de pennisetum sont d&rsquo;excellents fourrages.</p> ",
+dateCreated: "2015-03-19T11:58:54Z",
+lastUpdated: "2015-05-08T16:08:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766334332,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5425,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> <strong>Madagascar </strong>: En g&eacute;n&eacute;ral peu fr&eacute;quente dans les parcelles cultiv&eacute;es, <em>Pennisetum polystachion</em> peut &ecirc;tre &eacute;limin&eacute; par sarclage. Contr&ocirc;le chimique possible &agrave; l&rsquo;atrazine, &agrave; la pendim&eacute;thaline ou au diuron en pr&eacute;-lev&eacute;e, au fenoxaprop-&eacute;thyl ou au fluazifop-p-butyl en post-lev&eacute;e sur jeunes plantes. Seul le glyphosate est efficace sur les plantes &acirc;g&eacute;es.</p> ",
+dateCreated: "2015-03-19T11:58:51Z",
+lastUpdated: "2015-05-08T16:09:31Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766331120,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5412,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-31T06:53:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "ORSTOM-GERDAT-ENSH éd., Montpellier, France, 490p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330194,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5414,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-31T06:53:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Vanden Berghen C., 1983. Matériaux pour une flore de la végétation herbacée de la Casamance occidentale, Sénégal, Fascicule 2, Gramineae. Jardin Botanique National de Belgique, 66p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330194,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5415,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-31T06:53:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Zon van der A.P.M., 1992. Graminées du Cameroun, Vol. II, Flore. Wageningen Agric. Univ. Papers 92 - 1, Wageningen, 557p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330195,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5407,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-31T06:53:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hutchinson J., Dalziel J. M., Keay R. W. J. & Hepper F. N., 1972. Flora of West Tropical Africa. Vol. III part. 2. 2ème éd. The Whitefriars Press ed., London & Tonbridge, 574p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330193,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5402,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-04-08T22:12:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I.O. & Agyakwa C.W., 1989. Guide des adventices d'Afrique de l'Ouest. Institut international d'agriculture tropicale. Ibadan, Nigeria, 521p."
+},
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330192,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5406,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-31T06:53:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330193,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5405,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-31T06:53:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V. & Herberger J. P., 1977. The World's Worst Weeds : Distribution and Biologie. East-West Center, University Press of Hawaii, Honolulu, 609p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330193,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5404,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-31T06:53:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois and H. Merlier (2010). Adventrop V.1.5 Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330192,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5401,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-27T06:38:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Stanfield D.P., 1970. The flora of Nigeria, Grasses. Stanfield and Lowe ed., Ibadan University Press, Ibadan, Nigeria, 118p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330191,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5403,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-31T06:53:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Donfack P., 1993. Etude de la dynamique de la végétation après abandon de la culture au Nord-Cameroun. Thèse Dc. 3ème cycle , Faculté des sciences, Univ. de Yaoundé, Cameroun, 192p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330192,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5408,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-31T06:53:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois Th., 1993. Les mauvaises herbes dans la rotation cotonnière au Nord-Cameroun (Afrique) - Amplitude d'habitat et degré d'infestation - Cycle de développement. Thèse USTL Montpellier II, Montpellier, France, 241p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330193,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5413,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-25T22:29:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330194,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5409,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-31T06:53:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330193,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5410,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-31T06:53:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330194,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5411,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:50Z",
+lastUpdated: "2015-03-31T06:53:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Merlier H. & Montégut J., 1982. Adventices tropicales."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766330194,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 5282,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20040813_175656.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20040813_175656_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:23Z",
+rating: 0
+},
+{
+id: 5283,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20070414_161030.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20070414_161030_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:24Z",
+rating: 0
+},
+{
+id: 5284,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20080609_101246.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20080609_101246_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:24Z",
+rating: 0
+},
+{
+id: 5285,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20080609_101246_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20080609_101246_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:24Z",
+rating: 0
+},
+{
+id: 5286,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_184148.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_184148_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:24Z",
+rating: 0
+},
+{
+id: 5287,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20070414_161400.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20070414_161400_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:24Z",
+rating: 0
+},
+{
+id: 5288,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_090608_091202.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_090608_091202_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:24Z",
+rating: 0
+},
+{
+id: 5289,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20060902_095035.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20060902_095035_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:25Z",
+rating: 0
+},
+{
+id: 5290,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20060902_081415.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20060902_081415_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:25Z",
+rating: 0
+},
+{
+id: 5291,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154600.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154600_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:25Z",
+rating: 0
+},
+{
+id: 5292,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20020528_155056.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20020528_155056_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:25Z",
+rating: 0
+},
+{
+id: 5293,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154708.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154708_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:25Z",
+rating: 0
+},
+{
+id: 5294,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20080609_101246_1.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20080609_101246_1_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:25Z",
+rating: 0
+},
+{
+id: 5295,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20060902_081445.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20060902_081445_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:26Z",
+rating: 0
+},
+{
+id: 5296,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20060902_094731.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20060902_094731_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:26Z",
+rating: 0
+},
+{
+id: 5297,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154652.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154652_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:26Z",
+rating: 0
+},
+{
+id: 5298,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20060902_081222.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20060902_081222_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:26Z",
+rating: 0
+},
+{
+id: 5299,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154848.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154848_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:26Z",
+rating: 0
+},
+{
+id: 5300,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154830.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154830_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:27Z",
+rating: 0
+},
+{
+id: 5301,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154914.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154914_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:27Z",
+rating: 0
+},
+{
+id: 5302,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20040813_175548.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20040813_175548_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:27Z",
+rating: 0
+},
+{
+id: 5303,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20040813_175618.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20040813_175618_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:27Z",
+rating: 0
+},
+{
+id: 5304,
+url: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154930.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Pennisetum polystachion/pespo_20050218_154930_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:14:27Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

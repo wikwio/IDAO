@@ -1,0 +1,2617 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 257,
+title: "<i>Physalis angulata </i>L. ",
+taxonConcept: {
+id: 485,
+name: "Physalis angulata L.",
+canonicalForm: "Physalis angulata",
+italicisedForm: "<i>Physalis angulata </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 222,
+name: "Solanaceae",
+canonicalForm: "Solanaceae",
+italicisedForm: "<i>Solanaceae</i>",
+rank: "Family"
+},
+{
+id: 484,
+name: "Physalis",
+canonicalForm: "Physalis",
+italicisedForm: "<i>Physalis</i>",
+rank: "Genus"
+},
+{
+id: 485,
+name: "Physalis angulata L.",
+canonicalForm: "Physalis angulata",
+italicisedForm: "<i>Physalis angulata </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 5454,
+name: "Boberella angulata (L.) E.H.L.Krause",
+canonicalForm: "Boberella angulata",
+italicisedForm: "<i>Boberella angulata (</i>L.<i>) </i>E.H.L.Krause ",
+taxonConcept: {
+id: 485
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5455,
+name: "Physalis capsicifolia Dunal",
+canonicalForm: "Physalis capsicifolia",
+italicisedForm: "<i>Physalis capsicifolia </i>Dunal ",
+taxonConcept: {
+id: 485
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5456,
+name: "Physalis esquirolii H. Lév. & Vaniot",
+canonicalForm: "Physalis esquirolii",
+italicisedForm: "<i>Physalis esquirolii </i>H. Lév.<i> & </i>Vaniot ",
+taxonConcept: {
+id: 485
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5457,
+name: "Physalis lanceifolia Nees",
+canonicalForm: "Physalis lanceifolia",
+italicisedForm: "<i>Physalis lanceifolia </i>Nees ",
+taxonConcept: {
+id: 485
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5458,
+name: "Physalis linkiana Nees",
+canonicalForm: "Physalis linkiana",
+italicisedForm: "<i>Physalis linkiana </i>Nees ",
+taxonConcept: {
+id: 485
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5459,
+name: "Physalis ramosissima Mill.",
+canonicalForm: "Physalis ramosissima",
+italicisedForm: "<i>Physalis ramosissima </i>Mill. ",
+taxonConcept: {
+id: 485
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1238,
+name: "Cut-leaved ground cherry",
+taxonConcept: {
+id: 485
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1670,
+name: "Eng: cut-leaved ground cherry.",
+taxonConcept: {
+id: 485
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:18:00Z",
+lastRevised: "2015-04-02T13:08:01Z",
+thumbnail: "http://portal.wikwio.org/biodiv/observations//6bdf8f02-e784-4f25-be49-77542752d65a/425_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>PHYAN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>PHYAN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1856,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>PHYAN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2014-09-24T18:18:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731888,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1849,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>The leaves are simple and alternate. They are carried by a petiole along 3 to 5 cm. The lamina is oval to elliptical, apiculate at the top and bottom corner attenuated acute. Its length is 7 to 12 cm and a width of 3 to 6 cm. The margin is sinuous and irregularly toothed, with few short white hairs. The blade is marked with 4 to 6 pairs of veined pinnate. Both sides are smooth, although some short white hairs are present along the veins of the lower face.</p><h6>General Habit</h6><p>Erect plant, the plant forms a small bush profusely branched.</p><h6>Underground System</h6><p>Tap root.</p><h6>Flower</h6><p>They are carried by a glabrous stalk from 7 to 10 mm long. The calyx, 3 mm long, consists of 5 sepals fused at the base section and ending with 5 triangular teeth. Corolla campanulate, composed of 5 petals fused. It is large of 7 to 8 mm and creamy white with a purple spot at the base of the petals. The five stamens are inserted in the corolla tube alternate with the petals. The ovary consists of two boxes with numerous ovules.</p><h6>Fruit</h6><p>It is traversed by longitudinal ribs 8 or 9, connected by a network of fine ribs.</p><h6>Seed</h6><p>The seeds are flat and lenticular, with a diameter of 1 mm. The seed coat is orange and finely honeycombed.</p><h6>Global Description</h6><p>Terrestrial, annual, erect herb. Roots fibrous, brown or white. Stems quadrangular, hollow, hairy. Stipules absent. Leaves simple, lobed or entire, alternate spiral, stalked, ovate, more than 2 cm long/wide, hairy on both sides, margin entire, undulate or coarsely dentate, apex acute, base acute, pinnately veined. Flowers bisexual, solitary, axillary, petals 5, white or yellow. Fruits a berry, surrounded by calyx.</p><h6>Inflorescence</h6><p>The flowers are solitary and axillary, located at the intersection of the branches of the plant.</p><h6>Stem</h6><p>The stem is hollow and polygonal. It is completely hairless.</p>",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2014-09-24T18:18:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731867,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1863,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Physalis angulata L.",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2014-09-24T18:18:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731896,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1851,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "P. angulata is an annual species. It reproduces by seeds only.<br>",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2014-09-24T18:18:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731870,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1858,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Sunny to somewhat shaded, not too dry, fertile spots in fields, gardens, wastelands, dunes, fallow fields, along roads, in open forests, forest margins; from 0-1500 m alt. Upland rice fields.<br>",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2014-09-24T18:18:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731891,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1852,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Pantropical.</p><h6>Origin</h6><p>This species is native to tropical America. Now widespread throughout tropical, subtropical and warmer temperate regions of the world (almost cosmopolitan).</p>",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2014-09-24T18:18:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731871,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1859,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>A weed of minor importance.</p><h6>Local Weediness</h6><p>Uganda: Frequent and usually abundant</p>",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2014-09-24T18:18:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731892,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1861,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "The fruits are edible, but poisonous when they are consumed in large quantities.<br>",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2014-09-24T18:18:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731895,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1862,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Chemical control: Pre-emergence application of diuron, simazine (in sugarcane, USA); post-emergence aapplication of 2.4-DB (S.Africa); 2.4.5-T (USA); in E.Africa both 2.4-D and MCPA were found to be ineffective. Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2014-09-24T18:18:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731896,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1857,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2015-04-02T12:47:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 216p"
+},
+{
+title: "BioNET-EAFRINET Keys and Fact Sheets: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Physalis_angulata_%28Wild_Gooseberry%29.htm"
+},
+{
+title: "FACTSHEET: http://www.flora.sa.gov.au/efsa/lucid/Solanaceae/Solanaceae%20species/key/Australian%20Solanaceae%20species/Media/Html/Physalis_angulata.htm"
+},
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 396p."
+},
+{
+title: "Le Bourgeois, T., Merlier, H. 1995. Adventrop - Les adventices d'Afrique soudano-sahélienne. Cirad, Montpellier, France."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731889,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1850,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2015-04-02T12:47:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 396p."
+},
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 216p"
+},
+{
+title: "BioNET-EAFRINET Keys and Fact Sheets: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Physalis_angulata_%28Wild_Gooseberry%29.htm"
+},
+{
+title: "Le Bourgeois, T., Merlier, H. 1995. Adventrop - Les adventices d'Afrique soudano-sahélienne. Cirad, Montpellier, France."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "FACTSHEET: http://www.flora.sa.gov.au/efsa/lucid/Solanaceae/Solanaceae%20species/key/Australian%20Solanaceae%20species/Media/Html/Physalis_angulata.htm"
+},
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731868,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1853,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2015-04-02T12:47:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 396p."
+},
+{
+title: "FACTSHEET: http://www.flora.sa.gov.au/efsa/lucid/Solanaceae/Solanaceae%20species/key/Australian%20Solanaceae%20species/Media/Html/Physalis_angulata.htm"
+},
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "Le Bourgeois, T., Merlier, H. 1995. Adventrop - Les adventices d'Afrique soudano-sahélienne. Cirad, Montpellier, France."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "BioNET-EAFRINET Keys and Fact Sheets: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Physalis_angulata_%28Wild_Gooseberry%29.htm"
+},
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 216p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731872,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1860,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2015-02-27T17:10:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "BioNET-EAFRINET Keys and Fact Sheets: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Physalis_angulata_%28Wild_Gooseberry%29.htm"
+},
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 216p"
+},
+{
+title: "Le Bourgeois, T., Merlier, H. 1995. Adventrop - Les adventices d'Afrique soudano-sahélienne. Cirad, Montpellier, France."
+},
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "FACTSHEET: http://www.flora.sa.gov.au/efsa/lucid/Solanaceae/Solanaceae%20species/key/Australian%20Solanaceae%20species/Media/Html/Physalis_angulata.htm"
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 396p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731893,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1854,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2015-04-02T12:47:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "FACTSHEET: http://www.flora.sa.gov.au/efsa/lucid/Solanaceae/Solanaceae%20species/key/Australian%20Solanaceae%20species/Media/Html/Physalis_angulata.htm"
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 216p"
+},
+{
+title: "Le Bourgeois, T., Merlier, H. 1995. Adventrop - Les adventices d'Afrique soudano-sahélienne. Cirad, Montpellier, France."
+},
+{
+title: "BioNET-EAFRINET Keys and Fact Sheets: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Physalis_angulata_%28Wild_Gooseberry%29.htm"
+},
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 396p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731874,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1855,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2015-04-02T12:47:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "BioNET-EAFRINET Keys and Fact Sheets: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Physalis_angulata_%28Wild_Gooseberry%29.htm"
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 396p."
+},
+{
+title: "FACTSHEET: http://www.flora.sa.gov.au/efsa/lucid/Solanaceae/Solanaceae%20species/key/Australian%20Solanaceae%20species/Media/Html/Physalis_angulata.htm"
+},
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 216p"
+},
+{
+title: "Le Bourgeois, T., Merlier, H. 1995. Adventrop - Les adventices d'Afrique soudano-sahélienne. Cirad, Montpellier, France."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731886,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1848,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:18:51Z",
+lastUpdated: "2015-03-23T22:58:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "BioNET-EAFRINET Keys and Fact Sheets: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Physalis_angulata_%28Wild_Gooseberry%29.htm"
+},
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 216p"
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 396p."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Le Bourgeois, T., Merlier, H. 1995. Adventrop - Les adventices d'Afrique soudano-sahélienne. Cirad, Montpellier, France."
+},
+{
+title: "FACTSHEET: http://www.flora.sa.gov.au/efsa/lucid/Solanaceae/Solanaceae%20species/key/Australian%20Solanaceae%20species/Media/Html/Physalis_angulata.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582731865,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5521,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>P. angulata est une plante dressée, glabre, aux feuilles simples et alternes, longuement pétiolées. Le limbe est ovale, au sommet apiculé, à base atténuée et à marge sinueuse dentée. Les fleurs sont solitaires et campanulées. Le fruit est une baie incluse dans le calice transformé en vésicule pendante. Les graines sont lenticulaires.</p>",
+dateCreated: "2015-03-19T11:59:15Z",
+lastUpdated: "2015-03-19T11:59:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766355267,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5499,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>PHYAN</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:59:12Z",
+lastUpdated: "2015-03-19T11:59:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766352982,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5512,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> Physalis angulata est une plante dress&eacute;e, glabre, aux feuilles simples et alternes, longuement p&eacute;tiol&eacute;es. Le limbe est ovale, au sommet apicul&eacute;, &agrave; base att&eacute;nu&eacute;e et &agrave; marge sinueuse dent&eacute;e. Les fleurs sont solitaires et campanul&eacute;es. Le fruit est une baie incluse dans le calice transform&eacute; en v&eacute;sicule pendante. Les graines sont lenticulaires.</p> <h6> Cotyl&eacute;dons</h6> <p> Les cotyl&eacute;dons sont ovales lanc&eacute;ol&eacute;s. Ils sont port&eacute;s par un p&eacute;tiole pubescent, de 8 &agrave; 12 mm de long. Le limbe est glabre, finement pubescent sur la marge, long de 6 mm et large de 4 mm.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Les premi&egrave;res feuilles sont simples et alternes. Elles sont longuement p&eacute;tiol&eacute;es. Le limbe est ovale &agrave; lanc&eacute;ol&eacute;, long de 2 &agrave; 3 cm et large de 10 &agrave; 15 mm. La marge est sinueuse &agrave; irr&eacute;guli&egrave;rement dent&eacute;e. Les deux faces sont glabres aux nervures nettement visibles.</p> <h6> Port</h6> <p> Le port est dress&eacute;. La plante forme un petit buisson abondamment ramifi&eacute;, qui peut atteindre 90 cm de hauteur.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est pivotante.</p> <h6> Tige</h6> <p> La tige est polygonale et creuse. Elle est totalement glabre.</p> <h6> Feuille</h6> <p> Les feuilles sont simples et alternes. Elles sont port&eacute;es par un p&eacute;tiole long de 3 &agrave; 5 cm. Le limbe est ovale &agrave; elliptique, au sommet apicul&eacute; et &agrave; la base att&eacute;nu&eacute;e en coin aigu. Il est long de 7 &agrave; 12 cm et large de 3 &agrave; 6 cm. La marge est sinueuse et irr&eacute;guli&egrave;rement dent&eacute;e, pourvue de quelques poils courts et blancs. Le limbe est marqu&eacute; de 4 &agrave; 6 paires de nervures penn&eacute;es. Les deux faces sont glabres, m&ecirc;me si quelques courts poils blancs sont pr&eacute;sents le long des nervures de la face inf&eacute;rieure.</p> <h6> Inflorescence</h6> <p> Les fleurs sont solitaires et axillaires, situ&eacute;es &agrave; l&#39;intersection des ramifications de la plante.</p> <h6> Fleur</h6> <p> Les fleurs sont port&eacute;es par un p&eacute;doncule glabre, de 7 &agrave; 10 mm de long. Le calice, long de 3 mm, est form&eacute; de 5 s&eacute;pales soud&eacute;s en coupe &agrave; la base et se terminant par 5 dents triangulaires. La corolle est campanul&eacute;e, form&eacute;e de 5 p&eacute;tales soud&eacute;s. Elle est large de 7 &agrave; 8 mm et de couleur blanc cr&egrave;me, avec une tache mauve &agrave; la base des p&eacute;tales. Les 5 &eacute;tamines sont ins&eacute;r&eacute;es dans le tube de la corolle en alternance avec les p&eacute;tales. L&#39;ovaire comprend 2 loges aux ovules tr&egrave;s nombreux.</p> <h6> Fruit</h6> <p> Le fruit est une baie de 8 &agrave; 10 mm de diam&egrave;tre, de couleur jaune &agrave; maturit&eacute; et contenant de tr&egrave;s nombreuses graines. Cette baie est incluse dans le calice qui s&#39;est transform&eacute; en une v&eacute;sicule obconique, pendante, large de 2 cm et longue de 2 &agrave; 3 cm. Cette v&eacute;sicule est d&#39;abord de couleur verte puis brunit et se dess&egrave;che &agrave; maturit&eacute;. Elle est parcourue par 8 ou 9 c&ocirc;tes longitudinales, reli&eacute;es par un r&eacute;seau de fines nervures.</p> <h6> Graine</h6> <p> Les graines sont plates et lenticulaires, d&#39;un diam&egrave;tre de 1 mm. Le t&eacute;gument est de couleur orange et finement alv&eacute;ol&eacute;.</p> ",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-04-14T09:16:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353891,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5514,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Physalis angulata L.",
+dateCreated: "2015-03-19T11:59:14Z",
+lastUpdated: "2015-03-19T11:59:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766354087,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5513,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Nord-Cameroun :</strong> P. angulata est pr&eacute;sente en milieu et en fin de cycle cultural. La germination a lieu en juin ou juillet. Les premi&egrave;res fleurs apparaissent trois semaines apr&egrave;s la lev&eacute;e. La plante se dess&egrave;che et meurt en octobre ou novembre, apr&egrave;s un cycle de vie de 3 &agrave; 4 mois.<br /> ",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-04-14T09:17:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353988,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5518,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Physalis angulata est une espèce annuelle. Elle se multiplie uniquement par graines.<br>",
+dateCreated: "2015-03-19T11:59:14Z",
+lastUpdated: "2015-03-19T11:59:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766354574,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5515,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Cette espèce est originaire d'Amérique tropicale.</p><h6>Distribution Mondiale</h6><p>Elle est actuellement répandue dans toutes les régions tropicales du globe.</p>",
+dateCreated: "2015-03-19T11:59:14Z",
+lastUpdated: "2015-03-19T11:59:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766354277,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5511,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Cette espèce peut être confondue avec P. micrantha Link. Cette dernière se distingue par un port décombant, des tiges grêles, une pubescence sur la tige, les feuilles et le calice et par des organes plus petits (fleur de 3 à 5 mm, vésicule de 13 à 15 mm de long).<br>",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-03-19T11:59:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353794,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5517,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Nord-Cameroun :</strong> P. angulata se d&eacute;veloppe de la r&eacute;gion sah&eacute;lo-soudanienne &agrave; la r&eacute;gion guin&eacute;enne. En r&eacute;gion guin&eacute;enne, cette esp&egrave;ce ne pr&eacute;sente pas d&#39;exigence de sol particuli&egrave;re, pourvu que celui-ci soit humide. Dans les r&eacute;gions soudaniennes &agrave; sah&eacute;lo-soudaniennes, cette esp&egrave;ce cro&icirc;t particuli&egrave;rement sur les sols argilo-limoneux ayant une forte capacit&eacute; de r&eacute;tention d&#39;eau comme les planosols, les alluvions et les vertisols en bordure de cours d&#39;eau et les sols de bas-fond.<br /> ",
+dateCreated: "2015-03-19T11:59:14Z",
+lastUpdated: "2015-04-14T09:17:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766354475,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5516,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Cette espèce est originaire d'Amérique tropicale.</p><h6>Distribution Mondiale</h6><p>Elle est actuellement répandue dans toutes les régions tropicales du globe.</p>",
+dateCreated: "2015-03-19T11:59:14Z",
+lastUpdated: "2015-03-19T11:59:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766354376,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5519,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>B&eacute;nin :</strong> Fr&eacute;quente et peu abondante.<br /> <strong>Burkina Faso :</strong> Rare et peu abondante.<br /> <strong>Nord-Cameroun :</strong> Cette esp&egrave;ce est tr&egrave;s peu fr&eacute;quente dans les cultures s&egrave;ches comme l&#39;arachide, le cotonnier, le ma&iuml;s et le sorgho et ne constitue pas une g&ecirc;ne pour ces cultures. En revanche, elle est plus fr&eacute;quente dans les cultures irrigu&eacute;es de contre-saison comme les cultures mara&icirc;ch&egrave;res.<br /> <strong>C&ocirc;te d&#39;Ivoire :</strong> Fr&eacute;quente et peu abondante.<br /> <strong>Ghana : </strong>Fr&eacute;quente et g&eacute;n&eacute;ralement abondante. Mali : Rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>Nigeria :</strong> Rare et peu abondante.<br /> <strong>Ouganda :</strong> Fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>S&eacute;n&eacute;gal :</strong> Rare et peu abondante.</p> ",
+dateCreated: "2015-03-19T11:59:14Z",
+lastUpdated: "2015-04-14T09:19:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766354672,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5522,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Usages</h6><p>Les fruits sont comestibles mais toxiques en grande quantité.</p>",
+dateCreated: "2015-03-19T11:59:15Z",
+lastUpdated: "2015-03-19T11:59:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766355354,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5520,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Pour des conseils de désherbage des adventices annuelles à feuilles larges du riz irrigué et de bas-fond en Afrique consulter: http://portal.wikwio.org/document/show/19</p>",
+dateCreated: "2015-03-19T11:59:14Z",
+lastUpdated: "2015-03-19T11:59:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766354810,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5501,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-03-31T06:53:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353645,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5500,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-03-31T06:53:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I.O. & Agyakwa C.W., 1989. Guide des adventices d'Afrique de l'Ouest. Institut international d'agriculture tropicale. Ibadan, Nigeria, 521p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353644,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5502,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-03-31T06:53:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois and H. Merlier (2010). Adventrop V.1.5 Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353645,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5503,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-03-31T06:53:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353645,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5504,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-03-31T06:53:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hutchinson J., Dalziel J. M., Keay R. W. J. & Hepper F. N., 1963. Flora of West Tropical Africa. Vol. II. 2ème éd. The Whitefriars Press ed., London & Tonbridge, 544p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353645,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5505,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-03-31T06:53:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., 1989. East African Weeds and Their Control. Oxford University Press, Nairobi, Kenya, 289p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353646,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5506,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-03-31T06:53:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., Moody K. & Egunjobi J. K., 1978. West African Weeds. Oxford University Press, Ibadan, Nigeria, 255p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353646,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5507,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-03-31T06:53:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Koch W., 1981. Mauvaises herbes des cultures tropicales."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353646,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5508,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-03-31T06:53:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "In Kranz J., Schmutterer H. & Koch W. : Maladies, ravageurs et mauvaises herbes des cultures tropicales. Verlag Paul Parey, Berlin, Hambourg : 587-665."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353646,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5509,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-03-31T06:53:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Merlier H. & Montégut J., 1982. Adventices tropicales. ORSTOM-GERDAT-ENSH éd., Montpellier, France, 490p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353646,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5510,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:59:13Z",
+lastUpdated: "2015-03-31T06:53:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Merlier, H. 1995. Adventrop - Les adventices d'Afrique soudano-sahélienne. Cirad, Montpellier, France."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766353647,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 16111,
+url: "http://portal.wikwio.org/biodiv/observations//6bdf8f02-e784-4f25-be49-77542752d65a/425.jpg",
+icon: "http://portal.wikwio.org/biodiv/observations//6bdf8f02-e784-4f25-be49-77542752d65a/425_th1.jpg",
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+type: "Image",
+uploadTime: "2015-04-02T13:03:42Z",
+rating: 0
+},
+{
+id: 16112,
+url: "http://portal.wikwio.org/biodiv/observations//6bdf8f02-e784-4f25-be49-77542752d65a/454.jpg",
+icon: "http://portal.wikwio.org/biodiv/observations//6bdf8f02-e784-4f25-be49-77542752d65a/454_th1.jpg",
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+type: "Image",
+uploadTime: "2015-04-02T13:03:42Z",
+rating: 0
+},
+{
+id: 16114,
+url: "http://portal.wikwio.org/biodiv/observations//6bdf8f02-e784-4f25-be49-77542752d65a/690.jpg",
+icon: "http://portal.wikwio.org/biodiv/observations//6bdf8f02-e784-4f25-be49-77542752d65a/690_th1.jpg",
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+type: "Image",
+uploadTime: "2015-04-02T13:03:42Z",
+rating: 0
+},
+{
+id: 16115,
+url: "http://portal.wikwio.org/biodiv/observations//6bdf8f02-e784-4f25-be49-77542752d65a/200.jpg",
+icon: "http://portal.wikwio.org/biodiv/observations//6bdf8f02-e784-4f25-be49-77542752d65a/200_th1.jpg",
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+type: "Image",
+uploadTime: "2015-04-02T13:03:42Z",
+rating: 0
+},
+{
+id: 16119,
+url: "http://portal.wikwio.org/biodiv/observations//6bdf8f02-e784-4f25-be49-77542752d65a/712.jpg",
+icon: "http://portal.wikwio.org/biodiv/observations//6bdf8f02-e784-4f25-be49-77542752d65a/712_th1.jpg",
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+type: "Image",
+uploadTime: "2015-04-02T13:03:42Z",
+rating: 0
+},
+{
+id: 16120,
+url: "http://portal.wikwio.org/biodiv/observations//6bdf8f02-e784-4f25-be49-77542752d65a/502.JPG",
+icon: "http://portal.wikwio.org/biodiv/observations//6bdf8f02-e784-4f25-be49-77542752d65a/502_th1.jpg",
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+type: "Image",
+uploadTime: "2015-04-02T13:03:42Z",
+rating: 0
+},
+{
+id: 16121,
+url: "http://portal.wikwio.org/biodiv/img//6bdf8f02-e784-4f25-be49-77542752d65a/757.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//6bdf8f02-e784-4f25-be49-77542752d65a/757_th1.jpg",
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+type: "Image",
+uploadTime: "2015-04-02T13:08:01Z",
+rating: 0
+},
+{
+id: 16122,
+url: "http://portal.wikwio.org/biodiv/img//6bdf8f02-e784-4f25-be49-77542752d65a/277.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//6bdf8f02-e784-4f25-be49-77542752d65a/277_th1.jpg",
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+type: "Image",
+uploadTime: "2015-04-02T13:08:01Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

@@ -1,0 +1,3568 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 294,
+title: "<i>Sida acuta </i>Burm.f. ",
+taxonConcept: {
+id: 559,
+name: "Sida acuta Burm.f.",
+canonicalForm: "Sida acuta",
+italicisedForm: "<i>Sida acuta </i>Burm.f. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 14,
+name: "Malvaceae",
+canonicalForm: "Malvaceae",
+italicisedForm: "<i>Malvaceae</i>",
+rank: "Family"
+},
+{
+id: 558,
+name: "Sida",
+canonicalForm: "Sida",
+italicisedForm: "<i>Sida</i>",
+rank: "Genus"
+},
+{
+id: 559,
+name: "Sida acuta Burm.f.",
+canonicalForm: "Sida acuta",
+italicisedForm: "<i>Sida acuta </i>Burm.f. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 6073,
+name: "Malvastrum carpinifolium (L. f.) A. Gray",
+canonicalForm: "Malvastrum carpinifolium",
+italicisedForm: "<i>Malvastrum carpinifolium (</i>L. f.<i>) </i>A. Gray ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6074,
+name: "Malvinda carpinifolia (L.f.) Medik.",
+canonicalForm: "Malvinda carpinifolia",
+italicisedForm: "<i>Malvinda carpinifolia (</i>L.f.<i>) </i>Medik. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6075,
+name: "Sida acuta subsp. acuta",
+canonicalForm: "Sida acuta acuta",
+italicisedForm: "<i>Sida acuta </i>subsp.<i> acuta</i>",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6076,
+name: "Sida acuta var. carpinifolia (L.f.) K.Schum.",
+canonicalForm: "Sida acuta carpinifolia",
+italicisedForm: "<i>Sida acuta </i>var.<i> carpinifolia (</i>L.f.<i>) </i>K.Schum. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6077,
+name: "Sida acuta var. intermedia S.Y. Hu",
+canonicalForm: "Sida acuta intermedia",
+italicisedForm: "<i>Sida acuta </i>var.<i> intermedia </i>S.Y. Hu ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6078,
+name: "Sida acuta var. madagascariensis Hochr.",
+canonicalForm: "Sida acuta madagascariensis",
+italicisedForm: "<i>Sida acuta </i>var.<i> madagascariensis </i>Hochr. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6079,
+name: "Sida balbisiana DC.",
+canonicalForm: "Sida balbisiana",
+italicisedForm: "<i>Sida balbisiana </i>DC. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6080,
+name: "Sida berlandieri Turcz.",
+canonicalForm: "Sida berlandieri",
+italicisedForm: "<i>Sida berlandieri </i>Turcz. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6081,
+name: "Sida bodinieri Gand.",
+canonicalForm: "Sida bodinieri",
+italicisedForm: "<i>Sida bodinieri </i>Gand. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6082,
+name: "Sida carpinifolia L.f.",
+canonicalForm: "Sida carpinifolia",
+italicisedForm: "<i>Sida carpinifolia </i>L.f. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6083,
+name: "Sida carpinifolia f. acuta (Burm.f.) Millsp.",
+canonicalForm: "Sida carpinifolia acuta",
+italicisedForm: "<i>Sida carpinifolia </i>f.<i> acuta (</i>Burm.f.<i>) </i>Millsp. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6084,
+name: "Sida carpinifolia var. brevicuspidata Griseb.",
+canonicalForm: "Sida carpinifolia brevicuspidata",
+italicisedForm: "<i>Sida carpinifolia </i>var.<i> brevicuspidata </i>Griseb. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6085,
+name: "Sida carpinifolia f. spiraeifolia (Link) Millsp.",
+canonicalForm: "Sida carpinifolia spiraeifolia",
+italicisedForm: "<i>Sida carpinifolia </i>f.<i> spiraeifolia (</i>Link<i>) </i>Millsp. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6086,
+name: "Sida chanetii Gand.",
+canonicalForm: "Sida chanetii",
+italicisedForm: "<i>Sida chanetii </i>Gand. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6087,
+name: "Sida disticha Sessé & Moc. [Illegitimate]",
+canonicalForm: "Sida disticha",
+italicisedForm: "<i>Sida disticha </i>Sessé<i> & </i>Moc.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6088,
+name: "Sida frutescens Cav.",
+canonicalForm: "Sida frutescens",
+italicisedForm: "<i>Sida frutescens </i>Cav. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6089,
+name: "Sida garckeana Pol.",
+canonicalForm: "Sida garckeana",
+italicisedForm: "<i>Sida garckeana </i>Pol. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6090,
+name: "Sida lancea Gand.",
+canonicalForm: "Sida lancea",
+italicisedForm: "<i>Sida lancea </i>Gand. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6091,
+name: "Sida lanceolata Retz.",
+canonicalForm: "Sida lanceolata",
+italicisedForm: "<i>Sida lanceolata </i>Retz. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6092,
+name: "Sida planicaulis Cav.",
+canonicalForm: "Sida planicaulis",
+italicisedForm: "<i>Sida planicaulis </i>Cav. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6093,
+name: "Sida scoparia Lour.",
+canonicalForm: "Sida scoparia",
+italicisedForm: "<i>Sida scoparia </i>Lour. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6094,
+name: "Sida spiraeifolia Link",
+canonicalForm: "Sida spiraeifolia",
+italicisedForm: "<i>Sida spiraeifolia </i>Link ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6095,
+name: "Sida spireifolia Willd.",
+canonicalForm: "Sida spireifolia",
+italicisedForm: "<i>Sida spireifolia </i>Willd. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6096,
+name: "Sida stauntoniana DC.",
+canonicalForm: "Sida stauntoniana",
+italicisedForm: "<i>Sida stauntoniana </i>DC. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6097,
+name: "Sida stipulata Cav.",
+canonicalForm: "Sida stipulata",
+italicisedForm: "<i>Sida stipulata </i>Cav. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6098,
+name: "Sida trivialis Macfad.",
+canonicalForm: "Sida trivialis",
+italicisedForm: "<i>Sida trivialis </i>Macfad. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6099,
+name: "Sida vogelii Hook. f.",
+canonicalForm: "Sida vogelii",
+italicisedForm: "<i>Sida vogelii </i>Hook. f. ",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1346,
+name: "La Bolzé",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1347,
+name: "Herbe à paniers",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1348,
+name: "Herbe à paniers",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 1349,
+name: "Lerb dir",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1350,
+name: "Herbe dure",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1351,
+name: "Herbe dure",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1352,
+name: "Shifungandziya",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 1353,
+name: "Fundrakole",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 1354,
+name: "Spiny headed sida",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1355,
+name: "Broom weed",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1356,
+name: "Mandravasarotra",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1357,
+name: "Tsindahoro",
+taxonConcept: {
+id: 559
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1675,
+name: "Eng: spiny headed sida",
+taxonConcept: {
+id: 559
+},
+isContributor: false
+},
+{
+id: 1676,
+name: "Broom weed.",
+taxonConcept: {
+id: 559
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:33:30Z",
+lastRevised: "2015-05-02T18:06:47Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173423_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>SIDAC</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>SIDAC</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 2096,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>SIDAC</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2014-09-24T18:37:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822215,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2103,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>The leaves are simple and alternate, 3-5 cm long, 1-1.5 cm wide, acute at the apex. The margins toothed, slightly rounded at the base with short petioles about 1.2 to 7 cm or more long, 0.5 to 4 cm wide, with a pair of stipules 10 mm long, and 2 mm wide, both surfaces of lamina are smooth.</p><h6>General Habit</h6><p>Woody/Shrub.</p><h6>Underground System</h6><p>With a strong taproot.</p><h6>Flower</h6><p>The flowers are buttercup like in shape, was alternate, slender, lanceolate, acute, margins toothed, 1.2 to 9 cm or more long, 0.5 to 4 cm wide, lower surface smooth or with sparse, short, branched, star like (stellate) hairs, with fairly prominent veins; petiole 3 to 6 mm long, hairy, with a pair of stipules, at least one lanceolate-linear, 1 to 2 mm broad, three- to six-nerved, often curved, finely hairy, the other stipule narrower, one- to four-nerved overlapping petals.</p><h6>Fruit</h6><p>Capsule, 3 to 4.5 mm in diameter, rough, consisting of five to eight (rarely more) carpels which break at maturity into equal. The mature capsule is reddish-brown, reticulated with 2-sharp awns.</p><h6>Seed</h6><p>Roughly trigonous, 1.5 mm long, with a deep depression on each of the sides, reddish brown or black.</p><h6>Global Description</h6><p>An erect, much branched, small perennial shrub or herb with a woody tap root and hairy branches up to 1 m high that reproduces by seeds.</p><h6>Inflorescence</h6><p>The inflorescence is solitary and axillary with stalks up to 1.3 long joined about half the length.</p><h6>Stem</h6><p>It is a woody, round and slender, rather fibrous and hairy, especially when young.</p>",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2014-09-24T18:37:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822227,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2088,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Sida acuta Burm.f.",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2014-09-24T18:37:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822201,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2100,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Reproduction by seeds.<br>",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2014-09-24T18:37:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822221,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2094,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Prefer dry and sandy conditions, in upland crop areas, roadsides, waste places, and pasures. It can be found at higher elevations and grows well in many soils, including some heavy clay.<br>",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2014-09-24T18:37:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822212,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2099,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Mainly a weed of the tropics and subtropics.</p><h6>Origin</h6><p>Originating from central America.</p>",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2014-09-24T18:37:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822220,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2091,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>A serious weed of some 15 crops, particularly plantations, annual field crops and degraded pastures; to date not reported as such a serious weed in irrigated rice fields.</p><h6>Local Weediness</h6><p>Tanzania: Rare and not abundant.</p>",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2014-09-24T18:37:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822207,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2093,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "The stem fibres are sometimes used to make course cordage. The stems are also used for brooms and baskets.<br>",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2014-09-24T18:37:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822211,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2098,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Cultural control: Single plants or small patches can be grubbed before flowering, taking care to cut the root well below the crown to minimize regrowth. In larger areas, satisfactory control is obtained by cultivation and sowing improved pastures. Chemical control: 2,4-D at 0.5 to 0.8 kg ha-1 or MCPA at 0.4 kg ha-1 applied 20-30 d after emergence provides efficient control. Biological control: Biological control for this species has been investigated in Australia. A leaf feeding chrysomelid beetle, Callingraapha pantherina, from Mexico was released in 1989. Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2014-09-24T18:37:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822219,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2104,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2015-03-19T12:09:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 226p"
+},
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V., Herberger J. P. 1991. The worlds worst weeds. Distribution and Biology. East-West Center by the University Press. Hawaii."
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 200 p"
+},
+{
+title: "O. Akobundu & C.W. Agyakwa: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 343p."
+},
+{
+title: "Tadulingam C., Venkatanarayna G. 1985. A Handbook of some South Indian Weeds."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 360p"
+},
+{
+title: "Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822228,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2086,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2015-02-19T23:52:33Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "O. Akobundu & C.W. Agyakwa: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 343p."
+},
+{
+title: "Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "Tadulingam C., Venkatanarayna G. 1985. A Handbook of some South Indian Weeds."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 360p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V., Herberger J. P. 1991. The worlds worst weeds. Distribution and Biology. East-West Center by the University Press. Hawaii."
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 226p"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 200 p"
+},
+{
+title: "Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822195,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2087,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2015-03-31T05:40:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 360p"
+},
+{
+title: "Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "O. Akobundu & C.W. Agyakwa: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 343p."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 226p"
+},
+{
+title: "Tadulingam C., Venkatanarayna G. 1985. A Handbook of some South Indian Weeds."
+},
+{
+title: "Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V., Herberger J. P. 1991. The worlds worst weeds. Distribution and Biology. East-West Center by the University Press. Hawaii."
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 200 p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822198,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2089,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2015-03-31T05:40:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 200 p"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 226p"
+},
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V., Herberger J. P. 1991. The worlds worst weeds. Distribution and Biology. East-West Center by the University Press. Hawaii."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 360p"
+},
+{
+title: "O. Akobundu & C.W. Agyakwa: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 343p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "Tadulingam C., Venkatanarayna G. 1985. A Handbook of some South Indian Weeds."
+},
+{
+title: "Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822202,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2090,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2015-03-31T05:40:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Tadulingam C., Venkatanarayna G. 1985. A Handbook of some South Indian Weeds."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 360p"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 226p"
+},
+{
+title: "O. Akobundu & C.W. Agyakwa: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 343p."
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 200 p"
+},
+{
+title: "Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V., Herberger J. P. 1991. The worlds worst weeds. Distribution and Biology. East-West Center by the University Press. Hawaii."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822205,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2092,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2015-03-31T05:40:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 200 p"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 226p"
+},
+{
+title: "O. Akobundu & C.W. Agyakwa: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 343p."
+},
+{
+title: "Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 360p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Tadulingam C., Venkatanarayna G. 1985. A Handbook of some South Indian Weeds."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V., Herberger J. P. 1991. The worlds worst weeds. Distribution and Biology. East-West Center by the University Press. Hawaii."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822209,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2095,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2015-03-31T05:40:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 360p"
+},
+{
+title: "Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "O. Akobundu & C.W. Agyakwa: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 343p."
+},
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V., Herberger J. P. 1991. The worlds worst weeds. Distribution and Biology. East-West Center by the University Press. Hawaii."
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 200 p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 226p"
+},
+{
+title: "Tadulingam C., Venkatanarayna G. 1985. A Handbook of some South Indian Weeds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822213,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2097,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2015-03-31T05:40:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Tadulingam C., Venkatanarayna G. 1985. A Handbook of some South Indian Weeds."
+},
+{
+title: "O. Akobundu & C.W. Agyakwa: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 343p."
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 200 p"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 360p"
+},
+{
+title: "Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V., Herberger J. P. 1991. The worlds worst weeds. Distribution and Biology. East-West Center by the University Press. Hawaii."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 226p"
+},
+{
+title: "Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822217,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2101,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2015-03-31T05:40:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "O. Akobundu & C.W. Agyakwa: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 343p."
+},
+{
+title: "Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 360p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V., Herberger J. P. 1991. The worlds worst weeds. Distribution and Biology. East-West Center by the University Press. Hawaii."
+},
+{
+title: "Tadulingam C., Venkatanarayna G. 1985. A Handbook of some South Indian Weeds."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 200 p"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 226p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822221,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2102,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:37:02Z",
+lastUpdated: "2015-03-31T05:40:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Tadulingam C., Venkatanarayna G. 1985. A Handbook of some South Indian Weeds."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V., Herberger J. P. 1991. The worlds worst weeds. Distribution and Biology. East-West Center by the University Press. Hawaii."
+},
+{
+title: "O. Akobundu & C.W. Agyakwa: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 343p."
+},
+{
+title: "Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 226p"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 360p"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 200 p"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583822224,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5985,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Sida acuta est une plante dressée, herbacée à subligneuse rapidement ramifiée. La tige porte des poils étoilés. La racine est un pivot robuste. Les feuilles sont disposées alternativement sur la tige. Elles sont de forme losangique à ovale, aux extrémités en pointe. Le bord des feuilles est régulièrement et finement denté. La face inférieure est parsemée de poils étoilés, ce qui la distingue de Malvastrum coromandelianum L. Garcke aux poils aplatis et groupés par quatre. Les fleurs sont solitaires ou groupées à la base des feuilles. Elles sont de couleur jaune ou blanche. Les fruits sont secs, de couleur paille se séparant à maturité en 7 à 14 graines en forme de quartier d'orange. Ils sont surmontés de 2 pointes épineuses.</p>",
+dateCreated: "2015-03-19T12:05:03Z",
+lastUpdated: "2015-03-19T12:05:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766703921,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5970,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>SIDAC</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>pérenne</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T12:04:55Z",
+lastUpdated: "2015-03-19T12:04:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766695590,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5976,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Sida acuta</em> est une plante dress&eacute;e, herbac&eacute;e &agrave; subligneuse rapidement ramifi&eacute;e. La tige porte des poils &eacute;toil&eacute;s. La racine est un pivot robuste. Les feuilles sont dispos&eacute;es alternativement sur la tige. Elles sont de forme losangique &agrave; ovale, aux extr&eacute;mit&eacute;s en pointe. Le bord des feuilles est r&eacute;guli&egrave;rement et finement dent&eacute;. La face inf&eacute;rieure est parsem&eacute;e de poils &eacute;toil&eacute;s, ce qui la distingue de Malvastrum coromandelianum L. Garcke aux poils aplatis et group&eacute;s par quatre. Les fleurs sont solitaires ou group&eacute;es &agrave; la base des feuilles. Elles sont de couleur jaune ou blanche. Les fruits sont secs, de couleur paille se s&eacute;parant &agrave; maturit&eacute; en 7 &agrave; 14 graines en forme de quartier d&#39;orange. Ils sont surmont&eacute;s de 2 pointes &eacute;pineuses.</p> <h6> Cotyl&eacute;dons</h6> <p> Cotyl&eacute;dons subsessiles, &agrave; limbe ovale, &agrave; base l&eacute;g&egrave;rement cord&eacute;e et sommet arrondi, &eacute;margin&eacute;. Nervation palm&eacute;e &agrave; 3 nervures. P&eacute;tiole et marge du limbe cili&eacute;s.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Premi&egrave;res feuilles alternes, simples et distiques. Port&eacute;es par un court p&eacute;tiole, stipul&eacute; et cili&eacute;. Limbe ovale losangique, &agrave; base arrondie et sommet en coin aigu, marge dent&eacute;e cili&eacute;e. Les nervures sont penn&eacute;es, d&eacute;prim&eacute;es sur la face sup&eacute;rieure. Quelques poils &eacute;pars &agrave; la face sup&eacute;rieure, poils &eacute;toil&eacute;s &agrave; la face inf&eacute;rieure.</p> <h6> Port</h6> <p> Plante dress&eacute;e &agrave; tige principale courte rapidement ramifi&eacute;e en branches ascendantes, puis horizontales. Jusqu&#39;&agrave; 1 m de hauteur.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est un pivot profond et tr&egrave;s r&eacute;sistant &agrave; l&#39;arrachage.</p> <h6> Tige</h6> <p> Tige cylindrique, pleine devenant rapidement ligneuse, &agrave; poils &eacute;toil&eacute;s clairsem&eacute;s ou denses m&eacute;lang&eacute;s &agrave; des poils simples, longs et caduques.</p> <h6> Feuille</h6> <p> Feuilles simples, alternes, distiques. Le p&eacute;tiole est court, de 4 &agrave; 7 mm, &agrave; pubescence &eacute;toil&eacute;e sur le c&ocirc;t&eacute; sup&eacute;rieur. A la base du p&eacute;tiole se trouvent 2 stipules lin&eacute;aires dont l&#39;une est plus longue et plus large que l&#39;autre (4 &agrave; 12 mm), &agrave; bord cili&eacute;. Le limbe est lanc&eacute;ol&eacute; &agrave; elliptique, de 4 &agrave; 10 cm de long et 1 &agrave; 4 cm de large, aigu au sommet, en coin large ou arrondi &agrave; la base. La marge est dent&eacute;e, sauf &agrave; la base. La face sup&eacute;rieure est glabre, la face inf&eacute;rieure porte quelques poils &eacute;toil&eacute;s le long des nervures. Les deux faces sont de couleur verte. La nervation est penn&eacute;e, oblique profond&eacute;ment marqu&eacute;e.</p> <h6> Inflorescence</h6> <p> Fleurs d&#39;abord solitaires et axillaires, puis en glom&eacute;rules de 3 &agrave; 5 fleurs &agrave; l&#39;extr&eacute;mit&eacute; des rameaux.</p> <h6> Fleur</h6> <p> Fleurs port&eacute;es par un p&eacute;doncule de 1 &agrave; 3 cm, articul&eacute; au milieu. Le calice est campanul&eacute;, &agrave; peine accrescent, &agrave; poils &eacute;toil&eacute;s sur les nervures, &agrave; 5 s&eacute;pales de 6 mm de long, soud&eacute;s dans la moiti&eacute; inf&eacute;rieure, acumin&eacute;s, cili&eacute;s, aux nervures devenant tr&egrave;s pro&eacute;minentes sur le fruit. La corolle de couleur jaune, de 15 mm de diam&egrave;tre est form&eacute;e de 5 p&eacute;tales soud&eacute;s &agrave; la base en tube, &agrave; l&#39;extr&eacute;mit&eacute; obliquement lanc&eacute;ol&eacute;e. Les &eacute;tamines sont soud&eacute;es en tube &agrave; la base, mais les filets et les anth&egrave;res sont libres. L&#39;ovaire est sup&egrave;re &agrave; 5 &agrave; 8 carpelles.</p> <h6> Fruit</h6> <p> Le fruit est une capsule globuleuse comprenant 5 &agrave; 8 m&eacute;ricarpes en forme de quartier d&#39;orange, glabres ou presque, de 2,5 mm de long et 1,75 mm de large, de couleur paille, au sommet surmont&eacute; de 2 pointes de 1 mm de long. Le dos et les faces sont fortement stri&eacute;s transversalement.</p> <h6> Graine</h6> <p> Graine orbiculaire r&eacute;niforme, longue de 2 &agrave; 2,25 mm, de couleur brun p&acirc;le, pubescente autour du hile. Elle reste incluse dans le m&eacute;ricarpe.</p> ",
+dateCreated: "2015-03-19T12:04:56Z",
+lastUpdated: "2015-04-30T16:25:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766696827,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5978,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Sida acuta Burm.f.",
+dateCreated: "2015-03-19T12:04:57Z",
+lastUpdated: "2015-03-19T12:04:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766697292,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5977,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Nouvelle-Cal&eacute;donie</strong> : La tige et les feuilles de <em>Sida acuta</em> peuvent mourir en saison s&egrave;che en gardant ses racines vivantes (l&#39;enracinement est profond 0,6 &agrave; 1 m) pour produire de nouvelles tiges en saison des pluies. Les graines, extr&ecirc;mement nombreuses (plus de 3 millions/ha), rentrent en dormance pour 1 &agrave; 3 ans et germent plut&ocirc;t en d&eacute;but de saison des pluies. La plante s&#39;&eacute;tablit rapidement en l&#39;absence de comp&eacute;tition et fleurit durant la saison des pluies. Les fruits arrivent &agrave; maturit&eacute; en saison s&egrave;che. Les graines restent viables apr&egrave;s ingestion et excr&eacute;tion.<br /> ",
+dateCreated: "2015-03-19T12:04:57Z",
+lastUpdated: "2015-04-30T16:26:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766697059,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5982,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Sida acuta</em> est une plante p&eacute;renne, ayant souvent un comportement annuel. Elle fleurit toute l&#39;ann&eacute;e. Elle se propage uniquement par ses fruits secs.<br /> ",
+dateCreated: "2015-03-19T12:04:58Z",
+lastUpdated: "2015-04-30T16:26:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766698651,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5981,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: <em>Sida acuta</em> est une esp&egrave;ce rud&eacute;rale de basse et moyenne altitude, entre 0 et 800 m, pr&eacute;sente dans les jach&egrave;res, les d&eacute;combres et au bord de chemin.<br /> <strong>Madagascar </strong>: Esp&egrave;ce rud&eacute;rale et mauvaise herbe qui s&rsquo;installe dans les parcelles en friche ou dans les cultures pluviales situ&eacute;es aux environs des villages surtout en moyenne altitude (Moyen-Ouest).<br /> <strong>Maurice </strong>: Esp&egrave;ce peu commune sur l&#39;&icirc;le, c&#39;est une mauvaise herbe occasionnelle des cultures.<br /> <strong>La R&eacute;union</strong> : Cette plante se rencontre &agrave; basse et moyenne altitude, entre 0 et 1000 m, dans les lieux abandonn&eacute;s, comme les d&eacute;combres et les bords des routes et dans les parcelles cultiv&eacute;es, principalement sur la c&ocirc;te ouest de l&#39;&icirc;le.<br /> <strong>Seychelles </strong>: Esp&egrave;ce commune.<br /> ",
+dateCreated: "2015-03-19T12:04:58Z",
+lastUpdated: "2015-04-30T16:28:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766698397,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5980,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Originaire des zones tropicales d'Amérique.</p><h6>Distribution Mondiale</h6><p>Cette plante est désormais commune sur l'ensemble des zones tropicales et sub-tropicales.</p>",
+dateCreated: "2015-03-19T12:04:58Z",
+lastUpdated: "2015-03-19T12:04:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766698164,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5983,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Globale</h6> <p> <em>Sida acuta</em> fait partie des 300 esp&egrave;ces envahissantes majeures de l&#39;Australie tropicale, de l&#39;Oc&eacute;an Indien et de l&#39;Oc&eacute;anie dont la Nouvelle-Cal&eacute;donie. Cette esp&egrave;ce est tr&egrave;s lignifi&eacute;e est tr&egrave;s peu consomm&eacute;e par le b&eacute;tail et les cerfs</p> <h6> Nuisibilit&eacute; Locale</h6> <p> <strong>B&eacute;nin </strong>: Rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>Burkina Faso</strong> : Rare et peu abondante.<br /> <strong>Comores </strong>: Adventice pr&eacute;sente dans les plantations de manioc et bananier, tr&egrave;s difficile &agrave; arracher, elle pose &eacute;norm&eacute;ment de probl&egrave;mes aux agriculteurs lors du d&eacute;frichage ou de la pr&eacute;paration des parcelles.<br /> <strong>C&ocirc;te d&#39;Ivoire</strong> : Fr&eacute;quente et peu abondante.<br /> <strong>Madagascar </strong>: Esp&egrave;ce de fr&eacute;quence moyenne et g&eacute;n&eacute;ralement peu abondante dans les cultures. Dans certaines situations (cas du Moyen-Ouest) elle peut &ecirc;tre nuisible pour les cultures vivri&egrave;res qui suivent les jach&egrave;res ou celles qui se trouvent aux environs des villages (ma&iuml;s, riz pluvial, manioc, arachide). Dans le Moyen-Ouest, sa fr&eacute;quence est &eacute;lev&eacute;e (57 % des parcelles de culture pluviale).<br /> <strong>Mali </strong>: Fr&eacute;quente et peu abondante.<br /> <strong>Maurice </strong>: Adventice &agrave; nuisibilit&eacute; tr&egrave;s faible, &eacute;tant rarement rencontr&eacute;e dans les cultures.<br /> <strong>Nigeria </strong>: Rare et peu abondante.<br /> <strong>Nouvelle-Cal&eacute;donie</strong> : Signal&eacute;e depuis le 18&egrave;me si&egrave;cle (utilis&eacute;e pour balayer le pont des navires, elle s&#39;est install&eacute;e autour des d&eacute;barcad&egrave;res d&egrave;s les premiers temps de la colonisation). Elle est largement r&eacute;pandue sur le territoire au bord des routes, dans les cultures, les p&acirc;turages surexploit&eacute;s et les for&ecirc;ts s&egrave;ches d&eacute;grad&eacute;es. Plante de lumi&egrave;re, de basse &agrave; moyenne altitude (0 &agrave; 800 m), elle pr&eacute;f&egrave;re les sols l&eacute;gers &agrave; moyennement lourds dans des zones humides &agrave; subhumides.<br /> <strong>La R&eacute;union</strong> : Adventice rare en canne &agrave; sucre et en mara&icirc;chage, jamais abondante.<br /> <strong>S&eacute;n&eacute;gal </strong>: Rare et peu abondante.<br /> <strong>Seychelles </strong>: Adventice fr&eacute;quente mais rarement abondante.<br /> <strong>Tanzanie </strong>: Rare et peu abondante.</p> ",
+dateCreated: "2015-03-19T12:04:58Z",
+lastUpdated: "2015-04-30T16:30:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766698882,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5984,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Pour des conseils de d&eacute;sherbage des adventices vivaces &agrave; feuilles larges du riz irrigu&eacute; et de bas-fond en Afrique consulter : http://portal.wikwio.org/document/show/25</p> <h6> Lutte Locale</h6> <p> <strong>Australie</strong>: Lutte biologique : existe dans le Queensland avec l&#39;utilisation d&#39;un insecte phytophage, sp&eacute;cifique &agrave; la plante, la chrysomelle <em>Calligrapha pantherina</em> qui a &eacute;galement &eacute;t&eacute; introduite avec succ&egrave;s en Papouasie-Nouvelle-Guin&eacute;e.<br /> <strong>Madagascar </strong>: Peu nuisibles en g&eacute;n&eacute;ral. L&rsquo;arrachage manuel est tr&egrave;s difficile du fait de l&rsquo;enracinement tr&egrave;s puissant. Chimiquement, les sidas sont contr&ocirc;l&eacute;s par l&rsquo;atrazine, l&rsquo;oxadiazon ou le diuron en pr&eacute;-lev&eacute;e, et par le 2,4-D ou le glyphosate sur les jeunes plantes. Les plantes adultes sont relativement tol&eacute;rantes &agrave; ces herbicides.<br /> <strong>Nouvelle-Cal&eacute;donie</strong> : Un gyrobroyage des zones envahies juste avant la floraison limite la propagation des graines mais ne d&eacute;truit pas les peuplements. Il faut &eacute;viter de faire p&acirc;turer le b&eacute;tail dans les parcelles infest&eacute;es pendant la p&eacute;riode de fructification. Les troupeaux provenant malgr&eacute; tout de ces parcelles doivent rester en parcelle de quarantaine pendant 4 &agrave; 5 jours.<u> Lutte chimique</u> : On peut r&eacute;habiliter des zones envahies par pulv&eacute;risation d&#39;herbide (2,4-D) sur des repousses de 2 semaines apr&egrave;s gyrobroyage en d&eacute;but de saison des pluies. Les nouvelles germinations doivent &ecirc;tre &eacute;limin&eacute;es par des traitements herbicides dirig&eacute;s, localis&eacute;s.</p> ",
+dateCreated: "2015-03-19T12:04:59Z",
+lastUpdated: "2015-04-30T16:32:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766699188,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5972,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:04:56Z",
+lastUpdated: "2015-03-31T05:40:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766696389,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5973,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:04:56Z",
+lastUpdated: "2015-03-31T05:40:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766696389,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5975,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:04:56Z",
+lastUpdated: "2015-03-31T05:40:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.hear.org/pier/species/sida_acuta.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766696389,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5971,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:04:56Z",
+lastUpdated: "2015-03-31T05:40:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Blanfort V., Desmoulins F., Prosperi J., Le Bourgeois T., Guiglion R. & Grard P. 2010. AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. IAC, Cirad, Montpellier, France, Cédérom. http://idao.cirad.fr/applications."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766696388,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5974,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:04:56Z",
+lastUpdated: "2015-03-31T05:40:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766696389,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 6145,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173423.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173423_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:05Z",
+rating: 0
+},
+{
+id: 6146,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20100818_231236.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20100818_231236_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:05Z",
+rating: 0
+},
+{
+id: 6147,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20120125_083718.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20120125_083718_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:05Z",
+rating: 0
+},
+{
+id: 6148,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20120125_133801.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20120125_133801_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:05Z",
+rating: 0
+},
+{
+id: 6149,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20090702_144735.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20090702_144735_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:05Z",
+rating: 0
+},
+{
+id: 6150,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20090702_144031.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20090702_144031_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:06Z",
+rating: 0
+},
+{
+id: 6151,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20051130_080752.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20051130_080752_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:06Z",
+rating: 0
+},
+{
+id: 6152,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20051130_080310.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20051130_080310_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:06Z",
+rating: 0
+},
+{
+id: 6153,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20051130_080636.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20051130_080636_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:06Z",
+rating: 0
+},
+{
+id: 6154,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20051130_080530.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20051130_080530_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:06Z",
+rating: 0
+},
+{
+id: 6155,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124402.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124402_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:07Z",
+rating: 0
+},
+{
+id: 6156,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124408.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124408_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:07Z",
+rating: 0
+},
+{
+id: 6157,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173745.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173745_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:07Z",
+rating: 0
+},
+{
+id: 6158,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173812.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173812_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:07Z",
+rating: 0
+},
+{
+id: 6159,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173610.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173610_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:07Z",
+rating: 0
+},
+{
+id: 6160,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173800.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173800_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:08Z",
+rating: 0
+},
+{
+id: 6161,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173659.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173659_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:08Z",
+rating: 0
+},
+{
+id: 6162,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110128_183706.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110128_183706_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:08Z",
+rating: 0
+},
+{
+id: 6163,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_101020.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_101020_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:08Z",
+rating: 0
+},
+{
+id: 6164,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010518.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010518_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:08Z",
+rating: 0
+},
+{
+id: 6165,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010507.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010507_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:09Z",
+rating: 0
+},
+{
+id: 6166,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010525.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010525_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:09Z",
+rating: 0
+},
+{
+id: 6167,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110128_184656.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110128_184656_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:09Z",
+rating: 0
+},
+{
+id: 6168,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010459.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010459_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:09Z",
+rating: 0
+},
+{
+id: 6169,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010504.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010504_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:09Z",
+rating: 0
+},
+{
+id: 6170,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010522.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010522_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:10Z",
+rating: 0
+},
+{
+id: 6171,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124407.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124407_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:10Z",
+rating: 0
+},
+{
+id: 6172,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010514.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010514_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:10Z",
+rating: 0
+},
+{
+id: 6173,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010511.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110703_010511_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:10Z",
+rating: 0
+},
+{
+id: 6174,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_172639.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_172639_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:10Z",
+rating: 0
+},
+{
+id: 6175,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_172624.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_172624_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:11Z",
+rating: 0
+},
+{
+id: 6176,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_172705.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_172705_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:11Z",
+rating: 0
+},
+{
+id: 6177,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124405.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124405_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:11Z",
+rating: 0
+},
+{
+id: 6178,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124403.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124403_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:11Z",
+rating: 0
+},
+{
+id: 6179,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124404.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124404_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:11Z",
+rating: 0
+},
+{
+id: 6180,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20120125_083724.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20120125_083724_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:12Z",
+rating: 0
+},
+{
+id: 6181,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20090702_145051.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20090702_145051_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:12Z",
+rating: 0
+},
+{
+id: 6182,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_172507.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_172507_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:12Z",
+rating: 0
+},
+{
+id: 6183,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110624_1010831.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110624_1010831_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:12Z",
+rating: 0
+},
+{
+id: 6184,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20041121_191156.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20041121_191156_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:12Z",
+rating: 0
+},
+{
+id: 6185,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20090702_144443.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20090702_144443_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:13Z",
+rating: 0
+},
+{
+id: 6186,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173847.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173847_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:13Z",
+rating: 0
+},
+{
+id: 6187,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20040831_190846.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20040831_190846_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:13Z",
+rating: 0
+},
+{
+id: 6188,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124406.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_10124406_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:13Z",
+rating: 0
+},
+{
+id: 6189,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_101244.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_101244_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:14Z",
+rating: 0
+},
+{
+id: 6190,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20090702_151834.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20090702_151834_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:14Z",
+rating: 0
+},
+{
+id: 6191,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20120125_083502.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20120125_083502_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:14Z",
+rating: 0
+},
+{
+id: 6192,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_101244_1.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20080609_101244_1_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:14Z",
+rating: 0
+},
+{
+id: 6193,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20040831_190836.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20040831_190836_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:14Z",
+rating: 0
+},
+{
+id: 6194,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_090608_091244.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_090608_091244_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:14Z",
+rating: 0
+},
+{
+id: 6195,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173544.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173544_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:15Z",
+rating: 0
+},
+{
+id: 6196,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173905.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173905_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:15Z",
+rating: 0
+},
+{
+id: 6197,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20040831_190848.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20040831_190848_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:15Z",
+rating: 0
+},
+{
+id: 6198,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_090608_091246.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_090608_091246_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:15Z",
+rating: 0
+},
+{
+id: 6199,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173409.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173409_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:15Z",
+rating: 0
+},
+{
+id: 6200,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173450.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173450_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:16Z",
+rating: 0
+},
+{
+id: 6201,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_101110.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_101110_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:16Z",
+rating: 0
+},
+{
+id: 6202,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_101132.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_101132_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:16Z",
+rating: 0
+},
+{
+id: 6203,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173716.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173716_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:16Z",
+rating: 0
+},
+{
+id: 6204,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173837.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173837_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:16Z",
+rating: 0
+},
+{
+id: 6205,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173348.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173348_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:17Z",
+rating: 0
+},
+{
+id: 6206,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173332.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173332_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:17Z",
+rating: 0
+},
+{
+id: 6207,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173826.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_20110702_173826_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:17Z",
+rating: 0
+},
+{
+id: 6208,
+url: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_090608_091245.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sida acuta/sidac_090608_091245_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:34:17Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

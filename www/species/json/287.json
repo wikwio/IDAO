@@ -1,0 +1,2921 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 287,
+title: "<i>Senna obtusifolia (</i>L.<i>) </i>H.S.Irwin<i> & </i>Barneby ",
+taxonConcept: {
+id: 549,
+name: "Senna obtusifolia (L.) H.S.Irwin & Barneby",
+canonicalForm: "Senna obtusifolia",
+italicisedForm: "<i>Senna obtusifolia (</i>L.<i>) </i>H.S.Irwin<i> & </i>Barneby ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 5,
+name: "Fabaceae",
+canonicalForm: "Fabaceae",
+italicisedForm: "<i>Fabaceae</i>",
+rank: "Family"
+},
+{
+id: 548,
+name: "Senna",
+canonicalForm: "Senna",
+italicisedForm: "<i>Senna</i>",
+rank: "Genus"
+},
+{
+id: 549,
+name: "Senna obtusifolia (L.) H.S.Irwin & Barneby",
+canonicalForm: "Senna obtusifolia",
+italicisedForm: "<i>Senna obtusifolia (</i>L.<i>) </i>H.S.Irwin<i> & </i>Barneby ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 5886,
+name: "Cassia contorta Vogel",
+canonicalForm: "Cassia contorta",
+italicisedForm: "<i>Cassia contorta </i>Vogel ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5887,
+name: "Cassia humilis Collad.",
+canonicalForm: "Cassia humilis",
+italicisedForm: "<i>Cassia humilis </i>Collad. ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5888,
+name: "Cassia obtusifolia L.",
+canonicalForm: "Cassia obtusifolia",
+italicisedForm: "<i>Cassia obtusifolia </i>L. ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5889,
+name: "Cassia sunsub Forssk.",
+canonicalForm: "Cassia sunsub",
+italicisedForm: "<i>Cassia sunsub </i>Forssk. ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5890,
+name: "Cassia tala Desv.",
+canonicalForm: "Cassia tala",
+italicisedForm: "<i>Cassia tala </i>Desv. ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5891,
+name: "Cassia tora sensu auct.",
+canonicalForm: "Cassia tora",
+italicisedForm: "<i>Cassia tora sensu </i>auct. ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5892,
+name: "Cassia tora var. humilis (Collad.) Collad.",
+canonicalForm: "Cassia tora humilis",
+italicisedForm: "<i>Cassia tora </i>var.<i> humilis (</i>Collad.<i>) </i>Collad. ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5893,
+name: "Cassia tora var. obtusifolia (L.) Haines",
+canonicalForm: "Cassia tora obtusifolia",
+italicisedForm: "<i>Cassia tora </i>var.<i> obtusifolia (</i>L.<i>) </i>Haines ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5894,
+name: "Cassia toroides Roxb.",
+canonicalForm: "Cassia toroides",
+italicisedForm: "<i>Cassia toroides </i>Roxb. ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5895,
+name: "Chamaefistula contorta G. Don",
+canonicalForm: "Chamaefistula contorta",
+italicisedForm: "<i>Chamaefistula contorta </i>G. Don ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5896,
+name: "Diallobus falcatus Raf.",
+canonicalForm: "Diallobus falcatus",
+italicisedForm: "<i>Diallobus falcatus </i>Raf. ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5897,
+name: "Diallobus tora (L.) Raf.",
+canonicalForm: "Diallobus tora",
+italicisedForm: "<i>Diallobus tora (</i>L.<i>) </i>Raf. ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5898,
+name: "Diallobus uniflorus Raf.",
+canonicalForm: "Diallobus uniflorus",
+italicisedForm: "<i>Diallobus uniflorus </i>Raf. ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5899,
+name: "Emelista tora (L.) Britton & Rose ex Britton & P. Wilson",
+canonicalForm: "Emelista tora",
+italicisedForm: "<i>Emelista tora (</i>L.<i>) </i>Britton<i> & </i>Rose<i> ex </i>Britton<i> & </i>P. Wilson ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5900,
+name: "Senna toroides Roxb.",
+canonicalForm: "Senna toroides",
+italicisedForm: "<i>Senna toroides </i>Roxb. ",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1319,
+name: "Bemaimbo",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1322,
+name: "Sarivoanjo",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1323,
+name: "Tainakoho",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1321,
+name: "Tamarin bourbon",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1320,
+name: "Dadjile",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 1324,
+name: "Hassa",
+taxonConcept: {
+id: 549
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:28:56Z",
+lastRevised: "2015-04-30T10:04:54Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050319_135620_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CASOB</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CASOB</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 2017,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CASOB</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2014-09-24T18:30:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427016,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2025,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Alternate, pinnate, 2.5-7.5 cm long with petioles that are 2.5 cm long. The rhachis always has one to two glands between the lowest pair of leaflets. The leaflets consist of three pairs. Each leaflet is obovate, 1.5-5 cm and 1-3 cm wide, mucronate at the apex, sessile and smooth.</p><h6>Underground System</h6><p>The root system consists of taproot.</p><h6>Flower</h6><p>Yellow, 2-3 cm across and borne on pedicels that are 1.5-3.5 cm long. Petals unequal in size, more or less ovate, obtuse or rounded, 12-15 mm long, the upper petal truncate or emarginate, narrow at the base, but claw indistinct. Stamens 10, 3 lower longest, 4 lateral smaller, 3 upper stamens staminodial. Ovary more or less glabrous, ribbed, style glabrous, stigma truncate.</p><h6>Fruit</h6><p>Cylindrical pods that are 10-20 cm long and 5-6 mm wide. They are curved and long-breked, one or usually two in axil.</p><h6>Seed</h6><p>About 5 mm long and 2 mm wide, somewhat rhomboid, brown and smooth.</p><h6>Global Description</h6><p>An erect, branched, bushy broadleaf annual or short-lived perennial up to 90 cm high, that reproduces from seeds.</p><h6>Inflorescence</h6><p>Consist of one or two flowers in the axils of the upper leaves.</p><h6>Stem</h6><p>Robust, cylindrical, pubescent or sparingly so.</p>",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2014-09-24T18:30:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427029,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2014,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Senna obtusifolia (L.) H.S.Irwin & Barneby",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2014-09-24T18:30:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427013,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2015,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Propagated by seed only. This plant spreads by reseeding itself. Seeds are dispersed by water and animals that eat the fruit (e.g. cattle). They may also be spread as a contaminant of agricultural produce (fodder and pastuAbout 5 mm long and 2 mm wide, somewhat rhomboid, brown and smooth.<br>",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2014-09-24T18:30:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427014,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2018,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Usually grows as a pasture weed but sometimes found along roads and in disturbed areas in rain forest. In West Africa it is occurs in open areas along roadsides, grasslands and cultivated fields, common near settlements, and in waste areas. It could probably thrive in disturbed areas of prairies.<br>",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2014-09-24T18:30:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427017,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2024,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Senna obtusifolia is invasive in parts of Kenya and Uganda and naturalised in parts of Tanzania. It is found mainly in the coastal and central parts of Kenya. In Tanzania, it is found in the Morogoro floral region. Widespread in West Africa.</p><h6>Origin</h6><p>An introduced species probably originating in tropical America but now a pantropic weed.</p>",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2014-09-24T18:30:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427029,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2030,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Local Weediness</h6><p>Uganda:Rare and not abundant.</p>",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2014-09-24T18:30:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427051,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2023,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "This species is toxic if eaten in large quantities.<br>",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2014-09-24T18:30:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427028,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2013,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Senna obtusifolia is very difficult to control with cultivating usually spreading rather than controlling this weed. Hand pulling is difficult because of its long curved taproot. Slashing reduces vigour and if combined with other management measures such as restricted grazing and soil fertility augmentation, can bring this plant under control. A variety of herbicides can be used to control S. obtusifolia. Their success depends upon environmental conditions. When using any herbicide always read the label first and follow all instructions and safety requirements. If in doubt consult an expert. Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2014-09-24T18:30:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427012,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2012,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2015-02-19T12:01:44Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Illinois wildflowers: http://www.illinoiswildflowers.info/prairie/plantx/sicklepodx.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "JSTOR PLANTE SCIENCE: http://plants.jstor.org/flora/flos001908"
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké. 212p."
+},
+{
+title: "Weed of Australia: http://www.weeds.org.au/cgibin/weedident.cgi?tpl=plant.tpl&ibra=all&card=H12"
+},
+{
+title: "BioNet-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Senna_obtusifolia_%28Sicklepod%29.htm"
+},
+{
+title: "Akobundu I. O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 306p."
+},
+{
+title: "Flora of Pakistan: http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=242311371"
+},
+{
+title: "Australia Tropical Rainforest Plants: http://keys.trin.org.au:8080/key-server/data/0e0f0504-0103-430d-8004-060d07080d04/media/Html/taxon/Senna_obtusifolia.htm"
+},
+{
+title: "Lazarides, M., Cowley, K. and Hohnen, P. (1997). CSIRO Handbook of Australian Weeds. CSIRO Publishing, Collingwood, Victoria."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427010,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2016,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2015-03-31T11:10:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Lazarides, M., Cowley, K. and Hohnen, P. (1997). CSIRO Handbook of Australian Weeds. CSIRO Publishing, Collingwood, Victoria."
+},
+{
+title: "Akobundu I. O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 306p."
+},
+{
+title: "Illinois wildflowers: http://www.illinoiswildflowers.info/prairie/plantx/sicklepodx.htm"
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké. 212p."
+},
+{
+title: "Flora of Pakistan: http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=242311371"
+},
+{
+title: "Weed of Australia: http://www.weeds.org.au/cgibin/weedident.cgi?tpl=plant.tpl&ibra=all&card=H12"
+},
+{
+title: "BioNet-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Senna_obtusifolia_%28Sicklepod%29.htm"
+},
+{
+title: "Australia Tropical Rainforest Plants: http://keys.trin.org.au:8080/key-server/data/0e0f0504-0103-430d-8004-060d07080d04/media/Html/taxon/Senna_obtusifolia.htm"
+},
+{
+title: "JSTOR PLANTE SCIENCE: http://plants.jstor.org/flora/flos001908"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427014,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2019,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2015-03-31T11:10:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I. O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 306p."
+},
+{
+title: "Flora of Pakistan: http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=242311371"
+},
+{
+title: "Australia Tropical Rainforest Plants: http://keys.trin.org.au:8080/key-server/data/0e0f0504-0103-430d-8004-060d07080d04/media/Html/taxon/Senna_obtusifolia.htm"
+},
+{
+title: "Lazarides, M., Cowley, K. and Hohnen, P. (1997). CSIRO Handbook of Australian Weeds. CSIRO Publishing, Collingwood, Victoria."
+},
+{
+title: "JSTOR PLANTE SCIENCE: http://plants.jstor.org/flora/flos001908"
+},
+{
+title: "Weed of Australia: http://www.weeds.org.au/cgibin/weedident.cgi?tpl=plant.tpl&ibra=all&card=H12"
+},
+{
+title: "BioNet-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Senna_obtusifolia_%28Sicklepod%29.htm"
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké. 212p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Illinois wildflowers: http://www.illinoiswildflowers.info/prairie/plantx/sicklepodx.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427018,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2020,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2015-03-31T11:10:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Illinois wildflowers: http://www.illinoiswildflowers.info/prairie/plantx/sicklepodx.htm"
+},
+{
+title: "BioNet-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Senna_obtusifolia_%28Sicklepod%29.htm"
+},
+{
+title: "Akobundu I. O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 306p."
+},
+{
+title: "Weed of Australia: http://www.weeds.org.au/cgibin/weedident.cgi?tpl=plant.tpl&ibra=all&card=H12"
+},
+{
+title: "JSTOR PLANTE SCIENCE: http://plants.jstor.org/flora/flos001908"
+},
+{
+title: "Lazarides, M., Cowley, K. and Hohnen, P. (1997). CSIRO Handbook of Australian Weeds. CSIRO Publishing, Collingwood, Victoria."
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké. 212p."
+},
+{
+title: "Flora of Pakistan: http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=242311371"
+},
+{
+title: "Australia Tropical Rainforest Plants: http://keys.trin.org.au:8080/key-server/data/0e0f0504-0103-430d-8004-060d07080d04/media/Html/taxon/Senna_obtusifolia.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427020,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2021,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2015-03-31T11:10:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "BioNet-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Senna_obtusifolia_%28Sicklepod%29.htm"
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké. 212p."
+},
+{
+title: "Australia Tropical Rainforest Plants: http://keys.trin.org.au:8080/key-server/data/0e0f0504-0103-430d-8004-060d07080d04/media/Html/taxon/Senna_obtusifolia.htm"
+},
+{
+title: "Illinois wildflowers: http://www.illinoiswildflowers.info/prairie/plantx/sicklepodx.htm"
+},
+{
+title: "Akobundu I. O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 306p."
+},
+{
+title: "Flora of Pakistan: http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=242311371"
+},
+{
+title: "JSTOR PLANTE SCIENCE: http://plants.jstor.org/flora/flos001908"
+},
+{
+title: "Weed of Australia: http://www.weeds.org.au/cgibin/weedident.cgi?tpl=plant.tpl&ibra=all&card=H12"
+},
+{
+title: "Lazarides, M., Cowley, K. and Hohnen, P. (1997). CSIRO Handbook of Australian Weeds. CSIRO Publishing, Collingwood, Victoria."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427023,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2022,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2015-03-31T11:10:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Flora of Pakistan: http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=242311371"
+},
+{
+title: "Akobundu I. O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 306p."
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké. 212p."
+},
+{
+title: "Illinois wildflowers: http://www.illinoiswildflowers.info/prairie/plantx/sicklepodx.htm"
+},
+{
+title: "Australia Tropical Rainforest Plants: http://keys.trin.org.au:8080/key-server/data/0e0f0504-0103-430d-8004-060d07080d04/media/Html/taxon/Senna_obtusifolia.htm"
+},
+{
+title: "Lazarides, M., Cowley, K. and Hohnen, P. (1997). CSIRO Handbook of Australian Weeds. CSIRO Publishing, Collingwood, Victoria."
+},
+{
+title: "Weed of Australia: http://www.weeds.org.au/cgibin/weedident.cgi?tpl=plant.tpl&ibra=all&card=H12"
+},
+{
+title: "BioNet-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Senna_obtusifolia_%28Sicklepod%29.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "JSTOR PLANTE SCIENCE: http://plants.jstor.org/flora/flos001908"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427025,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2029,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2015-02-19T11:59:19Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I. O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 306p."
+},
+{
+title: "Australia Tropical Rainforest Plants: http://keys.trin.org.au:8080/key-server/data/0e0f0504-0103-430d-8004-060d07080d04/media/Html/taxon/Senna_obtusifolia.htm"
+},
+{
+title: "JSTOR PLANTE SCIENCE: http://plants.jstor.org/flora/flos001908"
+},
+{
+title: "Lazarides, M., Cowley, K. and Hohnen, P. (1997). CSIRO Handbook of Australian Weeds. CSIRO Publishing, Collingwood, Victoria."
+},
+{
+title: "Illinois wildflowers: http://www.illinoiswildflowers.info/prairie/plantx/sicklepodx.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Weed of Australia: http://www.weeds.org.au/cgibin/weedident.cgi?tpl=plant.tpl&ibra=all&card=H12"
+},
+{
+title: "BioNet-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Senna_obtusifolia_%28Sicklepod%29.htm"
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké. 212p."
+},
+{
+title: "Flora of Pakistan: http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=242311371"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427048,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2026,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2015-03-31T11:10:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké. 212p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Weed of Australia: http://www.weeds.org.au/cgibin/weedident.cgi?tpl=plant.tpl&ibra=all&card=H12"
+},
+{
+title: "Illinois wildflowers: http://www.illinoiswildflowers.info/prairie/plantx/sicklepodx.htm"
+},
+{
+title: "JSTOR PLANTE SCIENCE: http://plants.jstor.org/flora/flos001908"
+},
+{
+title: "Lazarides, M., Cowley, K. and Hohnen, P. (1997). CSIRO Handbook of Australian Weeds. CSIRO Publishing, Collingwood, Victoria."
+},
+{
+title: "BioNet-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Senna_obtusifolia_%28Sicklepod%29.htm"
+},
+{
+title: "Flora of Pakistan: http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=242311371"
+},
+{
+title: "Akobundu I. O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 306p."
+},
+{
+title: "Australia Tropical Rainforest Plants: http://keys.trin.org.au:8080/key-server/data/0e0f0504-0103-430d-8004-060d07080d04/media/Html/taxon/Senna_obtusifolia.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427029,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2027,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2015-03-31T11:10:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Flora of Pakistan: http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=242311371"
+},
+{
+title: "Akobundu I. O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 306p."
+},
+{
+title: "BioNet-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Senna_obtusifolia_%28Sicklepod%29.htm"
+},
+{
+title: "JSTOR PLANTE SCIENCE: http://plants.jstor.org/flora/flos001908"
+},
+{
+title: "Lazarides, M., Cowley, K. and Hohnen, P. (1997). CSIRO Handbook of Australian Weeds. CSIRO Publishing, Collingwood, Victoria."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Australia Tropical Rainforest Plants: http://keys.trin.org.au:8080/key-server/data/0e0f0504-0103-430d-8004-060d07080d04/media/Html/taxon/Senna_obtusifolia.htm"
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké. 212p."
+},
+{
+title: "Weed of Australia: http://www.weeds.org.au/cgibin/weedident.cgi?tpl=plant.tpl&ibra=all&card=H12"
+},
+{
+title: "Illinois wildflowers: http://www.illinoiswildflowers.info/prairie/plantx/sicklepodx.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427032,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2028,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:30:27Z",
+lastUpdated: "2015-03-31T11:10:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké. 212p."
+},
+{
+title: "Flora of Pakistan: http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=242311371"
+},
+{
+title: "Lazarides, M., Cowley, K. and Hohnen, P. (1997). CSIRO Handbook of Australian Weeds. CSIRO Publishing, Collingwood, Victoria."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Weed of Australia: http://www.weeds.org.au/cgibin/weedident.cgi?tpl=plant.tpl&ibra=all&card=H12"
+},
+{
+title: "Illinois wildflowers: http://www.illinoiswildflowers.info/prairie/plantx/sicklepodx.htm"
+},
+{
+title: "BioNet-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Senna_obtusifolia_%28Sicklepod%29.htm"
+},
+{
+title: "Akobundu I. O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 306p."
+},
+{
+title: "JSTOR PLANTE SCIENCE: http://plants.jstor.org/flora/flos001908"
+},
+{
+title: "Australia Tropical Rainforest Plants: http://keys.trin.org.au:8080/key-server/data/0e0f0504-0103-430d-8004-060d07080d04/media/Html/taxon/Senna_obtusifolia.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583427045,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5860,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Senna obtusifolia est une plante dressée à feuilles alternes, composées paripennées. Les feuilles portent 3 paires de folioles obovales, avec une petite pointe au sommet. Au point d'insertion de la première paire de folioles se trouve une glande noire en forme de bâtonnet. Les fleurs sont jaunes, solitaires ou par paires à la base des feuilles. Les grandes étamines ont des anthères rostrées. Le fruit est une longue gousse légèrement arquée contenant une rangée de graines polygonales.</p>",
+dateCreated: "2015-03-19T12:03:34Z",
+lastUpdated: "2015-03-19T12:03:34Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766614603,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5845,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CASOB</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T12:03:29Z",
+lastUpdated: "2015-03-19T12:03:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766609422,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5851,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Senna obtusifolia </em>est une plante dress&eacute;e &agrave; feuilles alternes, compos&eacute;es paripenn&eacute;es. Les feuilles portent 3 paires de folioles obovales, avec une petite pointe au sommet. Au point d&#39;insertion de la premi&egrave;re paire de folioles se trouve une glande noire en forme de b&acirc;tonnet. Les fleurs sont jaunes, solitaires ou par paires &agrave; la base des feuilles. Les grandes &eacute;tamines ont des anth&egrave;res rostr&eacute;es. Le fruit est une longue gousse l&eacute;g&egrave;rement arqu&eacute;e contenant une rang&eacute;e de graines polygonales.</p> <h6> Cotyl&eacute;dons</h6> <p> Cotyl&eacute;dons subsessiles et orbiculaires. Ils mesurent environ 20 mm de diam&egrave;tre. De la base du limbe partent 3 &agrave; 5 nervures.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Premi&egrave;res feuilles alternes, compos&eacute;es et paripenn&eacute;es. La premi&egrave;re feuille porte 2 paires de folioles, les suivantes en portent 3 paires.</p> <h6> Port</h6> <p> Plante &agrave; port dress&eacute;. La plante se d&eacute;veloppe en tige herbac&eacute;e &eacute;rig&eacute;e, ramifi&eacute;e ou en petit buisson. Elle peut mesurer 1 m de haut.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est un pivot profond.</p> <h6> Tige</h6> <p> Tige pleine et cylindrique. Elle est glabre &agrave; finement pubescente. La base devient rapidement ligneuse chez les plantes &agrave; fort d&eacute;veloppement buissonnant.</p> <h6> Feuille</h6> <p> Feuilles alternes et compos&eacute;es paripenn&eacute;es. Le p&eacute;tiole est presque aussi long que le rachis, la longueur totale de la feuille peut atteindre 15 cm. La base du p&eacute;tiole est encadr&eacute;e par 2 stipules lin&eacute;aires de 1 cm de long. La partie sup&eacute;rieure du p&eacute;tiole et du rachis est creus&eacute;e en goutti&egrave;re. A la base de la premi&egrave;re ou des deux premi&egrave;res paires de folioles, se trouve une glande pro&eacute;minente en b&acirc;tonnet, de couleur noire et mesurant 1,5 mm de long. Les feuilles adultes comprennent 3 paires de folioles de forme obovale, la base en coin, plus ou moins asym&eacute;trique et au sommet arrondi mucron&eacute;. La taille des folioles est croissante de la base jusqu&#39;au sommet de la feuille. Elles sont longues de 2 &agrave; 6 cm et larges de 1,5 &agrave; 3 cm. La marge est enti&egrave;re finement cili&eacute;e, la face sup&eacute;rieure est glabrescente et la face inf&eacute;rieure finement pubescente.</p> <h6> Inflorescence</h6> <p> Fleurs solitaires ou group&eacute;es par paires &agrave; l&#39;aisselle des feuilles</p> <h6> Fleur</h6> <p> Fleurs port&eacute;es par un p&eacute;dicelle de 1 &agrave; 3 cm de long. Une fleur &eacute;panouie mesure 2 &agrave; 3 cm de diam&egrave;tre. Le calice comprend 5 s&eacute;pales libres. La corolle est l&eacute;g&egrave;rement dissym&eacute;trique et poss&egrave;de 5 p&eacute;tales jaunes obovales. Les deux p&eacute;tales ventraux ont une base r&eacute;tr&eacute;cie. Parmi les trois p&eacute;tales dorsaux, le p&eacute;tale central est profond&eacute;ment &eacute;margin&eacute; au sommet. Les &eacute;tamines sont libres, au nombre de 10 et plus ou moins avort&eacute;es. Le style de l&#39;ovaire est long de 2 mm et en forme de crosse.</p> <h6> Fruit</h6> <p> Le fruit est une gousse lin&eacute;aire l&eacute;g&egrave;rement arqu&eacute;e. Elle est longue de 15 &agrave; 25 cm et large de 3 &agrave; 6 mm. La section de la gousse est elliptique, le sommet se termine en bec effil&eacute;. Une gousse contient 20 &agrave; 40 graines embo&icirc;t&eacute;es longitudinalement en une seule s&eacute;rie.</p> <h6> Graine</h6> <p> Graine presque cylindrique, tr&egrave;s l&eacute;g&egrave;rement aplatie lat&eacute;ralement. Elle mesure 5 &agrave; 6 mm de long et 2 mm de large. Le sommet et la base sont en biseau. T&eacute;gument de couleur brun brillant, orn&eacute; d&#39;une marque plus claire en forme de S &eacute;tir&eacute;, sur chaque face lat&eacute;rale.</p> ",
+dateCreated: "2015-03-19T12:03:30Z",
+lastUpdated: "2015-04-29T15:06:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766610449,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5853,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Senna obtusifolia (L.) H.S.Irwin & Barneby",
+dateCreated: "2015-03-19T12:03:30Z",
+lastUpdated: "2015-03-19T12:03:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766610858,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5852,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Nord-Cameroun</strong> : <em>S. obtusifolia</em> est observ&eacute;e durant toute la saison des pluies bien que sa fr&eacute;quence et son abondance soient plus &eacute;lev&eacute;es en d&eacute;but de cycle cultural qu&#39;en milieu ou en fin de culture. La germination a lieu d&egrave;s le mois de mai apr&egrave;s les premi&egrave;res pluies importantes. A la suite de chaque op&eacute;ration culturale (labour, sarclage, buttage), une nouvelle phase de germination se produit durant 2 &agrave; 4 semaines. La floraison commence fin juillet-d&eacute;but ao&ucirc;t et s&#39;ach&egrave;ve fin septembre. La fructification se d&eacute;roule d&#39;ao&ucirc;t &agrave; novembre, jusqu&#39;au dess&egrave;chement de la plante en d&eacute;but de saison s&egrave;che. En l&#39;absence de d&eacute;sherbage, le cycle de d&eacute;veloppement complet est r&eacute;alis&eacute; en 12 ou 13 semaines. Dans le cas des individus issus de lev&eacute;es tardives, la floraison et la fructification sont retard&eacute;es, mais le cycle de d&eacute;veloppement est raccourci &agrave; 8 ou 9 semaines. La production de graines est alors faible car elle est r&eacute;alis&eacute;e par des plantes de faible d&eacute;veloppement.<br /> ",
+dateCreated: "2015-03-19T12:03:30Z",
+lastUpdated: "2015-04-29T15:06:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766610643,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5857,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Senna obtusifolia</strong> est une esp&egrave;ce annuelle. Elle se multiplie uniquement par graines.<br /> ",
+dateCreated: "2015-03-19T12:03:31Z",
+lastUpdated: "2015-04-29T15:07:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766611654,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5850,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>S. obtusifolia</em> est facilement confondue avec <em>S. tora</em> dont les feuilles poss&egrave;dent deux glandes en b&acirc;tonnet sur le rachis dispos&eacute;es chacune &agrave; la base des deux premi&egrave;res paires de folioles et les grandes &eacute;tamines ont des anth&egrave;res non rostr&eacute;es tandis que <em>S. obtusifolia</em> ne poss&egrave;de qu&#39;une seule glande en batonnet &agrave; la base de la premi&egrave;re paire de folioles et des grandes &eacute;tamines &agrave; anth&egrave;res rostr&eacute;es.<br /> <br /> <table border="1" cellpadding="1" cellspacing="1" style="width: 500px;"> <thead> <tr> <th scope="col"> </th> <th scope="col" style="background-color: rgb(255, 204, 255);"> <em>S. obtusifolia</em></th> <th scope="col" style="background-color: rgb(153, 255, 255);"> <em>S. tora</em></th> </tr> </thead> <tbody> <tr> <td style="text-align: center; background-color: rgb(255, 255, 102);"> nombres glandes en b&acirc;tonnet</td> <th style="background-color: rgb(255, 204, 255);"> 1</th> <th style="background-color: rgb(153, 255, 255);"> 2</th> </tr> <tr> <td style="text-align: center; background-color: rgb(255, 255, 102);"> anth&egrave;res des &eacute;tamines</td> <th style="background-color: rgb(255, 204, 255);"> rostr&eacute;es</th> <th style="background-color: rgb(153, 255, 255);"> non rostr&eacute;es</th> </tr> </tbody> </table> <br /> ",
+dateCreated: "2015-03-19T12:03:30Z",
+lastUpdated: "2015-05-05T08:01:33Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766610257,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5856,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>S. obtusifolia</em> est une esp&egrave;ce rud&eacute;rale (le long des chemins et des canaux d&#39;irrigation, autour des villages ou des parcs &agrave; boeufs) et mauvaise herbe courante des cultures dans les parcelles sur sols encore fertiles (cultures de case, dans plaines alluviales, d&eacute;pressions et terrasses).<br /> <br /> <strong>Nord-Cameroun</strong> : <em>S. obtusifolia</em> est une esp&egrave;ce caract&eacute;ristique des r&eacute;gions soudano-sah&eacute;liennes dont la pluviom&eacute;trie annuelle est inf&eacute;rieure &agrave; 1 100 mm.<br /> ",
+dateCreated: "2015-03-19T12:03:31Z",
+lastUpdated: "2015-04-30T10:04:31Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766611460,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5855,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>Cette espèce est très répandue depuis l'Afrique de l'Ouest jusqu'en Afrique de l'Est et en Inde.</p>",
+dateCreated: "2015-03-19T12:03:31Z",
+lastUpdated: "2015-03-19T12:03:31Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766611245,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5858,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Nord-Cameroun</strong> : <em>S. obtusifolia</em> est pr&eacute;sente dans plus de 60 % des parcelles cultiv&eacute;es en r&eacute;gion soudano-sah&eacute;lienne. En revanche dans les r&eacute;gions plus humides, o&ugrave; la pluviom&eacute;trie annuelle est sup&eacute;rieure &agrave; 1 300 mm, sa fr&eacute;quence d&#39;apparition devient tr&egrave;s faible (7 %). Elle ne pr&eacute;sente pas de pr&eacute;f&eacute;rence de sol notable &agrave; condition que celui-ci draine bien. Elle est fr&eacute;quente et abondante sur sols fersialitiques, sur sols ferrugineux de cordon dunaire et sur alluvions, mais elle est peu fr&eacute;quente sur vertisols &agrave; cause de leur faible drainage. C&#39;est une adventice tr&egrave;s commune dans les syst&egrave;mes de culture traditionnels, n&#39;utilisant ni les herbicides, ni les engrais et dont la pr&eacute;paration du sol avant le semis est superficielle voire inexistante. Dans ces syst&egrave;mes de culture, le sorgho est la culture dominante.<em> S. obtusifolia</em> est typiquement une adventice r&eacute;gionale.<br /> <strong>C&ocirc;te d&#39;Ivoire</strong> : Fr&eacute;quente et peu abondante.<br /> <strong>Ghana </strong>: Rare et peu abondante.<br /> <strong>Nigeria </strong>: Rare et peu abondante.<br /> <strong>Ouganda </strong>: Rare et peu abondante.</p> ",
+dateCreated: "2015-03-19T12:03:31Z",
+lastUpdated: "2015-04-29T15:10:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766611848,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5859,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Pour des conseils de d&eacute;sherbage des adventices annuelles &agrave; feuilles larges du riz irrigu&eacute; et de bas-fond en Afrique consulter : http://portal.wikwio.org/document/show/19</p> <h6> Lutte Locale</h6> <p> <strong>Madagascar </strong>: De mani&egrave;re g&eacute;n&eacute;rale, <em>S. obtusifolia</em> est peu g&ecirc;nante dans les cultures. L&rsquo;arrachage manuel est difficile du fait du syst&egrave;me racinaire pivotant puissant. Contr&ocirc;lable &agrave; l&rsquo;oxadiazon en pr&eacute;-lev&eacute;e et au 2,4-D et/ou glyphosate en post-lev&eacute;e, sur de jeunes plantes. Tol&eacute;rante &agrave; la plupart des herbicides au stade adulte (sensible aussi au dicamba en post-lev&eacute;e, produit non disponible &agrave; Madagascar).</p> ",
+dateCreated: "2015-03-19T12:03:32Z",
+lastUpdated: "2015-04-29T15:11:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766612108,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5848,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:03:29Z",
+lastUpdated: "2015-03-31T06:53:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766609965,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5847,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:03:29Z",
+lastUpdated: "2015-03-31T06:53:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766609965,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5846,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:03:29Z",
+lastUpdated: "2015-03-31T06:53:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766609964,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5849,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:03:29Z",
+lastUpdated: "2015-03-31T06:53:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.hear.org/pier/species/senna_obtusifolia.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766609965,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 5948,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050319_135620.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050319_135620_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:16Z",
+rating: 0
+},
+{
+id: 5949,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_120906_092522.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_120906_092522_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:16Z",
+rating: 0
+},
+{
+id: 5950,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20120509_114746.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20120509_114746_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:16Z",
+rating: 0
+},
+{
+id: 5951,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20060911_133407.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20060911_133407_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:16Z",
+rating: 0
+},
+{
+id: 5952,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_000991_164550.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_000991_164550_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:16Z",
+rating: 0
+},
+{
+id: 5953,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_000689_154706.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_000689_154706_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:17Z",
+rating: 0
+},
+{
+id: 5954,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20110517_120149.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20110517_120149_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:17Z",
+rating: 0
+},
+{
+id: 5955,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20080609_101206_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20080609_101206_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:17Z",
+rating: 0
+},
+{
+id: 5956,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_000589_154819.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_000589_154819_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:17Z",
+rating: 0
+},
+{
+id: 5957,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_000777_163538.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_000777_163538_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:17Z",
+rating: 0
+},
+{
+id: 5958,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20060912_111354.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20060912_111354_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:18Z",
+rating: 0
+},
+{
+id: 5959,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20110517_120618.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20110517_120618_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:18Z",
+rating: 0
+},
+{
+id: 5960,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20110517_120221.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20110517_120221_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:18Z",
+rating: 0
+},
+{
+id: 5961,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20060912_110641.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20060912_110641_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:18Z",
+rating: 0
+},
+{
+id: 5962,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_120906_110641.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_120906_110641_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:18Z",
+rating: 0
+},
+{
+id: 5963,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050111_160108.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050111_160108_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:18Z",
+rating: 0
+},
+{
+id: 5964,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20110517_120250.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20110517_120250_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:19Z",
+rating: 0
+},
+{
+id: 5965,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050111_160120.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050111_160120_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:19Z",
+rating: 0
+},
+{
+id: 5966,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20080609_101206_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20080609_101206_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:19Z",
+rating: 0
+},
+{
+id: 5967,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_000589_154923.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_000589_154923_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:19Z",
+rating: 0
+},
+{
+id: 5968,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20080609_101206.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20080609_101206_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:19Z",
+rating: 0
+},
+{
+id: 5969,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050111_160132.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050111_160132_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:20Z",
+rating: 0
+},
+{
+id: 5970,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050111_160106.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050111_160106_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:20Z",
+rating: 0
+},
+{
+id: 5971,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050319_130320.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050319_130320_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:20Z",
+rating: 0
+},
+{
+id: 5972,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050319_135600.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050319_135600_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:20Z",
+rating: 0
+},
+{
+id: 5973,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20060912_113608.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20060912_113608_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:20Z",
+rating: 0
+},
+{
+id: 5974,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_090608_091206.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_090608_091206_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:21Z",
+rating: 0
+},
+{
+id: 5975,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20060912_092522_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20060912_092522_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:21Z",
+rating: 0
+},
+{
+id: 5976,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_120906_092523.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_120906_092523_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:21Z",
+rating: 0
+},
+{
+id: 5977,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050319_135628.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20050319_135628_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:21Z",
+rating: 0
+},
+{
+id: 5978,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20110708_113801.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20110708_113801_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:21Z",
+rating: 0
+},
+{
+id: 5979,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_000777_155113.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_000777_155113_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:22Z",
+rating: 0
+},
+{
+id: 5980,
+url: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20060912_092522.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Senna obtusifolia/casob_20060912_092522_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:29:22Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

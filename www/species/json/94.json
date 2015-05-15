@@ -1,0 +1,407 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 94,
+title: "<i>Cyperus balfourii </i>C.B.Clarke ",
+taxonConcept: {
+id: 214,
+name: "Cyperus balfourii C.B.Clarke",
+canonicalForm: "Cyperus balfourii",
+italicisedForm: "<i>Cyperus balfourii </i>C.B.Clarke ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 10,
+name: "Cyperaceae",
+canonicalForm: "Cyperaceae",
+italicisedForm: "<i>Cyperaceae</i>",
+rank: "Family"
+},
+{
+id: 213,
+name: "Cyperus",
+canonicalForm: "Cyperus",
+italicisedForm: "<i>Cyperus</i>",
+rank: "Genus"
+},
+{
+id: 214,
+name: "Cyperus balfourii C.B.Clarke",
+canonicalForm: "Cyperus balfourii",
+italicisedForm: "<i>Cyperus balfourii </i>C.B.Clarke ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 2104,
+name: "Cyperus balfourii var. laxissimus (Cherm.) Kük.",
+canonicalForm: "Cyperus balfourii laxissimus",
+italicisedForm: "<i>Cyperus balfourii </i>var.<i> laxissimus (</i>Cherm.<i>) </i>Kük. ",
+taxonConcept: {
+id: 214
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2105,
+name: "Cyperus balfourii var. rubiginosus Kük.",
+canonicalForm: "Cyperus balfourii rubiginosus",
+italicisedForm: "<i>Cyperus balfourii </i>var.<i> rubiginosus </i>Kük. ",
+taxonConcept: {
+id: 214
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2106,
+name: "Cyperus balfourii var. scabricaulis (Cherm.) Kük.",
+canonicalForm: "Cyperus balfourii scabricaulis",
+italicisedForm: "<i>Cyperus balfourii </i>var.<i> scabricaulis (</i>Cherm.<i>) </i>Kük. ",
+taxonConcept: {
+id: 214
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2107,
+name: "Cyperus balfourii var. tsiafajavonensis (Cherm.) Kük.",
+canonicalForm: "Cyperus balfourii tsiafajavonensis",
+italicisedForm: "<i>Cyperus balfourii </i>var.<i> tsiafajavonensis (</i>Cherm.<i>) </i>Kük. ",
+taxonConcept: {
+id: 214
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2108,
+name: "Cyperus confusus Cherm.",
+canonicalForm: "Cyperus confusus",
+italicisedForm: "<i>Cyperus confusus </i>Cherm. ",
+taxonConcept: {
+id: 214
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2109,
+name: "Cyperus confusus var. laxissimus Cherm.",
+canonicalForm: "Cyperus confusus laxissimus",
+italicisedForm: "<i>Cyperus confusus </i>var.<i> laxissimus </i>Cherm. ",
+taxonConcept: {
+id: 214
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2110,
+name: "Cyperus confusus var. scabricaulis Cherm.",
+canonicalForm: "Cyperus confusus scabricaulis",
+italicisedForm: "<i>Cyperus confusus </i>var.<i> scabricaulis </i>Cherm. ",
+taxonConcept: {
+id: 214
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2111,
+name: "Cyperus confusus var. tsiafajavonensis Cherm.",
+canonicalForm: "Cyperus confusus tsiafajavonensis",
+italicisedForm: "<i>Cyperus confusus </i>var.<i> tsiafajavonensis </i>Cherm. ",
+taxonConcept: {
+id: 214
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:15:45Z",
+lastRevised: "2015-03-19T11:19:15Z",
+thumbnail: "http://portal.wikwio.org/biodiv/group_icons/speciesGroups/plants_th1.png",
+notes: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>CYPBF</p><h6>Habitat</h6><p>aquatic</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>CYPBF</p><h6>Habitat</h6><p>aquatic</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 759,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>CYPBF</p><h6>Habitat</h6><p>aquatic</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145407,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 758,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Cyperus balfourii C.B.Clarke",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145406,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3618,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CYPBF</p><h6>Type Biologique</h6><p>cyperacée</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>aquatique</p>",
+dateCreated: "2015-03-19T11:19:14Z",
+lastUpdated: "2015-03-19T11:19:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763954305,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3619,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Cyperus balfourii C.B.Clarke",
+dateCreated: "2015-03-19T11:19:15Z",
+lastUpdated: "2015-03-19T11:19:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763955551,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [ ],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

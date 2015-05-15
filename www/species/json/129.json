@@ -1,0 +1,2161 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 129,
+title: "<i>Eragrostis amabilis (</i>L.<i>) </i>Wight<i> & </i>Arn. ",
+taxonConcept: {
+id: 266,
+name: "Eragrostis amabilis (L.) Wight & Arn.",
+canonicalForm: "Eragrostis amabilis",
+italicisedForm: "<i>Eragrostis amabilis (</i>L.<i>) </i>Wight<i> & </i>Arn. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 265,
+name: "Eragrostis",
+canonicalForm: "Eragrostis",
+italicisedForm: "<i>Eragrostis</i>",
+rank: "Genus"
+},
+{
+id: 266,
+name: "Eragrostis amabilis (L.) Wight & Arn.",
+canonicalForm: "Eragrostis amabilis",
+italicisedForm: "<i>Eragrostis amabilis (</i>L.<i>) </i>Wight<i> & </i>Arn. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 3058,
+name: "Cynodon amabilis (P.Beauv.) Raspail",
+canonicalForm: "Cynodon amabilis",
+italicisedForm: "<i>Cynodon amabilis (</i>P.Beauv.<i>) </i>Raspail ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3059,
+name: "Cyperus paniculatus Blanco [Illegitimate]",
+canonicalForm: "Cyperus paniculatus",
+italicisedForm: "<i>Cyperus paniculatus </i>Blanco<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3060,
+name: "Eragrostis amabilis var. breviculmis Stapf",
+canonicalForm: "Eragrostis amabilis breviculmis",
+italicisedForm: "<i>Eragrostis amabilis </i>var.<i> breviculmis </i>Stapf ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3061,
+name: "Eragrostis amabilis var. duriuscula K.Schum.",
+canonicalForm: "Eragrostis amabilis duriuscula",
+italicisedForm: "<i>Eragrostis amabilis </i>var.<i> duriuscula </i>K.Schum. ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3062,
+name: "Eragrostis amabilis var. insularis (C.E.Hubb.) P.Umam. & P.Daniel",
+canonicalForm: "Eragrostis amabilis insularis",
+italicisedForm: "<i>Eragrostis amabilis </i>var.<i> insularis (</i>C.E.Hubb.<i>) </i>P.Umam.<i> & </i>P.Daniel ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3063,
+name: "Eragrostis amabilis var. peramangalamensis P.Umam. & P.Daniel",
+canonicalForm: "Eragrostis amabilis peramangalamensis",
+italicisedForm: "<i>Eragrostis amabilis </i>var.<i> peramangalamensis </i>P.Umam.<i> & </i>P.Daniel ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3064,
+name: "Eragrostis amabilis var. plumosa (Retz.) A.Camus",
+canonicalForm: "Eragrostis amabilis plumosa",
+italicisedForm: "<i>Eragrostis amabilis </i>var.<i> plumosa (</i>Retz.<i>) </i>A.Camus ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3065,
+name: "Eragrostis amabilis var. tenella (L.) A.Camus",
+canonicalForm: "Eragrostis amabilis tenella",
+italicisedForm: "<i>Eragrostis amabilis </i>var.<i> tenella (</i>L.<i>) </i>A.Camus ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3066,
+name: "Eragrostis amabilis f. varia Kuntze",
+canonicalForm: "Eragrostis amabilis varia",
+italicisedForm: "<i>Eragrostis amabilis </i>f.<i> varia </i>Kuntze ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3067,
+name: "Eragrostis breviculmis (Stapf) H.Lév.",
+canonicalForm: "Eragrostis breviculmis",
+italicisedForm: "<i>Eragrostis breviculmis (</i>Stapf<i>) </i>H.Lév. ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3068,
+name: "Eragrostis caudata Nees ex Steud.",
+canonicalForm: "Eragrostis caudata",
+italicisedForm: "<i>Eragrostis caudata </i>Nees<i> ex </i>Steud. ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3069,
+name: "Eragrostis ciliaris var. patens Chapm. ex Beal",
+canonicalForm: "Eragrostis ciliaris patens",
+italicisedForm: "<i>Eragrostis ciliaris </i>var.<i> patens </i>Chapm.<i> ex </i>Beal ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3070,
+name: "Eragrostis confinis Nees ex Steud.",
+canonicalForm: "Eragrostis confinis",
+italicisedForm: "<i>Eragrostis confinis </i>Nees<i> ex </i>Steud. ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3071,
+name: "Eragrostis despiciens (Link) Schult.",
+canonicalForm: "Eragrostis despiciens",
+italicisedForm: "<i>Eragrostis despiciens (</i>Link<i>) </i>Schult. ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3072,
+name: "Eragrostis elytroblephara Steud.",
+canonicalForm: "Eragrostis elytroblephara",
+italicisedForm: "<i>Eragrostis elytroblephara </i>Steud. ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3073,
+name: "Eragrostis laxa Baker",
+canonicalForm: "Eragrostis laxa",
+italicisedForm: "<i>Eragrostis laxa </i>Baker ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3074,
+name: "Eragrostis mauritii Steud.",
+canonicalForm: "Eragrostis mauritii",
+italicisedForm: "<i>Eragrostis mauritii </i>Steud. ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3075,
+name: "Eragrostis plumosa (Retz.) Link",
+canonicalForm: "Eragrostis plumosa",
+italicisedForm: "<i>Eragrostis plumosa (</i>Retz.<i>) </i>Link ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3076,
+name: "Eragrostis tenella (L.) P.Beauv. ex Roem. & Schult.",
+canonicalForm: "Eragrostis tenella",
+italicisedForm: "<i>Eragrostis tenella (</i>L.<i>) </i>P.Beauv.<i> ex </i>Roem.<i> & </i>Schult. ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3077,
+name: "Eragrostis tenella var. breviglumis Stapf",
+canonicalForm: "Eragrostis tenella breviglumis",
+italicisedForm: "<i>Eragrostis tenella </i>var.<i> breviglumis </i>Stapf ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3078,
+name: "Eragrostis tenella var. insularis C.E.Hubb.",
+canonicalForm: "Eragrostis tenella insularis",
+italicisedForm: "<i>Eragrostis tenella </i>var.<i> insularis </i>C.E.Hubb. ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3079,
+name: "Eragrostis tenella var. koenigii Kuntze",
+canonicalForm: "Eragrostis tenella koenigii",
+italicisedForm: "<i>Eragrostis tenella </i>var.<i> koenigii </i>Kuntze ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3080,
+name: "Eragrostis tenella var. plumosa (Retz.) Stapf",
+canonicalForm: "Eragrostis tenella plumosa",
+italicisedForm: "<i>Eragrostis tenella </i>var.<i> plumosa (</i>Retz.<i>) </i>Stapf ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3081,
+name: "Erochloe amabilis (L.) Raf. ex B.D.Jacks [Invalid]",
+canonicalForm: "Erochloe amabilis",
+italicisedForm: "<i>Erochloe amabilis (</i>L.<i>) </i>Raf.<i> ex </i>B.D.Jacks<i> [Invalid]</i>",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3082,
+name: "Megastachya amabilis (L.) P.Beauv.",
+canonicalForm: "Megastachya amabilis",
+italicisedForm: "<i>Megastachya amabilis (</i>L.<i>) </i>P.Beauv. ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3083,
+name: "Megastachya tenella (L.) Bojer",
+canonicalForm: "Megastachya tenella",
+italicisedForm: "<i>Megastachya tenella (</i>L.<i>) </i>Bojer ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3084,
+name: "Poa amabilis L.",
+canonicalForm: "Poa amabilis",
+italicisedForm: "<i>Poa amabilis </i>L. ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3085,
+name: "Poa despiciens Link",
+canonicalForm: "Poa despiciens",
+italicisedForm: "<i>Poa despiciens </i>Link ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3086,
+name: "Poa indica Bory ex Steud. [Invalid]",
+canonicalForm: "Poa indica",
+italicisedForm: "<i>Poa indica </i>Bory<i> ex </i>Steud.<i> [Invalid]</i>",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3087,
+name: "Poa plumosa Retz.",
+canonicalForm: "Poa plumosa",
+italicisedForm: "<i>Poa plumosa </i>Retz. ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3088,
+name: "Poa pseudamabilis Roxb. ex Stapf [Invalid]",
+canonicalForm: "Poa pseudamabilis",
+italicisedForm: "<i>Poa pseudamabilis </i>Roxb.<i> ex </i>Stapf<i> [Invalid]</i>",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3089,
+name: "Poa speciosa Willd. ex Spreng. [Invalid]",
+canonicalForm: "Poa speciosa",
+italicisedForm: "<i>Poa speciosa </i>Willd.<i> ex </i>Spreng.<i> [Invalid]</i>",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3090,
+name: "Poa tenella L.",
+canonicalForm: "Poa tenella",
+italicisedForm: "<i>Poa tenella </i>L. ",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3091,
+name: "Poa tenuissima Schrad. [Invalid]",
+canonicalForm: "Poa tenuissima",
+italicisedForm: "<i>Poa tenuissima </i>Schrad.<i> [Invalid]</i>",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3092,
+name: "Poa unioloides Willd. ex Spreng. [Invalid]",
+canonicalForm: "Poa unioloides",
+italicisedForm: "<i>Poa unioloides </i>Willd.<i> ex </i>Spreng.<i> [Invalid]</i>",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 756,
+name: "Shada fulka",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+language: {
+id: 50,
+name: "Bengali"
+}
+},
+{
+id: 754,
+name: "Bharbhusi",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+language: {
+id: 177,
+name: "Hindi"
+}
+},
+{
+id: 757,
+name: "Feather lovegrass",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 755,
+name: "Lovegrass",
+taxonConcept: {
+id: 266
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:31:01Z",
+lastRevised: "2015-03-19T11:36:07Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Eragrostis amabilis/eraam_20110125_160121_th1.jpg",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ERAAM</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ERAAM</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1113,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ERAAM</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:31:30Z",
+lastUpdated: "2014-09-24T17:31:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579890003,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1107,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Leaf sheaths glabrous, but sometimes pilose at the sheath mouth and ciliate along one margin, eglandular. Ligule reduced to a line of hairs. Leaf blade linear 1-9 cm long, 2-4 mm wide, flat or with involute margins, eglandular, glabrous or pilose on the upper surface, with scabrid margins.</p><h6>General Habit</h6><p>Tufted grass.</p><h6>Flower</h6><p>Spikelets comprising 4-8 fertile florets; with diminished florets at the apex. Spikelets ovate, or obovate; laterally compressed; 1.5-2.5 mm long; breaking up at maturity; disarticulating below each fertile floret. Rhachilla internodes definite. Glumes deciduous; similar; shorter than spikelet. Lower glume ovate; 0.5-1 mm long; 1 length of upper glume; 1-keeled; 1 -veined. Lower glume lateral veins absent. Lower glume apex acute. Upper glume ovate; 0.5-1 mm long; 0.8-1 length of adjacent fertile lemma; 1-keeled; 1 -veined. Upper glume lateral veins absent. Upper glume apex acute.</p><h6>Fruit</h6><p>Caryopsis with adherent pericarp; ellipsoid; 0.4-0.5 mm long.</p><h6>Global Description</h6><p>A delicate loosely tufted annual, upright or straggling stems upto 30-50 cm high, erect or ascending, glabrous, with yellow non-sticky glands below the brown nodes, it reproduces from seeds. Ligule a fringe of hairs.</p><h6>Inflorescence</h6><p>Panicle elliptic to pyramidal, 2-14 cm long, loose, rather dense to ? open, the primary branches solitary, glabrous or pilose in the axils, terminating in a fertile spikelets evenly distributed on short pedicels 0.5-1 mm long, branches and pedicels bearing yellowish non-sticky glands.</p><h6>Stem</h6><p>Slender, branched, ascending or spreading up to 50 cm long but often much shorter.</p>",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2014-09-24T17:31:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889980,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1105,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Eragrostis amabilis (L.) Wight & Arn.",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2014-09-24T17:31:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889978,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1111,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Common in the savanna biome, as a weed on moist sandy soils in disturbed places such as pathsides, and cultivated lands, also on river banks, lake shores and coastal dunes: 0-1160m<br>",
+dateCreated: "2014-09-24T17:31:30Z",
+lastUpdated: "2014-09-24T17:31:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579890000,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1109,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Now widely naturalized throughout the tropics.</p><h6>Origin</h6><p>Paleotropics.</p>",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2014-09-24T17:31:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889996,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1106,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Grass with grazing value and also said to be browsed by hares.<br>",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2014-09-24T17:31:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889979,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1108,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2015-04-05T22:29:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Holm, L., Pancho J. , V., Herberger J. P., Plucknett D. L., (1979). A geographical atlas of world weeds. John Wiley & Sons, New York;"
+},
+{
+url: "http://www.hear.org/pier/species/eragrostis_amabilis.htm"
+},
+{
+url: "http://plants.jstor.org/upwta/2_528"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp03710.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Poilecot P., J. Timberlake., R. B. Drummond, A. Mapaura, S. Shava (2007). Eragrostis species of Zimbabwe. Editions Quea. 87p;"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 484p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889980,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1110,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2015-04-05T22:29:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Holm, L., Pancho J. , V., Herberger J. P., Plucknett D. L., (1979). A geographical atlas of world weeds. John Wiley & Sons, New York;"
+},
+{
+title: "Poilecot P., J. Timberlake., R. B. Drummond, A. Mapaura, S. Shava (2007). Eragrostis species of Zimbabwe. Editions Quea. 87p;"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp03710.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp03710.htm"
+},
+{
+url: "http://www.hear.org/pier/species/eragrostis_amabilis.htm"
+},
+{
+url: "http://plants.jstor.org/upwta/2_528"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 484p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889998,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1103,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2015-03-30T10:43:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "I. O. Akobundu, C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 484p."
+},
+{
+url: "http://www.hear.org/pier/species/eragrostis_amabilis.htm"
+},
+{
+title: "Poilecot P., J. Timberlake., R. B. Drummond, A. Mapaura, S. Shava (2007). Eragrostis species of Zimbabwe. Editions Quea. 87p;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_528"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp03710.htm"
+},
+{
+title: "Holm, L., Pancho J. , V., Herberger J. P., Plucknett D. L., (1979). A geographical atlas of world weeds. John Wiley & Sons, New York;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_528"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889973,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1104,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2015-03-11T07:44:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.kew.org/data/grasses-db/www/imp03710.htm"
+},
+{
+url: "http://www.hear.org/pier/species/eragrostis_amabilis.htm"
+},
+{
+url: "http://plants.jstor.org/upwta/2_528"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 484p."
+},
+{
+title: "Holm, L., Pancho J. , V., Herberger J. P., Plucknett D. L., (1979). A geographical atlas of world weeds. John Wiley & Sons, New York;"
+},
+{
+title: "Poilecot P., J. Timberlake., R. B. Drummond, A. Mapaura, S. Shava (2007). Eragrostis species of Zimbabwe. Editions Quea. 87p;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889976,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1102,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2015-03-14T11:05:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "I. O. Akobundu, C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 484p."
+},
+{
+url: "http://www.hear.org/pier/species/eragrostis_amabilis.htm"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp03710.htm"
+},
+{
+title: "Holm, L., Pancho J. , V., Herberger J. P., Plucknett D. L., (1979). A geographical atlas of world weeds. John Wiley & Sons, New York;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_528"
+},
+{
+url: "http://www.hear.org/pier/species/eragrostis_amabilis.htm"
+},
+{
+title: "Holm, L., Pancho J. , V., Herberger J. P., Plucknett D. L., (1979). A geographical atlas of world weeds. John Wiley & Sons, New York;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Poilecot P., J. Timberlake., R. B. Drummond, A. Mapaura, S. Shava (2007). Eragrostis species of Zimbabwe. Editions Quea. 87p;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889972,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1112,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:31:30Z",
+lastUpdated: "2015-03-14T11:05:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Poilecot P., J. Timberlake., R. B. Drummond, A. Mapaura, S. Shava (2007). Eragrostis species of Zimbabwe. Editions Quea. 87p;"
+},
+{
+title: "Holm, L., Pancho J. , V., Herberger J. P., Plucknett D. L., (1979). A geographical atlas of world weeds. John Wiley & Sons, New York;"
+},
+{
+url: "http://www.hear.org/pier/species/eragrostis_amabilis.htm"
+},
+{
+url: "http://plants.jstor.org/upwta/2_528"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp03710.htm"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 484p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579890001,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1114,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:31:30Z",
+lastUpdated: "2015-03-30T10:43:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "I. O. Akobundu, C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 484p."
+},
+{
+title: "Poilecot P., J. Timberlake., R. B. Drummond, A. Mapaura, S. Shava (2007). Eragrostis species of Zimbabwe. Editions Quea. 87p;"
+},
+{
+url: "http://www.hear.org/pier/species/eragrostis_amabilis.htm"
+},
+{
+title: "Holm, L., Pancho J. , V., Herberger J. P., Plucknett D. L., (1979). A geographical atlas of world weeds. John Wiley & Sons, New York;"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp03710.htm"
+},
+{
+url: "http://plants.jstor.org/upwta/2_528"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579890004,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4093,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Eragrostis amabilis est une herbe annuelle délicate dressée qui forme des touffes lâches de 6 à 50 cm de hauteur. La tige est glabre à noeuds foncés. La feuille est allongée, linéaire, à extrémité pointue effilée, glabre, à marge scabre. La ligule est courtement ciliée, encadrée de longs poils. L'inflorescence est une panicule lâche et ramifiée, pyramidale à elliptique, à rameaux très fins pourvus d'une touffe de poils à la base. Elle est composée d'épillets pédicellés aplatis renfermant 4 à 11 fleurs, disposés d'une manière clairsemée. Les épillets se désagrègent du sommet vers la base. Le grain, de forme ellipsoïde, est de petite taille, 0,5 mm en moyenne.</p>",
+dateCreated: "2015-03-19T11:36:07Z",
+lastUpdated: "2015-03-19T11:36:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764967465,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4082,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>ERAAM</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:36:05Z",
+lastUpdated: "2015-03-19T11:36:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764965182,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4087,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Eragrostis amabilis est une herbe annuelle délicate dressée qui forme des touffes lâches de 6 à 50 cm de hauteur. La tige est glabre à noeuds foncés. La feuille est allongée, linéaire, à extrémité pointue effilée, glabre, à marge scabre. La ligule est courtement ciliée, encadrée de longs poils. L'inflorescence est une panicule lâche et ramifiée, pyramidale à elliptique, à rameaux très fins pourvus d'une touffe de poils à la base. Elle est composée d'épillets pédicellés aplatis renfermant 4 à 11 fleurs, disposés d'une manière clairsemée. Les épillets se désagrègent du sommet vers la base. Le grain, de forme ellipsoïde, est de petite taille, 0,5 mm en moyenne.</p><h6>Port</h6><p>Herbe annuelle dressée à tiges délicates en touffes lâches. Plante de taille petite à moyenne qui mesure de 6 à 50 cm de haut.</p><h6>Système Souterrain</h6><p>Le système racinaire est fasciculé.</p><h6>Tige</h6><p>La tige est grêle, dressée ou coudée à la base puis redressée, simple ou ramifiée. Les noeuds sont de couleur brune.</p><h6>Feuille</h6><p>La gaine présente une marge longuement ciliée. La zone ligulaire est bordée de longs poils flexueux. La ligule se réduit à une ligne de poils courts. Le limbe est linéaire, rétréci à la base, longuement effilé jusqu'au sommet en pointe aiguë. Il est plan ou enroulé, glabre, à marge scabre. Il mesure 5 à 9 cm de long et 2 à 5 mm de large.</p><h6>Inflorescence</h6><p>L'inflorescence est une panicule ouverte et ramifiée, elliptique à pyramidale, qui mesure 2 à 20 cm (jusqu'à 30 cm) de long et 2 à 8 cm de large. Elle est composée de fins rameaux solitaires, longs de 1 à 4 cm, dressés ou étalés, dont la base est généralement pourvue d'une touffe de longs poils. Ces rameaux présentent des glandes, de couleur jaunâtre, qui sont non collantes. L'épillet est pédonculé, aplati, ovoïde oblong, de 1,5 à 2,5 mm de long et 1 à 1,5 mm de large. Il est souvent de couleur rosée. Il renferme 4 à 11 fleurs. Les épillets se désarticulent depuis le sommet vers la base.</p><h6>Fleur</h6><p>Les glumes sont inégales à subégales. Elles mesurent entre 0,5 et 1 mm de long. Elles sont ovales, pointues au sommet, uninervées, carénées et scabres sur la carène. La glumelle inférieure est ovale-oblongue, tronquée au sommet, à 3 nervures, scabre sur les carènes. Elle mesure 0,5 à 1 mm de long. La glumelle supérieure est légèrement plus courte. Elle présente 2 carènes bordées de longs poils (0,1 à 0,3 mm) qui ne dépassent pas le corps de la glumelle inférieure adjacente. La fleur comporte 3 étamines.</p><h6>Fruit</h6><p>Le grain est ellipsoïde. Il mesure 0,4 à 0,6 mm de long.</p>",
+dateCreated: "2015-03-19T11:36:05Z",
+lastUpdated: "2015-03-19T11:36:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764965455,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4088,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Eragrostis amabilis (L.) Wight & Arn.",
+dateCreated: "2015-03-19T11:36:05Z",
+lastUpdated: "2015-03-19T11:36:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764965542,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4090,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Plante annuelle qui se reproduit par graines.<br>",
+dateCreated: "2015-03-19T11:36:05Z",
+lastUpdated: "2015-03-19T11:36:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764965742,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4089,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Plante des sols sableux humides des bords de mares, des cultures et jachères, des milieux rudéraux, bords de routes, abords de villages.<br>",
+dateCreated: "2015-03-19T11:36:05Z",
+lastUpdated: "2015-03-19T11:36:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764965656,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4091,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Burkina Faso : rare et peu abondante. Côte d'Ivoire : fréquente et peu abondante. Ghana : rare et peu abondante. Mali : rare et peu abondante. Nigeria : rare et peu abondante. Sénégal : fréquente et peu abondante.</p>",
+dateCreated: "2015-03-19T11:36:05Z",
+lastUpdated: "2015-03-19T11:36:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764965804,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4092,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Conseils de gestion des graminées annuelles en riz irrigué : http://portal.wikwio.org/document/show/31</p>",
+dateCreated: "2015-03-19T11:36:05Z",
+lastUpdated: "2015-03-19T11:36:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764965884,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4083,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:05Z",
+lastUpdated: "2015-03-31T06:53:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764965339,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4084,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:05Z",
+lastUpdated: "2015-03-31T06:53:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hutchinson, J., Dalziel, J.M., Keay, R.W.J., Hepper, F.N. 1972. Flora of west tropical africa. The Whitefriars Press, London & Tonbridge, Great Britain."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764965340,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4085,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:05Z",
+lastUpdated: "2015-03-31T06:53:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E. 1997. Les adventices en riziculture en Afrique de l'Ouest. ADRAO/WARDA, Bouaké, Côte-d'Ivoire."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764965340,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4086,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:05Z",
+lastUpdated: "2015-03-31T06:53:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Okezie Akobundu, I. et Agyakwa, C.W. 1989. Guide des adventices d'Afrique de l'Ouest. Institut international d'agriculture tropicale, Ibadan, Nigeria."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764965340,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3008,
+url: "http://portal.wikwio.org/biodiv/img//Eragrostis amabilis/eraam_20110125_160121.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eragrostis amabilis/eraam_20110125_160121_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:31:05Z",
+rating: 0
+},
+{
+id: 3009,
+url: "http://portal.wikwio.org/biodiv/img//Eragrostis amabilis/eraam_20090223_152908.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eragrostis amabilis/eraam_20090223_152908_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:31:05Z",
+rating: 0
+},
+{
+id: 3010,
+url: "http://portal.wikwio.org/biodiv/img//Eragrostis amabilis/eraam_20120509_105633.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eragrostis amabilis/eraam_20120509_105633_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:31:05Z",
+rating: 0
+},
+{
+id: 3011,
+url: "http://portal.wikwio.org/biodiv/img//Eragrostis amabilis/eraam_20110125_160116.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eragrostis amabilis/eraam_20110125_160116_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:31:05Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

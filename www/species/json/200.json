@@ -1,0 +1,472 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 200,
+title: "<i>Ludwigia erecta (</i>L.<i>) </i>Hara ",
+taxonConcept: {
+id: 387,
+name: "Ludwigia erecta (L.) Hara",
+canonicalForm: "Ludwigia erecta",
+italicisedForm: "<i>Ludwigia erecta (</i>L.<i>) </i>Hara ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 384,
+name: "Onagraceae",
+canonicalForm: "Onagraceae",
+italicisedForm: "<i>Onagraceae</i>",
+rank: "Family"
+},
+{
+id: 385,
+name: "Ludwigia",
+canonicalForm: "Ludwigia",
+italicisedForm: "<i>Ludwigia</i>",
+rank: "Genus"
+},
+{
+id: 387,
+name: "Ludwigia erecta (L.) Hara",
+canonicalForm: "Ludwigia erecta",
+italicisedForm: "<i>Ludwigia erecta (</i>L.<i>) </i>Hara ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 4392,
+name: "Isnardia discolor Klotzsch",
+canonicalForm: "Isnardia discolor",
+italicisedForm: "<i>Isnardia discolor </i>Klotzsch ",
+taxonConcept: {
+id: 387
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4393,
+name: "Jussiaea acuminata Sw.",
+canonicalForm: "Jussiaea acuminata",
+italicisedForm: "<i>Jussiaea acuminata </i>Sw. ",
+taxonConcept: {
+id: 387
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4394,
+name: "Jussiaea acuminata var. latifolia Griseb.",
+canonicalForm: "Jussiaea acuminata latifolia",
+italicisedForm: "<i>Jussiaea acuminata </i>var.<i> latifolia </i>Griseb. ",
+taxonConcept: {
+id: 387
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4395,
+name: "Jussiaea acuminata var. longifolia Griseb.",
+canonicalForm: "Jussiaea acuminata longifolia",
+italicisedForm: "<i>Jussiaea acuminata </i>var.<i> longifolia </i>Griseb. ",
+taxonConcept: {
+id: 387
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4396,
+name: "Jussiaea altissima Perr. ex DC.",
+canonicalForm: "Jussiaea altissima",
+italicisedForm: "<i>Jussiaea altissima </i>Perr.<i> ex </i>DC. ",
+taxonConcept: {
+id: 387
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4397,
+name: "Jussiaea declinata Sessé & Moc.",
+canonicalForm: "Jussiaea declinata",
+italicisedForm: "<i>Jussiaea declinata </i>Sessé<i> & </i>Moc. ",
+taxonConcept: {
+id: 387
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4398,
+name: "Jussiaea erecta L.",
+canonicalForm: "Jussiaea erecta",
+italicisedForm: "<i>Jussiaea erecta </i>L. ",
+taxonConcept: {
+id: 387
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4399,
+name: "Jussiaea erecta var. plumeriana DC.",
+canonicalForm: "Jussiaea erecta plumeriana",
+italicisedForm: "<i>Jussiaea erecta </i>var.<i> plumeriana </i>DC. ",
+taxonConcept: {
+id: 387
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4400,
+name: "Jussiaea erecta var. sebana DC.",
+canonicalForm: "Jussiaea erecta sebana",
+italicisedForm: "<i>Jussiaea erecta </i>var.<i> sebana </i>DC. ",
+taxonConcept: {
+id: 387
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4401,
+name: "Jussiaea onagra Mill.",
+canonicalForm: "Jussiaea onagra",
+italicisedForm: "<i>Jussiaea onagra </i>Mill. ",
+taxonConcept: {
+id: 387
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4402,
+name: "Jussiaea plumeriana Bello",
+canonicalForm: "Jussiaea plumeriana",
+italicisedForm: "<i>Jussiaea plumeriana </i>Bello ",
+taxonConcept: {
+id: 387
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4403,
+name: "Jussiaea ramosa Jacq. ex Rchb.",
+canonicalForm: "Jussiaea ramosa",
+italicisedForm: "<i>Jussiaea ramosa </i>Jacq.<i> ex </i>Rchb. ",
+taxonConcept: {
+id: 387
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4404,
+name: "Ludwigia acuminata (Sw.) M. Gómez",
+canonicalForm: "Ludwigia acuminata",
+italicisedForm: "<i>Ludwigia acuminata (</i>Sw.<i>) </i>M. Gómez ",
+taxonConcept: {
+id: 387
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:53:25Z",
+lastRevised: "2015-03-19T11:45:05Z",
+thumbnail: "http://portal.wikwio.org/biodiv/group_icons/speciesGroups/plants_th1.png",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>LUDER</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>LUDER</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1506,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>LUDER</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:57:18Z",
+lastUpdated: "2014-09-24T17:57:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581438073,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1505,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Ludwigia erecta (L.) Hara",
+dateCreated: "2014-09-24T17:57:18Z",
+lastUpdated: "2014-09-24T17:57:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581438072,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4839,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>LUDER</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>bas-fond humide</p>",
+dateCreated: "2015-03-19T11:45:04Z",
+lastUpdated: "2015-03-19T11:45:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765504344,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4840,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Ludwigia erecta (L.) Hara",
+dateCreated: "2015-03-19T11:45:05Z",
+lastUpdated: "2015-03-19T11:45:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765505217,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [ ],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

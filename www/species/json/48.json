@@ -1,0 +1,3228 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 48,
+title: "<i>Canna indica </i>L. ",
+taxonConcept: {
+id: 120,
+name: "Canna indica L.",
+canonicalForm: "Canna indica",
+italicisedForm: "<i>Canna indica </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 118,
+name: "Cannaceae",
+canonicalForm: "Cannaceae",
+italicisedForm: "<i>Cannaceae</i>",
+rank: "Family"
+},
+{
+id: 119,
+name: "Canna",
+canonicalForm: "Canna",
+italicisedForm: "<i>Canna</i>",
+rank: "Genus"
+},
+{
+id: 120,
+name: "Canna indica L.",
+canonicalForm: "Canna indica",
+italicisedForm: "<i>Canna indica </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 1150,
+name: "Canna achiras Gillies ex D.Don",
+canonicalForm: "Canna achiras",
+italicisedForm: "<i>Canna achiras </i>Gillies<i> ex </i>D.Don ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1151,
+name: "Canna altensteinii Bouché",
+canonicalForm: "Canna altensteinii",
+italicisedForm: "<i>Canna altensteinii </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1152,
+name: "Canna amabilis T.Koyama & Nob.Tanaka",
+canonicalForm: "Canna amabilis",
+italicisedForm: "<i>Canna amabilis </i>T.Koyama<i> & </i>Nob.Tanaka ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1153,
+name: "Canna ascendens Ciciar.",
+canonicalForm: "Canna ascendens",
+italicisedForm: "<i>Canna ascendens </i>Ciciar. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1154,
+name: "Canna aurantiaca Roscoe",
+canonicalForm: "Canna aurantiaca",
+italicisedForm: "<i>Canna aurantiaca </i>Roscoe ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1155,
+name: "Canna aureovittata Lodd.",
+canonicalForm: "Canna aureovittata",
+italicisedForm: "<i>Canna aureovittata </i>Lodd. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1156,
+name: "Canna barbadica Bouché [Invalid]",
+canonicalForm: "Canna barbadica",
+italicisedForm: "<i>Canna barbadica </i>Bouché<i> [Invalid]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1157,
+name: "Canna bidentata Bertol.",
+canonicalForm: "Canna bidentata",
+italicisedForm: "<i>Canna bidentata </i>Bertol. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1158,
+name: "Canna bifida Roem. & Schult.",
+canonicalForm: "Canna bifida",
+italicisedForm: "<i>Canna bifida </i>Roem.<i> & </i>Schult. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1159,
+name: "Canna brasiliensis Roscoe ex Spreng.",
+canonicalForm: "Canna brasiliensis",
+italicisedForm: "<i>Canna brasiliensis </i>Roscoe<i> ex </i>Spreng. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1160,
+name: "Canna carnea Roscoe",
+canonicalForm: "Canna carnea",
+italicisedForm: "<i>Canna carnea </i>Roscoe ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1161,
+name: "Canna cearensis Huber",
+canonicalForm: "Canna cearensis",
+italicisedForm: "<i>Canna cearensis </i>Huber ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1162,
+name: "Canna chinensis Willd. [Illegitimate]",
+canonicalForm: "Canna chinensis",
+italicisedForm: "<i>Canna chinensis </i>Willd.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1163,
+name: "Canna cinnabarina Bouché",
+canonicalForm: "Canna cinnabarina",
+italicisedForm: "<i>Canna cinnabarina </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1164,
+name: "Canna coccinea Mill.",
+canonicalForm: "Canna coccinea",
+italicisedForm: "<i>Canna coccinea </i>Mill. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1165,
+name: "Canna coccinea var. bicolor Kraenzl.",
+canonicalForm: "Canna coccinea bicolor",
+italicisedForm: "<i>Canna coccinea </i>var.<i> bicolor </i>Kraenzl. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1166,
+name: "Canna coccinea var. concolor Regel",
+canonicalForm: "Canna coccinea concolor",
+italicisedForm: "<i>Canna coccinea </i>var.<i> concolor </i>Regel ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1167,
+name: "Canna coccinea f. flaviflora Chodat & Hassl.",
+canonicalForm: "Canna coccinea flaviflora",
+italicisedForm: "<i>Canna coccinea </i>f.<i> flaviflora </i>Chodat<i> & </i>Hassl. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1168,
+name: "Canna coccinea var. floribunda (Bouché) Regel",
+canonicalForm: "Canna coccinea floribunda",
+italicisedForm: "<i>Canna coccinea </i>var.<i> floribunda (</i>Bouché<i>) </i>Regel ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1169,
+name: "Canna coccinea var. limbata Regel",
+canonicalForm: "Canna coccinea limbata",
+italicisedForm: "<i>Canna coccinea </i>var.<i> limbata </i>Regel ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1170,
+name: "Canna commutata Bouché",
+canonicalForm: "Canna commutata",
+italicisedForm: "<i>Canna commutata </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1171,
+name: "Canna compacta Roscoe",
+canonicalForm: "Canna compacta",
+italicisedForm: "<i>Canna compacta </i>Roscoe ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1172,
+name: "Canna concinna Bouché",
+canonicalForm: "Canna concinna",
+italicisedForm: "<i>Canna concinna </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1173,
+name: "Canna crocea Roem. & Schult.",
+canonicalForm: "Canna crocea",
+italicisedForm: "<i>Canna crocea </i>Roem.<i> & </i>Schult. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1174,
+name: "Canna densiflora Bouché",
+canonicalForm: "Canna densiflora",
+italicisedForm: "<i>Canna densiflora </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1175,
+name: "Canna densifolia Bouché",
+canonicalForm: "Canna densifolia",
+italicisedForm: "<i>Canna densifolia </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1176,
+name: "Canna denudata var. grandis Petersen",
+canonicalForm: "Canna denudata grandis",
+italicisedForm: "<i>Canna denudata </i>var.<i> grandis </i>Petersen ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1177,
+name: "Canna discolor Lindl.",
+canonicalForm: "Canna discolor",
+italicisedForm: "<i>Canna discolor </i>Lindl. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1178,
+name: "Canna discolor var. rubripunctata Nob.Tanaka",
+canonicalForm: "Canna discolor rubripunctata",
+italicisedForm: "<i>Canna discolor </i>var.<i> rubripunctata </i>Nob.Tanaka ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1179,
+name: "Canna discolor var. viridifolia Nob.Tanaka",
+canonicalForm: "Canna discolor viridifolia",
+italicisedForm: "<i>Canna discolor </i>var.<i> viridifolia </i>Nob.Tanaka ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1180,
+name: "Canna edulis Ker Gawl.",
+canonicalForm: "Canna edulis",
+italicisedForm: "<i>Canna edulis </i>Ker Gawl. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1181,
+name: "Canna ehrenbergii Bouché",
+canonicalForm: "Canna ehrenbergii",
+italicisedForm: "<i>Canna ehrenbergii </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1182,
+name: "Canna elegans Raf. [Illegitimate]",
+canonicalForm: "Canna elegans",
+italicisedForm: "<i>Canna elegans </i>Raf.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1183,
+name: "Canna ellipticifolia Stokes [Illegitimate]",
+canonicalForm: "Canna ellipticifolia",
+italicisedForm: "<i>Canna ellipticifolia </i>Stokes<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1184,
+name: "Canna ellipticifolia var. coccinea (Mill.) Stokes",
+canonicalForm: "Canna ellipticifolia coccinea",
+italicisedForm: "<i>Canna ellipticifolia </i>var.<i> coccinea (</i>Mill.<i>) </i>Stokes ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1185,
+name: "Canna ellipticifolia var. lutea (Mill.) Stokes",
+canonicalForm: "Canna ellipticifolia lutea",
+italicisedForm: "<i>Canna ellipticifolia </i>var.<i> lutea (</i>Mill.<i>) </i>Stokes ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1186,
+name: "Canna ellipticifolia var. patens (Aiton) Stokes",
+canonicalForm: "Canna ellipticifolia patens",
+italicisedForm: "<i>Canna ellipticifolia </i>var.<i> patens (</i>Aiton<i>) </i>Stokes ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1187,
+name: "Canna ellipticifolia var. rubra Stokes",
+canonicalForm: "Canna ellipticifolia rubra",
+italicisedForm: "<i>Canna ellipticifolia </i>var.<i> rubra </i>Stokes ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1188,
+name: "Canna esculenta Loudon [Invalid]",
+canonicalForm: "Canna esculenta",
+italicisedForm: "<i>Canna esculenta </i>Loudon<i> [Invalid]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1189,
+name: "Canna exigua Bouché",
+canonicalForm: "Canna exigua",
+italicisedForm: "<i>Canna exigua </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1190,
+name: "Canna eximia Bouché ex Horan.",
+canonicalForm: "Canna eximia",
+italicisedForm: "<i>Canna eximia </i>Bouché<i> ex </i>Horan. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1191,
+name: "Canna flavescens Link",
+canonicalForm: "Canna flavescens",
+italicisedForm: "<i>Canna flavescens </i>Link ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1192,
+name: "Canna floribunda Bouché",
+canonicalForm: "Canna floribunda",
+italicisedForm: "<i>Canna floribunda </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1193,
+name: "Canna formosa Bouché",
+canonicalForm: "Canna formosa",
+italicisedForm: "<i>Canna formosa </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1194,
+name: "Canna fuchsina Ciciar.",
+canonicalForm: "Canna fuchsina",
+italicisedForm: "<i>Canna fuchsina </i>Ciciar. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1195,
+name: "Canna fulgida Bouché",
+canonicalForm: "Canna fulgida",
+italicisedForm: "<i>Canna fulgida </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1196,
+name: "Canna heliconiifolia Bouché",
+canonicalForm: "Canna heliconiifolia",
+italicisedForm: "<i>Canna heliconiifolia </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1197,
+name: "Canna heliconiifolia var. xalapensis (Bouché) Kraenzl.",
+canonicalForm: "Canna heliconiifolia xalapensis",
+italicisedForm: "<i>Canna heliconiifolia </i>var.<i> xalapensis (</i>Bouché<i>) </i>Kraenzl. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1198,
+name: "Canna humilis Bouché",
+canonicalForm: "Canna humilis",
+italicisedForm: "<i>Canna humilis </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1199,
+name: "Canna indica var. coccinea (Mill.) Aiton",
+canonicalForm: "Canna indica coccinea",
+italicisedForm: "<i>Canna indica </i>var.<i> coccinea (</i>Mill.<i>) </i>Aiton ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1200,
+name: "Canna indica var. edwardsii Regel",
+canonicalForm: "Canna indica edwardsii",
+italicisedForm: "<i>Canna indica </i>var.<i> edwardsii </i>Regel ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1201,
+name: "Canna indica var. flava (Roscoe) Baker",
+canonicalForm: "Canna indica flava",
+italicisedForm: "<i>Canna indica </i>var.<i> flava (</i>Roscoe<i>) </i>Baker ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1202,
+name: "Canna indica var. indica",
+canonicalForm: "Canna indica indica",
+italicisedForm: "<i>Canna indica </i>var.<i> indica</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1203,
+name: "Canna indica var. karsteniana Regel",
+canonicalForm: "Canna indica karsteniana",
+italicisedForm: "<i>Canna indica </i>var.<i> karsteniana </i>Regel ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1204,
+name: "Canna indica var. limbata (Regel) Petersen",
+canonicalForm: "Canna indica limbata",
+italicisedForm: "<i>Canna indica </i>var.<i> limbata (</i>Regel<i>) </i>Petersen ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1205,
+name: "Canna indica var. lutea (Mill.) Aiton",
+canonicalForm: "Canna indica lutea",
+italicisedForm: "<i>Canna indica </i>var.<i> lutea (</i>Mill.<i>) </i>Aiton ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1206,
+name: "Canna indica var. maculata Hook.",
+canonicalForm: "Canna indica maculata",
+italicisedForm: "<i>Canna indica </i>var.<i> maculata </i>Hook. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1207,
+name: "Canna indica var. nepalensis (Bouché) Baker",
+canonicalForm: "Canna indica nepalensis",
+italicisedForm: "<i>Canna indica </i>var.<i> nepalensis (</i>Bouché<i>) </i>Baker ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1208,
+name: "Canna indica subsp. orientalis Baker",
+canonicalForm: "Canna indica orientalis",
+italicisedForm: "<i>Canna indica </i>subsp.<i> orientalis </i>Baker ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1209,
+name: "Canna indica var. patens Aiton",
+canonicalForm: "Canna indica patens",
+italicisedForm: "<i>Canna indica </i>var.<i> patens </i>Aiton ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1210,
+name: "Canna indica var. rubra Aiton",
+canonicalForm: "Canna indica rubra",
+italicisedForm: "<i>Canna indica </i>var.<i> rubra </i>Aiton ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1211,
+name: "Canna indica f. rubroaurantiaca Makino",
+canonicalForm: "Canna indica rubroaurantiaca",
+italicisedForm: "<i>Canna indica </i>f.<i> rubroaurantiaca </i>Makino ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1212,
+name: "Canna indica var. sanctae-rosae (Kraenzl.) Nob.Tanaka",
+canonicalForm: "Canna indica sanctae-rosae",
+italicisedForm: "<i>Canna indica </i>var.<i> sanctae-rosae (</i>Kraenzl.<i>) </i>Nob.Tanaka ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1213,
+name: "Canna indica var. variegata Regel",
+canonicalForm: "Canna indica variegata",
+italicisedForm: "<i>Canna indica </i>var.<i> variegata </i>Regel ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1214,
+name: "Canna indica var. warszewiczii Nob.Tanaka",
+canonicalForm: "Canna indica warszewiczii",
+italicisedForm: "<i>Canna indica </i>var.<i> warszewiczii </i>Nob.Tanaka ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1215,
+name: "Canna juncea Retz.",
+canonicalForm: "Canna juncea",
+italicisedForm: "<i>Canna juncea </i>Retz. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1216,
+name: "Canna laeta Bouché",
+canonicalForm: "Canna laeta",
+italicisedForm: "<i>Canna laeta </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1217,
+name: "Canna lagunensis Lindl.",
+canonicalForm: "Canna lagunensis",
+italicisedForm: "<i>Canna lagunensis </i>Lindl. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1218,
+name: "Canna lambertii Lindl. ex Ker Gawl.",
+canonicalForm: "Canna lambertii",
+italicisedForm: "<i>Canna lambertii </i>Lindl.<i> ex </i>Ker Gawl. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1219,
+name: "Canna lanuginosa Roscoe",
+canonicalForm: "Canna lanuginosa",
+italicisedForm: "<i>Canna lanuginosa </i>Roscoe ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1220,
+name: "Canna leptochila Bouché",
+canonicalForm: "Canna leptochila",
+italicisedForm: "<i>Canna leptochila </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1221,
+name: "Canna limbata Roscoe [Illegitimate]",
+canonicalForm: "Canna limbata",
+italicisedForm: "<i>Canna limbata </i>Roscoe<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1222,
+name: "Canna lutea Mill.",
+canonicalForm: "Canna lutea",
+italicisedForm: "<i>Canna lutea </i>Mill. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1223,
+name: "Canna lutea var. aurantiaca (Roscoe) Regel",
+canonicalForm: "Canna lutea aurantiaca",
+italicisedForm: "<i>Canna lutea </i>var.<i> aurantiaca (</i>Roscoe<i>) </i>Regel ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1224,
+name: "Canna lutea var. maculata (Hook.) Regel",
+canonicalForm: "Canna lutea maculata",
+italicisedForm: "<i>Canna lutea </i>var.<i> maculata (</i>Hook.<i>) </i>Regel ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1225,
+name: "Canna lutea var. pallida (Roscoe) Regel",
+canonicalForm: "Canna lutea pallida",
+italicisedForm: "<i>Canna lutea </i>var.<i> pallida (</i>Roscoe<i>) </i>Regel ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1226,
+name: "Canna macrophylla Horan.",
+canonicalForm: "Canna macrophylla",
+italicisedForm: "<i>Canna macrophylla </i>Horan. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1227,
+name: "Canna maculata (Hook.) Link",
+canonicalForm: "Canna maculata",
+italicisedForm: "<i>Canna maculata (</i>Hook.<i>) </i>Link ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1228,
+name: "Canna maxima Lodd. ex Roscoe [Invalid]",
+canonicalForm: "Canna maxima",
+italicisedForm: "<i>Canna maxima </i>Lodd.<i> ex </i>Roscoe<i> [Invalid]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1229,
+name: "Canna montana Blume",
+canonicalForm: "Canna montana",
+italicisedForm: "<i>Canna montana </i>Blume ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1230,
+name: "Canna moritziana Bouché",
+canonicalForm: "Canna moritziana",
+italicisedForm: "<i>Canna moritziana </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1231,
+name: "Canna nepalensis Bouché",
+canonicalForm: "Canna nepalensis",
+italicisedForm: "<i>Canna nepalensis </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1232,
+name: "Canna occidentalis Ker Gawl.",
+canonicalForm: "Canna occidentalis",
+italicisedForm: "<i>Canna occidentalis </i>Ker Gawl. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1233,
+name: "Canna orientalis Bouché [Illegitimate]",
+canonicalForm: "Canna orientalis",
+italicisedForm: "<i>Canna orientalis </i>Bouché<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1234,
+name: "Canna orientalis var. flava Roscoe",
+canonicalForm: "Canna orientalis flava",
+italicisedForm: "<i>Canna orientalis </i>var.<i> flava </i>Roscoe ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1235,
+name: "Canna pallida Roscoe",
+canonicalForm: "Canna pallida",
+italicisedForm: "<i>Canna pallida </i>Roscoe ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1236,
+name: "Canna pallida var. maculata (Hook.) Roscoe",
+canonicalForm: "Canna pallida maculata",
+italicisedForm: "<i>Canna pallida </i>var.<i> maculata (</i>Hook.<i>) </i>Roscoe ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1237,
+name: "Canna patens (Aiton) Roscoe",
+canonicalForm: "Canna patens",
+italicisedForm: "<i>Canna patens (</i>Aiton<i>) </i>Roscoe ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1238,
+name: "Canna patens var. limbata (Regel) Baker",
+canonicalForm: "Canna patens limbata",
+italicisedForm: "<i>Canna patens </i>var.<i> limbata (</i>Regel<i>) </i>Baker ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1239,
+name: "Canna pentaphylla D.Dietr. [Spelling variant]",
+canonicalForm: "Canna pentaphylla",
+italicisedForm: "<i>Canna pentaphylla </i>D.Dietr.<i> [Spelling variant]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1240,
+name: "Canna platyphylla Nees & Mart.",
+canonicalForm: "Canna platyphylla",
+italicisedForm: "<i>Canna platyphylla </i>Nees<i> & </i>Mart. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1241,
+name: "Canna plurituberosa T.Koyama & Nob.Tanaka",
+canonicalForm: "Canna plurituberosa",
+italicisedForm: "<i>Canna plurituberosa </i>T.Koyama<i> & </i>Nob.Tanaka ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1242,
+name: "Canna poeppigii Bouché",
+canonicalForm: "Canna poeppigii",
+italicisedForm: "<i>Canna poeppigii </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1243,
+name: "Canna polyclada Wawra",
+canonicalForm: "Canna polyclada",
+italicisedForm: "<i>Canna polyclada </i>Wawra ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1244,
+name: "Canna polymorpha Bouché",
+canonicalForm: "Canna polymorpha",
+italicisedForm: "<i>Canna polymorpha </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1245,
+name: "Canna portoricensis Bouché",
+canonicalForm: "Canna portoricensis",
+italicisedForm: "<i>Canna portoricensis </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1246,
+name: "Canna pruinosa Hoffmanns.",
+canonicalForm: "Canna pruinosa",
+italicisedForm: "<i>Canna pruinosa </i>Hoffmanns. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1247,
+name: "Canna pulchra Bouché ex Horan.",
+canonicalForm: "Canna pulchra",
+italicisedForm: "<i>Canna pulchra </i>Bouché<i> ex </i>Horan. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1248,
+name: "Canna recurvata Bouché",
+canonicalForm: "Canna recurvata",
+italicisedForm: "<i>Canna recurvata </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1249,
+name: "Canna roscoeana Bouché [Illegitimate]",
+canonicalForm: "Canna roscoeana",
+italicisedForm: "<i>Canna roscoeana </i>Bouché<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1250,
+name: "Canna rotundifolia André",
+canonicalForm: "Canna rotundifolia",
+italicisedForm: "<i>Canna rotundifolia </i>André ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1251,
+name: "Canna rubra Willd. [Illegitimate]",
+canonicalForm: "Canna rubra",
+italicisedForm: "<i>Canna rubra </i>Willd.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1252,
+name: "Canna rubricaulis Link",
+canonicalForm: "Canna rubricaulis",
+italicisedForm: "<i>Canna rubricaulis </i>Link ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1253,
+name: "Canna sanctae-rosae Kraenzl.",
+canonicalForm: "Canna sanctae-rosae",
+italicisedForm: "<i>Canna sanctae-rosae </i>Kraenzl. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1254,
+name: "Canna sanguinea Bouché [Invalid]",
+canonicalForm: "Canna sanguinea",
+italicisedForm: "<i>Canna sanguinea </i>Bouché<i> [Invalid]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1255,
+name: "Canna saturate-rubra Bouché ex K.Koch",
+canonicalForm: "Canna saturate-rubra",
+italicisedForm: "<i>Canna saturate-rubra </i>Bouché<i> ex </i>K.Koch ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1256,
+name: "Canna schubertii Horan.",
+canonicalForm: "Canna schubertii",
+italicisedForm: "<i>Canna schubertii </i>Horan. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1257,
+name: "Canna seleriana Kraenzl.",
+canonicalForm: "Canna seleriana",
+italicisedForm: "<i>Canna seleriana </i>Kraenzl. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1258,
+name: "Canna sellowii Bouché",
+canonicalForm: "Canna sellowii",
+italicisedForm: "<i>Canna sellowii </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1259,
+name: "Canna speciosa Roscoe ex Sims [Illegitimate]",
+canonicalForm: "Canna speciosa",
+italicisedForm: "<i>Canna speciosa </i>Roscoe<i> ex </i>Sims<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1260,
+name: "Canna spectabilis Bouché",
+canonicalForm: "Canna spectabilis",
+italicisedForm: "<i>Canna spectabilis </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1261,
+name: "Canna sulphurea Bouché [Invalid]",
+canonicalForm: "Canna sulphurea",
+italicisedForm: "<i>Canna sulphurea </i>Bouché<i> [Invalid]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1262,
+name: "Canna surinamensis Bouché",
+canonicalForm: "Canna surinamensis",
+italicisedForm: "<i>Canna surinamensis </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1263,
+name: "Canna tenuiflora Bouché ex A.Dietr.",
+canonicalForm: "Canna tenuiflora",
+italicisedForm: "<i>Canna tenuiflora </i>Bouché<i> ex </i>A.Dietr. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1264,
+name: "Canna texensis Regel",
+canonicalForm: "Canna texensis",
+italicisedForm: "<i>Canna texensis </i>Regel ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1265,
+name: "Canna textoria Noronha [Invalid]",
+canonicalForm: "Canna textoria",
+italicisedForm: "<i>Canna textoria </i>Noronha<i> [Invalid]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1266,
+name: "Canna thyrsiflora Hegetschw. [Illegitimate]",
+canonicalForm: "Canna thyrsiflora",
+italicisedForm: "<i>Canna thyrsiflora </i>Hegetschw.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1267,
+name: "Canna tinei Tod. [Invalid]",
+canonicalForm: "Canna tinei",
+italicisedForm: "<i>Canna tinei </i>Tod.<i> [Invalid]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1268,
+name: "Canna variabilis Willd. [Illegitimate]",
+canonicalForm: "Canna variabilis",
+italicisedForm: "<i>Canna variabilis </i>Willd.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1269,
+name: "Canna variegata Besser",
+canonicalForm: "Canna variegata",
+italicisedForm: "<i>Canna variegata </i>Besser ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1270,
+name: "Canna variegatifolia Ciciar.",
+canonicalForm: "Canna variegatifolia",
+italicisedForm: "<i>Canna variegatifolia </i>Ciciar. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1271,
+name: "Canna ventricosa Bouché",
+canonicalForm: "Canna ventricosa",
+italicisedForm: "<i>Canna ventricosa </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1272,
+name: "Canna warszewiczii A.Dietr. [Illegitimate]",
+canonicalForm: "Canna warszewiczii",
+italicisedForm: "<i>Canna warszewiczii </i>A.Dietr.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1273,
+name: "Canna warszewiczii var. flameus Ram.Goyena",
+canonicalForm: "Canna warszewiczii flameus",
+italicisedForm: "<i>Canna warszewiczii </i>var.<i> flameus </i>Ram.Goyena ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1274,
+name: "Canna xalapensis Bouché",
+canonicalForm: "Canna xalapensis",
+italicisedForm: "<i>Canna xalapensis </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1275,
+name: "Cannacorus indicus (L.) Medik.",
+canonicalForm: "Cannacorus indicus",
+italicisedForm: "<i>Cannacorus indicus (</i>L.<i>) </i>Medik. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1276,
+name: "Cannacorus ovatus Moench [Illegitimate]",
+canonicalForm: "Cannacorus ovatus",
+italicisedForm: "<i>Cannacorus ovatus </i>Moench<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1277,
+name: "Distemon brasiliensis (Roscoe ex Spreng.) Bouché",
+canonicalForm: "Distemon brasiliensis",
+italicisedForm: "<i>Distemon brasiliensis (</i>Roscoe<i> ex </i>Spreng.<i>) </i>Bouché ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1278,
+name: "Distemon grandis Horan. [Illegitimate]",
+canonicalForm: "Distemon grandis",
+italicisedForm: "<i>Distemon grandis </i>Horan.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1279,
+name: "Xyphostylis lutea (Mill.) Raf.",
+canonicalForm: "Xyphostylis lutea",
+italicisedForm: "<i>Xyphostylis lutea (</i>Mill.<i>) </i>Raf. ",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 293,
+name: "Canna",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 292,
+name: "Indian shot",
+taxonConcept: {
+id: 120
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:03:34Z",
+lastRevised: "2015-03-19T11:08:56Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_290903_080332_th1.jpg",
+notes: "<h6>Biological Type</h6><p>geophyte</p><h6>Code</h6><p>CNNIN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>geophyte</p><h6>Code</h6><p>CNNIN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 425,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>geophyte</p><h6>Code</h6><p>CNNIN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2014-09-24T17:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277919,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 420,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Leaves are simple, alternate and large. Leaf blade is ovate to elliptic, glabrous and petiolated. Leaf margin is entire. Raceme branches enclosed in sheaths. Leave base is sheathing and apex is acute. Leaf veins are pennate.</p><h6>General Habit</h6><p>It is an evergreen, perennial, upright herb. Flowering from July to Nov.</p><h6>Underground System</h6><p>Root is a stout rhizome.</p><h6>Flower</h6><p>Flowers are irregular, red, lip orange and spotted with red. Flowering from July to Nov. Sepals are 1 cm long, acute. Petals are 3-4 cm, narrowly elliptic</p><h6>Fruit</h6><p>Fruit is a capsule, 3-5 ? 2-3 cm broad, bluntly 3 angled, softly spiny.</p><h6>Seed</h6><p>Seeds are spherical, hard, black, 5 mm in diameter</p><h6>Global Description</h6><p>C. indica is a perennial herb, grow up to 1.5. Leaves are large, stalk sheathing. Inflorescence is branching, flowers are iregular, red, lip orange and spotted with red. Seeds are round, hard and black.</p><h6>Inflorescence</h6><p>Terminal.</p>",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2014-09-24T17:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277912,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 427,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Canna indica L.",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2014-09-24T17:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277921,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 423,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "C. indica multiplies by vegetative spread.<br>",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2014-09-24T17:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277917,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 426,
+field: {
+concept: "Natural History",
+category: "Look Alikes",
+description: "Other taxa that this taxon may be confused with, and characters useful for their differentiation. Useful for identification and comparison. Common in invasive species communities.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "C. indica can be confused with C. x generalis. C. x generalis has pale yellow flowers.<br>",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2014-09-24T17:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277920,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 429,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Occurs in disturbed areas, village and river bank.<br>",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2014-09-24T17:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277921,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 428,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Origin</h6><p>Native to Trop America.</p>",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2014-09-24T17:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277921,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 430,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Used as garden onamental plant.<br>",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2014-09-24T17:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277922,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 422,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2015-04-07T21:01:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "(A Field Guide to Wild Flowers Kwazulu-Natal and Eastern Region) Pooley, E. Published by The flora publications Trust c/o Natal Herbarium botanic Gardens Road, Durban 4001."
+},
+{
+title: "(A revised list of alien plants for the Kruger National Park.Koedoe) Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B.W."
+},
+{
+title: "(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Plublications CC"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=116220"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277915,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 418,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2015-04-07T21:01:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "(A Field Guide to Wild Flowers Kwazulu-Natal and Eastern Region) Pooley, E. Published by The flora publications Trust c/o Natal Herbarium botanic Gardens Road, Durban 4001."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=116220"
+},
+{
+title: "(A revised list of alien plants for the Kruger National Park.Koedoe) Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B.W."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Plublications CC"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277908,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 419,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2015-04-07T21:01:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "(A revised list of alien plants for the Kruger National Park.Koedoe) Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B.W."
+},
+{
+title: "(A Field Guide to Wild Flowers Kwazulu-Natal and Eastern Region) Pooley, E. Published by The flora publications Trust c/o Natal Herbarium botanic Gardens Road, Durban 4001."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=116220"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=116220"
+},
+{
+title: "(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Plublications CC"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277910,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 421,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2015-04-07T21:01:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "(A revised list of alien plants for the Kruger National Park.Koedoe) Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B.W."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=116220"
+},
+{
+title: "(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Plublications CC"
+},
+{
+title: "(A Field Guide to Wild Flowers Kwazulu-Natal and Eastern Region) Pooley, E. Published by The flora publications Trust c/o Natal Herbarium botanic Gardens Road, Durban 4001."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277913,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 424,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2015-03-09T05:22:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "(A revised list of alien plants for the Kruger National Park.Koedoe) Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B.W."
+},
+{
+title: "(A Field Guide to Wild Flowers Kwazulu-Natal and Eastern Region) Pooley, E. Published by The flora publications Trust c/o Natal Herbarium botanic Gardens Road, Durban 4001."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=116220"
+},
+{
+title: "(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Plublications CC"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277918,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3112,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Canna indica est une herbe dressée vivace rhizomateuse, glabre, de 1 m à 1,80 m de hauteur. Les feuilles sont alternes et simples, à base engainante, de grande dimension, à limbe ovale à elliptique, pointu à l’extrémité, à nervation pennée. L’inflorescence est une grappe ramifiée portant des fleurs de grande dimension de couleur rouge à jaune. Le fruit est une capsule ovoïde épineuse renfermant de nombreuse graines subsphériques de couleur noire.</p>",
+dateCreated: "2015-03-19T11:08:56Z",
+lastUpdated: "2015-03-19T11:08:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763336746,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3104,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CNNIN</p><h6>Type Biologique</h6><p>geophyte</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:08:34Z",
+lastUpdated: "2015-03-19T11:08:34Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763314144,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3108,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Canna indica est une herbe dressée vivace rhizomateuse, glabre, de 1 m à 1,80 m de hauteur. Les feuilles sont alternes et simples, à base engainante, de grande dimension, à limbe ovale à elliptique, pointu à l’extrémité, à nervation pennée. L’inflorescence est une grappe ramifiée portant des fleurs de grande dimension de couleur rouge à jaune. Le fruit est une capsule ovoïde épineuse renfermant de nombreuse graines subsphériques de couleur noire.</p><h6>Port</h6><p>Herbe dressée vivace rhizomateuse, à grande feuilles, entièrement glabre, de 1 m à 1,80 m de hauteur.</p><h6>Système Souterrain</h6><p>Le système souterrain est un rhizome.</p><h6>Feuille</h6><p>Les feuilles sont alternes et simples, à base engainante. Le limbe est grand, atteignant 60 cm de long et 25 cm de large. Il est ovale à elliptique, un peu dissymétrique, à base arrondie à cunéiforme, aigu à pointu effilé à l’extrémité, parcouru d’une nervation pennée.</p><h6>Inflorescence</h6><p>L’inflorescence est une grappe, simple au début, puis ramifiée par développement des rameaux successifs. Les fleurs sont isolées ou disposées par paires.</p><h6>Fleur</h6><p>Les fleurs sont de couleur rouge foncé à jaune. Le pédicelle est court. La bractée est obovale, de 0,9 à 2 cm de long. Les sépales sont ovales, aigus à l’extrémité, de 1,2 à 1,5 cm de long et 0,5 à 0,9 cm de large. Les pétales sont étroitement elliptiques aigus (4 à 5 cm de long et 0,4 à 0,7 cm de large), soudés sur environ 1 cm. Le labelle (4 à 5 cm de long et 1 cm de large) est étroitement oblong, échancré à l’extrémité. Sa base est de couleur jaune tacheté de rouge, sa moitié terminale entièrement rouge. Les étamines mesurent 4 à 5 cm de long dont 7 à 10 mm pour les anthères. Le style, long de 4 à 5 mm, est de couleur jaune ou rouge.</p><h6>Fruit</h6><p>Le fruit est une capsule ovoïde épineuse de 2 à 3 cm de long renfermant de nombreuses graines, qui se détache à maturité et s’ouvre longitudinalement.</p><h6>Graine</h6><p>La graine est subsphérique, de 5 mm de diamètre, de couleur noire.</p>",
+dateCreated: "2015-03-19T11:08:35Z",
+lastUpdated: "2015-03-19T11:08:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763315070,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3109,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Canna indica L.",
+dateCreated: "2015-03-19T11:08:35Z",
+lastUpdated: "2015-03-19T11:08:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763315380,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3110,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Amérique tropicale</p>",
+dateCreated: "2015-03-19T11:08:35Z",
+lastUpdated: "2015-03-19T11:08:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763315626,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3111,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Amérique tropicale</p>",
+dateCreated: "2015-03-19T11:08:35Z",
+lastUpdated: "2015-03-19T11:08:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763315849,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3107,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:08:34Z",
+lastUpdated: "2015-03-31T06:52:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.hear.org/pier/species/canna_indica.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763314645,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3105,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:08:34Z",
+lastUpdated: "2015-03-31T06:52:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Bosser, J., Fergusson, I.K., Soopramanien, C. Mult. an. Flore des Mascareignes. La Réunion, Maurice, Rodrigues. MSIRI, IRD, Kew."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763314644,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3106,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:08:34Z",
+lastUpdated: "2015-03-31T06:52:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.issg.org/database/species/ecology.asp?si=640&fr=1&sts=sss&lang=FR"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763314645,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 855,
+url: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_290903_080332.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_290903_080332_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:03:40Z",
+rating: 0
+},
+{
+id: 856,
+url: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_091105_074404.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_091105_074404_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:03:40Z",
+rating: 0
+},
+{
+id: 857,
+url: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_200903_115156.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_200903_115156_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:03:40Z",
+rating: 0
+},
+{
+id: 858,
+url: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_290903_080054.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_290903_080054_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:03:40Z",
+rating: 0
+},
+{
+id: 859,
+url: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_200903_133158.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_200903_133158_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:03:40Z",
+rating: 0
+},
+{
+id: 860,
+url: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_200903_133010.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_200903_133010_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:03:40Z",
+rating: 0
+},
+{
+id: 861,
+url: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_200903_132646.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_200903_132646_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:03:40Z",
+rating: 0
+},
+{
+id: 862,
+url: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_010304_060346.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_010304_060346_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:03:40Z",
+rating: 0
+},
+{
+id: 863,
+url: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_010304_060142.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_010304_060142_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:03:40Z",
+rating: 0
+},
+{
+id: 864,
+url: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_20091129_174752.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_20091129_174752_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:03:40Z",
+rating: 0
+},
+{
+id: 865,
+url: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_20091129_174738.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_20091129_174738_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:03:40Z",
+rating: 0
+},
+{
+id: 866,
+url: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_20091129_174732.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Canna indica/cnnin_20091129_174732_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:03:40Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

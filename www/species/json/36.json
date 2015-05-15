@@ -1,0 +1,5340 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 36,
+title: "<i>Bidens pilosa </i>L. ",
+taxonConcept: {
+id: 96,
+name: "Bidens pilosa L.",
+canonicalForm: "Bidens pilosa",
+italicisedForm: "<i>Bidens pilosa </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 24,
+name: "Asteraceae",
+canonicalForm: "Asteraceae",
+italicisedForm: "<i>Asteraceae</i>",
+rank: "Family"
+},
+{
+id: 95,
+name: "Bidens",
+canonicalForm: "Bidens",
+italicisedForm: "<i>Bidens</i>",
+rank: "Genus"
+},
+{
+id: 96,
+name: "Bidens pilosa L.",
+canonicalForm: "Bidens pilosa",
+italicisedForm: "<i>Bidens pilosa </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 638,
+name: "Bidens abadiae DC.",
+canonicalForm: "Bidens abadiae",
+italicisedForm: "<i>Bidens abadiae </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 639,
+name: "Bidens abadiae var. abadiae",
+canonicalForm: "Bidens abadiae abadiae",
+italicisedForm: "<i>Bidens abadiae </i>var.<i> abadiae</i>",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 640,
+name: "Bidens abadiae var. pilosoides Sherff",
+canonicalForm: "Bidens abadiae pilosoides",
+italicisedForm: "<i>Bidens abadiae </i>var.<i> pilosoides </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 641,
+name: "Bidens adhaerescens Vell.",
+canonicalForm: "Bidens adhaerescens",
+italicisedForm: "<i>Bidens adhaerescens </i>Vell. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 642,
+name: "Bidens africana Klatt",
+canonicalForm: "Bidens africana",
+italicisedForm: "<i>Bidens africana </i>Klatt ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 643,
+name: "Bidens alausensis Kunth",
+canonicalForm: "Bidens alausensis",
+italicisedForm: "<i>Bidens alausensis </i>Kunth ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 644,
+name: "Bidens alba (L.) DC.",
+canonicalForm: "Bidens alba",
+italicisedForm: "<i>Bidens alba (</i>L.<i>) </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 645,
+name: "Bidens alba var. radiata (Sch.Bip.) Ballard ex Melchert",
+canonicalForm: "Bidens alba radiata",
+italicisedForm: "<i>Bidens alba </i>var.<i> radiata (</i>Sch.Bip.<i>) </i>Ballard<i> ex </i>Melchert ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 646,
+name: "Bidens arenaria Gand.",
+canonicalForm: "Bidens arenaria",
+italicisedForm: "<i>Bidens arenaria </i>Gand. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 647,
+name: "Bidens arenicola Gand. [Invalid]",
+canonicalForm: "Bidens arenicola",
+italicisedForm: "<i>Bidens arenicola </i>Gand.<i> [Invalid]</i>",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 648,
+name: "Bidens aurantiaca Colenso",
+canonicalForm: "Bidens aurantiaca",
+italicisedForm: "<i>Bidens aurantiaca </i>Colenso ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 649,
+name: "Bidens barrancae M.E.Jones",
+canonicalForm: "Bidens barrancae",
+italicisedForm: "<i>Bidens barrancae </i>M.E.Jones ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 650,
+name: "Bidens bimucronata Turcz.",
+canonicalForm: "Bidens bimucronata",
+italicisedForm: "<i>Bidens bimucronata </i>Turcz. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 651,
+name: "Bidens bonplandii Sch.Bip.",
+canonicalForm: "Bidens bonplandii",
+italicisedForm: "<i>Bidens bonplandii </i>Sch.Bip. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 652,
+name: "Bidens brachycarpa DC.",
+canonicalForm: "Bidens brachycarpa",
+italicisedForm: "<i>Bidens brachycarpa </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 653,
+name: "Bidens bullata var. glabrescens Fiori",
+canonicalForm: "Bidens bullata glabrescens",
+italicisedForm: "<i>Bidens bullata </i>var.<i> glabrescens </i>Fiori ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 654,
+name: "Bidens bullata var. hirta (Jord.) Coste",
+canonicalForm: "Bidens bullata hirta",
+italicisedForm: "<i>Bidens bullata </i>var.<i> hirta (</i>Jord.<i>) </i>Coste ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 655,
+name: "Bidens calcicola Greenm.",
+canonicalForm: "Bidens calcicola",
+italicisedForm: "<i>Bidens calcicola </i>Greenm. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 656,
+name: "Bidens californica DC.",
+canonicalForm: "Bidens californica",
+italicisedForm: "<i>Bidens californica </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 657,
+name: "Bidens cannabina Lam.",
+canonicalForm: "Bidens cannabina",
+italicisedForm: "<i>Bidens cannabina </i>Lam. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 658,
+name: "Bidens caracasana DC.",
+canonicalForm: "Bidens caracasana",
+italicisedForm: "<i>Bidens caracasana </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 659,
+name: "Bidens caucalidea DC.",
+canonicalForm: "Bidens caucalidea",
+italicisedForm: "<i>Bidens caucalidea </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 660,
+name: "Bidens cernua var. anomala Farw.",
+canonicalForm: "Bidens cernua anomala",
+italicisedForm: "<i>Bidens cernua </i>var.<i> anomala </i>Farw. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 661,
+name: "Bidens cernua var. tenuis Turcz. ex DC.",
+canonicalForm: "Bidens cernua tenuis",
+italicisedForm: "<i>Bidens cernua </i>var.<i> tenuis </i>Turcz.<i> ex </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 662,
+name: "Bidens chilensis DC.",
+canonicalForm: "Bidens chilensis",
+italicisedForm: "<i>Bidens chilensis </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 663,
+name: "Bidens chilensis var. apiifolia DC.",
+canonicalForm: "Bidens chilensis apiifolia",
+italicisedForm: "<i>Bidens chilensis </i>var.<i> apiifolia </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 664,
+name: "Bidens chilensis var. chilensis",
+canonicalForm: "Bidens chilensis chilensis",
+italicisedForm: "<i>Bidens chilensis </i>var.<i> chilensis</i>",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 665,
+name: "Bidens daucifolia DC.",
+canonicalForm: "Bidens daucifolia",
+italicisedForm: "<i>Bidens daucifolia </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 666,
+name: "Bidens deamii Sherff",
+canonicalForm: "Bidens deamii",
+italicisedForm: "<i>Bidens deamii </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 667,
+name: "Bidens decussata Pav. ex DC.",
+canonicalForm: "Bidens decussata",
+italicisedForm: "<i>Bidens decussata </i>Pav.<i> ex </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 668,
+name: "Bidens dichotoma Desf. ex DC.",
+canonicalForm: "Bidens dichotoma",
+italicisedForm: "<i>Bidens dichotoma </i>Desf.<i> ex </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 669,
+name: "Bidens effusa Thuill. ex Sherff [Invalid]",
+canonicalForm: "Bidens effusa",
+italicisedForm: "<i>Bidens effusa </i>Thuill.<i> ex </i>Sherff<i> [Invalid]</i>",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 670,
+name: "Bidens exaristata DC.",
+canonicalForm: "Bidens exaristata",
+italicisedForm: "<i>Bidens exaristata </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 671,
+name: "Bidens fastigiata var. hispida Jord. ex Cariot & St.Lag.",
+canonicalForm: "Bidens fastigiata hispida",
+italicisedForm: "<i>Bidens fastigiata </i>var.<i> hispida </i>Jord.<i> ex </i>Cariot<i> & </i>St.Lag. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 672,
+name: "Bidens heterodoxa var. orthodoxa Fernald",
+canonicalForm: "Bidens heterodoxa orthodoxa",
+italicisedForm: "<i>Bidens heterodoxa </i>var.<i> orthodoxa </i>Fernald ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 673,
+name: "Bidens hirsuta Nutt. [Illegitimate]",
+canonicalForm: "Bidens hirsuta",
+italicisedForm: "<i>Bidens hirsuta </i>Nutt.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 674,
+name: "Bidens hirta Jord.",
+canonicalForm: "Bidens hirta",
+italicisedForm: "<i>Bidens hirta </i>Jord. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 675,
+name: "Bidens hispida Kunth",
+canonicalForm: "Bidens hispida",
+italicisedForm: "<i>Bidens hispida </i>Kunth ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 676,
+name: "Bidens hybrida Thuill.",
+canonicalForm: "Bidens hybrida",
+italicisedForm: "<i>Bidens hybrida </i>Thuill. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 677,
+name: "Bidens inermis S.Watson",
+canonicalForm: "Bidens inermis",
+italicisedForm: "<i>Bidens inermis </i>S.Watson ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 678,
+name: "Bidens leucantha (L.) Willd.",
+canonicalForm: "Bidens leucantha",
+italicisedForm: "<i>Bidens leucantha (</i>L.<i>) </i>Willd. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 679,
+name: "Bidens leucantha var. leucantha",
+canonicalForm: "Bidens leucantha leucantha",
+italicisedForm: "<i>Bidens leucantha </i>var.<i> leucantha</i>",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 680,
+name: "Bidens leucantha var. pilosa (L.) Griseb.",
+canonicalForm: "Bidens leucantha pilosa",
+italicisedForm: "<i>Bidens leucantha </i>var.<i> pilosa (</i>L.<i>) </i>Griseb. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 681,
+name: "Bidens leucantha var. sundaica (Blume) Hassk.",
+canonicalForm: "Bidens leucantha sundaica",
+italicisedForm: "<i>Bidens leucantha </i>var.<i> sundaica (</i>Blume<i>) </i>Hassk. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 682,
+name: "Bidens leucanthema f. discoidea Sch.Bip.",
+canonicalForm: "Bidens leucanthema discoidea",
+italicisedForm: "<i>Bidens leucanthema </i>f.<i> discoidea </i>Sch.Bip. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 683,
+name: "Bidens leucanthema var. pilosa (L.) Griseb.",
+canonicalForm: "Bidens leucanthema pilosa",
+italicisedForm: "<i>Bidens leucanthema </i>var.<i> pilosa (</i>L.<i>) </i>Griseb. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 684,
+name: "Bidens leucanthema var. sundaica (Blume) Hassk.",
+canonicalForm: "Bidens leucanthema sundaica",
+italicisedForm: "<i>Bidens leucanthema </i>var.<i> sundaica (</i>Blume<i>) </i>Hassk. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 685,
+name: "Bidens leucanthemus (L.) E.H.L.Krause",
+canonicalForm: "Bidens leucanthemus",
+italicisedForm: "<i>Bidens leucanthemus (</i>L.<i>) </i>E.H.L.Krause ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 686,
+name: "Bidens minor (Wimm. & Grab.) Vorosch.",
+canonicalForm: "Bidens minor",
+italicisedForm: "<i>Bidens minor (</i>Wimm.<i> & </i>Grab.<i>) </i>Vorosch. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 687,
+name: "Bidens minuscula H.Lév. & Vaniot",
+canonicalForm: "Bidens minuscula",
+italicisedForm: "<i>Bidens minuscula </i>H.Lév.<i> & </i>Vaniot ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 688,
+name: "Bidens montaubani Phil.",
+canonicalForm: "Bidens montaubani",
+italicisedForm: "<i>Bidens montaubani </i>Phil. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 689,
+name: "Bidens odorata Cav.",
+canonicalForm: "Bidens odorata",
+italicisedForm: "<i>Bidens odorata </i>Cav. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 690,
+name: "Bidens odorata var. calcicola (Greenm.) R.E.Ballard",
+canonicalForm: "Bidens odorata calcicola",
+italicisedForm: "<i>Bidens odorata </i>var.<i> calcicola (</i>Greenm.<i>) </i>R.E.Ballard ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 691,
+name: "Bidens odorata var. oaxacensis Ballard",
+canonicalForm: "Bidens odorata oaxacensis",
+italicisedForm: "<i>Bidens odorata </i>var.<i> oaxacensis </i>Ballard ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 692,
+name: "Bidens orendainae M.E.Jones",
+canonicalForm: "Bidens orendainae",
+italicisedForm: "<i>Bidens orendainae </i>M.E.Jones ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 693,
+name: "Bidens orientalis Velen. ex Bornm.",
+canonicalForm: "Bidens orientalis",
+italicisedForm: "<i>Bidens orientalis </i>Velen.<i> ex </i>Bornm. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 694,
+name: "Bidens paleacea Vis.",
+canonicalForm: "Bidens paleacea",
+italicisedForm: "<i>Bidens paleacea </i>Vis. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 695,
+name: "Bidens pilosa f. alausensis (Kunth) Sherff",
+canonicalForm: "Bidens pilosa alausensis",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> alausensis (</i>Kunth<i>) </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 696,
+name: "Bidens pilosa var. albiflora Maxim.",
+canonicalForm: "Bidens pilosa albiflora",
+italicisedForm: "<i>Bidens pilosa </i>var.<i> albiflora </i>Maxim. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 697,
+name: "Bidens pilosa var. bimucronata (Turcz.) O.E.Schulz",
+canonicalForm: "Bidens pilosa bimucronata",
+italicisedForm: "<i>Bidens pilosa </i>var.<i> bimucronata (</i>Turcz.<i>) </i>O.E.Schulz ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 698,
+name: "Bidens pilosa var. brachycarpa (DC.) O.E.Schulz",
+canonicalForm: "Bidens pilosa brachycarpa",
+italicisedForm: "<i>Bidens pilosa </i>var.<i> brachycarpa (</i>DC.<i>) </i>O.E.Schulz ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 699,
+name: "Bidens pilosa var. brevifoliata Hieron.",
+canonicalForm: "Bidens pilosa brevifoliata",
+italicisedForm: "<i>Bidens pilosa </i>var.<i> brevifoliata </i>Hieron. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 700,
+name: "Bidens pilosa var. calcicola (Greenm.) Sherff",
+canonicalForm: "Bidens pilosa calcicola",
+italicisedForm: "<i>Bidens pilosa </i>var.<i> calcicola (</i>Greenm.<i>) </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 701,
+name: "Bidens pilosa var. discoidea Sch.Bip.",
+canonicalForm: "Bidens pilosa discoidea",
+italicisedForm: "<i>Bidens pilosa </i>var.<i> discoidea </i>Sch.Bip. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 702,
+name: "Bidens pilosa f. dissecta Sherff",
+canonicalForm: "Bidens pilosa dissecta",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> dissecta </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 703,
+name: "Bidens pilosa var. dubia (Cass.) O.E.Schulz",
+canonicalForm: "Bidens pilosa dubia",
+italicisedForm: "<i>Bidens pilosa </i>var.<i> dubia (</i>Cass.<i>) </i>O.E.Schulz ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 704,
+name: "Bidens pilosa var. humilis (Walp.) Walp. ex Reiche",
+canonicalForm: "Bidens pilosa humilis",
+italicisedForm: "<i>Bidens pilosa </i>var.<i> humilis (</i>Walp.<i>) </i>Walp.<i> ex </i>Reiche ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 705,
+name: "Bidens pilosa f. indivisa Sherff",
+canonicalForm: "Bidens pilosa indivisa",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> indivisa </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 706,
+name: "Bidens pilosa var. leucantha (L.) Harv.",
+canonicalForm: "Bidens pilosa leucantha",
+italicisedForm: "<i>Bidens pilosa </i>var.<i> leucantha (</i>L.<i>) </i>Harv. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 707,
+name: "Bidens pilosa var. minor (Blume) Sherff",
+canonicalForm: "Bidens pilosa minor",
+italicisedForm: "<i>Bidens pilosa </i>var.<i> minor (</i>Blume<i>) </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 708,
+name: "Bidens pilosa f. monophylla (Urb.) Sherff",
+canonicalForm: "Bidens pilosa monophylla",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> monophylla (</i>Urb.<i>) </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 709,
+name: "Bidens pilosa f. odorata (Cav.) Sherff",
+canonicalForm: "Bidens pilosa odorata",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> odorata (</i>Cav.<i>) </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 710,
+name: "Bidens pilosa f. pilosa",
+canonicalForm: "Bidens pilosa pilosa",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> pilosa</i>",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 711,
+name: "Bidens pilosa f. pilosior Kuntze",
+canonicalForm: "Bidens pilosa pilosior",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> pilosior </i>Kuntze ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 712,
+name: "Bidens pilosa f. pinnata Kuntze",
+canonicalForm: "Bidens pilosa pinnata",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> pinnata </i>Kuntze ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 713,
+name: "Bidens pilosa var. radiata (Sch.Bip.) Sherff",
+canonicalForm: "Bidens pilosa radiata",
+italicisedForm: "<i>Bidens pilosa </i>var.<i> radiata (</i>Sch.Bip.<i>) </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 714,
+name: "Bidens pilosa f. simplex Sherff",
+canonicalForm: "Bidens pilosa simplex",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> simplex </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 715,
+name: "Bidens pilosa f. subbiternatus Kuntze",
+canonicalForm: "Bidens pilosa subbiternatus",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> subbiternatus </i>Kuntze ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 716,
+name: "Bidens pilosa f. subsimplicifolia Kuntze",
+canonicalForm: "Bidens pilosa subsimplicifolia",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> subsimplicifolia </i>Kuntze ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 717,
+name: "Bidens pilosa f. ternata Kuntze",
+canonicalForm: "Bidens pilosa ternata",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> ternata </i>Kuntze ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 718,
+name: "Bidens pilosa f. triaristata Sherff",
+canonicalForm: "Bidens pilosa triaristata",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> triaristata </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 719,
+name: "Bidens pilosa f. umbrosa Sherff",
+canonicalForm: "Bidens pilosa umbrosa",
+italicisedForm: "<i>Bidens pilosa </i>f.<i> umbrosa </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 720,
+name: "Bidens pinnata Noronha",
+canonicalForm: "Bidens pinnata",
+italicisedForm: "<i>Bidens pinnata </i>Noronha ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 721,
+name: "Bidens pumila (Retz.) Steud.",
+canonicalForm: "Bidens pumila",
+italicisedForm: "<i>Bidens pumila (</i>Retz.<i>) </i>Steud. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 722,
+name: "Bidens ramosissima Sherff",
+canonicalForm: "Bidens ramosissima",
+italicisedForm: "<i>Bidens ramosissima </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 723,
+name: "Bidens reflexa Link",
+canonicalForm: "Bidens reflexa",
+italicisedForm: "<i>Bidens reflexa </i>Link ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 724,
+name: "Bidens rosea Sch.Bip.",
+canonicalForm: "Bidens rosea",
+italicisedForm: "<i>Bidens rosea </i>Sch.Bip. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 725,
+name: "Bidens rosea var. calcicola Greenm.",
+canonicalForm: "Bidens rosea calcicola",
+italicisedForm: "<i>Bidens rosea </i>var.<i> calcicola </i>Greenm. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 726,
+name: "Bidens scandicina Kunth",
+canonicalForm: "Bidens scandicina",
+italicisedForm: "<i>Bidens scandicina </i>Kunth ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 727,
+name: "Bidens striata Schott ex Sweet",
+canonicalForm: "Bidens striata",
+italicisedForm: "<i>Bidens striata </i>Schott<i> ex </i>Sweet ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 728,
+name: "Bidens sundaica Blume",
+canonicalForm: "Bidens sundaica",
+italicisedForm: "<i>Bidens sundaica </i>Blume ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 729,
+name: "Bidens sundaica var. minor Blume",
+canonicalForm: "Bidens sundaica minor",
+italicisedForm: "<i>Bidens sundaica </i>var.<i> minor </i>Blume ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 730,
+name: "Bidens taquetii H.Lév. & Vaniot",
+canonicalForm: "Bidens taquetii",
+italicisedForm: "<i>Bidens taquetii </i>H.Lév.<i> & </i>Vaniot ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 731,
+name: "Bidens trifoliata Norona",
+canonicalForm: "Bidens trifoliata",
+italicisedForm: "<i>Bidens trifoliata </i>Norona ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 732,
+name: "Bidens tripartita Bojer [Invalid]",
+canonicalForm: "Bidens tripartita",
+italicisedForm: "<i>Bidens tripartita </i>Bojer<i> [Invalid]</i>",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 733,
+name: "Bidens tripartita var. cannabina (Lam.) Beckh.",
+canonicalForm: "Bidens tripartita cannabina",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> cannabina (</i>Lam.<i>) </i>Beckh. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 734,
+name: "Bidens tripartita var. discoidea Wimm.",
+canonicalForm: "Bidens tripartita discoidea",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> discoidea </i>Wimm. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 735,
+name: "Bidens tripartita var. hirta (Jord.) Sherff",
+canonicalForm: "Bidens tripartita hirta",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> hirta (</i>Jord.<i>) </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 736,
+name: "Bidens tripartita var. hispida Cariot & St.-Lag.",
+canonicalForm: "Bidens tripartita hispida",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> hispida </i>Cariot<i> & </i>St.-Lag. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 737,
+name: "Bidens tripartita var. indivisa Corb.",
+canonicalForm: "Bidens tripartita indivisa",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> indivisa </i>Corb. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 738,
+name: "Bidens tripartita var. integra Peterm.",
+canonicalForm: "Bidens tripartita integra",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> integra </i>Peterm. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 739,
+name: "Bidens tripartita var. integrifolia Wirtg.",
+canonicalForm: "Bidens tripartita integrifolia",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> integrifolia </i>Wirtg. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 740,
+name: "Bidens tripartita var. latifolia Rouy",
+canonicalForm: "Bidens tripartita latifolia",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> latifolia </i>Rouy ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 741,
+name: "Bidens tripartita var. minima Lej.",
+canonicalForm: "Bidens tripartita minima",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> minima </i>Lej. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 742,
+name: "Bidens tripartita var. minor Wimm. & Grab.",
+canonicalForm: "Bidens tripartita minor",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> minor </i>Wimm.<i> & </i>Grab. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 743,
+name: "Bidens tripartita var. orientalis (Velen.) Sherff",
+canonicalForm: "Bidens tripartita orientalis",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> orientalis (</i>Velen.<i>) </i>Sherff ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 744,
+name: "Bidens tripartita var. pumila Retz.",
+canonicalForm: "Bidens tripartita pumila",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> pumila </i>Retz. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 745,
+name: "Bidens tripartita var. radiata Wimm.",
+canonicalForm: "Bidens tripartita radiata",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> radiata </i>Wimm. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 746,
+name: "Bidens tripartita var. tenuis (Turcz. ex DC.) DC.",
+canonicalForm: "Bidens tripartita tenuis",
+italicisedForm: "<i>Bidens tripartita </i>var.<i> tenuis (</i>Turcz.<i> ex </i>DC.<i>) </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 747,
+name: "Bidens valparadisiaca Colla",
+canonicalForm: "Bidens valparadisiaca",
+italicisedForm: "<i>Bidens valparadisiaca </i>Colla ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 748,
+name: "Bidens viciosoi Pau",
+canonicalForm: "Bidens viciosoi",
+italicisedForm: "<i>Bidens viciosoi </i>Pau ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 749,
+name: "Bidens wallichii var. albiflora Max. ex Matsum.",
+canonicalForm: "Bidens wallichii albiflora",
+italicisedForm: "<i>Bidens wallichii </i>var.<i> albiflora </i>Max.<i> ex </i>Matsum. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 750,
+name: "Ceratocephalus pilosus Rich. ex Cass.",
+canonicalForm: "Ceratocephalus pilosus",
+italicisedForm: "<i>Ceratocephalus pilosus </i>Rich.<i> ex </i>Cass. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 751,
+name: "Coreopsis alba L.",
+canonicalForm: "Coreopsis alba",
+italicisedForm: "<i>Coreopsis alba </i>L. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 752,
+name: "Coreopsis corymbifolia Buch.-Ham. ex DC.",
+canonicalForm: "Coreopsis corymbifolia",
+italicisedForm: "<i>Coreopsis corymbifolia </i>Buch.-Ham.<i> ex </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 753,
+name: "Coreopsis leucantha L.",
+canonicalForm: "Coreopsis leucantha",
+italicisedForm: "<i>Coreopsis leucantha </i>L. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 754,
+name: "Coreopsis leucorrhiza Lour.",
+canonicalForm: "Coreopsis leucorrhiza",
+italicisedForm: "<i>Coreopsis leucorrhiza </i>Lour. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 755,
+name: "Coreopsis multifida DC.",
+canonicalForm: "Coreopsis multifida",
+italicisedForm: "<i>Coreopsis multifida </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 756,
+name: "Coreopsis multifida var. multifida",
+canonicalForm: "Coreopsis multifida multifida",
+italicisedForm: "<i>Coreopsis multifida </i>var.<i> multifida</i>",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 757,
+name: "Coreopsis multifida var. mutica DC.",
+canonicalForm: "Coreopsis multifida mutica",
+italicisedForm: "<i>Coreopsis multifida </i>var.<i> mutica </i>DC. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 758,
+name: "Coreopsis odorata Poir.",
+canonicalForm: "Coreopsis odorata",
+italicisedForm: "<i>Coreopsis odorata </i>Poir. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 759,
+name: "Glossogyne chinensis Less.",
+canonicalForm: "Glossogyne chinensis",
+italicisedForm: "<i>Glossogyne chinensis </i>Less. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 760,
+name: "Kerneria dubia Cass.",
+canonicalForm: "Kerneria dubia",
+italicisedForm: "<i>Kerneria dubia </i>Cass. ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 761,
+name: "Kerneria pilosa (L.) Lowe",
+canonicalForm: "Kerneria pilosa",
+italicisedForm: "<i>Kerneria pilosa (</i>L.<i>) </i>Lowe ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 762,
+name: "Kerneria pilosa var. pilosa",
+canonicalForm: "Kerneria pilosa pilosa",
+italicisedForm: "<i>Kerneria pilosa </i>var.<i> pilosa</i>",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 763,
+name: "Kerneria pilosa var. radiata (Sch.Bip.) Lowe",
+canonicalForm: "Kerneria pilosa radiata",
+italicisedForm: "<i>Kerneria pilosa </i>var.<i> radiata (</i>Sch.Bip.<i>) </i>Lowe ",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 764,
+name: "Kerneria tetragona Moench [Illegitimate]",
+canonicalForm: "Kerneria tetragona",
+italicisedForm: "<i>Kerneria tetragona </i>Moench<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 235,
+name: "Herbe la villebague",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 236,
+name: "Villebague",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 237,
+name: "Railway daisy",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 238,
+name: "Mdudu",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 239,
+name: "Blackjack",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 240,
+name: "Bur marigold",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 241,
+name: "Hairy beggar-ticks",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 242,
+name: "Sornette",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 243,
+name: "Cobbler's pegs",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 244,
+name: "Piquant noir",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 245,
+name: "La ville-bague",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 246,
+name: "Tsipolitra",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 247,
+name: "Herbe villebague",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 248,
+name: "Ntsohoho",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 249,
+name: "Piquant",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 250,
+name: "Common blackjack",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 251,
+name: "Spanish needle",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 252,
+name: "Hairy beggar's ticks",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 253,
+name: "Beggar ticks",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 254,
+name: "Herbe clausette",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 255,
+name: "Bident pileux",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 493,
+name: "Français / French"
+}
+},
+{
+id: 256,
+name: "Herbe sornette",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 257,
+name: "Anatsinahy",
+taxonConcept: {
+id: 96
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1609,
+name: "Eng: hairy beggar's ticks.",
+taxonConcept: {
+id: 96
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:01:13Z",
+lastRevised: "2015-05-07T08:52:26Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_090608_091217_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>BIDPI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>BIDPI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 360,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>BIDPI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159552,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 368,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Leave opposite, trifoliate and sometimes five-stalked, ovate leaflets with acute tips and sharply serrated margins, and has the petiole which may be up to 2 cm long, the terminal leaflet being larger than the lateral ones. The ovate leaflets are up to 10 cm long and 5 cm wide.</p><h6>Underground System</h6><p>Strong taproot.</p><h6>Flower</h6><p>Flower heads are about 1 cm across with yellow disc. There are about 5 broad, white ray florets (these are sometimes absent) 5 mm long and 3-lobed at the tip, and numerous yellow, tubular disc florets. The bracts surrounding the flower heads are in two rows and the outer ones are broadened towards the tip.</p><h6>Fruit</h6><p>Are black, narrow, 5-10 mm long and bear 2-3 stout, hooked bristles.</p><h6>Global Description</h6><p>Terrestrial, annual broadleaf, erect herb, not rooting at nodes. Taproot white or brown. Stems rounded or quadrangular, solid, glabrous. Stipules absent. Leaves alternate, trifoliolate, opposite, stalked, leaflets lanceolate or ovate, more than 2 cm long/wide, hairy, margin coarsely dentate, apex acute, base acute, pinnately-veined. Leaf sheath absent. Flowers bisexual grouped together in a terminal head, with tubular and ligulate flowers, sessile, ligulate flower white, tubular ones yellow or orange. Fruit an achene, with pappus.</p><h6>Inflorescence</h6><p>Consist of a solitary terminal loosely branched heads on peduncles up to 10 up to 10 cm long.</p><h6>Stem</h6><p>Erect, quadrangular, hollow and ribbed; sometimes many branched and generally green but sometimes also dark red and smooth hairy.</p>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159562,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 358,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Bidens pilosa L.",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159550,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 367,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Reproduction by seeds. All the species of Bidens produces large quantity of seed, which can germinate immediately after being shed. With B. pilosa it has been shown that, if conditions are not suitable for germination for about 8 weeks, the seed becomes dormant and can remain viable for a considerable period. Besides the competitive effects of the weeds of the crops, their barbed seeds can be troublesome in their ability to adhere to and penetrate the hair of animal, clothing, skin, etc.<br>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159561,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 364,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "B. pilosa is adapted to different environmental situations but prefers wet zones and heavy soils.<br>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159558,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 361,
+field: {
+concept: "Natural History",
+category: "Diseases",
+description: "Description of diseases that the organism is subject to. Disease-causing organisms can also be listed under associations.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Alternate Host</h6><p>Bidens pilosa is also a host and vector to harmful parasites Root knot nematodes (Meloidogyne sp.) and Tomato spooted wilt virus (Schlerotinia sclerotiorum) (DPI, 2008; Mvere, 2004).</p>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159554,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 363,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>In East Africa it is a common species and occurs in all areas, often as one of the most important annual weeds.</p><h6>Origin</h6><p>Is a cosmopolitan weed of warmer areas and native to tropical America.</p>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159556,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 366,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>Bidens pilosa is a problematic species for many reasons throughought its range. A troublesome weed to at least 30 crops in over 40 countries, B. pilosa is known to significanly reduce crop yields. Leaf and root extracts are known to significantly suppress germination and seedling growth of many plants and are believed to remain active throughout decomposition. Furthermore, B. pilosa grows three times faster than similar plant species. All of these porperties render it a quite formidable competitor. Its thick stands impede access to roads, trails, and recreational areas, are a nuisance to travelers and tourists, and inflict damage to pavements and walls. Its burrs are a nuisance to people, as well as, sheep and other fleece producing livestock. The burrs are also a troublesome seed contaminent as they are difficult to seperate from grain. The roots, leaves, and flowers are strongly phytotoxic and a poisonous, if unprepared, and capable of inflicting injury.</p><h6>Local Weediness</h6><p>Kenya: Frequent but not abundant. South Africa: Distributed to the entire part of South Africa except in the North-West province. Common widespread weed and extremely troublesome in crop fields. Tanzania: Frequent and usually abundant. Uganda: Frequent and usually abundant.</p>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159560,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 374,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Bidens pilosa has been introduced to many new locations by man for agricultural or ornamental purposes (Carlquist, 1966). Leaves are cooked as vegetables, browsed by game, stock and birds. Traditionally used to treat pains, rhumatism diarrhea and ear ailments. Zimbabwe: Bidens species have been shown to act as alternate hosts of various eelworm pest of crop.<br>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159575,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 357,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Physical: Bidens pilosa is susceptible to hand weeding. Germination may be prevented by mulches if they are thick enough (PIER, 2007). Chemical: B. pilosa is susceptable to several types of herbicides. Residual herbicides:diuron, bromacil, atrazine, simazine, ropazine, hexazinone, oryzalin, and ametryn; Translocated herbicides: 2,4-D, glyphosate, amitrole, metribuzin, and dicamba; and contact herbicides bentazone, diquat, and paraquat have all been evaluated as effective means of controlling B. pilosa when applied at standard rates. B. pilosa is thought susceptible to the majority of broad-leafed plant herbicides (PIER, 2007). Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159549,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 362,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-02-20T15:08:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I. O., Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 168p"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Johnson D.E.(1997) Weeds of Rice in West Africa. WARDA, Bouake. 48p."
+},
+{
+title: "Q-bank: http://www.q-bank.eu/Plants/BioloMICS.aspx?Table=Plants%20-%20Species&Rec=1103&Fields=All"
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2. Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "BioNET-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Bidens_pilosa_%28Blackjack%29.htm"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 123-124p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159554,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 373,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-06T09:14:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Q-bank: http://www.q-bank.eu/Plants/BioloMICS.aspx?Table=Plants%20-%20Species&Rec=1103&Fields=All"
+},
+{
+title: "BioNET-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Bidens_pilosa_%28Blackjack%29.htm"
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2. Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Akobundu I. O., Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 168p"
+},
+{
+title: "Johnson D.E.(1997) Weeds of Rice in West Africa. WARDA, Bouake. 48p."
+},
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 123-124p"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159572,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 372,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-06T09:14:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2. Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 123-124p"
+},
+{
+title: "Akobundu I. O., Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 168p"
+},
+{
+title: "Johnson D.E.(1997) Weeds of Rice in West Africa. WARDA, Bouake. 48p."
+},
+{
+title: "Q-bank: http://www.q-bank.eu/Plants/BioloMICS.aspx?Table=Plants%20-%20Species&Rec=1103&Fields=All"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "BioNET-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Bidens_pilosa_%28Blackjack%29.htm"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159570,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 371,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-06T09:14:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson D.E.(1997) Weeds of Rice in West Africa. WARDA, Bouake. 48p."
+},
+{
+title: "BioNET-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Bidens_pilosa_%28Blackjack%29.htm"
+},
+{
+title: "Q-bank: http://www.q-bank.eu/Plants/BioloMICS.aspx?Table=Plants%20-%20Species&Rec=1103&Fields=All"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 123-124p"
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2. Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Akobundu I. O., Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 168p"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159567,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 370,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-06T09:14:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I. O., Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 168p"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Q-bank: http://www.q-bank.eu/Plants/BioloMICS.aspx?Table=Plants%20-%20Species&Rec=1103&Fields=All"
+},
+{
+title: "BioNET-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Bidens_pilosa_%28Blackjack%29.htm"
+},
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 123-124p"
+},
+{
+title: "Johnson D.E.(1997) Weeds of Rice in West Africa. WARDA, Bouake. 48p."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2. Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159565,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 369,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-06T09:14:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2. Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 123-124p"
+},
+{
+title: "Johnson D.E.(1997) Weeds of Rice in West Africa. WARDA, Bouake. 48p."
+},
+{
+title: "Q-bank: http://www.q-bank.eu/Plants/BioloMICS.aspx?Table=Plants%20-%20Species&Rec=1103&Fields=All"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "BioNET-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Bidens_pilosa_%28Blackjack%29.htm"
+},
+{
+title: "Akobundu I. O., Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 168p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159562,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 365,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-06T09:14:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "BioNET-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Bidens_pilosa_%28Blackjack%29.htm"
+},
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 123-124p"
+},
+{
+title: "Johnson D.E.(1997) Weeds of Rice in West Africa. WARDA, Bouake. 48p."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2. Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Akobundu I. O., Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 168p"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Q-bank: http://www.q-bank.eu/Plants/BioloMICS.aspx?Table=Plants%20-%20Species&Rec=1103&Fields=All"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159558,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 359,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-03-22T18:17:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W. (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 123-124p"
+},
+{
+title: "Akobundu I. O., Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 168p"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Q-bank: http://www.q-bank.eu/Plants/BioloMICS.aspx?Table=Plants%20-%20Species&Rec=1103&Fields=All"
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2. Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "BioNET-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Bidens_pilosa_%28Blackjack%29.htm"
+},
+{
+title: "Johnson D.E.(1997) Weeds of Rice in West Africa. WARDA, Bouake. 48p."
+},
+{
+title: "BioNET-EAFRINET: http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Bidens_pilosa_%28Blackjack%29.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159550,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2983,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Bidens pilosa est une plante herbacée dressée, très ramifiée, à forte odeur. Sa tige, colorée en brun rouge, est striée et présente quatre faces. Les angles portent de petits poils. Les feuilles sont molles, de couleur vert clair. Elles sont opposées et disposées en croix par paires. Le limbe est profondément découpé en trois à cinq segments dont le bord est denté. Le pétiole est long et bordé de minuscules poils blancs. Les fleurs sont regroupées en têtes globuleuses en position terminale ou à la base des feuilles. Chaque tête se compose de quelques fleurs blanches étalées à la périphérie et de nombreuses fleurs jaunes au centre. L'inflorescence est entourée de deux rangs de petites pièces vertes en forme de spatule. A maturité, les fruits forment des boules noires hérissées de piquants.</p>",
+dateCreated: "2015-03-19T11:06:20Z",
+lastUpdated: "2015-03-19T11:06:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763180091,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2955,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>BIDPI</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:06:00Z",
+lastUpdated: "2015-03-19T11:06:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763160744,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2974,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Bidens pilosa </em>est une plante herbac&eacute;e dress&eacute;e, tr&egrave;s ramifi&eacute;e, &agrave; forte odeur. Sa tige, color&eacute;e en brun rouge, est stri&eacute;e et pr&eacute;sente quatre faces. Les angles portent de petits poils. Les feuilles sont molles, de couleur vert clair. Elles sont oppos&eacute;es et dispos&eacute;es en croix par paires. Le limbe est profond&eacute;ment d&eacute;coup&eacute; en trois &agrave; cinq segments dont le bord est dent&eacute;. Le p&eacute;tiole est long et bord&eacute; de minuscules poils blancs. Les fleurs sont regroup&eacute;es en t&ecirc;tes globuleuses en position terminale ou &agrave; la base des feuilles. Chaque t&ecirc;te se compose de quelques fleurs blanches &eacute;tal&eacute;es &agrave; la p&eacute;riph&eacute;rie et de nombreuses fleurs jaunes au centre. L&#39;inflorescence est entour&eacute;e de deux rangs de petites pi&egrave;ces vertes en forme de spatule. A maturit&eacute;, les fruits forment des boules noires h&eacute;riss&eacute;es de piquants.</p> <h6> Cotyl&eacute;dons</h6> <p> Les cotyl&eacute;dons sont de forme elliptique &agrave; lin&eacute;aire, p&eacute;tiol&eacute;s, glabres. Longs de 25 mm et larges de 5 mm.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Les premi&egrave;res feuilles sont simples et oppos&eacute;es, longuement p&eacute;tiol&eacute;es. Le limbe est dent&eacute; ou profond&eacute;ment divis&eacute; en 3 segments d&egrave;s la premi&egrave;re paire de feuilles. La marge est r&eacute;guli&egrave;rement dent&eacute;e, les faces sont glabres.</p> <h6> Port</h6> <p> Plante &agrave; port dress&eacute;, tr&egrave;s ramifi&eacute;e, haute en g&eacute;n&eacute;ral de 20 &agrave; 60 cm, pouvant atteindre 1,5 m.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est un pivot profond.</p> <h6> Tige</h6> <p> La tige est quadrangulaire, creuse, plus ou moins cannel&eacute;e. Elle est glabre, de couleur verte, bien que parfois rouge fonc&eacute;.</p> <h6> Feuille</h6> <p> Les feuilles sont simples, oppos&eacute;es et d&eacute;cuss&eacute;es ; longuement p&eacute;tiol&eacute;es (2 &agrave; 6 cm). Limbe dent&eacute; en scie et profond&eacute;ment divis&eacute; en 3 ou 5 segments ovales, r&eacute;tr&eacute;cis en pseudo-p&eacute;tiole &agrave; la base. Marge des segments fortement dent&eacute;e (dents elles-m&ecirc;me apicul&eacute;es) et courtement pubescente. Faces sup&eacute;rieure et inf&eacute;rieure glabres. Nervures penn&eacute;es.</p> <h6> Inflorescence</h6> <p> Les fleurs sont group&eacute;es en capitules terminaux et axillaires de 8 mm de haut et 10 &agrave; 12 mm de diam&egrave;tre, longuement p&eacute;doncul&eacute;s (3 &agrave; 10 cm). Involucre de bract&eacute;es spatul&eacute;es, soud&eacute;es &agrave; la base et pubescentes sur la marge.</p> <h6> Fleur</h6> <p> Les fleurs externes sont femelles, ligul&eacute;es blanches &agrave; jaune p&acirc;le peu nombreuses (3 &agrave; 5) souvent absentes et les fleurs internes sont hermaphrodites, tubul&eacute;es jaune vif.</p> <h6> Fruit</h6> <p> Le fruit est un ak&egrave;ne noir, fusiforme, de section triangulaire, et l&eacute;g&egrave;rement cannel&eacute;, portant des poils blancs. Long de 5 &agrave; 13 mm et large de 1,5 mm. Pappus form&eacute; de 2 ou 3 pointes, munies de petites &eacute;pines r&eacute;trorses. Ensemble formant, &agrave; maturit&eacute;, une demi-sph&egrave;re h&eacute;riss&eacute;e de piquants.</p> ",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-05-07T08:51:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162981,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2976,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Bidens pilosa L.",
+dateCreated: "2015-03-19T11:06:03Z",
+lastUpdated: "2015-03-19T11:06:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763163362,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2975,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Nord-Cameroun :</strong> En r&eacute;gion guin&eacute;enne, sans saison s&egrave;che marqu&eacute;e, <em>B. pilosa </em>peut &ecirc;tre pr&eacute;sente tout au long de l&#39;ann&eacute;e. En revanche, en r&eacute;gion soudano-sah&eacute;lienne, avec une pluviom&eacute;trie moyenne de 1 100 mm et une saison s&egrave;che marqu&eacute;e (6 mois), elle se comporte dans les cultures annuelles en mauvaise herbe de milieu et de fin de cycle cultural. La germination d&eacute;bute en juillet apr&egrave;s un cumul de pluie suffisant et lorsque la r&eacute;serve en eau du sol est satur&eacute;e. Cette germination dure jusqu&#39;en ao&ucirc;t. La floraison commence en octobre et s&#39;ach&egrave;ve d&eacute;but novembre. La fructification a lieu d&#39;octobre &agrave; d&eacute;cembre, jusqu&#39;au dess&egrave;chement de la plante en d&eacute;but de saison s&egrave;che.<br /> <strong>Nouvelle-Cal&eacute;donie :</strong> Les graines de <em>B. pilosa</em> sont capables de germer imm&eacute;diatement apr&egrave;s la dispersion &agrave; tout moment de l&#39;ann&eacute;e dans les zones &agrave; forte pluviom&eacute;trie et apr&egrave;s l&#39;installation des pluies ailleurs. La floraison d&eacute;marre rapidement et s&#39;&eacute;tale sur l&#39;ensemble de la saison chaude. La fructification dure jusqu&#39;au dess&egrave;chement de la plante en saison fra&icirc;che.<br /> ",
+dateCreated: "2015-03-19T11:06:03Z",
+lastUpdated: "2015-05-07T08:52:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763163153,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2980,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "B. pilosa est une espèce annuelle, se reproduisant uniquement par graines. Ces dernières sont disséminées par l'homme et les animaux, l'eau et le vent. Elles s'accrochent aux vêtements ou aux fourrures. C'est de cette manière que la plante est dispersée d'une zone à une autre. Les graines très nombreuses (3000 à 6000 par individu) sont capables de germer immédiatement après la dispersion.<br>",
+dateCreated: "2015-03-19T11:06:04Z",
+lastUpdated: "2015-03-19T11:06:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763164207,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2979,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Bidens pilosa</em> tol&egrave;re de nombreux types d&rsquo;environnement mais pr&eacute;f&egrave;re les zones humides et les sols lourds.<br /> <strong>Nord Cameroun :</strong> <em>B. pilosa</em> est une esp&egrave;ce de r&eacute;gions humides dont la pluviom&eacute;trie annuelle est sup&eacute;rieure &agrave; 1 500 mm. On la rencontre localement dans les r&eacute;gions plus s&egrave;ches, uniquement dans les parcelles dont le sol est tr&egrave;s argileux comme les vertisols et les sols fersialitiques, ayant une forte capacit&eacute; de r&eacute;tention d&#39;eau, ou dans les bas-fonds humides.<br /> <strong>Comores</strong> : L&#39;esp&egrave;ce est pr&eacute;sente dans toutes les trois &icirc;les, jusqu&rsquo;&agrave; 1400 m d&rsquo;altitude. Elle pr&eacute;f&egrave;re les r&eacute;gions humides.<br /> <strong>Madagascar </strong>: Esp&egrave;ce commune dans les Hautes terres et en zone humide, sur les terres relativement fertiles en t&ecirc;te de bas-fond ou dans les parcelles apr&egrave;s d&eacute;friche foresti&egrave;re encore r&eacute;cente.<br /> <strong>Maurice </strong>: Esp&egrave;ce largement r&eacute;pandue dans l&#39;&icirc;le. Elle se d&eacute;veloppe en rud&eacute;rale et adventice des jardins, des champs cultiv&eacute;s, des bords de routes et des terrains vagues.<br /> <strong>La R&eacute;union</strong> : L&#39;esp&egrave;ce est bien adapt&eacute;e &agrave; l&#39;ensemble des situations &eacute;cologiques de La R&eacute;union, y compris en altitude jusqu&#39;&agrave; 1000 m. Elle se retrouve, de fa&ccedil;on indiff&eacute;rente, sur toutes les zones et dans tous les contextes agro-&eacute;cologiques de l&rsquo;&icirc;le.<br /> <strong>Seychelles </strong>: Esp&egrave;ce pr&eacute;sente dans toutes les r&eacute;gions, &agrave; toutes les altitudes.<br /> ",
+dateCreated: "2015-03-19T11:06:04Z",
+lastUpdated: "2015-05-07T08:53:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763164033,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2978,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Originaire d'Amérique du Sud.</p><h6>Distribution Mondiale</h6><p>Espèce commune dans toutes les régions tropicales et subtropicales du monde. En Afrique, Bidens pilosa est signalé comme adventice dans de nombreux pays et il est probablement présent dans tous les pays, y compris les îles de l'Océan Indien.</p>",
+dateCreated: "2015-03-19T11:06:03Z",
+lastUpdated: "2015-03-19T11:06:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763163861,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2981,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Globale</h6> <p> <em>Bidens pilosa</em> fait partie des 300 esp&egrave;ces envahissantes majeures du Pacifique et de l&#39;Oc&eacute;an Indien. En Afrique, Bidens pilosa est signal&eacute; comme adventice dans de nombreux pays et il est probablement pr&eacute;sent dans tous les pays. C&#39;est une adventices g&ecirc;nante pour plus de 30 cultures dans plus de 40 pays. B. pilosa a des propri&eacute;t&eacute;s all&eacute;lopathiques. Les extraits de feuilles et de racines sont connus pour inhiber la germination et la croissance de beaucoup d&#39;esp&egrave;ces. De plus, B. pilosa croit trois fois plus vite que des plantes similaires. Les graines contaminent les lots de semences.</p> <h6> Nuisibilit&eacute; Locale</h6> <p> <strong>B&eacute;nin </strong>: rare et peu abondante.<br /> <strong>Burkina Faso </strong>: rare et peu abondante.<br /> <strong>Comores </strong>: <em>B. pilosa</em> est une mauvaise herbe tr&egrave;s fr&eacute;quente dans les jeunes cultures et se d&eacute;veloppe abondamment apr&egrave;s nettoyage des parcelles.<br /> <strong>C&ocirc;te d&#39;Ivoire</strong> : fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>Ghana </strong>: rare et peu abondante.<br /> <strong>Kenya </strong>: fr&eacute;quente et peu abondante.<br /> <strong>Madagascar </strong>: Esp&egrave;ce de fr&eacute;quence moyenne et pouvant &ecirc;tre localement abondante et tr&egrave;s nuisible pour les cultures peu entretenues : ma&iuml;s, manioc, arachide. Elle peut g&ecirc;ner aussi les travaux de r&eacute;colte.<br /> <strong>Mali </strong>: rare et peu abondante.<br /> <strong>Maurice </strong>: Adventice ayant une nuisibilit&eacute; moyenne &agrave; forte dans les cultures mara&icirc;ch&egrave;res et en canne &agrave; sucre quand elle se d&eacute;veloppe en grand nombre.<br /> <strong>Nigeria </strong>: rare et peu abondante.<br /> <strong>Nouvelle-Cal&eacute;donie </strong>: Observ&eacute;e depuis la moiti&eacute; du 19&egrave;me si&egrave;cle, elle constitue aujourd&#39;hui surtout une adventice des cultures, commune en particulier dans les r&eacute;gions littorales Ouest et aux Loyaut&eacute;, o&ugrave; on la trouve sur les sols nus, les terrains vagues, les jach&egrave;res r&eacute;centes. Elle peut &ecirc;tre g&ecirc;nante sur p&acirc;turage en p&eacute;riode de fructification.<br /> <strong>Ouganda </strong>: fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>La R&eacute;union</strong> : Cette mauvaise herbe envahit toutes les cultures. Elle est tr&egrave;s fr&eacute;quente (Fr &gt;70 %) et pr&eacute;sente un taux de recouvrement moyen de 15 % qui peut atteindre 80 % dans certaines parcelles de lentilles. Cependant, elle ne repr&eacute;sente pas une contrainte &eacute;conomique importante dans les parcelles correctement entretenues. En culture de canne &agrave; sucre, les herbicides de pr&eacute;-lev&eacute;e homologu&eacute;s sont efficaces.<br /> <strong>S&eacute;n&eacute;gal </strong>: rare et peu abondante.<br /> <strong>Seychelles </strong>: Adventice majeure de la plupart des cultures, y compris en mara&icirc;chage, vergers et plantations de th&eacute;.<br /> <strong>Tchad </strong>: rare et peu abondante.</p> ",
+dateCreated: "2015-03-19T11:06:04Z",
+lastUpdated: "2015-05-07T08:56:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763164378,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2973,
+field: {
+concept: "Démographie et Conservation",
+category: "Menaces",
+description: "Les menaces que subit le taxon",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>B. pilosa </em>est un h&ocirc;te pour une plante parasite (<em>Cassytha filiformi</em>s L.) et pour diff&eacute;rentes maladies <em>Cercospora megalapotamica </em>Speg., <em>Uromyces bidenticola </em>(P. Henn.) Arth et le Tomato spoted wilt virus (<em>Schlerotinia sclerotiorum</em>). Elle accueille &eacute;galement des n&eacute;matodes : <em>Meloidogyne </em>sp., <em>Paratylenchus minuta </em>Linford.<br /> ",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-05-07T08:57:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162741,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2984,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Usages</h6><p>B. pilosa a été introduite dans de nombreuses régions pour l'agriculture et comme plante ornementale. Au stade jeune, les feuilles sont consommées à Madagascar.</p>",
+dateCreated: "2015-03-19T11:06:20Z",
+lastUpdated: "2015-03-19T11:06:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763180238,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2982,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> <strong>Lutte m&eacute;canique</strong> : B. pilosa peut &ecirc;tre &eacute;limin&eacute; par sarclage ou arrachage manuel. Lutte agronomique : la germination peut &ecirc;tre emp&ecirc;ch&eacute;e par l&#39;utilisation de mulch.<br /> <strong>Lutte chimique </strong>: diff&eacute;rents herbicides efficaces en pr&eacute;-lev&eacute;e diuron, bromacil, atrazine, simazine, hexazinone, oryzalin, et am&eacute;tryne. Herbicides de post-lev&eacute;e: 2,4-D, glyphosate, amitrole, m&eacute;tribuzine, et dicamba ainsi que les produits de contact bentazone, diquat, et paraquat.<br /> <br /> Conseils de gestion des adventices annuelles &agrave; feuilles larges en riz irrigu&eacute; : http://portal.wikwio.org/document/show/19</p> <h6> Lutte Locale</h6> <p> <strong>Nouvelle-Cal&eacute;donie</strong> : Les peuplements importants de <em>B. pilosa</em> constituent une d&eacute;gradation des p&acirc;turages ; de plus, il convient d&#39;&eacute;viter, &agrave; l&#39;&eacute;chelle collective, de faire des zones d&#39;&eacute;levage une zone de reproduction et de propagation de cette mauvaise herbe des cultures. Il est important de contrecarrer sa forte capacit&eacute; de prolif&eacute;ration, en l&#39;emp&ecirc;chant de r&eacute;aliser son cycle de fructification (tr&egrave;s court) et en limitant la dispersion des graines. L&#39;arrachage manuel de petites colonies avant floraison est ais&eacute;. Le gyrobroyage entra&icirc;ne des ramifications et doit donc &ecirc;tre compl&eacute;t&eacute; par une application d&#39;herbicide par pulv&eacute;risation sur les repousses avant floraison (2,4-D). Le b&eacute;tail ayant s&eacute;journ&eacute; dans des zones infest&eacute;es devrait &ecirc;tre parqu&eacute; en parcelle de quarantaine et, sinon, il convient d&#39;&eacute;viter de le d&eacute;placer dans des parcelles indemnes.<br /> <strong>Madagascar </strong>: Le contr&ocirc;le manuel de <em>B. pilosa</em> est tr&egrave;s exigeant en temps. Son contr&ocirc;le chimique est assez facile et peu co&ucirc;teux : atrazine ou diuron en pr&eacute;-lev&eacute;e. 2,4-D ou glyphosate sur jeunes plantes, 2,4-D + glyphosate sur plantes adultes. <em>B. pilosa</em> est bien maitris&eacute; par un paillage et dispara&icirc;t progressivement en semis direct sur couverture v&eacute;g&eacute;tale permanente.</p> ",
+dateCreated: "2015-03-19T11:06:04Z",
+lastUpdated: "2015-05-07T08:58:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763164616,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2960,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I.O. & Agyakwa C.W., 1989. Guide des adventices d'Afrique de l'Ouest. Institut international d'agriculture tropicale. Ibadan, Nigeria, 521 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162531,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2959,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162530,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2958,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162530,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2957,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162530,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2956,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162529,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2969,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162532,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2964,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hutchinson J., Dalziel J. M., Keay R. W. J. & Hepper F. N., 1958. Flora of West Tropical Africa. Vol. I part. 2. 2ème éd. The Whitefriars Press ed., London & Tonbridge, 828 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162531,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2972,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/species?search=bidens+pilosa"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162536,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2970,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.issg.org/database/species/ecology.asp?si=1431&fr=1&sts=sss&lang=FR"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162533,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2968,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Merlier H. & Montégut J., 1982. Adventices tropicales. ORSTOM-GERDAT-ENSH éd., Montpellier, France, 490 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162532,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2967,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "le Bourgeois Th., 1993. Les mauvaises herbes dans la rotation cotonnière au Nord-Cameroun (Afrique) - Amplitude d'habitat et degré d'infestation - Cycle de développement. Thèse USTL Montpellier II, Montpellier, France, 241 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162532,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2966,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., Moody K. & Egunjobi J. K., 1978. West African Weeds. Oxford University Press, Ibadan, Nigeria, 255 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162532,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2965,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., 1989. East African Weeds and Their Control. Oxford University Press, Nairobi, Kenya, 289 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162532,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2971,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.hear.org/pier/species/bidens_pilosa.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162535,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2963,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "East-West Center, University Press of Hawaii, Honolulu, 609 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162531,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2962,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V. & Herberger J. P., 1977. The World's Worst Weeds : Distribution and Biologie."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162531,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2961,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:06:02Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763162531,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 682,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_090608_091217.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_090608_091217_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 683,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20101118_152545.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20101118_152545_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 684,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_091105_074934.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_091105_074934_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 685,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_020309_183820.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_020309_183820_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 686,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_010191_192939.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_010191_192939_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 687,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_290605_053232.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_290605_053232_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 688,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_010789_193216.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_010789_193216_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 689,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20050310_220350.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20050310_220350_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 690,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20101118_152555.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20101118_152555_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 691,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20070719_183120.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20070719_183120_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 692,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20130618_061128.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20130618_061128_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 693,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20070719_183737.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20070719_183737_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 694,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20070719_183538.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20070719_183538_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 695,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20070719_183258.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20070719_183258_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 696,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20070719_183859.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20070719_183859_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 697,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20101118_152559.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20101118_152559_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:31Z",
+rating: 0
+},
+{
+id: 698,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_060603_085002.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_060603_085002_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 699,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_010499_121216.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_010499_121216_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 700,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_090608_091223.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_090608_091223_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 701,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_060603_084702.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_060603_084702_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 702,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_060603_084432.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_060603_084432_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 703,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_011197_121747.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_011197_121747_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 704,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20050310_220332.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20050310_220332_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 705,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_010789_120747.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_010789_120747_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 706,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20050310_220342.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20050310_220342_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 707,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20050310_220308.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20050310_220308_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 708,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_090608_091221.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_090608_091221_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 709,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_090608_091222.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_090608_091222_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 710,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20120504_100442.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20120504_100442_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 711,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_060603_085128.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_060603_085128_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 712,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20110624_1010843.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20110624_1010843_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 713,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_290605_053518.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_290605_053518_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 714,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_090608_091216.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_090608_091216_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 715,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_311102_092928.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_311102_092928_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 716,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_011089_192846.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_011089_192846_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 717,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20101118_152533.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20101118_152533_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 718,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_010499_120955.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_010499_120955_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 719,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20100722_014250.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20100722_014250_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 720,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_010499_121123.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_010499_121123_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 721,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_090608_091219.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_090608_091219_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 722,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20101118_152539.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_20101118_152539_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+},
+{
+id: 723,
+url: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_060603_084812.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Bidens pilosa/bidpi_060603_084812_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:01:32Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

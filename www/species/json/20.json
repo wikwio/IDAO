@@ -1,0 +1,1333 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 20,
+title: "<i>Amaranthus dubius </i>H.Martius<i> ex </i>Thell. ",
+taxonConcept: {
+id: 53,
+name: "Amaranthus dubius H.Martius ex Thell.",
+canonicalForm: "Amaranthus dubius",
+italicisedForm: "<i>Amaranthus dubius </i>H.Martius<i> ex </i>Thell. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 29,
+name: "Amaranthaceae",
+canonicalForm: "Amaranthaceae",
+italicisedForm: "<i>Amaranthaceae</i>",
+rank: "Family"
+},
+{
+id: 51,
+name: "Amaranthus",
+canonicalForm: "Amaranthus",
+italicisedForm: "<i>Amaranthus</i>",
+rank: "Genus"
+},
+{
+id: 53,
+name: "Amaranthus dubius H.Martius ex Thell.",
+canonicalForm: "Amaranthus dubius",
+italicisedForm: "<i>Amaranthus dubius </i>H.Martius<i> ex </i>Thell. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 415,
+name: "Amaranthus dubius var. flexuosus Thell.",
+canonicalForm: "Amaranthus dubius flexuosus",
+italicisedForm: "<i>Amaranthus dubius </i>var.<i> flexuosus </i>Thell. ",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 416,
+name: "Amaranthus dubius var. leptostachys Thell.",
+canonicalForm: "Amaranthus dubius leptostachys",
+italicisedForm: "<i>Amaranthus dubius </i>var.<i> leptostachys </i>Thell. ",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 417,
+name: "Amaranthus dubius var. xanthostachys Thell.",
+canonicalForm: "Amaranthus dubius xanthostachys",
+italicisedForm: "<i>Amaranthus dubius </i>var.<i> xanthostachys </i>Thell. ",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 418,
+name: "Amaranthus tristis Willd.",
+canonicalForm: "Amaranthus tristis",
+italicisedForm: "<i>Amaranthus tristis </i>Willd. ",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 419,
+name: "Amaranthus tristis var. flexuosus Moq.",
+canonicalForm: "Amaranthus tristis flexuosus",
+italicisedForm: "<i>Amaranthus tristis </i>var.<i> flexuosus </i>Moq. ",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 420,
+name: "Amaranthus tristis var. xanthostachys Moq.",
+canonicalForm: "Amaranthus tristis xanthostachys",
+italicisedForm: "<i>Amaranthus tristis </i>var.<i> xanthostachys </i>Moq. ",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 102,
+name: "Anapatsavavy",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 103,
+name: "Pariétaire rouge",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 104,
+name: "Anapatsa",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 105,
+name: "Brède malabar",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 106,
+name: "Pariétaire rouge",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 107,
+name: "Kibatritra",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 108,
+name: "Pariétaire",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 109,
+name: "Brède malabar",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 110,
+name: "Brède pariétaire",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 111,
+name: "Debere",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 112,
+name: "Bred pariater",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 113,
+name: "Brède malabar",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 114,
+name: "Pariétaire",
+taxonConcept: {
+id: 53
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T16:57:01Z",
+lastRevised: "2015-03-23T20:29:15Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_06_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>AMADU</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>AMADU</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 189,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>AMADU</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T16:57:47Z",
+lastUpdated: "2014-09-24T16:57:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411577867951,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 213,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>AMADU</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T16:58:29Z",
+lastUpdated: "2014-09-24T16:58:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411577909739,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 214,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Amaranthus dubius H.Martius ex Thell.",
+dateCreated: "2014-09-24T16:58:29Z",
+lastUpdated: "2014-09-24T16:58:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411577909912,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 190,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Amaranthus dubius H.Martius ex Thell.",
+dateCreated: "2014-09-24T16:57:47Z",
+lastUpdated: "2014-09-24T16:57:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411577867952,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2764,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Amaranthus dubius est une plante annuelle, dressée, atteignant 90 cm de hauteur (rarement 1,50 m). Elle possède une racine pivotante profonde. La tige est assez robuste, peu ou non ramifiée, de couleur très souvent rouge rosé. Elle n'est pas poilue. Les feuilles sont disposées alternativement le long de la tige. Elles sont ovales et portées par de longs pétioles. Le limbe de forme obovale a un sommet échancré qui se termine par une courte pointe. Les fleurs sont réduites, de couleur verte. Elles sont groupées en petites boules denses, réparties le long d'épis grêles situés à la base des feuilles et au sommet des tiges. Le fruit est une petite capsule qui s'ouvre à maturité par un petit chapeau à l'extrémité. Il contient une graine unique luisante, de couleur brun sombre à noir.</p>",
+dateCreated: "2015-03-19T11:02:46Z",
+lastUpdated: "2015-03-19T11:04:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762966692,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2757,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>AMADU</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:02:45Z",
+lastUpdated: "2015-03-19T11:04:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762965469,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2759,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Amaranthus dubius est une plante annuelle, dressée, atteignant 90 cm de hauteur (rarement 1,50 m). Elle possède une racine pivotante profonde. La tige est assez robuste, peu ou non ramifiée, de couleur très souvent rouge rosé. Elle n'est pas poilue. Les feuilles sont disposées alternativement le long de la tige. Elles sont ovales et portées par de longs pétioles. Le limbe de forme obovale a un sommet échancré qui se termine par une courte pointe. Les fleurs sont réduites, de couleur verte. Elles sont groupées en petites boules denses, réparties le long d'épis grêles situés à la base des feuilles et au sommet des tiges. Le fruit est une petite capsule qui s'ouvre à maturité par un petit chapeau à l'extrémité. Il contient une graine unique luisante, de couleur brun sombre à noir.</p><h6>Cotylédons</h6><p>Les cotylédons sont linéaires à lancéolés, atténués en pétiole à la base. Limbe de 19 mm de long et 2,5 mm de large. Lisse, avec une fine nervure centrale.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont simples et alternes, pouvant être longuement pétiolés. Le limbe est ovale à orbiculaire, un sommet profondément émarginé.</p><h6>Port</h6><p>Plante herbacée annuelle dressée, atteignant 90 cm de hauteur (rarement 1,50 m).</p><h6>Système Souterrain</h6><p>La racine est formée d'un ou plusieurs forts pivots ramifiés.</p><h6>Tige</h6><p>La tige est pleine, rougeâtre, cylindrique, plutôt anguleuse, glabre ou à pilosité courte ou assez longue (poils multicellulaires). Elle est habituellement ramifiée.</p><h6>Feuille</h6><p>Les feuilles sont simples et alternes ; glabres ou portant des poils lâches et courts sur la face inférieure des nervures principales ; pétiolées long de 2 à 9 cm, parfois plus long que le limbe. Limbe ovale de 1,5 à 8 cm de long et 0,5 à 5 cm de large. La base est en coin et le sommet arrondi, finement ou distinctement mucroné. Marge entière.</p><h6>Inflorescence</h6><p>L’inflorescence se compose de fleurs vertes, assemblées en glomérules axillaires dans la partie basale de la plante. Au sommet des tiges et des rameaux, les glomérules non sous-tendus par des feuilles, sont rapprochés et forment une inflorescence spiciforme longue et étroite, peu ramifiée. Inflorescences dressées ou penchées, longues de 3 à 15 cm et de 6 à 8 mm de diamètre. Les glomérules inférieurs sont formés uniquement de fleurs femelles. Ceux de l’inflorescence terminale, ayant des fleurs mâles peu nombreuses seulement au sommet (rarement sur plus du 1 cm apical). Bractées scarieuses à membraneuses, longues de 1,2 à 2 mm, ovales ou étroitement ovales, terminées en épine droite.</p><h6>Fleur</h6><p>Les fleurs comportent à 5 tépales, obovales à oblongs, aigus à obtus au sommet, longs de 1,5 à 1,8 mm. Fleurs mâles caduques, à 5 étamines.</p><h6>Fruit</h6><p>Le fruit est une capsule ovoïde en forme d'outre, à col court, renflée au-dessous de la base du style, longue de 1,5 à 1,75 mm environ, surmontée par les 3 stigmates persistants. Elle s'ouvre par un couvercle supérieur fortement ridé.</p><h6>Graine</h6><p>La graine est lenticulaire de plus ou moins 1 mm de diamètre, de couleur brun sombre à noire et luisante.</p>",
+dateCreated: "2015-03-19T11:02:45Z",
+lastUpdated: "2015-03-19T11:04:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762965707,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2760,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Amaranthus dubius H.Martius ex Thell.",
+dateCreated: "2015-03-19T11:02:45Z",
+lastUpdated: "2015-03-19T11:04:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762965825,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2762,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "A. dubius est une espèce annuelle. Elle se reproduit uniquement par graines, qui sont dispersées par l'eau et par le vent. Elle produit un grand nombre de graines qui ont une longue viabilité.<br>",
+dateCreated: "2015-03-19T11:02:46Z",
+lastUpdated: "2015-03-19T11:04:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762966093,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2761,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: A. dubius se d&eacute;veloppe dans les terres remu&eacute;es et abandonn&eacute;es et dans les cours des maisons. Plante de basse altitude dans toutes les r&eacute;gions de l&#39;&icirc;le de la Grande Comore.<br /> <strong>Madagascar</strong> : Esp&egrave;ce rud&eacute;rale assez commune dans la plupart des r&eacute;gions climatiques de Madagascar. Elle se d&eacute;veloppe sur les sols plus ou moins enrichis en mati&egrave;re organique aux alentour des villages.<br /> <strong>Maurice </strong>: Adventice des cultures ayant une large r&eacute;partition.<br /> <strong>La R&eacute;union</strong> : Esp&egrave;ce localement bien adapt&eacute;e &agrave; l&#39;ensemble des situations &eacute;cologiques de La R&eacute;union. Elle est moins fr&eacute;quente sur la c&ocirc;te Est de l&#39;&icirc;le. Esp&egrave;ce tr&egrave;s nitrophile, elle est abondante sur les sols riches et dans les cultures &agrave; fort apport d&#39;engrais azot&eacute;, comme le mara&icirc;chage.<br /> <strong>Seychelles </strong>: Esp&egrave;ce observ&eacute;e sur une large vari&eacute;t&eacute; de types et de textures de sols et &agrave; toutes les altitudes.<br /> ",
+dateCreated: "2015-03-19T11:02:46Z",
+lastUpdated: "2015-05-07T08:04:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762966007,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2763,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>: A. dubius est une adventice commune des cultures mara&icirc;ch&egrave;res.<br /> <strong>Madagascar </strong>: Adventice importante des cultures de case notamment en ma&iuml;s.<br /> <strong>Maurice</strong> : Adventice ayant une nuisibilit&eacute; tr&egrave;s importante dans les cultures mara&icirc;ch&egrave;res. Elle concurrence &eacute;galement les jeunes cannes de fa&ccedil;on tr&egrave;s forte quand elle est pr&eacute;sente en grand nombre.<br /> <strong>La R&eacute;union</strong> : A. dubius est une adventice qui a une amplitude &eacute;cologique moyenne, elle est pr&eacute;sente dans 40 % des parcelles cultiv&eacute;es, mais ne constitue pas une contrainte agronomique importante. Son recouvrement moyen est de 7 &agrave; 15 %. C&#39;est une adventice peu fr&eacute;quente dans la canne &agrave; sucre, elle colonise surtout les cultures mara&icirc;ch&egrave;res, pouvant atteindre dans certains cas un recouvrement de plus de 70 %. C&#39;est plut&ocirc;t une esp&egrave;ce rud&eacute;rale.<br /> <strong>Seychelles</strong> : Adventice commune des champs cultiv&eacute;s, jardins et autres habitats perturb&eacute;s et ouverts.</p> ",
+dateCreated: "2015-03-19T11:02:46Z",
+lastUpdated: "2015-05-07T08:04:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762966179,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2758,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:02:45Z",
+lastUpdated: "2015-03-24T08:55:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762965555,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 348,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 349,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_10.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_10_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 350,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20070612_132036.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20070612_132036_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 351,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20070612_132034.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20070612_132034_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 352,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20070612_132032.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20070612_132032_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 353,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050901_043924.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050901_043924_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 354,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050901_043654.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050901_043654_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 355,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050901_051634.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050901_051634_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 356,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 357,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 358,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 359,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 360,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 361,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 362,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20110707_085051.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20110707_085051_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 363,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 364,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050901_051354.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050901_051354_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 365,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050830_064928.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050830_064928_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 366,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050830_064702.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050830_064702_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 367,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050804_063610.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050804_063610_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 368,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050310_051100.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050310_051100_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 369,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050309_115504.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20050309_115504_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 370,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20040408_122230.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20040408_122230_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 371,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20030528_073414.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20030528_073414_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 372,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20030528_072734.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20030528_072734_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 373,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20030526_084752.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20030526_084752_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 374,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20030528_071816.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20030528_071816_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+},
+{
+id: 375,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus dubius/amadu_20080609_101234_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:57:13Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

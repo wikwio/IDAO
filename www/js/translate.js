@@ -24,7 +24,8 @@
                         "resultview":"View",
                         "species":"Species",
                         "at":"at",
-                        "contrabutname":"contrarev"
+                    "contrabutname":"Graphical view",
+                    "graphview":"Search for species Graphical representation"
                 },
                 "fr" :{
                         "identification" : "Nouvelle identification",
@@ -51,9 +52,10 @@
                         "resultview":"vue",
                         "species":"Espèces",
                         "at"  : "à",
-                        "contrabutname":"contrvfren"
+                    "contrabutname":"Graphical view",
+                    "graphview":"Search for species Graphical representation"
 
-                          
+                    
                 }
         }
 

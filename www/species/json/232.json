@@ -1,0 +1,3918 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 232,
+title: "<i>Panicum maximum </i>Jacq. ",
+taxonConcept: {
+id: 448,
+name: "Panicum maximum Jacq.",
+canonicalForm: "Panicum maximum",
+italicisedForm: "<i>Panicum maximum </i>Jacq. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 445,
+name: "Panicum",
+canonicalForm: "Panicum",
+italicisedForm: "<i>Panicum</i>",
+rank: "Genus"
+},
+{
+id: 448,
+name: "Panicum maximum Jacq.",
+canonicalForm: "Panicum maximum",
+italicisedForm: "<i>Panicum maximum </i>Jacq. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 4977,
+name: "Megathyrsus maximus (Jacq.) B.K.Simon & Jacobs",
+canonicalForm: "Megathyrsus maximus",
+italicisedForm: "<i>Megathyrsus maximus (</i>Jacq.<i>) </i>B.K.Simon<i> & </i>Jacobs ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4978,
+name: "Megathyrsus maximus var. coloratus (C.T.White) B.K.Simon & Jacobs",
+canonicalForm: "Megathyrsus maximus coloratus",
+italicisedForm: "<i>Megathyrsus maximus </i>var.<i> coloratus (</i>C.T.White<i>) </i>B.K.Simon<i> & </i>Jacobs ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4979,
+name: "Megathyrsus maximus var. pubiglumis (K.Schum.) B.K.Simon & Jacobs",
+canonicalForm: "Megathyrsus maximus pubiglumis",
+italicisedForm: "<i>Megathyrsus maximus </i>var.<i> pubiglumis (</i>K.Schum.<i>) </i>B.K.Simon<i> & </i>Jacobs ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4980,
+name: "Milium arundinaceum J.Koenig ex Steud. [Invalid]",
+canonicalForm: "Milium arundinaceum",
+italicisedForm: "<i>Milium arundinaceum </i>J.Koenig<i> ex </i>Steud.<i> [Invalid]</i>",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4981,
+name: "Panicum airoides Flüggé ex Nees [Invalid]",
+canonicalForm: "Panicum airoides",
+italicisedForm: "<i>Panicum airoides </i>Flüggé<i> ex </i>Nees<i> [Invalid]</i>",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4982,
+name: "Panicum bivonianum Brullo, Miniss., Scelsi & Spamp.",
+canonicalForm: "Panicum bivonianum",
+italicisedForm: "<i>Panicum bivonianum </i>Brullo, Miniss., Scelsi<i> & </i>Spamp. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4983,
+name: "Panicum compressum Biv. [Illegitimate]",
+canonicalForm: "Panicum compressum",
+italicisedForm: "<i>Panicum compressum </i>Biv.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4984,
+name: "Panicum confine Hochst. ex A.Rich. [Invalid]",
+canonicalForm: "Panicum confine",
+italicisedForm: "<i>Panicum confine </i>Hochst.<i> ex </i>A.Rich.<i> [Invalid]</i>",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4985,
+name: "Panicum eburneum Trin.",
+canonicalForm: "Panicum eburneum",
+italicisedForm: "<i>Panicum eburneum </i>Trin. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4986,
+name: "Panicum giganteum Mez [Illegitimate]",
+canonicalForm: "Panicum giganteum",
+italicisedForm: "<i>Panicum giganteum </i>Mez<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4987,
+name: "Panicum heynii Roth",
+canonicalForm: "Panicum heynii",
+italicisedForm: "<i>Panicum heynii </i>Roth ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4988,
+name: "Panicum hirsutissimum Steud.",
+canonicalForm: "Panicum hirsutissimum",
+italicisedForm: "<i>Panicum hirsutissimum </i>Steud. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4989,
+name: "Panicum jumentorum Pers.",
+canonicalForm: "Panicum jumentorum",
+italicisedForm: "<i>Panicum jumentorum </i>Pers. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4990,
+name: "Panicum laeve Lam.",
+canonicalForm: "Panicum laeve",
+italicisedForm: "<i>Panicum laeve </i>Lam. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4991,
+name: "Panicum maximum var. altissimum Kuntze",
+canonicalForm: "Panicum maximum altissimum",
+italicisedForm: "<i>Panicum maximum </i>var.<i> altissimum </i>Kuntze ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4992,
+name: "Panicum maximum var. coloratum C.T.White",
+canonicalForm: "Panicum maximum coloratum",
+italicisedForm: "<i>Panicum maximum </i>var.<i> coloratum </i>C.T.White ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4993,
+name: "Panicum maximum subsp. commune (Nees) Peter",
+canonicalForm: "Panicum maximum commune",
+italicisedForm: "<i>Panicum maximum </i>subsp.<i> commune (</i>Nees<i>) </i>Peter ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4994,
+name: "Panicum maximum var. confine Chiov.",
+canonicalForm: "Panicum maximum confine",
+italicisedForm: "<i>Panicum maximum </i>var.<i> confine </i>Chiov. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4995,
+name: "Panicum maximum var. glaucum Nees",
+canonicalForm: "Panicum maximum glaucum",
+italicisedForm: "<i>Panicum maximum </i>var.<i> glaucum </i>Nees ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4996,
+name: "Panicum maximum var. heterotrichum Peter",
+canonicalForm: "Panicum maximum heterotrichum",
+italicisedForm: "<i>Panicum maximum </i>var.<i> heterotrichum </i>Peter ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4997,
+name: "Panicum maximum var. hirsutissimum (Steud.) Oliv.",
+canonicalForm: "Panicum maximum hirsutissimum",
+italicisedForm: "<i>Panicum maximum </i>var.<i> hirsutissimum (</i>Steud.<i>) </i>Oliv. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4998,
+name: "Panicum maximum var. hirsutum Peter",
+canonicalForm: "Panicum maximum hirsutum",
+italicisedForm: "<i>Panicum maximum </i>var.<i> hirsutum </i>Peter ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4999,
+name: "Panicum maximum var. laeve Nees",
+canonicalForm: "Panicum maximum laeve",
+italicisedForm: "<i>Panicum maximum </i>var.<i> laeve </i>Nees ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5000,
+name: "Panicum maximum var. maximum",
+canonicalForm: "Panicum maximum maximum",
+italicisedForm: "<i>Panicum maximum </i>var.<i> maximum</i>",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5001,
+name: "Panicum maximum subsp. pubescens M.Sharma",
+canonicalForm: "Panicum maximum pubescens",
+italicisedForm: "<i>Panicum maximum </i>subsp.<i> pubescens </i>M.Sharma ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5002,
+name: "Panicum maximum var. pubiglume K.Schum.",
+canonicalForm: "Panicum maximum pubiglume",
+italicisedForm: "<i>Panicum maximum </i>var.<i> pubiglume </i>K.Schum. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5003,
+name: "Panicum maximum var. trichoglume Robyns",
+canonicalForm: "Panicum maximum trichoglume",
+italicisedForm: "<i>Panicum maximum </i>var.<i> trichoglume </i>Robyns ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5004,
+name: "Panicum pamplemoussense Steud.",
+canonicalForm: "Panicum pamplemoussense",
+italicisedForm: "<i>Panicum pamplemoussense </i>Steud. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5005,
+name: "Panicum poiforme Willd. ex Spreng. [Illegitimate]",
+canonicalForm: "Panicum poiforme",
+italicisedForm: "<i>Panicum poiforme </i>Willd.<i> ex </i>Spreng.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5006,
+name: "Panicum polygamum Sw. [Illegitimate]",
+canonicalForm: "Panicum polygamum",
+italicisedForm: "<i>Panicum polygamum </i>Sw.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5007,
+name: "Panicum praelongum Steud.",
+canonicalForm: "Panicum praelongum",
+italicisedForm: "<i>Panicum praelongum </i>Steud. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5008,
+name: "Panicum praticola Salzm. ex Döll [Invalid]",
+canonicalForm: "Panicum praticola",
+italicisedForm: "<i>Panicum praticola </i>Salzm.<i> ex </i>Döll<i> [Invalid]</i>",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5009,
+name: "Panicum scaberrimum Lag.",
+canonicalForm: "Panicum scaberrimum",
+italicisedForm: "<i>Panicum scaberrimum </i>Lag. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5010,
+name: "Panicum sparsum Schumach.",
+canonicalForm: "Panicum sparsum",
+italicisedForm: "<i>Panicum sparsum </i>Schumach. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5011,
+name: "Panicum teff Desv.",
+canonicalForm: "Panicum teff",
+italicisedForm: "<i>Panicum teff </i>Desv. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5012,
+name: "Panicum tephrosanthum Hack.",
+canonicalForm: "Panicum tephrosanthum",
+italicisedForm: "<i>Panicum tephrosanthum </i>Hack. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5013,
+name: "Panicum trichocondylum Steud.",
+canonicalForm: "Panicum trichocondylum",
+italicisedForm: "<i>Panicum trichocondylum </i>Steud. ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5014,
+name: "Panicum trichoglume K.Schum. ex Engl. [Invalid]",
+canonicalForm: "Panicum trichoglume",
+italicisedForm: "<i>Panicum trichoglume </i>K.Schum.<i> ex </i>Engl.<i> [Invalid]</i>",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5015,
+name: "Urochloa maxima (Jacq.) R.D.Webster",
+canonicalForm: "Urochloa maxima",
+italicisedForm: "<i>Urochloa maxima (</i>Jacq.<i>) </i>R.D.Webster ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5016,
+name: "Urochloa maxima var. trichoglumis (Robyns) R.D.Webster",
+canonicalForm: "Urochloa maxima trichoglumis",
+italicisedForm: "<i>Urochloa maxima </i>var.<i> trichoglumis (</i>Robyns<i>) </i>R.D.Webster ",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1102,
+name: "Herbe fataque",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1103,
+name: "Fataque",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1104,
+name: "Famoa",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1105,
+name: "Fataque",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1106,
+name: "Herbe fataque",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1107,
+name: "Verotsanga",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1108,
+name: "Herbe de Guinée",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+language: {
+id: 493,
+name: "Français / French"
+}
+},
+{
+id: 1109,
+name: "Fataque",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 1110,
+name: "Tsimparifary",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1111,
+name: "Guinea grass",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1112,
+name: "Umbara",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 1113,
+name: "Fatak",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1114,
+name: "Fantaka",
+taxonConcept: {
+id: 448
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:06:04Z",
+lastRevised: "2015-05-05T07:20:42Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040811_074534_th1.jpg",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>PANMA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>PANMA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1697,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>PANMA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2014-09-24T18:09:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186771,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1707,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Leaf blades linear lanceolate,30-80cm long and 4-5cm wide,keeled and sharp at the margins, often densely hairy at the base.Short, inconspicuous and membranous ligule with tuft of dense hairs immediately above it. Sheath is hairy, sometimes bristly, slightly overlapping or compressed.</p><h6>Underground System</h6><p>Rooting at the lower nodes.</p><h6>Global Description</h6><p>A Robust, densely tufted perennial grass 2.5-4 m high that can be reproduce from seeds and vegetatively from basal root-stock.</p><h6>Inflorescence</h6><p>Conically shaped,open panicle 30-80cm long, lowest branches whorled while upper ones are irregularly spaced. Ellipsoid spikelets, have no awns, about 3-4mm long.</p><h6>Stem</h6><p>Erect, hairy at nodes, flattened at base.</p>",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2014-09-24T18:09:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186813,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1709,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Panicum maximum Jacq.",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2014-09-24T18:09:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186815,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1708,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "A perennial grass, reproduce from seeds and vegetatively from basal root-stock.<br>",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2014-09-24T18:09:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186815,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1698,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "A widespread weed of cultivated fields. It is abundant in short fallows and by roadsides. Majorly sown in the sub-tropics and are widely used in South America, Japan, and India as well as Eastern Australia. Shade tolerant and often found around tree lines in their native environment taking advantage of the improved nutrition from the leaf litter. Moderately drought tolerant,good spring growth, requires fertile conditions for good performance,does not tolerate waterlogging or flooding.It prefers high temperatures with maximum growth at 30-36?C/25-31?C (day/night temperature) under controlled conditions. The growth rate falls sharply when the temperature is below 18?C/13?C, with negligible growth below 15?C/10?C.<br>",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2014-09-24T18:09:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186772,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1704,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Africa; widely introduced and naturalized.</p><h6>Origin</h6><p>Tropical and sub-tropical Africa</p>",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2014-09-24T18:09:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186799,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1703,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Local Weediness</h6><p>Uganda: Frequent and usually abundant.</p>",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2014-09-24T18:09:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186798,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1701,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2015-03-28T15:33:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 506p."
+},
+{
+url: "http://plants.jstor.org/upwta/2_642"
+},
+{
+title: "Moore, G, Sanford, P & Wiley, T 2006, Perennial pastures for Western Australia, Department of Agriculture and Food Western Australia, Bulletin 4690, Perth."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+},
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 79p."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 334 p"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. p. 348."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+},
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186778,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1705,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2015-04-03T18:05:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+},
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 79p."
+},
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 506p."
+},
+{
+title: "Moore, G, Sanford, P & Wiley, T 2006, Perennial pastures for Western Australia, Department of Agriculture and Food Western Australia, Bulletin 4690, Perth."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 334 p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://plants.jstor.org/upwta/2_642"
+},
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. p. 348."
+},
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186800,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1702,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2015-04-03T18:05:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+},
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 79p."
+},
+{
+url: "http://plants.jstor.org/upwta/2_642"
+},
+{
+title: "Moore, G, Sanford, P & Wiley, T 2006, Perennial pastures for Western Australia, Department of Agriculture and Food Western Australia, Bulletin 4690, Perth."
+},
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 506p."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 334 p"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. p. 348."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186794,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1710,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2015-04-03T18:05:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+},
+{
+url: "http://plants.jstor.org/upwta/2_642"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 334 p"
+},
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 79p."
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. p. 348."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 506p."
+},
+{
+title: "Moore, G, Sanford, P & Wiley, T 2006, Perennial pastures for Western Australia, Department of Agriculture and Food Western Australia, Bulletin 4690, Perth."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+},
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186815,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1706,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2015-04-03T18:05:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+},
+{
+url: "http://plants.jstor.org/upwta/2_642"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 334 p"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+},
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Moore, G, Sanford, P & Wiley, T 2006, Perennial pastures for Western Australia, Department of Agriculture and Food Western Australia, Bulletin 4690, Perth."
+},
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 79p."
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. p. 348."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 506p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186803,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1699,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2015-04-03T18:05:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 79p."
+},
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+},
+{
+url: "http://plants.jstor.org/upwta/2_642"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+},
+{
+title: "Moore, G, Sanford, P & Wiley, T 2006, Perennial pastures for Western Australia, Department of Agriculture and Food Western Australia, Bulletin 4690, Perth."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 506p."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 334 p"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. p. 348."
+},
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+},
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186772,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1691,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2015-04-03T18:05:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 506p."
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 334 p"
+},
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+},
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+title: "Moore, G, Sanford, P & Wiley, T 2006, Perennial pastures for Western Australia, Department of Agriculture and Food Western Australia, Bulletin 4690, Perth."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+},
+{
+url: "http://plants.jstor.org/upwta/2_642"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 79p."
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. p. 348."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186750,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1693,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2015-04-03T18:05:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 79p."
+},
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 334 p"
+},
+{
+title: "Moore, G, Sanford, P & Wiley, T 2006, Perennial pastures for Western Australia, Department of Agriculture and Food Western Australia, Bulletin 4690, Perth."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 506p."
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+},
+{
+url: "http://plants.jstor.org/upwta/2_642"
+},
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. p. 348."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186756,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1692,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2015-04-03T18:05:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://plants.jstor.org/upwta/2_642"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. p. 348."
+},
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 334 p"
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+},
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+},
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 79p."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 506p."
+},
+{
+title: "Moore, G, Sanford, P & Wiley, T 2006, Perennial pastures for Western Australia, Department of Agriculture and Food Western Australia, Bulletin 4690, Perth."
+},
+{
+url: "http://plants.jstor.org/upwta/2_642"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186753,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1694,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2015-04-03T18:05:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+},
+{
+url: "http://plants.jstor.org/upwta/2_642"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. p. 348."
+},
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+},
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 79p."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 506p."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 334 p"
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+},
+{
+title: "Moore, G, Sanford, P & Wiley, T 2006, Perennial pastures for Western Australia, Department of Agriculture and Food Western Australia, Bulletin 4690, Perth."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186760,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1695,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2015-04-03T18:05:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 506p."
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. p. 348."
+},
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+},
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 79p."
+},
+{
+title: "Moore, G, Sanford, P & Wiley, T 2006, Perennial pastures for Western Australia, Department of Agriculture and Food Western Australia, Bulletin 4690, Perth."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+},
+{
+url: "http://plants.jstor.org/upwta/2_642"
+},
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 334 p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186764,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1696,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2015-04-03T18:05:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+},
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 506p."
+},
+{
+url: "http://plants.jstor.org/upwta/2_642"
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 79p."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 334 p"
+},
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. p. 348."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Moore, G, Sanford, P & Wiley, T 2006, Perennial pastures for Western Australia, Department of Agriculture and Food Western Australia, Bulletin 4690, Perth."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186767,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1700,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:09:46Z",
+lastUpdated: "2015-03-08T03:41:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.hear.org/pier/species/panicum_maximum.htm"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 334 p"
+},
+{
+title: "Moore, G, Sanford, P & Wiley, T 2006, Perennial pastures for Western Australia, Department of Agriculture and Food Western Australia, Bulletin 4690, Perth."
+},
+{
+title: "Smith, Nicholas M. 2002. Weeds of the wet/dry tropics of Australia - a field guide. Environment Centre NT, Inc. 79p."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 506p."
+},
+{
+url: "http://www.tropicalforages.info/key/Forages/Media/Html/Panicum_maximum.htm"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. p. 348."
+},
+{
+url: "http://plants.jstor.org/upwta/2_642"
+},
+{
+url: "http://www.plantzafrica.com/plantnop/panicummax.htm"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=106340"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200025820"
+},
+{
+url: "http://www.theplantlist.org/tpl/record/kew-429196"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582186775,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5217,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Panicum maximum est une herbe très grande et robuste, qui forme des touffes denses. Elle développe parfois des tiges couchées qui s'enracinent au niveau des noeuds donnant souvent de nouvelles pousses. Les tiges sont hautes et droites, très solides. Les gaines sont peu à non poilues. Les noeuds sont très nets, entourés d'une collerette de poils blancs duveteux. La ligule est membrano-ciliée et frangée de nombreux poils. Les feuilles sont longues, larges et enveloppantes, généralement sans poils. Le limbe est étroit et long, se termine en pointe. La nervure centrale est très marquée, surtout à la face inférieure. Les inflorescences sont très grandes et fines. Elles sont très ramifiées. Les épillets sont nombreux et petits, soyeux, souvent de couleur verte à pourpre.</p>",
+dateCreated: "2015-03-19T11:57:23Z",
+lastUpdated: "2015-03-19T11:57:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766243723,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5207,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>PANMA</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:57:22Z",
+lastUpdated: "2015-03-19T11:57:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766242816,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5211,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Panicum maximum</em> est une herbe tr&egrave;s grande et robuste, qui forme des touffes denses. Elle d&eacute;veloppe parfois des tiges couch&eacute;es qui s&#39;enracinent au niveau des noeuds donnant souvent de nouvelles pousses. Les tiges sont hautes et droites, tr&egrave;s solides. Les gaines sont peu &agrave; non poilues. Les noeuds sont tr&egrave;s nets, entour&eacute;s d&#39;une collerette de poils blancs duveteux. La ligule est membrano-cili&eacute;e et frang&eacute;e de nombreux poils. Les feuilles sont longues, larges et enveloppantes, g&eacute;n&eacute;ralement sans poils. Le limbe est &eacute;troit et long, se termine en pointe. La nervure centrale est tr&egrave;s marqu&eacute;e, surtout &agrave; la face inf&eacute;rieure. Les inflorescences sont tr&egrave;s grandes et fines. Elles sont tr&egrave;s ramifi&eacute;es. Les &eacute;pillets sont nombreux et petits, soyeux, souvent de couleur verte &agrave; pourpre.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Les premi&egrave;res feuilles ont une pr&eacute;foliaison enroul&eacute;e. Gaine cylindrique. Ligule membrano-cili&eacute;e. Limbe &eacute;troit, poilu sur la face inf&eacute;rieure et glabre sur la face sup&eacute;rieure.</p> <h6> Port</h6> <p> Grande herbe vivace &agrave; annuelle, dress&eacute;e, ou plus ou moins couch&eacute;e &agrave; la base, de couleur vert clair. Tallage abondant permettant la formation de touffes denses pouvant atteindre 3,5 m de hauteur.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Racines fibreuses, fascicul&eacute;es, profondes.</p> <h6> Tige</h6> <p> Chaume cylindrique, creux. Il est dress&eacute;, rarement genouill&eacute;, rapidement ramifi&eacute;, s&#39;enracinant parfois au niveau des noeuds. Les noeuds sont pourvus de poils blancs duveteux.</p> <h6> Feuille</h6> <p> Feuilles alternes, simples. La gaine est glabre, de section arrondie et quelquefois teint&eacute;e de pourpre. La ligule est membrano-cili&eacute;e, de 4 &agrave; 6 mm de haut, avec quelques longs cils sur les bords. Le limbe est lin&eacute;aire, long de 15 &agrave; 80 cm et large de 1 &agrave; 2 cm, en g&eacute;n&eacute;ral glabre, au sommet aigu. La marge est scabre. La nervure m&eacute;diane est saillante &agrave; la face inf&eacute;rieure, blanch&acirc;tre.</p> <h6> Inflorescence</h6> <p> L&#39;inflorescence est une panicule oblongue, pyramidale, l&acirc;che, longue de 30 &agrave; 60 cm et large de 15 &agrave; 30 cm. Nombreuses ramifications filiformes et flexibles, ascendantes &agrave; &eacute;tal&eacute;es. Les ramifications basales sont verticill&eacute;es.</p> <h6> Fleur</h6> <p> Epillets solitaires, asym&eacute;triques, courtement p&eacute;dicell&eacute;s, oblongs, longs de 2,5 &agrave; 4 mm et larges de 1 mm environ, de coloration vert clair ou violac&eacute;e. 2 glumes in&eacute;gales. La glume inf&eacute;rieure large, arrondie et engainante (1/4 &agrave; 1/3 de la longueur de l&#39;&eacute;pillet). La glume sup&eacute;rieure aussi longue que l&#39;&eacute;pillet, &agrave; 5 nervures. La fleur inf&eacute;rieure est m&acirc;le avec une lemma pr&eacute;sentant 5 &agrave; 7 nervures et ressemblant &agrave; la glume sup&eacute;rieure. La fleur sup&eacute;rieure est bisexu&eacute;e avec une lemma oblongue, transversalement rugueuse. Stigmates plumeux, pourpres.</p> <h6> Fruit</h6> <p> Grain fusiforme, quelquefois aplati sur un c&ocirc;t&eacute;. Long de 3 mm et large de 1 mm.</p> ",
+dateCreated: "2015-03-19T11:57:22Z",
+lastUpdated: "2015-05-07T17:04:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766242888,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5212,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Panicum maximum Jacq.",
+dateCreated: "2015-03-19T11:57:22Z",
+lastUpdated: "2015-03-19T11:57:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766242920,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5214,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Panicum maximum</em> est une gramin&eacute;e vivace. Elle se propage rapidement par fragmentation de ses tiges souterraines ou bien par division des touffes. La plante se multiplie &eacute;galement par ses graines transport&eacute;es par l&#39;eau ou par les oiseaux.<br /> ",
+dateCreated: "2015-03-19T11:57:22Z",
+lastUpdated: "2015-05-07T17:04:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766242975,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5213,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: <em>Panicum maximum</em> est une esp&egrave;ce fr&eacute;quente dans les trois &icirc;les, dans les r&eacute;gions &agrave; basse et moyenne altitude surtout dans les zones &eacute;clair&eacute;es.<br /> <strong>Madagascar </strong>: Esp&egrave;ce commune dans toutes les r&eacute;gions de la Grande &icirc;le mais localis&eacute;e dans les bas-fonds, d&eacute;pressions et plaines alluviales (jach&egrave;res et cultures pluviales) o&ugrave; les sols sont profonds et fertiles ou aux alentours des lieux d&rsquo;habitation, sur le bords des chemins ou des canaux d&rsquo;irrigation. C&rsquo;est une esp&egrave;ce indicatrice des sols fertiles.<br /> <strong>Maurice </strong>: Esp&egrave;ce dominante sur les terrains abandonn&eacute;es dans les zones s&egrave;ches, vers la partie basse de l&#39;&icirc;le. Elle se d&eacute;veloppe &eacute;galement au bord des routes et des champs. Elle est tr&egrave;s commune &agrave; travers toute l&#39;&icirc;le et c&#39;est une mauvaise herbe importante de la canne &agrave; sucre.<br /> <strong>La R&eacute;union</strong> : L&rsquo;esp&egrave;ce est tr&egrave;s fr&eacute;quente &agrave; La R&eacute;union sur le littoral. Elle est aussi pr&eacute;sente &agrave; moyenne altitude, aussi bien en zone s&egrave;che que moyennement humide. Elle se rencontre sur des sols de bonne qualit&eacute; et l&eacute;g&egrave;rement humides.<br /> <strong>Seychelles </strong>: Cette esp&egrave;ce pousse bien sur une large vari&eacute;t&eacute; de types de sol. Observ&eacute;e partout, elle est cependant davantage pr&eacute;sente en altitude. Elle est capable de fleurir dans plusieurs cultures qui sont cultiv&eacute;es dans une large gamme de conditions.<br /> ",
+dateCreated: "2015-03-19T11:57:22Z",
+lastUpdated: "2015-05-07T17:04:44Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766242956,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5215,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>: <em>Panicum maximum</em> est une esp&egrave;ce commune dans les friches. On peut la rencontrer dans les vieux champs de bananier, de manioc ou de canne &agrave; sucre.<br /> <strong>Madagascar </strong>: C&rsquo;est une adventice peu envahissante et peu fr&eacute;quente dans les cultures.<br /> <strong>Maurice </strong>: Adventice qui g&ecirc;ne consid&eacute;rablement le d&eacute;veloppement de la canne &agrave; sucre. Elle a une forte nuisibilit&eacute;. Elle est rare dans les cultures mara&icirc;ch&egrave;res.<br /> <strong>La R&eacute;union</strong> : Adventice qui envahit les sols cultiv&eacute;s. C&#39;est l&#39;une des adventice les plus fr&eacute;quentes des cultures. Elle est pr&eacute;sente dans 55 % des parcelles cultiv&eacute;es et dans 65 % des parcelles de canne &agrave; sucre. C&#39;est une des adventices majeures de cette culture, pr&eacute;sentant tr&egrave;s r&eacute;guli&egrave;rement un taux de recouvrement moyen &agrave; fort, jusqu&#39;&agrave; 70 &agrave; 85 %.<br /> <strong>Ouganda </strong>: Fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>Seychelles </strong>: Adventice majeure dans de nombreux sites ; c&#39;est l&#39;une des esp&egrave;ces envahissantes les plus agressives des cultures annuelles et p&eacute;rennes, et constitue souvent l&#39;adventice principale en vergers, cultures souterraines, mara&icirc;chage et plantations de th&eacute;.</p> ",
+dateCreated: "2015-03-19T11:57:22Z",
+lastUpdated: "2015-05-07T17:05:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766242996,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5218,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Usages</h6> <p> <u>Alimentation du b&eacute;tail</u> : <em>Panicum maximum</em> constitue un fourrage de bonne qualit&eacute;.</p> ",
+dateCreated: "2015-03-19T11:57:23Z",
+lastUpdated: "2015-05-07T17:05:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766243748,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5216,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Pour des conseils de d&eacute;sherbage des gramin&eacute;es vivaces du riz irrigu&eacute; et de bas-fond en Afrique consulter : http://portal.wikwio.org/document/show/33</p> ",
+dateCreated: "2015-03-19T11:57:23Z",
+lastUpdated: "2015-05-07T17:06:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766243025,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5210,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:57:22Z",
+lastUpdated: "2015-03-31T06:53:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766242850,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5209,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:57:22Z",
+lastUpdated: "2015-03-31T06:53:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766242850,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5208,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:57:22Z",
+lastUpdated: "2015-03-31T06:53:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766242849,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 4857,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040811_074534.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040811_074534_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:41Z",
+rating: 0
+},
+{
+id: 4858,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_193654.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_193654_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:41Z",
+rating: 0
+},
+{
+id: 4859,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040813_180848.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040813_180848_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:41Z",
+rating: 0
+},
+{
+id: 4860,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_152524.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_152524_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:41Z",
+rating: 0
+},
+{
+id: 4861,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:42Z",
+rating: 0
+},
+{
+id: 4862,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_200603_085318.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_200603_085318_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:42Z",
+rating: 0
+},
+{
+id: 4863,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_100507_105304.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_100507_105304_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:42Z",
+rating: 0
+},
+{
+id: 4864,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110703_081038.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110703_081038_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:42Z",
+rating: 0
+},
+{
+id: 4865,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110703_081120.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110703_081120_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:42Z",
+rating: 0
+},
+{
+id: 4866,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110701_103350.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110701_103350_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:42Z",
+rating: 0
+},
+{
+id: 4867,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20041116_171114.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20041116_171114_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:42Z",
+rating: 0
+},
+{
+id: 4868,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_120507_105137.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_120507_105137_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:43Z",
+rating: 0
+},
+{
+id: 4869,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20050222_160202.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20050222_160202_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:43Z",
+rating: 0
+},
+{
+id: 4870,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:43Z",
+rating: 0
+},
+{
+id: 4871,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_110804_065216.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_110804_065216_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:43Z",
+rating: 0
+},
+{
+id: 4872,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_090608_091201.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_090608_091201_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:43Z",
+rating: 0
+},
+{
+id: 4873,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20071008_070704.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20071008_070704_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:43Z",
+rating: 0
+},
+{
+id: 4874,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20030620_100112.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20030620_100112_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:44Z",
+rating: 0
+},
+{
+id: 4875,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20030620_095146.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20030620_095146_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:44Z",
+rating: 0
+},
+{
+id: 4876,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:44Z",
+rating: 0
+},
+{
+id: 4877,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040811_075004.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040811_075004_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:44Z",
+rating: 0
+},
+{
+id: 4878,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20050203_160226.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20050203_160226_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:44Z",
+rating: 0
+},
+{
+id: 4879,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110208_140243.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110208_140243_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:44Z",
+rating: 0
+},
+{
+id: 4880,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_110804_064900.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_110804_064900_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:45Z",
+rating: 0
+},
+{
+id: 4881,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20030620_100208.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20030620_100208_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:45Z",
+rating: 0
+},
+{
+id: 4882,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040811_075446.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040811_075446_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:45Z",
+rating: 0
+},
+{
+id: 4883,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_200603_090112.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_200603_090112_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:45Z",
+rating: 0
+},
+{
+id: 4884,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20090702_163544.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20090702_163544_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:45Z",
+rating: 0
+},
+{
+id: 4885,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:45Z",
+rating: 0
+},
+{
+id: 4886,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:45Z",
+rating: 0
+},
+{
+id: 4887,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_110804_065446.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_110804_065446_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:46Z",
+rating: 0
+},
+{
+id: 4888,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_1.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_1_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:46Z",
+rating: 0
+},
+{
+id: 4889,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_200603_090208.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_200603_090208_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:46Z",
+rating: 0
+},
+{
+id: 4890,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:46Z",
+rating: 0
+},
+{
+id: 4891,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:46Z",
+rating: 0
+},
+{
+id: 4892,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_140816.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_140816_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:46Z",
+rating: 0
+},
+{
+id: 4893,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_142524.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_142524_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:47Z",
+rating: 0
+},
+{
+id: 4894,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_142636.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_142636_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:47Z",
+rating: 0
+},
+{
+id: 4895,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:47Z",
+rating: 0
+},
+{
+id: 4896,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20080609_101248_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:47Z",
+rating: 0
+},
+{
+id: 4897,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20090211_190143.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20090211_190143_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:47Z",
+rating: 0
+},
+{
+id: 4898,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20090702_163216.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20090702_163216_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:47Z",
+rating: 0
+},
+{
+id: 4899,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20090211_185913.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20090211_185913_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:48Z",
+rating: 0
+},
+{
+id: 4900,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20061110_060314.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20061110_060314_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:48Z",
+rating: 0
+},
+{
+id: 4901,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110701_103340.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110701_103340_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:48Z",
+rating: 0
+},
+{
+id: 4902,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20030620_100324.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20030620_100324_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:48Z",
+rating: 0
+},
+{
+id: 4903,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110208_140242.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110208_140242_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:48Z",
+rating: 0
+},
+{
+id: 4904,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20061110_060314_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20061110_060314_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:48Z",
+rating: 0
+},
+{
+id: 4905,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040811_075258.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040811_075258_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:48Z",
+rating: 0
+},
+{
+id: 4906,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20030620_095318.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20030620_095318_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:49Z",
+rating: 0
+},
+{
+id: 4907,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20071008_070703.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20071008_070703_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:49Z",
+rating: 0
+},
+{
+id: 4908,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20030620_100036.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20030620_100036_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:49Z",
+rating: 0
+},
+{
+id: 4909,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040811_074320.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040811_074320_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:49Z",
+rating: 0
+},
+{
+id: 4910,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_152617.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_152617_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:49Z",
+rating: 0
+},
+{
+id: 4911,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20070512_105137.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20070512_105137_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:50Z",
+rating: 0
+},
+{
+id: 4912,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20070512_105304.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20070512_105304_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:50Z",
+rating: 0
+},
+{
+id: 4913,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20050203_160242.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20050203_160242_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:50Z",
+rating: 0
+},
+{
+id: 4914,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20050222_160254.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20050222_160254_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:50Z",
+rating: 0
+},
+{
+id: 4915,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040813_180858.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040813_180858_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:50Z",
+rating: 0
+},
+{
+id: 4916,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040813_180852.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040813_180852_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:50Z",
+rating: 0
+},
+{
+id: 4917,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20090702_163837.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20090702_163837_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:50Z",
+rating: 0
+},
+{
+id: 4918,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_152636.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_152636_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:51Z",
+rating: 0
+},
+{
+id: 4919,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_152538.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_152538_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:51Z",
+rating: 0
+},
+{
+id: 4920,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_193707.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_193707_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:51Z",
+rating: 0
+},
+{
+id: 4921,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_150816.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20051117_150816_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:51Z",
+rating: 0
+},
+{
+id: 4922,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040811_190834.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20040811_190834_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:51Z",
+rating: 0
+},
+{
+id: 4923,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_091106_102258.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_091106_102258_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:51Z",
+rating: 0
+},
+{
+id: 4924,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_200603_085756.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_200603_085756_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:52Z",
+rating: 0
+},
+{
+id: 4925,
+url: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110208_140242_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Panicum maximum/panma_20110208_140242_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:06:52Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}
