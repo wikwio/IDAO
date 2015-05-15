@@ -1,0 +1,1106 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 103,
+title: "<i>Desmanthus virgatus (</i>L.<i>) </i>Willd. ",
+taxonConcept: {
+id: 227,
+name: "Desmanthus virgatus (L.) Willd.",
+canonicalForm: "Desmanthus virgatus",
+italicisedForm: "<i>Desmanthus virgatus (</i>L.<i>) </i>Willd. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 5,
+name: "Fabaceae",
+canonicalForm: "Fabaceae",
+italicisedForm: "<i>Fabaceae</i>",
+rank: "Family"
+},
+{
+id: 226,
+name: "Desmanthus",
+canonicalForm: "Desmanthus",
+italicisedForm: "<i>Desmanthus</i>",
+rank: "Genus"
+},
+{
+id: 227,
+name: "Desmanthus virgatus (L.) Willd.",
+canonicalForm: "Desmanthus virgatus",
+italicisedForm: "<i>Desmanthus virgatus (</i>L.<i>) </i>Willd. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 2339,
+name: "Acacia angustisiliqua (Lam.) Desf.",
+canonicalForm: "Acacia angustisiliqua",
+italicisedForm: "<i>Acacia angustisiliqua (</i>Lam.<i>) </i>Desf. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2340,
+name: "Acacia depauperata Mart. ex Steud.",
+canonicalForm: "Acacia depauperata",
+italicisedForm: "<i>Acacia depauperata </i>Mart.<i> ex </i>Steud. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2341,
+name: "Acacia leptosperma Bello",
+canonicalForm: "Acacia leptosperma",
+italicisedForm: "<i>Acacia leptosperma </i>Bello ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2342,
+name: "Acacia virgata (L.) Gaertn.",
+canonicalForm: "Acacia virgata",
+italicisedForm: "<i>Acacia virgata (</i>L.<i>) </i>Gaertn. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2343,
+name: "Acuan depressum (Willd.) Kuntze",
+canonicalForm: "Acuan depressum",
+italicisedForm: "<i>Acuan depressum (</i>Willd.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2344,
+name: "Acuan texanum Britton & Rose",
+canonicalForm: "Acuan texanum",
+italicisedForm: "<i>Acuan texanum </i>Britton<i> & </i>Rose ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2345,
+name: "Acuan tracyi Britton & Rose",
+canonicalForm: "Acuan tracyi",
+italicisedForm: "<i>Acuan tracyi </i>Britton<i> & </i>Rose ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2346,
+name: "Acuan virgatum (L.) Medik.",
+canonicalForm: "Acuan virgatum",
+italicisedForm: "<i>Acuan virgatum (</i>L.<i>) </i>Medik. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2347,
+name: "Desmanthus depressus Willd.",
+canonicalForm: "Desmanthus depressus",
+italicisedForm: "<i>Desmanthus depressus </i>Willd. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2348,
+name: "Desmanthus leptophyllus DC.",
+canonicalForm: "Desmanthus leptophyllus",
+italicisedForm: "<i>Desmanthus leptophyllus </i>DC. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2349,
+name: "Desmanthus pernambucensis (L.) Thell.",
+canonicalForm: "Desmanthus pernambucensis",
+italicisedForm: "<i>Desmanthus pernambucensis (</i>L.<i>) </i>Thell. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2350,
+name: "Desmanthus pratorum Macfad.",
+canonicalForm: "Desmanthus pratorum",
+italicisedForm: "<i>Desmanthus pratorum </i>Macfad. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2351,
+name: "Desmanthus strictus DC.",
+canonicalForm: "Desmanthus strictus",
+italicisedForm: "<i>Desmanthus strictus </i>DC. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2352,
+name: "Desmanthus tenellus DC.",
+canonicalForm: "Desmanthus tenellus",
+italicisedForm: "<i>Desmanthus tenellus </i>DC. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2353,
+name: "Desmanthus virgatus var. depressus (Willd.) B.L.Turner",
+canonicalForm: "Desmanthus virgatus depressus",
+italicisedForm: "<i>Desmanthus virgatus </i>var.<i> depressus (</i>Willd.<i>) </i>B.L.Turner ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2354,
+name: "Desmanthus virgatus var. virgatus",
+canonicalForm: "Desmanthus virgatus virgatus",
+italicisedForm: "<i>Desmanthus virgatus </i>var.<i> virgatus</i>",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2355,
+name: "Mimosa angustisiliqua Lam.",
+canonicalForm: "Mimosa angustisiliqua",
+italicisedForm: "<i>Mimosa angustisiliqua </i>Lam. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2356,
+name: "Mimosa depressa (Willd.) Poir.",
+canonicalForm: "Mimosa depressa",
+italicisedForm: "<i>Mimosa depressa (</i>Willd.<i>) </i>Poir. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2357,
+name: "Mimosa pernambucensis L.",
+canonicalForm: "Mimosa pernambucensis",
+italicisedForm: "<i>Mimosa pernambucensis </i>L. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2358,
+name: "Mimosa virgata L.",
+canonicalForm: "Mimosa virgata",
+italicisedForm: "<i>Mimosa virgata </i>L. ",
+taxonConcept: {
+id: 227
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:20:41Z",
+lastRevised: "2015-03-19T11:22:33Z",
+thumbnail: "http://portal.wikwio.org/biodiv/group_icons/speciesGroups/plants_th1.png",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>DEMVI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>DEMVI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 877,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>DEMVI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322315,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 876,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Desmanthus virgatus (L.) Willd.",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322314,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3756,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Desmanthus virgatus est une herbe ou un sous-arbriseaux de 0,5 à 2 m de hauteur. La tige est peu ramifiée, généralement sans poils. Les feuilles sont alternes et doublement composées avec une glande foliaire au sommet du pétiole. Les feuilles ont 1 à 4 paires de divisions principales sur lesquelles s'insèrent 6 à 15 paires de petites folioles oblongues. Les fleurs sont petites et regroupées en petites boules de 5 mm de diamètre portées par un long pédoncule. Les pétales sont blancs, longs de 3 à 4 mm. Le fruit est une gousse linéaire, longue de 5 à 9 cm et large de 3 mm, aplatie où les graines sont obliques, plus ou moins en forme de losange.</p>",
+dateCreated: "2015-03-19T11:22:33Z",
+lastUpdated: "2015-03-19T11:22:33Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764153662,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3745,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>DEMVI</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>pérenne</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:22:22Z",
+lastUpdated: "2015-03-19T11:22:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764142010,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3749,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Desmanthus virgatus est une herbe ou un sous-arbriseaux de 0,5 à 2 m de hauteur. La tige est peu ramifiée, généralement sans poils. Les feuilles sont alternes et doublement composées avec une glande foliaire au sommet du pétiole. Les feuilles ont 1 à 4 paires de divisions principales sur lesquelles s'insèrent 6 à 15 paires de petites folioles oblongues. Les fleurs sont petites et regroupées en petites boules de 5 mm de diamètre portées par un long pédoncule. Les pétales sont blancs, longs de 3 à 4 mm. Le fruit est une gousse linéaire, longue de 5 à 9 cm et large de 3 mm, aplatie où les graines sont obliques, plus ou moins en forme de losange.</p><h6>Cotylédons</h6><p>Les cotylédons sont subsessiles de forme ovale oblongue, à base cordée et au sommet arrondi, longs de 5 mm et larges de 3 mm. Les faces sont glabres.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont alternes, composées. Les deux premières feuilles sont portées par un pétiole long de 7 mm au sommet duquel se trouve une glande discoïde brune. A la base, deux stipules triangulaires membraneuses, longuement apiculées, de 2 mm de long. Le limbe est penné à 4 paires de folioles oblongues, longues de 5 mm et larges de 2 mm. Les feuilles suivantes deviennent bipennées, avec une paire de pennes, portant 4 folioles.</p><h6>Port</h6><p>Plante à port dressé. C'est une plante ascendante lorsqu'elle s'appuie sur la végétation. Cependant, le plus souvent, on la trouve sous la forme d'un sous-arbrisseau ayant une hauteur comprise entre 0,5 et 2 m de haut.</p><h6>Système Souterrain</h6><p>La racine est un pivot profond.</p><h6>Tige</h6><p>La tige est peu ramifiée, plutôt anguleuse, souvent creuse, glabre ou légèrement pubescente au sommet.</p><h6>Feuille</h6><p>Les feuilles sont alternes, composées bipennées. Elles sont portées par un pétiole grêle de 3 à 7 mm de long. Les stipules sont linéaires, légèrement membraneuses à la base et formée principalement de la nervure centrale, longues de 3 à 6 mm. Des glandes discoïdes, rouges de 1 à 2,5 mm sont présentes au sommet du pétiole. Les feuilles sont bipennées, portant 1 à 4 paires de pennes opposés, sur lesquels s'insèrent 6 à 15 paires de folioles opposées. Ces dernières sont oblongues à étroitement obovales, légèrement asymétriques à la base et au sommet arrondi. Elles mesurent 4 à 12 mm de long et 1,5 à 3 mm de large. La marge est entière, ciliolée et la nervation n'est pas nette.</p><h6>Inflorescence</h6><p>L'inflorescence est un capitule sphérique à ovoïde, constitué de 6 à 10 fleurs. Il est porté par un pédoncule de 2 à 7,5 cm de long. Les pétales sont blancs, longs de 3 à 4 mm. Il y a 10 étamines d’une longueur de 5 mm.</p><h6>Fleur</h6><p>Les pétales des fleurs sont blancs, longs de 3 à 4 mm. Il y a 10 étamines d'une longueur de 5 mm.</p><h6>Fruit</h6><p>Le fruit est une gousse courtement pédicellée. Les gousses sont fasciculées par 2 à 6 au sommet du pédoncule. La gousse est linéaire, aplatie. Elle mesure 5 à 9 cm de long et 3 à 4 mm de large, contenant une trentaine de graines. Elle est de couleur brun foncé.</p><h6>Graine</h6><p>La graine est oblique voire elliptique plus ou moins en forme de losange ; elle mesurent 2,5 à 3 mm de long. Le tégument est lisse de couleur brun foncé parsemé de petites écailles blanches.</p>",
+dateCreated: "2015-03-19T11:22:23Z",
+lastUpdated: "2015-03-19T11:22:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764143919,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3750,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Desmanthus virgatus (L.) Willd.",
+dateCreated: "2015-03-19T11:22:24Z",
+lastUpdated: "2015-03-19T11:22:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764144591,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3754,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "D. virgatus est une espèce pérenne, qui se multiplie par graines.<br>",
+dateCreated: "2015-03-19T11:22:26Z",
+lastUpdated: "2015-03-19T11:22:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764146524,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3751,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>D. virgatus est une mauvaise herbe répandue depuis longtemps sous les tropiques.</p>",
+dateCreated: "2015-03-19T11:22:25Z",
+lastUpdated: "2015-03-19T11:22:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764145082,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3753,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Comores : D. virgatus est une espèce rudérale très répandue dans les trois îles. Madagascar : Espèce d'introduction récente, encore très localisée et peu envahissante. Maurice : Mauvaise herbe commune à toutes les altitudes. La Réunion : D. virgatus est surtout présente aux bords des routes, dans les terrains vagues. Elle se développe à toutes les altitudes et on la retrouve dans toutes les parties de l'île. Seychelles : Espèce de clairière et des lieux abandonnés. Elle est rarement abondante.<br>",
+dateCreated: "2015-03-19T11:22:26Z",
+lastUpdated: "2015-03-19T11:22:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764146062,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3752,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>D. virgatus est une mauvaise herbe répandue depuis longtemps sous les tropiques.</p>",
+dateCreated: "2015-03-19T11:22:25Z",
+lastUpdated: "2015-03-19T11:22:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764145572,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3755,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Comores : D. virgatus est une adventice très fréquente et abondante dans les vieilles cultures de bananier, de manioc et de vanille. Madagascar : D. virgatus est peu connue comme mauvaise herbe des cultures. Maurice : Adventice assez commune en culture de canne à sucre, avec une nuisibilité faible à moyenne. La Réunion : D. virgatus est une espèce présente dans tous les types de cultures et pour des zones géographiques très diverses, mais jamais abondante. Les bordures des champs de canne à sucre sont ponctuellement envahies ainsi que les vergers et les endroits qui ne sont pas désherbés régulièrement. Seychelles : D. virgatus est une adventice à faible nuisibilité.</p>",
+dateCreated: "2015-03-19T11:22:27Z",
+lastUpdated: "2015-03-19T11:22:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764147014,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3747,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:22:23Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/d/demvi/demvi_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764143037,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3748,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:22:23Z",
+lastUpdated: "2015-03-29T08:36:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764143037,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3746,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:22:23Z",
+lastUpdated: "2015-04-09T15:52:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.hear.org/pier/species/desmanthus_virgatus.htm"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764143036,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [ ],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

@@ -1,0 +1,992 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 83,
+title: "<i>Crotalaria incana </i>L. ",
+taxonConcept: {
+id: 191,
+name: "Crotalaria incana L.",
+canonicalForm: "Crotalaria incana",
+italicisedForm: "<i>Crotalaria incana </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 5,
+name: "Fabaceae",
+canonicalForm: "Fabaceae",
+italicisedForm: "<i>Fabaceae</i>",
+rank: "Family"
+},
+{
+id: 188,
+name: "Crotalaria",
+canonicalForm: "Crotalaria",
+italicisedForm: "<i>Crotalaria</i>",
+rank: "Genus"
+},
+{
+id: 191,
+name: "Crotalaria incana L.",
+canonicalForm: "Crotalaria incana",
+italicisedForm: "<i>Crotalaria incana </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 1897,
+name: "Chrysocalyx schimperi A.Rich.",
+canonicalForm: "Chrysocalyx schimperi",
+italicisedForm: "<i>Chrysocalyx schimperi </i>A.Rich. ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1898,
+name: "Crotalaria affinis DC.",
+canonicalForm: "Crotalaria affinis",
+italicisedForm: "<i>Crotalaria affinis </i>DC. ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1899,
+name: "Crotalaria criocaula S. Schauer",
+canonicalForm: "Crotalaria criocaula",
+italicisedForm: "<i>Crotalaria criocaula </i>S. Schauer ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1900,
+name: "Crotalaria cubensis DC.",
+canonicalForm: "Crotalaria cubensis",
+italicisedForm: "<i>Crotalaria cubensis </i>DC. ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1901,
+name: "Crotalaria cytisifolia Steud.",
+canonicalForm: "Crotalaria cytisifolia",
+italicisedForm: "<i>Crotalaria cytisifolia </i>Steud. ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1902,
+name: "Crotalaria diffusa Vell.",
+canonicalForm: "Crotalaria diffusa",
+italicisedForm: "<i>Crotalaria diffusa </i>Vell. ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1903,
+name: "Crotalaria eriocaula S.Schauer",
+canonicalForm: "Crotalaria eriocaula",
+italicisedForm: "<i>Crotalaria eriocaula </i>S.Schauer ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1904,
+name: "Crotalaria herbacea Schrank",
+canonicalForm: "Crotalaria herbacea",
+italicisedForm: "<i>Crotalaria herbacea </i>Schrank ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1905,
+name: "Crotalaria hirta Lag.",
+canonicalForm: "Crotalaria hirta",
+italicisedForm: "<i>Crotalaria hirta </i>Lag. ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1906,
+name: "Crotalaria montana A.Rich.",
+canonicalForm: "Crotalaria montana",
+italicisedForm: "<i>Crotalaria montana </i>A.Rich. ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1907,
+name: "Crotalaria picensis Phil.",
+canonicalForm: "Crotalaria picensis",
+italicisedForm: "<i>Crotalaria picensis </i>Phil. ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1908,
+name: "Crotalaria pubescens Moench",
+canonicalForm: "Crotalaria pubescens",
+italicisedForm: "<i>Crotalaria pubescens </i>Moench ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1909,
+name: "Crotalaria radiata Merr.",
+canonicalForm: "Crotalaria radiata",
+italicisedForm: "<i>Crotalaria radiata </i>Merr. ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1910,
+name: "Crotalaria schimperi A.Rich.",
+canonicalForm: "Crotalaria schimperi",
+italicisedForm: "<i>Crotalaria schimperi </i>A.Rich. ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1911,
+name: "Crotalaria setifera DC.",
+canonicalForm: "Crotalaria setifera",
+italicisedForm: "<i>Crotalaria setifera </i>DC. ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1912,
+name: "Lupinus rotundifolius Sesse & Moc.",
+canonicalForm: "Lupinus rotundifolius",
+italicisedForm: "<i>Lupinus rotundifolius </i>Sesse<i> & </i>Moc. ",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1699,
+name: "Woolly Rattlepod",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+language: {
+id: 123,
+name: "English"
+}
+},
+{
+id: 1702,
+name: "Pistache marron",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+language: {
+id: 137,
+name: "French"
+}
+},
+{
+id: 1703,
+name: "Pois marron",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+language: {
+id: 137,
+name: "French"
+}
+},
+{
+id: 1701,
+name: "Aikamanga",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+language: {
+id: 283,
+name: "Malagasy"
+}
+},
+{
+id: 1700,
+name: "Aikavavy",
+taxonConcept: {
+id: 191
+},
+isContributor: false,
+language: {
+id: 283,
+name: "Malagasy"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:12:11Z",
+lastRevised: "2015-03-27T12:49:05Z",
+thumbnail: "http://portal.wikwio.org/biodiv/group_icons/speciesGroups/plants_th1.png",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CVTIN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CVTIN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 679,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CVTIN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2014-09-24T17:14:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860659,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 678,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Crotalaria incana L.",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2014-09-24T17:14:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860658,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3512,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Code</h6> <p> CVTIN</p> <h6> Type Biologique</h6> <p> feuilles larges</p> <h6> Forme De Vie</h6> <p> p&eacute;renne</p> <h6> Habitat</h6> <p> terrestre</p> ",
+dateCreated: "2015-03-19T11:16:36Z",
+lastUpdated: "2015-03-27T12:39:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763796248,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6578,
+field: {
+concept: "Généralités",
+category: "Sous Espèces Variétés Races",
+subCategory: "Description",
+description: "Un descriptif textuel du niveau infraspécifique, non nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<div class="description"> <h6> Description Globale</h6> <p> Crotalaria incana est une herbe buissonnante atteignant 1,50 m de hauteur, pubescente ; tiges &agrave; longs poils &eacute;tal&eacute;s brun jaun&acirc;tre. Les feuilles sont trifoliol&eacute;es, &agrave; p&eacute;tiole souvent plus long que les folioles ; folioles elliptiques-obovales &agrave; obovales, de 1,5 &agrave; 5 cm de long et 1 &agrave; 4,5 cm de large, &agrave; pilosit&eacute; clairsem&eacute;e sur la face inf&eacute;rieure. Inflorescence en rac&egrave;mes pauci &agrave; multiflores ; fleurs &agrave; corolle jaune vein&eacute; de rouge ou de pourpre. Les gousses sont poilues, subsessiles, fusiformes-claviformes plus ou moins pointues, longues de 3 &agrave; 4,5 cm. Les graines sont nombreuses, lisses, longues de 2,5 &agrave; 3 mm.</p> <h6> Cotyl&eacute;dons</h6> <p> Cotyl&eacute;dons &agrave; limbe r&eacute;niforme tr&egrave;s bri&egrave;vement p&eacute;tiol&eacute;, d&rsquo;environ 19 mm de long et 5 mm de large.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Premi&egrave;res feuilles alternes compos&eacute;e, &agrave; limbe trifoliol&eacute; &agrave; lobe central obovale de 10 mm de long et 7 mm de large et lobes lat&eacute;raux ovales-elliptiques de 8 mm de long et 6 mm de large, &agrave; p&eacute;tiole long d&rsquo;environ 17 mm, &agrave; poils &eacute;parses.</p> <h6> Port</h6> <p> Herbe dress&eacute;e plus ou moins buissonnante et subligneuse, atteignant 1,50 m de hauteur, pubescente.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est pivotante.</p> <h6> Tige</h6> <p> Tige &agrave; longs poils &eacute;tal&eacute;s brun jaun&acirc;tre, stipules filiformes 2,5-12 (-20) mm de long.</p> <h6> Feuille</h6> <p> Feuilles alternes, compos&eacute;es, trifoliol&eacute;es ; stipules filiformes, longues de 2,5 &agrave; 12 mm; p&eacute;tiole souvent plus long que les folioles ; folioles elliptiques-obovales &agrave; obovales, de 1,5 &agrave; 5 de long et 1 &agrave; 4,5 cm de large, au sommet arrondi &agrave; &eacute;margin&eacute;, g&eacute;n&eacute;ralement &agrave; pilosit&eacute; clairsem&eacute;e sur la face inf&eacute;rieure.</p> <h6> Inflorescence</h6> <p> L&#39;inflorescence est un rac&egrave;me pauci &agrave; multiflores, devenant l&acirc;che ; bract&eacute;es lin&eacute;aires-subul&eacute;es, longues de 4 &agrave; 10 mm ; bract&eacute;oles courb&eacute;es-ascendantes, ins&eacute;r&eacute;es juste au-dessous du calice, lin&eacute;aires, longues de 2 &agrave; 6 mm.</p> <h6> Fleur</h6> <p> La fleur est papilionac&eacute;e, elle poss&egrave;de un calice long de 7 &agrave; 11 mm, &agrave; longs lobes &eacute;troits, pileux. Etendard elliptique, jaune, vein&eacute; de rouge ou de pourpre, glabre ou pubescent sur une zone m&eacute;diane sur le dos ; car&egrave;ne l&eacute;g&egrave;rement plus longue que les ailes, anguleuse, longue de 8 &agrave; 11,5 mm, laineuse-poilue le long de la marge sup&eacute;rieure.</p> <h6> Fruit</h6> <p> Le fruit est une gousse poilue, subsessile, fusiforme-claviforme, plus ou moins pointue, longue de 3 &agrave; 4,5 cm.<br /> </p> <h6> Graine</h6> <p> Graines nombreuses, obliques-cordiformes, longues de 2,5-3 mm, lisses, vert olive fonc&eacute; ou marron.</p> <p> </p> </div> <p> </p> ",
+dateCreated: "2015-03-27T12:44:16Z",
+lastUpdated: "2015-03-27T12:44:16Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427460256587,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3513,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Crotalaria incana L.",
+dateCreated: "2015-03-19T11:16:37Z",
+lastUpdated: "2015-03-19T11:16:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763797372,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6580,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Madagascar : </strong>C. incana fleurit de f&eacute;vrier et mai. <p> &nbsp;</p> ",
+dateCreated: "2015-03-27T12:45:00Z",
+lastUpdated: "2015-03-27T12:45:00Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427460300434,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6579,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. incana est une esp&egrave;ce p&eacute;renne. Elle se multiplie par graines.",
+dateCreated: "2015-03-27T12:44:37Z",
+lastUpdated: "2015-03-27T12:44:37Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427460277459,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6581,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Madagascar : </strong>C. incana se d&eacute;veloppe sur les sols ferrallitiques, sols alluvionnaires et sols noirs humif&egrave;res hydromophes assez fertiles. L&#39;esp&egrave;ce est r&eacute;pandue dans les Hautes terres centrales, le versant oriental &agrave; partir de 700 m d&#39;altitude et l&rsquo;Ouest de Madagascar (Climat humide et subhumide), dans les jach&egrave;res et les p&acirc;turages, les bords des chemins et des canaux, dans les terrains vagues perturb&eacute;s. C&#39;est une mauvaise herbe des cultures pluviales des collines et des terrasses pr&egrave;s des bas-fonds : ma&iuml;s, manioc, arachide et cultures mara&icirc;ch&egrave;res dans les syst&egrave;mes semi-intensifs avec ou sans fumure. Terrains ensoleill&eacute; &agrave; faiblement ombrag&eacute;. <p> &nbsp;</p> ",
+dateCreated: "2015-03-27T12:45:32Z",
+lastUpdated: "2015-03-27T12:45:32Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427460332252,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6582,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Origine</strong><br /> <br /> Esp&egrave;ce originaire d&#39;Afrique tropicale et Arabie.<br /> <br /> <strong>Distribution mondiale</strong> <p> &nbsp;Elle est pr&eacute;sente en Afrique de l&rsquo;Est, Madagascar, Inde, Pakistan, Bengladesh, Asie du Sud-est.</p> ",
+dateCreated: "2015-03-27T12:47:27Z",
+lastUpdated: "2015-03-27T12:47:27Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427460447645,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6583,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Agressivit&eacute; locale</strong><br /> <br /> <strong>Madagascar : </strong>Adventice assez fr&eacute;quente g&eacute;n&eacute;ralement avec une abondance faible. C. incana pousse assez rapidement d&egrave;s le d&eacute;but de la saison des pluies, le sarclage doit &ecirc;tre r&eacute;alis&eacute; &agrave; temps. Cette mauvaise herbe peut &ecirc;tre assez abondante et g&ecirc;nante dans les cultures sur terrasse &agrave; sols relativement fertile et humide : cultures mara&icirc;ch&egrave;res, taro, haricot.",
+dateCreated: "2015-03-27T12:48:19Z",
+lastUpdated: "2015-03-27T12:48:19Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427460499176,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6584,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>M&eacute;dicinal : </strong>plante utilis&eacute;e au Bengladesh et autres pays (feuilles, fleurs et fruits immatures).<br /> <br /> <strong>Autre :</strong> C. incana peut &ecirc;tre utilis&eacute; comme engrais vert. <p> &nbsp;</p> ",
+dateCreated: "2015-03-27T12:49:05Z",
+lastUpdated: "2015-03-27T12:49:05Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427460545393,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6652,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-04-22T12:39:06Z",
+lastUpdated: "2015-04-22T12:39:06Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [
+{
+title: "DU PUY DAVID, LABAT J. N., LEGUMINOSAE OF MADAGASCAR, Royal Botanic Gardens, Kew, 2002 - 737 pages, p. 693"
+},
+{
+title: "ANTOINE R., BOSSER J., FERGUSSON I.K., 1993. FLORE DES MASCAREIGNES : La Réunion, Maurice, Rodrigues. 80 Légumineuses. MSIRI, ORSTOM, KEW. p.198."
+},
+{
+title: "MOODY K. 1989. Weeds reported in Rice in South and Southeast Asia. IRRI Manila Phillippines 442p."
+}
+],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1429706346646,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [ ],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

@@ -1,0 +1,1395 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 204,
+title: "<i>Marsilea minuta </i>L. ",
+taxonConcept: {
+id: 397,
+name: "Marsilea minuta L.",
+canonicalForm: "Marsilea minuta",
+italicisedForm: "<i>Marsilea minuta </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 393,
+name: "Polypodiopsida",
+canonicalForm: "Polypodiopsida",
+italicisedForm: "<i>Polypodiopsida</i>",
+rank: "Class"
+},
+{
+id: 395,
+name: "Marsileaceae",
+canonicalForm: "Marsileaceae",
+italicisedForm: "<i>Marsileaceae</i>",
+rank: "Family"
+},
+{
+id: 396,
+name: "Marsilea",
+canonicalForm: "Marsilea",
+italicisedForm: "<i>Marsilea</i>",
+rank: "Genus"
+},
+{
+id: 397,
+name: "Marsilea minuta L.",
+canonicalForm: "Marsilea minuta",
+italicisedForm: "<i>Marsilea minuta </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 4469,
+name: "Marsilea brasiliensis Mart.",
+canonicalForm: "Marsilea brasiliensis",
+italicisedForm: "<i>Marsilea brasiliensis </i>Mart. ",
+taxonConcept: {
+id: 397
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4470,
+name: "Marsilea crenulata Desv.",
+canonicalForm: "Marsilea crenulata",
+italicisedForm: "<i>Marsilea crenulata </i>Desv. ",
+taxonConcept: {
+id: 397
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4471,
+name: "Marsilea diffusa Lepr.",
+canonicalForm: "Marsilea diffusa",
+italicisedForm: "<i>Marsilea diffusa </i>Lepr. ",
+taxonConcept: {
+id: 397
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4472,
+name: "Marsilea diffusa var. approximata A. Braun",
+canonicalForm: "Marsilea diffusa approximata",
+italicisedForm: "<i>Marsilea diffusa </i>var.<i> approximata </i>A. Braun ",
+taxonConcept: {
+id: 397
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4473,
+name: "Marsilea minuta var. minuta",
+canonicalForm: "Marsilea minuta minuta",
+italicisedForm: "<i>Marsilea minuta </i>var.<i> minuta</i>",
+taxonConcept: {
+id: 397
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4474,
+name: "Marsilea perrieriana C. Chr.",
+canonicalForm: "Marsilea perrieriana",
+italicisedForm: "<i>Marsilea perrieriana </i>C. Chr. ",
+taxonConcept: {
+id: 397
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4475,
+name: "Marsilea polycarpa Hook. & Grev.",
+canonicalForm: "Marsilea polycarpa",
+italicisedForm: "<i>Marsilea polycarpa </i>Hook.<i> & </i>Grev. ",
+taxonConcept: {
+id: 397
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4476,
+name: "Marsilea polycarpa var. mexicana A. Braun",
+canonicalForm: "Marsilea polycarpa mexicana",
+italicisedForm: "<i>Marsilea polycarpa </i>var.<i> mexicana </i>A. Braun ",
+taxonConcept: {
+id: 397
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4477,
+name: "Zaluzianskia polycarpa (Hook. & Grev.) Kuntze",
+canonicalForm: "Zaluzianskia polycarpa",
+italicisedForm: "<i>Zaluzianskia polycarpa (</i>Hook.<i> & </i>Grev.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 397
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 988,
+name: "Sava",
+taxonConcept: {
+id: 397
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 987,
+name: "Tombokalika",
+taxonConcept: {
+id: 397
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1657,
+name: "Malgache: Sava",
+taxonConcept: {
+id: 397
+},
+isContributor: false
+},
+{
+id: 1658,
+name: "Malgache: Tombokalika",
+taxonConcept: {
+id: 397
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:54:34Z",
+lastRevised: "2015-03-19T11:45:45Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20080520_110802_th1.jpg",
+notes: "<h6>Biological Type</h6><p>ferns</p><h6>Code</h6><p>MASMI</p><h6>Habitat</h6><p>aquatic</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>ferns</p><h6>Code</h6><p>MASMI</p><h6>Habitat</h6><p>aquatic</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 1539,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>ferns</p><h6>Code</h6><p>MASMI</p><h6>Habitat</h6><p>aquatic</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:57:18Z",
+lastUpdated: "2014-09-24T17:57:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581438357,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1541,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Up to 4cm across, composed of four leaflets; sporocarps present at base of petiole.</p><h6>General Habit</h6><p>Perennial aquatic fern.</p><h6>Stem</h6><p>Rhizomes from which petioles arise.</p>",
+dateCreated: "2014-09-24T17:57:18Z",
+lastUpdated: "2014-09-24T17:57:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581438358,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1538,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Marsilea minuta L.",
+dateCreated: "2014-09-24T17:57:18Z",
+lastUpdated: "2014-09-24T17:57:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581438356,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1540,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Lowland rice, widespread and common, rarely a serious weed.<br>",
+dateCreated: "2014-09-24T17:57:18Z",
+lastUpdated: "2014-09-24T17:57:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581438357,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1542,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Local Weediness</h6><p>Tanzania: Frequent but not abundant.</p>",
+dateCreated: "2014-09-24T17:57:18Z",
+lastUpdated: "2014-09-24T17:57:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581438358,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1543,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:57:18Z",
+lastUpdated: "2015-03-10T06:42:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Johnson, DE 1997. Weeds in rice in West Africa. WARDA / WARDA, Bouake, Ivory Coast. 230p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581438358,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1545,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:57:18Z",
+lastUpdated: "2015-03-30T12:42:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, DE 1997. Weeds in rice in West Africa. WARDA / WARDA, Bouake, Ivory Coast. 230p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581438362,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1544,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:57:18Z",
+lastUpdated: "2015-04-09T15:56:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, DE 1997. Weeds in rice in West Africa. WARDA / WARDA, Bouake, Ivory Coast. 230p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581438361,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4892,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Marsilea minuta (M. diffusa) est une fougère aquatique rampante ressemblant à un trèfle à 4 feuilles. Les folioles obtriangulaires sont disposées en croix dans un plan horizontal, elles sont portées par un long pétiole partant d'une tige ou d'un rhizome rampant dans la vase ou sur l'eau. Les jeunes tiges ou jeunes feuilles avant développement forment une crosse typique des fougères.</p>",
+dateCreated: "2015-03-19T11:45:45Z",
+lastUpdated: "2015-03-19T11:45:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765545855,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4882,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>MASMI</p><h6>Type Biologique</h6><p>fougère</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>aquatique</p>",
+dateCreated: "2015-03-19T11:45:40Z",
+lastUpdated: "2015-03-19T11:45:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765540356,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4886,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Marsilea minuta</em> <em>(M. diffusa</em>) est une foug&egrave;re aquatique rampante ressemblant &agrave; un tr&egrave;fle &agrave; 4 feuilles. Les folioles obtriangulaires sont dispos&eacute;es en croix dans un plan horizontal, elles sont port&eacute;es par un long p&eacute;tiole partant d&#39;une tige ou d&#39;un rhizome rampant dans la vase ou sur l&#39;eau. Les jeunes tiges ou jeunes feuilles avant d&eacute;veloppement forment une crosse typique des foug&egrave;res.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Quelques feuilles longuement p&eacute;tiol&eacute;es, &agrave; 4 folioles terminales, se d&eacute;veloppant en crosse &agrave; partir d&#39;un rhizome flottant. Folioles largement obovales &agrave; triangulaires &agrave; face inf&eacute;rieure sillonn&eacute;e.</p> <h6> Port</h6> <p> Plante &agrave; rhizomes fins rampants dans la vase ou flottant sur l&#39;eau, desquels se d&eacute;veloppent de longs p&eacute;tioles portant des frondes &agrave; 4 folioles terminales dispos&eacute;es en croix, au dessus de la surface de l&#39;eau.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Racines adventives fascicul&eacute;es &agrave; la base de chaque p&eacute;tiole.</p> <h6> Tige</h6> <p> Tige horizontale rhizomateuse, rampante ou flottante, fine et sinueuse, cylindrique, pleine, plus ou moins ramifi&eacute;e, parfois tr&egrave;s longue (plusieurs m&egrave;tres), portant des poils pluricellulaires &agrave; lapex.</p> <h6> Feuille</h6> <p> Fronde &agrave; 4 folioles largement obovales &agrave; obtriangulaires de 5 &agrave; 20 mm de large et de long, flottantes, dispos&eacute;es en croix au sommet d&#39;un p&eacute;tiole de 2 &agrave; 30 cm de long, le sommet des folioles est arrondi ou plus ou moins cr&eacute;nel&eacute;, la base est en coin. Les deux faces sont glabres. La face inf&eacute;rieure est sillonn&eacute;e de veines lin&eacute;aires denses.</p> <h6> Inflorescence</h6> <p> Appareil reproducteur form&eacute; d&#39;un sporocarpe lenticulaire, aplati, pubescent ins&eacute;r&eacute; (solitaire ou group&eacute;) &agrave; la base des p&eacute;tioles. La d&eacute;hiscence du sporocarpe s&#39;effectue par deux valves. Le sporocarpe referme des sporanges contenant de tr&egrave;s nombreuses spores microscopiques.</p> ",
+dateCreated: "2015-03-19T11:45:41Z",
+lastUpdated: "2015-05-07T05:17:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765541537,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4887,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Marsilea minuta L.",
+dateCreated: "2015-03-19T11:45:41Z",
+lastUpdated: "2015-03-19T11:45:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765541942,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4889,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Marsilea minuta</em> est une plante vivace qui peut se multiplier par fragmentation des rhizomes ou par voie sexu&eacute;e, par les spores.<br /> ",
+dateCreated: "2015-03-19T11:45:43Z",
+lastUpdated: "2015-05-07T05:17:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765543274,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4888,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Marsilea minuta</em>&nbsp; est une esp&egrave;ce aquatique tr&egrave;s r&eacute;pandue dans les rizi&egrave;res de bas-fond, les marais et les bords de cours d&#39;eau et de canaux.<br /> <strong>Comores </strong>: Absente.<br /> <strong>Madagascar </strong>: Esp&egrave;ce aquatique tr&egrave;s r&eacute;pandue dans toute l&rsquo;&icirc;le sauf dans le Sud : dans les rizi&egrave;res de bas-fond, les marais et bords de cours d&rsquo;eau et de canaux.<br /> <strong>Maurice </strong>: Esp&egrave;ce des zones mar&eacute;cageuses, des cours d&#39;eau et des stations tr&egrave;s humides. Elle est peu commune.<br /> <strong>La R&eacute;union</strong> : Esp&egrave;ce des milieux aquatiques d&#39;eau douce, elle est peu commune.<br /> <strong>Seychelles </strong>: Absente.<br /> ",
+dateCreated: "2015-03-19T11:45:42Z",
+lastUpdated: "2015-05-07T05:17:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765542963,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4890,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>B&eacute;nin </strong>: <em>Marsilea minuta</em> est rare et peu abondante.<br /> <strong>Burkina Faso</strong> : Rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>Comores </strong>: Absente.<br /> <strong>Madagascar </strong>: <em>Marsilea minuta</em> est une mauvaise herbe tr&egrave;s fr&eacute;quente et abondante dans les plaines rizicoles &agrave; basse altitude, surtout en deuxi&egrave;me saison (riz en contre saison). Elle constitue rapidement un peuplement dense formant un tapis plus ou moins continu &agrave; la surface de l&rsquo;eau. Sa fr&eacute;quence est tr&egrave;s faible sur les Hautes Terres.<br /> <strong>Mali </strong>: Rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>Maurice </strong>: Cette esp&egrave;ce n&#39;est pas pr&eacute;sente dans les cultures.<br /> <strong>La R&eacute;union</strong> : Cette esp&egrave;ce n&#39;est pas pr&eacute;sente dans les cultures.<br /> <strong>S&eacute;n&eacute;gal </strong>: Rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>Seychelles </strong>: Absente.<br /> <strong>Tanzanie </strong>: Rare mais abondante quand elle est pr&eacute;sente.</p> ",
+dateCreated: "2015-03-19T11:45:43Z",
+lastUpdated: "2015-05-07T05:18:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765543563,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4891,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Locale</h6> <p> <strong>Madagascar </strong>: Le sarclage m&eacute;canique et manuel est souvent d&rsquo;une efficacit&eacute; limit&eacute;e sur <em>Marsilea minuta</em> en raison de la fragilit&eacute; de la plante et de sa capacit&eacute; de multiplication.</p> ",
+dateCreated: "2015-03-19T11:45:43Z",
+lastUpdated: "2015-05-07T05:19:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765543939,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4885,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:45:41Z",
+lastUpdated: "2015-03-31T06:53:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765541000,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4884,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:45:41Z",
+lastUpdated: "2015-03-31T06:53:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765541000,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4883,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:45:40Z",
+lastUpdated: "2015-03-31T06:53:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E. 1997. Les adventices en riziculture en Afrique de l'Ouest. ADRAO/WARDA, Bouaké, Côte-d'Ivoire."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765540999,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 4248,
+url: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20080520_110802.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20080520_110802_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:54:39Z",
+rating: 0
+},
+{
+id: 4249,
+url: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20120509_140025.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20120509_140025_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:54:39Z",
+rating: 0
+},
+{
+id: 4250,
+url: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20090213_203437.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20090213_203437_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:54:40Z",
+rating: 0
+},
+{
+id: 4251,
+url: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20060905_201604_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20060905_201604_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:54:40Z",
+rating: 0
+},
+{
+id: 4252,
+url: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20060905_201604.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20060905_201604_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:54:40Z",
+rating: 0
+},
+{
+id: 4253,
+url: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20060905_014749.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20060905_014749_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:54:40Z",
+rating: 0
+},
+{
+id: 4254,
+url: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20060904_070232.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Marsilea minuta/masmi_20060904_070232_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:54:40Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

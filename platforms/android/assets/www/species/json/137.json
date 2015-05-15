@@ -1,0 +1,4089 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 137,
+title: "<i>Euphorbia heterophylla </i>L. ",
+taxonConcept: {
+id: 276,
+name: "Euphorbia heterophylla L.",
+canonicalForm: "Euphorbia heterophylla",
+italicisedForm: "<i>Euphorbia heterophylla </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 20,
+name: "Euphorbiaceae",
+canonicalForm: "Euphorbiaceae",
+italicisedForm: "<i>Euphorbiaceae</i>",
+rank: "Family"
+},
+{
+id: 274,
+name: "Euphorbia",
+canonicalForm: "Euphorbia",
+italicisedForm: "<i>Euphorbia</i>",
+rank: "Genus"
+},
+{
+id: 276,
+name: "Euphorbia heterophylla L.",
+canonicalForm: "Euphorbia heterophylla",
+italicisedForm: "<i>Euphorbia heterophylla </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 3237,
+name: "Agaloma angustifolia Raf.",
+canonicalForm: "Agaloma angustifolia",
+italicisedForm: "<i>Agaloma angustifolia </i>Raf. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3238,
+name: "Cyathophora ciliata Raf.",
+canonicalForm: "Cyathophora ciliata",
+italicisedForm: "<i>Cyathophora ciliata </i>Raf. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3239,
+name: "Cyathophora heterophyla (L.) Raf.",
+canonicalForm: "Cyathophora heterophyla",
+italicisedForm: "<i>Cyathophora heterophyla (</i>L.<i>) </i>Raf. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3240,
+name: "Cyathophora picta Raf.",
+canonicalForm: "Cyathophora picta",
+italicisedForm: "<i>Cyathophora picta </i>Raf. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3241,
+name: "Euphorbia calyciflora Sessé & Moc.",
+canonicalForm: "Euphorbia calyciflora",
+italicisedForm: "<i>Euphorbia calyciflora </i>Sessé<i> & </i>Moc. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3242,
+name: "Euphorbia elliptica Lam.",
+canonicalForm: "Euphorbia elliptica",
+italicisedForm: "<i>Euphorbia elliptica </i>Lam. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3243,
+name: "Euphorbia epilobiifolia W.T.Wang",
+canonicalForm: "Euphorbia epilobiifolia",
+italicisedForm: "<i>Euphorbia epilobiifolia </i>W.T.Wang ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3244,
+name: "Euphorbia frangulaefolia Kunth",
+canonicalForm: "Euphorbia frangulaefolia",
+italicisedForm: "<i>Euphorbia frangulaefolia </i>Kunth ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3245,
+name: "Euphorbia frangulifolia Kunth",
+canonicalForm: "Euphorbia frangulifolia",
+italicisedForm: "<i>Euphorbia frangulifolia </i>Kunth ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3246,
+name: "Euphorbia geniculata Ortega",
+canonicalForm: "Euphorbia geniculata",
+italicisedForm: "<i>Euphorbia geniculata </i>Ortega ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3247,
+name: "Euphorbia havanensis Willd. ex Boiss. [Illegitimate]",
+canonicalForm: "Euphorbia havanensis",
+italicisedForm: "<i>Euphorbia havanensis </i>Willd.<i> ex </i>Boiss.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3248,
+name: "Euphorbia heterophylla var. brasiliensis Müll.Arg.",
+canonicalForm: "Euphorbia heterophylla brasiliensis",
+italicisedForm: "<i>Euphorbia heterophylla </i>var.<i> brasiliensis </i>Müll.Arg. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3249,
+name: "Euphorbia heterophylla var. elliptica (Lam.) Kuntze",
+canonicalForm: "Euphorbia heterophylla elliptica",
+italicisedForm: "<i>Euphorbia heterophylla </i>var.<i> elliptica (</i>Lam.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3250,
+name: "Euphorbia heterophylla var. eriocarpa Millsp.",
+canonicalForm: "Euphorbia heterophylla eriocarpa",
+italicisedForm: "<i>Euphorbia heterophylla </i>var.<i> eriocarpa </i>Millsp. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3251,
+name: "Euphorbia heterophylla var. geniculata (Ortega) M.Gómez",
+canonicalForm: "Euphorbia heterophylla geniculata",
+italicisedForm: "<i>Euphorbia heterophylla </i>var.<i> geniculata (</i>Ortega<i>) </i>M.Gómez ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3252,
+name: "Euphorbia heterophylla var. heterophylla",
+canonicalForm: "Euphorbia heterophylla heterophylla",
+italicisedForm: "<i>Euphorbia heterophylla </i>var.<i> heterophylla</i>",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3253,
+name: "Euphorbia heterophylla f. hirticaulis Kuntze",
+canonicalForm: "Euphorbia heterophylla hirticaulis",
+italicisedForm: "<i>Euphorbia heterophylla </i>f.<i> hirticaulis </i>Kuntze ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3254,
+name: "Euphorbia heterophylla var. linifolia Kuntze",
+canonicalForm: "Euphorbia heterophylla linifolia",
+italicisedForm: "<i>Euphorbia heterophylla </i>var.<i> linifolia </i>Kuntze ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3255,
+name: "Euphorbia linifolia Vahl [Illegitimate]",
+canonicalForm: "Euphorbia linifolia",
+italicisedForm: "<i>Euphorbia linifolia </i>Vahl<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3256,
+name: "Euphorbia lockhartii Steud. [Invalid]",
+canonicalForm: "Euphorbia lockhartii",
+italicisedForm: "<i>Euphorbia lockhartii </i>Steud.<i> [Invalid]</i>",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3257,
+name: "Euphorbia morisoniana Klotzsch",
+canonicalForm: "Euphorbia morisoniana",
+italicisedForm: "<i>Euphorbia morisoniana </i>Klotzsch ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3258,
+name: "Euphorbia pandurata Huber",
+canonicalForm: "Euphorbia pandurata",
+italicisedForm: "<i>Euphorbia pandurata </i>Huber ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3259,
+name: "Euphorbia prunifolia Jacq.",
+canonicalForm: "Euphorbia prunifolia",
+italicisedForm: "<i>Euphorbia prunifolia </i>Jacq. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3260,
+name: "Euphorbia prunifolia var. angustifolia Müll.Arg.",
+canonicalForm: "Euphorbia prunifolia angustifolia",
+italicisedForm: "<i>Euphorbia prunifolia </i>var.<i> angustifolia </i>Müll.Arg. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3261,
+name: "Euphorbia prunifolia var. repanda Müll.Arg.",
+canonicalForm: "Euphorbia prunifolia repanda",
+italicisedForm: "<i>Euphorbia prunifolia </i>var.<i> repanda </i>Müll.Arg. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3262,
+name: "Euphorbia prunifolia f. silvatica Chodat & Hassl.",
+canonicalForm: "Euphorbia prunifolia silvatica",
+italicisedForm: "<i>Euphorbia prunifolia </i>f.<i> silvatica </i>Chodat<i> & </i>Hassl. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3263,
+name: "Euphorbia taiwaniana S.S.Ying",
+canonicalForm: "Euphorbia taiwaniana",
+italicisedForm: "<i>Euphorbia taiwaniana </i>S.S.Ying ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3264,
+name: "Euphorbia trachyphylla A.Rich.",
+canonicalForm: "Euphorbia trachyphylla",
+italicisedForm: "<i>Euphorbia trachyphylla </i>A.Rich. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3265,
+name: "Poinsettia frangulifolia (Kunth) Klotzsch & Garcke",
+canonicalForm: "Poinsettia frangulifolia",
+italicisedForm: "<i>Poinsettia frangulifolia (</i>Kunth<i>) </i>Klotzsch<i> & </i>Garcke ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3266,
+name: "Poinsettia geniculata (Ortega) Klotzsch & Garcke",
+canonicalForm: "Poinsettia geniculata",
+italicisedForm: "<i>Poinsettia geniculata (</i>Ortega<i>) </i>Klotzsch<i> & </i>Garcke ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3267,
+name: "Poinsettia geniculata var. heterophylla (L.) Klotzsch & Garcke",
+canonicalForm: "Poinsettia geniculata heterophylla",
+italicisedForm: "<i>Poinsettia geniculata </i>var.<i> heterophylla (</i>L.<i>) </i>Klotzsch<i> & </i>Garcke ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3268,
+name: "Poinsettia havanensis Small",
+canonicalForm: "Poinsettia havanensis",
+italicisedForm: "<i>Poinsettia havanensis </i>Small ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3269,
+name: "Poinsettia heterophylla (L.) Klotzsch & Garcke",
+canonicalForm: "Poinsettia heterophylla",
+italicisedForm: "<i>Poinsettia heterophylla (</i>L.<i>) </i>Klotzsch<i> & </i>Garcke ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3270,
+name: "Poinsettia morisoniana (Klotzsch) Klotzsch & Garcke",
+canonicalForm: "Poinsettia morisoniana",
+italicisedForm: "<i>Poinsettia morisoniana (</i>Klotzsch<i>) </i>Klotzsch<i> & </i>Garcke ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3271,
+name: "Poinsettia prunifolia (Jacq.) Klotzsch & Garcke",
+canonicalForm: "Poinsettia prunifolia",
+italicisedForm: "<i>Poinsettia prunifolia (</i>Jacq.<i>) </i>Klotzsch<i> & </i>Garcke ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3272,
+name: "Poinsettia ruiziana Klotzsch & Garcke",
+canonicalForm: "Poinsettia ruiziana",
+italicisedForm: "<i>Poinsettia ruiziana </i>Klotzsch<i> & </i>Garcke ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3273,
+name: "Tithymalus heterophyllus (L.) Haw.",
+canonicalForm: "Tithymalus heterophyllus",
+italicisedForm: "<i>Tithymalus heterophyllus (</i>L.<i>) </i>Haw. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3274,
+name: "Tithymalus prunifolius (Jacq.) Haw.",
+canonicalForm: "Tithymalus prunifolius",
+italicisedForm: "<i>Tithymalus prunifolius (</i>Jacq.<i>) </i>Haw. ",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 768,
+name: "Gekleurde euphorbia",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 769,
+name: "Wildepoinsettia",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 770,
+name: "Fes poul",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 771,
+name: "Mexican fireplant",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 772,
+name: "Wild poinsettia",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 773,
+name: "Wild poinsettia",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 774,
+name: "Petit poinsettia",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 775,
+name: "Herbe de lait",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 776,
+name: "Milkweed",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 777,
+name: "Japanese poinsettia",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 778,
+name: "Mole plant",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 779,
+name: "Cruel plant",
+taxonConcept: {
+id: 276
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:32:47Z",
+lastRevised: "2015-03-19T11:36:27Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_162048_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>EPHHL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>EPHHL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1139,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>EPHHL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093396,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1144,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Alternate, variable in shape, obllanceolate to ovate or rhomboid, 6-15 cm long and 4-7 cm wide, acute at the apex, wedge shaped at the base and substended on petioles that are 1-2 cm long. The leaf blade is smooth with wavy or toothed margins.</p><h6>General Habit</h6><p>Herb.</p><h6>Flower</h6><p>Flowers male or female in clusters at the top of the stems, each flower-head (cyathium) with a solitary terminal female flower surrounded by male flowers enclosed in a cup-shaped involucre with a solitary conspicuous gland. Flowering in February to May/August.</p><h6>Fruit</h6><p>3-chambered capsule, 3-4 mm long, 5-6 mm wide, hairless.</p><h6>Seed</h6><p>Dark brown or grey to black in colour, mottled, ovoid, 2.5-3 mm long.</p><h6>Global Description</h6><p>Annual erect fast growing herb that grows up to 90 cm high. It is a hardy, ruderal species.</p><h6>Inflorescence</h6><p>Consist of terminate cymes with greenish clusters</p><h6>Stem</h6><p>Stems hollow, rounded and smooth with scattered hairs. The stalk exudes a toxic milky white sap.</p>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093405,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1147,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Euphorbia heterophylla L.",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093420,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1152,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Spread by seeds that are released explosively from ripe pods.<br>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093435,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1145,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Plants can be found from sea level to nearly 1,400 m (3,281 ft) elevation, but it is only a serious weed in warm climates. It is found in cultivated crops (Rice, soybeans, cowpeas, corn and sugarcane), vegetables, pastures and wastelands. Plants grow rapidly and often shade out seedlings of crops.<br>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093417,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1141,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Widespread weed in the tropics in crops. It has adapted to subtropical conditions.</p><h6>Origin</h6><p>Native to America, tropical and subtropical.</p>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093398,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1140,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>Common and very competitive weed of upland rice in the savanna zones of Africa. It can rapidly form a closed canopy, and it has a life cycle of only about 60 days from germination to seed setting contributing to a rapid build-up of the population. Seeds of E. heterophylla are dispersed explosively through its dehiscent seed capsules (Wilson, 1981). Germination occurs throughout the cropping season due to the variable dormancy of the seeds. E. heterophylla is particularly problematic in mechanized cropping systems as contamination of fields frequently occurs through machinery; other sources of infestation are seed supply and wild animals (Johnson, 1997). It can develop into monocultures, especially with regard to competitive crops such as soybean, cowpea and cotton. E. heterophylla was one of the species that was observed to increase with duration of rice cropping after fallow in C?te d'Ivoire (Johnson and Kent, 2002).It can complete life-cycle within 80 days. The weed can completely cover a soybean crop within 2 to 3 weeks after emergence. The latex is toxic.</p><h6>Local Weediness</h6><p>Kenya: Frequent but not abundant. Tanzania: Frequent and usually abundant. South Africa: It is distributed to the North East of South Africa. Uganda:Rare but abondant when present</p>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093397,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1142,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-03-25T05:05:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.weeds.org.au/cgi-bin/weedident.cgi?tpl=plant.tpl&state=&s=&ibra=all&card=H18"
+},
+{
+url: "http://apps.kew.org/efloras/namedetail.do;jsessionid=E1FDE476D047A9FF49A19E7DB799BBAF?flora=fz&qry=key&taxon=7285&keyid=22"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://plants.jstor.org/upwta/2_154"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.hear.org/pier/species/euphorbia_heterophylla.htm"
+},
+{
+title: "Johnson, D.E.(1997). Weeds of rice in West Africa. WARDA, Bouaké. 124p;"
+},
+{
+title: "Johnson, D.E., Kent, R.J. (2002). The impact of cropping on weed species composition in rice after fallow across a hydrological gradient in west Africa. Weed Res. 42, 89-99;"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+},
+{
+title: "Parsons W. & E. Cuthbertson (1992). Noxious Weeds of Australia. 420-422p; Wilson, A.K. (1981). Euphorbia heterophylla: a review of distribution, importance and control. Tropical Pest Management 27, 32-38."
+},
+{
+url: "http://compendium.bayercropscience.com/BAYER/CropScience/CropCompendium/BCSCropComp.nsf/id/EN_Euphorbia_heterophylla?open&ccm=200030"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093398,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1138,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-04-10T13:39:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E.(1997). Weeds of rice in West Africa. WARDA, Bouaké. 124p;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Parsons W. & E. Cuthbertson (1992). Noxious Weeds of Australia. 420-422p; Wilson, A.K. (1981). Euphorbia heterophylla: a review of distribution, importance and control. Tropical Pest Management 27, 32-38."
+},
+{
+title: "Johnson, D.E., Kent, R.J. (2002). The impact of cropping on weed species composition in rice after fallow across a hydrological gradient in west Africa. Weed Res. 42, 89-99;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_154"
+},
+{
+url: "http://apps.kew.org/efloras/namedetail.do;jsessionid=E1FDE476D047A9FF49A19E7DB799BBAF?flora=fz&qry=key&taxon=7285&keyid=22"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://compendium.bayercropscience.com/BAYER/CropScience/CropCompendium/BCSCropComp.nsf/id/EN_Euphorbia_heterophylla?open&ccm=200030"
+},
+{
+url: "http://www.weeds.org.au/cgi-bin/weedident.cgi?tpl=plant.tpl&state=&s=&ibra=all&card=H18"
+},
+{
+url: "http://www.weeds.org.au/cgi-bin/weedident.cgi?tpl=plant.tpl&state=&s=&ibra=all&card=H18"
+},
+{
+url: "http://www.hear.org/pier/species/euphorbia_heterophylla.htm"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093393,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1153,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-04-10T13:39:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E.(1997). Weeds of rice in West Africa. WARDA, Bouaké. 124p;"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Johnson, D.E., Kent, R.J. (2002). The impact of cropping on weed species composition in rice after fallow across a hydrological gradient in west Africa. Weed Res. 42, 89-99;"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+url: "http://apps.kew.org/efloras/namedetail.do;jsessionid=E1FDE476D047A9FF49A19E7DB799BBAF?flora=fz&qry=key&taxon=7285&keyid=22"
+},
+{
+title: "Parsons W. & E. Cuthbertson (1992). Noxious Weeds of Australia. 420-422p; Wilson, A.K. (1981). Euphorbia heterophylla: a review of distribution, importance and control. Tropical Pest Management 27, 32-38."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+},
+{
+url: "http://www.hear.org/pier/species/euphorbia_heterophylla.htm"
+},
+{
+url: "http://plants.jstor.org/upwta/2_154"
+},
+{
+url: "http://compendium.bayercropscience.com/BAYER/CropScience/CropCompendium/BCSCropComp.nsf/id/EN_Euphorbia_heterophylla?open&ccm=200030"
+},
+{
+url: "http://www.weeds.org.au/cgi-bin/weedident.cgi?tpl=plant.tpl&state=&s=&ibra=all&card=H18"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093437,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1151,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-03-25T05:05:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.hear.org/pier/species/euphorbia_heterophylla.htm"
+},
+{
+url: "http://apps.kew.org/efloras/namedetail.do;jsessionid=E1FDE476D047A9FF49A19E7DB799BBAF?flora=fz&qry=key&taxon=7285&keyid=22"
+},
+{
+title: "Johnson, D.E.(1997). Weeds of rice in West Africa. WARDA, Bouaké. 124p;"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+},
+{
+title: "Parsons W. & E. Cuthbertson (1992). Noxious Weeds of Australia. 420-422p; Wilson, A.K. (1981). Euphorbia heterophylla: a review of distribution, importance and control. Tropical Pest Management 27, 32-38."
+},
+{
+url: "http://www.weeds.org.au/cgi-bin/weedident.cgi?tpl=plant.tpl&state=&s=&ibra=all&card=H18"
+},
+{
+url: "http://compendium.bayercropscience.com/BAYER/CropScience/CropCompendium/BCSCropComp.nsf/id/EN_Euphorbia_heterophylla?open&ccm=200030"
+},
+{
+title: "Johnson, D.E., Kent, R.J. (2002). The impact of cropping on weed species composition in rice after fallow across a hydrological gradient in west Africa. Weed Res. 42, 89-99;"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.hear.org/pier/species/euphorbia_heterophylla.htm"
+},
+{
+title: "Johnson, D.E.(1997). Weeds of rice in West Africa. WARDA, Bouaké. 124p;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_154"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093432,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1146,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-04-10T13:39:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://plants.jstor.org/upwta/2_154"
+},
+{
+title: "Johnson, D.E.(1997). Weeds of rice in West Africa. WARDA, Bouaké. 124p;"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://compendium.bayercropscience.com/BAYER/CropScience/CropCompendium/BCSCropComp.nsf/id/EN_Euphorbia_heterophylla?open&ccm=200030"
+},
+{
+title: "Johnson, D.E., Kent, R.J. (2002). The impact of cropping on weed species composition in rice after fallow across a hydrological gradient in west Africa. Weed Res. 42, 89-99;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+url: "http://www.weeds.org.au/cgi-bin/weedident.cgi?tpl=plant.tpl&state=&s=&ibra=all&card=H18"
+},
+{
+url: "http://apps.kew.org/efloras/namedetail.do;jsessionid=E1FDE476D047A9FF49A19E7DB799BBAF?flora=fz&qry=key&taxon=7285&keyid=22"
+},
+{
+title: "Parsons W. & E. Cuthbertson (1992). Noxious Weeds of Australia. 420-422p; Wilson, A.K. (1981). Euphorbia heterophylla: a review of distribution, importance and control. Tropical Pest Management 27, 32-38."
+},
+{
+url: "http://www.hear.org/pier/species/euphorbia_heterophylla.htm"
+},
+{
+url: "http://compendium.bayercropscience.com/BAYER/CropScience/CropCompendium/BCSCropComp.nsf/id/EN_Euphorbia_heterophylla?open&ccm=200030"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093417,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1148,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-04-10T13:39:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+},
+{
+url: "http://compendium.bayercropscience.com/BAYER/CropScience/CropCompendium/BCSCropComp.nsf/id/EN_Euphorbia_heterophylla?open&ccm=200030"
+},
+{
+url: "http://apps.kew.org/efloras/namedetail.do;jsessionid=E1FDE476D047A9FF49A19E7DB799BBAF?flora=fz&qry=key&taxon=7285&keyid=22"
+},
+{
+title: "Johnson, D.E., Kent, R.J. (2002). The impact of cropping on weed species composition in rice after fallow across a hydrological gradient in west Africa. Weed Res. 42, 89-99;"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://plants.jstor.org/upwta/2_154"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Parsons W. & E. Cuthbertson (1992). Noxious Weeds of Australia. 420-422p; Wilson, A.K. (1981). Euphorbia heterophylla: a review of distribution, importance and control. Tropical Pest Management 27, 32-38."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+url: "http://www.hear.org/pier/species/euphorbia_heterophylla.htm"
+},
+{
+url: "http://plants.jstor.org/upwta/2_154"
+},
+{
+title: "Johnson, D.E.(1997). Weeds of rice in West Africa. WARDA, Bouaké. 124p;"
+},
+{
+url: "http://www.weeds.org.au/cgi-bin/weedident.cgi?tpl=plant.tpl&state=&s=&ibra=all&card=H18"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093421,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1149,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-04-10T13:39:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Johnson, D.E.(1997). Weeds of rice in West Africa. WARDA, Bouaké. 124p;"
+},
+{
+title: "Johnson, D.E., Kent, R.J. (2002). The impact of cropping on weed species composition in rice after fallow across a hydrological gradient in west Africa. Weed Res. 42, 89-99;"
+},
+{
+url: "http://www.hear.org/pier/species/euphorbia_heterophylla.htm"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+url: "http://www.weeds.org.au/cgi-bin/weedident.cgi?tpl=plant.tpl&state=&s=&ibra=all&card=H18"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+},
+{
+title: "Parsons W. & E. Cuthbertson (1992). Noxious Weeds of Australia. 420-422p; Wilson, A.K. (1981). Euphorbia heterophylla: a review of distribution, importance and control. Tropical Pest Management 27, 32-38."
+},
+{
+url: "http://compendium.bayercropscience.com/BAYER/CropScience/CropCompendium/BCSCropComp.nsf/id/EN_Euphorbia_heterophylla?open&ccm=200030"
+},
+{
+url: "http://plants.jstor.org/upwta/2_154"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://apps.kew.org/efloras/namedetail.do;jsessionid=E1FDE476D047A9FF49A19E7DB799BBAF?flora=fz&qry=key&taxon=7285&keyid=22"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093424,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1150,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-04-10T13:39:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://compendium.bayercropscience.com/BAYER/CropScience/CropCompendium/BCSCropComp.nsf/id/EN_Euphorbia_heterophylla?open&ccm=200030"
+},
+{
+title: "Johnson, D.E., Kent, R.J. (2002). The impact of cropping on weed species composition in rice after fallow across a hydrological gradient in west Africa. Weed Res. 42, 89-99;"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+url: "http://apps.kew.org/efloras/namedetail.do;jsessionid=E1FDE476D047A9FF49A19E7DB799BBAF?flora=fz&qry=key&taxon=7285&keyid=22"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://www.weeds.org.au/cgi-bin/weedident.cgi?tpl=plant.tpl&state=&s=&ibra=all&card=H18"
+},
+{
+url: "http://plants.jstor.org/upwta/2_154"
+},
+{
+url: "http://www.hear.org/pier/species/euphorbia_heterophylla.htm"
+},
+{
+url: "http://apps.kew.org/efloras/namedetail.do;jsessionid=E1FDE476D047A9FF49A19E7DB799BBAF?flora=fz&qry=key&taxon=7285&keyid=22"
+},
+{
+title: "Parsons W. & E. Cuthbertson (1992). Noxious Weeds of Australia. 420-422p; Wilson, A.K. (1981). Euphorbia heterophylla: a review of distribution, importance and control. Tropical Pest Management 27, 32-38."
+},
+{
+title: "Johnson, D.E.(1997). Weeds of rice in West Africa. WARDA, Bouaké. 124p;"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093428,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1143,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-03-02T16:46:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://compendium.bayercropscience.com/BAYER/CropScience/CropCompendium/BCSCropComp.nsf/id/EN_Euphorbia_heterophylla?open&ccm=200030"
+},
+{
+title: "Johnson, D.E., Kent, R.J. (2002). The impact of cropping on weed species composition in rice after fallow across a hydrological gradient in west Africa. Weed Res. 42, 89-99;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.hear.org/pier/species/euphorbia_heterophylla.htm"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Parsons W. & E. Cuthbertson (1992). Noxious Weeds of Australia. 420-422p; Wilson, A.K. (1981). Euphorbia heterophylla: a review of distribution, importance and control. Tropical Pest Management 27, 32-38."
+},
+{
+url: "http://apps.kew.org/efloras/namedetail.do;jsessionid=E1FDE476D047A9FF49A19E7DB799BBAF?flora=fz&qry=key&taxon=7285&keyid=22"
+},
+{
+url: "http://www.weeds.org.au/cgi-bin/weedident.cgi?tpl=plant.tpl&state=&s=&ibra=all&card=H18"
+},
+{
+title: "Johnson, D.E.(1997). Weeds of rice in West Africa. WARDA, Bouaké. 124p;"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+},
+{
+url: "http://plants.jstor.org/upwta/2_154"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093401,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1155,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-04-10T13:39:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://apps.kew.org/efloras/namedetail.do;jsessionid=E1FDE476D047A9FF49A19E7DB799BBAF?flora=fz&qry=key&taxon=7285&keyid=22"
+},
+{
+url: "http://compendium.bayercropscience.com/BAYER/CropScience/CropCompendium/BCSCropComp.nsf/id/EN_Euphorbia_heterophylla?open&ccm=200030"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://plants.jstor.org/upwta/2_154"
+},
+{
+title: "Johnson, D.E.(1997). Weeds of rice in West Africa. WARDA, Bouaké. 124p;"
+},
+{
+url: "http://www.hear.org/pier/species/euphorbia_heterophylla.htm"
+},
+{
+title: "Johnson, D.E., Kent, R.J. (2002). The impact of cropping on weed species composition in rice after fallow across a hydrological gradient in west Africa. Weed Res. 42, 89-99;"
+},
+{
+url: "http://www.weeds.org.au/cgi-bin/weedident.cgi?tpl=plant.tpl&state=&s=&ibra=all&card=H18"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Parsons W. & E. Cuthbertson (1992). Noxious Weeds of Australia. 420-422p; Wilson, A.K. (1981). Euphorbia heterophylla: a review of distribution, importance and control. Tropical Pest Management 27, 32-38."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093442,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1154,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-04-10T13:39:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E., Kent, R.J. (2002). The impact of cropping on weed species composition in rice after fallow across a hydrological gradient in west Africa. Weed Res. 42, 89-99;"
+},
+{
+title: "Johnson, D.E.(1997). Weeds of rice in West Africa. WARDA, Bouaké. 124p;"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://plants.jstor.org/upwta/2_154"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+url: "http://www.weeds.org.au/cgi-bin/weedident.cgi?tpl=plant.tpl&state=&s=&ibra=all&card=H18"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.hear.org/pier/species/euphorbia_heterophylla.htm"
+},
+{
+title: "Parsons W. & E. Cuthbertson (1992). Noxious Weeds of Australia. 420-422p; Wilson, A.K. (1981). Euphorbia heterophylla: a review of distribution, importance and control. Tropical Pest Management 27, 32-38."
+},
+{
+url: "http://compendium.bayercropscience.com/BAYER/CropScience/CropCompendium/BCSCropComp.nsf/id/EN_Euphorbia_heterophylla?open&ccm=200030"
+},
+{
+title: "Johnson, D.E., Kent, R.J. (2002). The impact of cropping on weed species composition in rice after fallow across a hydrological gradient in west Africa. Weed Res. 42, 89-99;"
+},
+{
+url: "http://apps.kew.org/efloras/namedetail.do;jsessionid=E1FDE476D047A9FF49A19E7DB799BBAF?flora=fz&qry=key&taxon=7285&keyid=22"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093439,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1156,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-04-10T13:39:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+},
+{
+url: "http://compendium.bayercropscience.com/BAYER/CropScience/CropCompendium/BCSCropComp.nsf/id/EN_Euphorbia_heterophylla?open&ccm=200030"
+},
+{
+url: "http://www.weeds.org.au/cgi-bin/weedident.cgi?tpl=plant.tpl&state=&s=&ibra=all&card=H18"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+},
+{
+title: "Parsons W. & E. Cuthbertson (1992). Noxious Weeds of Australia. 420-422p; Wilson, A.K. (1981). Euphorbia heterophylla: a review of distribution, importance and control. Tropical Pest Management 27, 32-38."
+},
+{
+title: "Johnson, D.E., Kent, R.J. (2002). The impact of cropping on weed species composition in rice after fallow across a hydrological gradient in west Africa. Weed Res. 42, 89-99;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_154"
+},
+{
+url: "http://apps.kew.org/efloras/namedetail.do;jsessionid=E1FDE476D047A9FF49A19E7DB799BBAF?flora=fz&qry=key&taxon=7285&keyid=22"
+},
+{
+url: "http://www.hear.org/pier/species/euphorbia_heterophylla.htm"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Johnson, D.E.(1997). Weeds of rice in West Africa. WARDA, Bouaké. 124p;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093445,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4194,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Euphorbia heterophylla est une plante dressée. Sa tige creuse exsude un latex blanc abondant lorsqu'on la casse. Les feuilles sont de forme elliptique. Echelonnées à la base, elles paraissent opposées par deux au niveau des groupes de fleurs. Chez la feuille adulte, la face inférieure, le bord et le pétiole sont couverts de poils fins et courts. La face supérieure présente parfois une tache claire ou pourpre. Les fleurs s'épanouissent par groupes serrés à l'extrémité des tiges. Petites et de couleur jaune verdâtre, elles sont contenues dans des petites coupes portant une petite glande ronde en face d'un fruit globuleux à 3 quartiers, sortant de la coupe.</p>",
+dateCreated: "2015-03-19T11:36:27Z",
+lastUpdated: "2015-03-19T11:36:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764987971,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4171,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>EPHHL</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:36:24Z",
+lastUpdated: "2015-03-19T11:36:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764984499,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4185,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Euphorbia heterophylla est une plante dressée. Sa tige creuse exsude un latex blanc abondant lorsqu'on la casse. Les feuilles sont de forme elliptique. Echelonnées à la base, elles paraissent opposées par deux au niveau des groupes de fleurs. Chez la feuille adulte, la face inférieure, le bord et le pétiole sont couverts de poils fins et courts. La face supérieure présente parfois une tache claire ou pourpre. Les fleurs s'épanouissent par groupes serrés à l'extrémité des tiges. Petites et de couleur jaune verdâtre, elles sont contenues dans des petites coupes portant une petite glande ronde en face d'un fruit globuleux à 3 quartiers, sortant de la coupe.</p><h6>Cotylédons</h6><p>Les cotylédons sont pétiolés, de forme elliptique. Longs de 1,5 cm et larges de 0,8 cm. Nervure centrale bien visible.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont simples, alternes, pétiolées, de forme oblongue, de 1,8 cm de long et 0,9 cm de large. Nervure principale et nervures secondaires bien marquées. La marge du limbe est entière, puis devient sinueuse au-delà de ce stade.</p><h6>Port</h6><p>Plante dressée, peu à très ramifiée, haute de 20 à 80 cm.</p><h6>Système Souterrain</h6><p>La racine est un pivot pourvu de racines secondaires fines.</p><h6>Tige</h6><p>La tige est cylindrique, creuse, épaisse et striée. Glabre à la base, puis parsemée de poils fins, longs de 1 mm. Exsudant un latex blanc laiteux au niveau des cassures.</p><h6>Feuille</h6><p>Les feuilles sont simples, alternes à la base et le long de la tige, paraissant opposées voire verticillées aux extrémités des rameaux florifères. Pétiolées à la base de la plante, sessiles au sommet. Pétiole légèrement pubescent, à la base duquel se trouvent deux stipules réduites à des glandes. Limbe de forme et de taille variables (ovale à oblong, lancéolé ou lobé, découpé en forme de violon), de 6 à 15 cm de long et 3 à 7 cm de large. Marge d'abord entière puis dentée portant des poils courts. Face supérieure pratiquement glabre, de couleur vert bleuté ; par opposition à la face inférieure plus claire et pubescente. Nervure centrale et nervures secondaires pennées très marquées.</p><h6>Inflorescence</h6><p>L'inflorescence est formée de fleurs regroupées dans une cupule (cyathe) ; elles sont regroupées en cymes terminales contractées.</p><h6>Fleur</h6><p>Chaque cupule comprend 3 à 5 fleurs mâles réduites à une étamine et une fleur femelle formée d'un ovaire à 3 loges, qui pend à l'extérieur de la cupule. Le bord de la cupule est denté et présente une seule glande charnue en forme de cratère, située à l'opposé de l'ovaire. Elles sont de couleur verdâtre.</p><h6>Fruit</h6><p>Le fruit est une capsule à 3 loges, pédicellée à maturité, sphérique, glabre, de 4 mm de diamètre et contenant 3 graines.</p><h6>Graine</h6><p>La graine est de forme ovoïde à section triangulaire, de couleur grisâtre, tégument tuberculé.</p>",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-19T11:36:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985240,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4187,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Euphorbia heterophylla L.",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-19T11:36:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985416,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4186,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : La germination d'E. heterophylla a lieu dès les premières pluies abondantes et se prolonge pendant toute la saison pluvieuse. Elle est fortement favorisée par le travail du sol (labour, sarclage, buttage). Le cycle complet, de la germination à la production de graines, dure 45 à 50 jours, ce qui donne à cette espèce la possibilité d'effectuer plusieurs cycles au cours d'une même saison culturale et lui confère une grande capacité de multiplication et d'infestation.<br>",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-19T11:36:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985318,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4191,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "E. heterophylla est une espèce annuelle. Elle se reproduit par graines. Les graines ne sont pas dormantes au moment de leur dispersion et peuvent germer immédiatement si les conditions sont favorables. La plante peut ainsi effectuer 4 à 5 cycles en une saison. La germination n'est pas inhibée en profondeur, au moins jusqu'à 10 cm en dessous de la surface du sol.<br>",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-19T11:36:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985725,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4188,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>E. heterophylla est originaire d'Amérique tropicale et subtropicale</p><h6>Distribution Mondiale</h6><p>E. heterophylla a été introduite en Afrique comme plante d'ornement. Elle s'est ensuite disséminée dans toute l'Afrique équatoriale et tropicale jusqu'à 9 degrés de latitude nord. On la retrouve au Mozambique, ainsi qu'en Afrique du Sud. Elle est également présente en Asie du Sud-Est. Au Nord-Cameroun, elle est présente essentiellement au sud de Garoua.</p>",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-19T11:36:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985494,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4190,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : E. heterophylla est une espèce rudérale, très nitrophile. Elle se développe dans les régions dont la pluviométrie est supérieure à 1100 mm, dans les sols bien structurés et fertiles (alluviaux, ferrugineux, fersialitiques). Comores : Cette espèce se développe tant dans les milieux secs que humides des trois îles, jusqu’à 800 m d’altitude. Madagascar : Espèce d’introduction récente, encore peu connue, très localisée et peu envahissante. Maurice : Mauvaise herbe des cultures, des zones incultes et des berges de rivières, à basse altitude. La Réunion : Cette espèce se rencontre dans de nombreuses situations écologiques, sur les sols bien structurés et fertiles et drainant bien. Elle a besoin de soleil et se développe aussi bien dans les zones sèches que dans les zones humides. Seychelles : Espèce des clairières et des lieux abandonnés. Elle est rarement abondante.<br>",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-19T11:36:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985647,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4189,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>E. heterophylla est originaire d'Amérique tropicale et subtropicale</p><h6>Distribution Mondiale</h6><p>E. heterophylla a été introduite en Afrique comme plante d'ornement. Elle s'est ensuite disséminée dans toute l'Afrique équatoriale et tropicale jusqu'à 9 degrés de latitude nord. On la retrouve au Mozambique, ainsi qu'en Afrique du Sud. Elle est également présente en Asie du Sud-Est. Au Nord-Cameroun, elle est présente essentiellement au sud de Garoua.</p>",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-19T11:36:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985571,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4192,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Nord-Cameroun : E. heterophylla est rare et peu abondante. Comores : Espèce rudérale sans nuisibilité particulière, elle est utilisée comme plante ornementale dans les cours des maisons. Madagascar : Peu connue comme mauvaise herbe des cultures. Elle a été seulement rencontrée comme mauvaise herbe dans le Moyen Ouest (seulement dans 10 parcelles sur 330) et aux environs d’Antananarivo comme plante rudérale. Maurice : Adventice assez commune dans les zones sèches, ayant une nuisibilité moyenne. La Réunion : E. heterophylla est une mauvaise herbe présente dans 25 % des parcelles cultivées, à caractère envahissant. Son cycle de développement est très rapide (elle peut produire des graines 45 jours après la levée et ainsi effectuer plusieurs cycles au cours d'une même année). Elle se rencontre fréquemment dans les champs de jeunes cannes où son recouvrement peut atteindre 70 à 85 %, mais également en cultures maraîchères. Seychelles : Adventice à faible nuisibilité. Afrique de l'Ouest : Elle est localement très abondante en Afrique de l'Ouest (Côte d'Ivoire, Sud du Togo, Sud du Nigeria) où elle peut se développer en peuplements monospécifiques, particulièrement compétitifs à l'égard de cultures comme le soja, le niébé et le cotonnier. Elle est peu sensible aux herbicides de pré-levée utilisés actuellement pour le cotonnier, le soja et le niébé. L'utilisation répétée de ces produits favorise cette espèce. En revanche, elle est sensible aux herbicides antidicotylédones de pré-levée du maïs. Espèce mineure au Nord-Cameroun, c'est une espèce majeure régionale en Côte d'Ivoire. Bénin : fréquente et généralement abondante. Burkina Faso : fréquente et peu abondante. Côte d'Ivoire : fréquente et généralement abondante. Ghana : rare et peu abondante. Kenya : fréquente et peu abondante. Mali : fréquente et peu abondante. Sénégal : rare et peu abondante. Ouganda : rare mais abondante quand elle est présente. Tanzanie : fréquente et généralement abondante. Tchad : fréquente et peu abondante.</p>",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-19T11:36:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985802,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4193,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Pour des conseils de désherbage des adventices annuelles à feuilles larges du riz irrigué et de bas-fond en Afrique consulter : http://portal.wikwio.org/document/show/19</p>",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-19T11:36:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985903,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4180,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-31T06:53:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois Th., 1993. Les mauvaises herbes dans la rotation cotonnière au Nord-Cameroun (Afrique) - Amplitude d'habitat et degré d'infestation - Cycle de développement. Thèse USTL Montpellier II, Montpellier, France, 241 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985091,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4174,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1975. Flore illustrée du Sénégal. Tome 3. Clairafrique éd., Dakar, Sénégal, 634 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985090,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4173,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985090,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4181,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985091,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4183,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-31T06:52:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Merlier H. & Montégut J., 1982. Adventices tropicales. ORSTOM-GERDAT-ENSH éd., Montpellier, France, 490 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985092,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4184,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-31T06:52:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephhl/ephhl_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985092,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4182,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985092,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4175,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Braun M., Burgstaller H., Hamdoun A. M. & Walter H., 1991. Common weeds of Central Sudan. GTZ, Verlag Josef Margraf ed. Scientific Book, Weikersheim, Germany, 329 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985090,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4172,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I.O. & Agyakwa C.W., 1989. Guide des adventices d'Afrique de l'Ouest. Institut international d'agriculture tropicale. Ibadan, Nigeria, 521 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985089,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4176,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985090,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4177,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V. & Herberger J. P., 1977. The World's Worst Weeds : Distribution and Biologie. East-West Center, University Press of Hawaii, Honolulu, 609p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985091,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4178,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hutchinson J., Dalziel J. M., Keay R. W. J. & Hepper F. N., 1954. Flora of West Tropical Africa. Vol. I part. 1. 2ème éd. The Whitefriars Press ed., London & Tonbridge, 295 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985091,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4179,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:25Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., Moody K. & Egunjobi J. K., 1978. West African Weeds. Oxford University Press, Ibadan, Nigeria, 255 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764985091,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3063,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_162048.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_162048_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:03Z",
+rating: 0
+},
+{
+id: 3064,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_135538.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_135538_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:04Z",
+rating: 0
+},
+{
+id: 3065,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20020729_112708.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20020729_112708_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:04Z",
+rating: 0
+},
+{
+id: 3066,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_193546.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_193546_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:04Z",
+rating: 0
+},
+{
+id: 3067,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_131641.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_131641_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:04Z",
+rating: 0
+},
+{
+id: 3068,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_163226.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_163226_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:04Z",
+rating: 0
+},
+{
+id: 3069,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_135613.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_135613_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:04Z",
+rating: 0
+},
+{
+id: 3070,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:04Z",
+rating: 0
+},
+{
+id: 3071,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:04Z",
+rating: 0
+},
+{
+id: 3072,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_193520.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_193520_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:04Z",
+rating: 0
+},
+{
+id: 3073,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_175624.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_175624_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:05Z",
+rating: 0
+},
+{
+id: 3074,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_10.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_10_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:05Z",
+rating: 0
+},
+{
+id: 3075,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:05Z",
+rating: 0
+},
+{
+id: 3076,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_175630.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_175630_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:05Z",
+rating: 0
+},
+{
+id: 3077,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:05Z",
+rating: 0
+},
+{
+id: 3078,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:05Z",
+rating: 0
+},
+{
+id: 3079,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_131727.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_131727_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:05Z",
+rating: 0
+},
+{
+id: 3080,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_182542.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_182542_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:05Z",
+rating: 0
+},
+{
+id: 3081,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20110712_120417.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20110712_120417_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:05Z",
+rating: 0
+},
+{
+id: 3082,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20110408_140426.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20110408_140426_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:05Z",
+rating: 0
+},
+{
+id: 3083,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20121001_155829.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20121001_155829_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:06Z",
+rating: 0
+},
+{
+id: 3084,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20100818_040244.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20100818_040244_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:06Z",
+rating: 0
+},
+{
+id: 3085,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:06Z",
+rating: 0
+},
+{
+id: 3086,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:06Z",
+rating: 0
+},
+{
+id: 3087,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20101210_111237.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20101210_111237_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:06Z",
+rating: 0
+},
+{
+id: 3088,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_182612.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_182612_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:06Z",
+rating: 0
+},
+{
+id: 3089,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20110910_093412.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20110910_093412_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:06Z",
+rating: 0
+},
+{
+id: 3090,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20040903_160924.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20040903_160924_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:06Z",
+rating: 0
+},
+{
+id: 3091,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:06Z",
+rating: 0
+},
+{
+id: 3092,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_175610.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_175610_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:07Z",
+rating: 0
+},
+{
+id: 3093,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_193558.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_193558_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:07Z",
+rating: 0
+},
+{
+id: 3094,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20110910_093428.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20110910_093428_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:07Z",
+rating: 0
+},
+{
+id: 3095,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_163202.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_163202_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:07Z",
+rating: 0
+},
+{
+id: 3096,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_193510.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_193510_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:07Z",
+rating: 0
+},
+{
+id: 3097,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20040901_170910.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20040901_170910_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:07Z",
+rating: 0
+},
+{
+id: 3098,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20110910_093344.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20110910_093344_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:07Z",
+rating: 0
+},
+{
+id: 3099,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_193538.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20091129_193538_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:07Z",
+rating: 0
+},
+{
+id: 3100,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_162100.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_162100_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:07Z",
+rating: 0
+},
+{
+id: 3101,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20101210_111234.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20101210_111234_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:07Z",
+rating: 0
+},
+{
+id: 3102,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20080609_101222_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:08Z",
+rating: 0
+},
+{
+id: 3103,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20110703_005624.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20110703_005624_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:08Z",
+rating: 0
+},
+{
+id: 3104,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_162038.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia heterophylla/ephhl_20051112_162038_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:33:08Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

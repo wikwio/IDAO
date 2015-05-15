@@ -1,0 +1,811 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 149,
+title: "<i>Gloriosa superba </i>L. ",
+taxonConcept: {
+id: 297,
+name: "Gloriosa superba L.",
+canonicalForm: "Gloriosa superba",
+italicisedForm: "<i>Gloriosa superba </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 295,
+name: "Colchicaceae",
+canonicalForm: "Colchicaceae",
+italicisedForm: "<i>Colchicaceae</i>",
+rank: "Family"
+},
+{
+id: 296,
+name: "Gloriosa",
+canonicalForm: "Gloriosa",
+italicisedForm: "<i>Gloriosa</i>",
+rank: "Genus"
+},
+{
+id: 297,
+name: "Gloriosa superba L.",
+canonicalForm: "Gloriosa superba",
+italicisedForm: "<i>Gloriosa superba </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 3639,
+name: "Clinostylis speciosa Hochst.",
+canonicalForm: "Clinostylis speciosa",
+italicisedForm: "<i>Clinostylis speciosa </i>Hochst. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3640,
+name: "Eugone superba (L.) Salisb.",
+canonicalForm: "Eugone superba",
+italicisedForm: "<i>Eugone superba (</i>L.<i>) </i>Salisb. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3641,
+name: "Gloriosa abyssinica A.Rich.",
+canonicalForm: "Gloriosa abyssinica",
+italicisedForm: "<i>Gloriosa abyssinica </i>A.Rich. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3642,
+name: "Gloriosa angulata Schumach.",
+canonicalForm: "Gloriosa angulata",
+italicisedForm: "<i>Gloriosa angulata </i>Schumach. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3643,
+name: "Gloriosa caerulea Mill.",
+canonicalForm: "Gloriosa caerulea",
+italicisedForm: "<i>Gloriosa caerulea </i>Mill. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3644,
+name: "Gloriosa carsonii Baker",
+canonicalForm: "Gloriosa carsonii",
+italicisedForm: "<i>Gloriosa carsonii </i>Baker ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3645,
+name: "Gloriosa cirrhifolia Stokes",
+canonicalForm: "Gloriosa cirrhifolia",
+italicisedForm: "<i>Gloriosa cirrhifolia </i>Stokes ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3646,
+name: "Gloriosa doniana Schult. & Schult.f.",
+canonicalForm: "Gloriosa doniana",
+italicisedForm: "<i>Gloriosa doniana </i>Schult.<i> & </i>Schult.f. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3647,
+name: "Gloriosa graminifolia var. heterophylla Chiov.",
+canonicalForm: "Gloriosa graminifolia heterophylla",
+italicisedForm: "<i>Gloriosa graminifolia </i>var.<i> heterophylla </i>Chiov. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3648,
+name: "Gloriosa grandiflora (Hook.) O'Brien",
+canonicalForm: "Gloriosa grandiflora",
+italicisedForm: "<i>Gloriosa grandiflora (</i>Hook.<i>) </i>O'Brien ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3649,
+name: "Gloriosa homblei De Wild.",
+canonicalForm: "Gloriosa homblei",
+italicisedForm: "<i>Gloriosa homblei </i>De Wild. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3650,
+name: "Gloriosa leopoldii (Van Houtte ex Lem.) Van Houtte & Voss",
+canonicalForm: "Gloriosa leopoldii",
+italicisedForm: "<i>Gloriosa leopoldii (</i>Van Houtte<i> ex </i>Lem.<i>) </i>Van Houtte<i> & </i>Voss ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3651,
+name: "Gloriosa lutea auct.",
+canonicalForm: "Gloriosa lutea",
+italicisedForm: "<i>Gloriosa lutea </i>auct. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3652,
+name: "Gloriosa nepalensis G.Don",
+canonicalForm: "Gloriosa nepalensis",
+italicisedForm: "<i>Gloriosa nepalensis </i>G.Don ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3653,
+name: "Gloriosa plantii (Planch.) Loudon",
+canonicalForm: "Gloriosa plantii",
+italicisedForm: "<i>Gloriosa plantii (</i>Planch.<i>) </i>Loudon ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3654,
+name: "Gloriosa rockefelleriana Stehlé & M.Stehlé",
+canonicalForm: "Gloriosa rockefelleriana",
+italicisedForm: "<i>Gloriosa rockefelleriana </i>Stehlé<i> & </i>M.Stehlé ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3655,
+name: "Gloriosa rothschildiana O'Brien",
+canonicalForm: "Gloriosa rothschildiana",
+italicisedForm: "<i>Gloriosa rothschildiana </i>O'Brien ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3656,
+name: "Gloriosa sampiana Pires de Lima",
+canonicalForm: "Gloriosa sampiana",
+italicisedForm: "<i>Gloriosa sampiana </i>Pires de Lima ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3657,
+name: "Gloriosa simplex L.",
+canonicalForm: "Gloriosa simplex",
+italicisedForm: "<i>Gloriosa simplex </i>L. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3658,
+name: "Gloriosa speciosa (Hochst.) Engl.",
+canonicalForm: "Gloriosa speciosa",
+italicisedForm: "<i>Gloriosa speciosa (</i>Hochst.<i>) </i>Engl. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3659,
+name: "Gloriosa superba var. angustifolia Baker",
+canonicalForm: "Gloriosa superba angustifolia",
+italicisedForm: "<i>Gloriosa superba </i>var.<i> angustifolia </i>Baker ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3660,
+name: "Gloriosa verschuurii Hoog",
+canonicalForm: "Gloriosa verschuurii",
+italicisedForm: "<i>Gloriosa verschuurii </i>Hoog ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3661,
+name: "Gloriosa virescens Lindl.",
+canonicalForm: "Gloriosa virescens",
+italicisedForm: "<i>Gloriosa virescens </i>Lindl. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3662,
+name: "Methonica abyssinica (A.Rich.) Walp.",
+canonicalForm: "Methonica abyssinica",
+italicisedForm: "<i>Methonica abyssinica (</i>A.Rich.<i>) </i>Walp. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3663,
+name: "Methonica doniana (Schult. & Schult.f.) Kunth",
+canonicalForm: "Methonica doniana",
+italicisedForm: "<i>Methonica doniana (</i>Schult.<i> & </i>Schult.f.<i>) </i>Kunth ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3664,
+name: "Methonica gloriosa Salisb.",
+canonicalForm: "Methonica gloriosa",
+italicisedForm: "<i>Methonica gloriosa </i>Salisb. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3665,
+name: "Methonica grandiflora Hook.",
+canonicalForm: "Methonica grandiflora",
+italicisedForm: "<i>Methonica grandiflora </i>Hook. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3666,
+name: "Methonica leopoldii Van Houtte ex Lem.",
+canonicalForm: "Methonica leopoldii",
+italicisedForm: "<i>Methonica leopoldii </i>Van Houtte<i> ex </i>Lem. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3667,
+name: "Methonica petersiana Klotzsch ex Garcke",
+canonicalForm: "Methonica petersiana",
+italicisedForm: "<i>Methonica petersiana </i>Klotzsch<i> ex </i>Garcke ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3668,
+name: "Methonica plantii Planch.",
+canonicalForm: "Methonica plantii",
+italicisedForm: "<i>Methonica plantii </i>Planch. ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3669,
+name: "Methonica platyphylla Klotzsch",
+canonicalForm: "Methonica platyphylla",
+italicisedForm: "<i>Methonica platyphylla </i>Klotzsch ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3670,
+name: "Methonica superba (L.) Crantz",
+canonicalForm: "Methonica superba",
+italicisedForm: "<i>Methonica superba (</i>L.<i>) </i>Crantz ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3671,
+name: "Methonica virescens (Lindl.) Kunth",
+canonicalForm: "Methonica virescens",
+italicisedForm: "<i>Methonica virescens (</i>Lindl.<i>) </i>Kunth ",
+taxonConcept: {
+id: 297
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:37:38Z",
+lastRevised: "2015-03-19T11:38:16Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Gloriosa superba/glosi_20090213_162906_th1.jpg",
+notes: "<h6>Biological Type</h6><p>geophyte</p><h6>Code</h6><p>GLOSI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>geophyte</p><h6>Code</h6><p>GLOSI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 1252,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>geophyte</p><h6>Code</h6><p>GLOSI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:38:12Z",
+lastUpdated: "2014-09-24T17:38:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580292154,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1251,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Gloriosa superba L.",
+dateCreated: "2014-09-24T17:38:12Z",
+lastUpdated: "2014-09-24T17:38:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580292153,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4321,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>GLOSI</p><h6>Type Biologique</h6><p>geophyte</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:38:15Z",
+lastUpdated: "2015-03-19T11:38:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765095613,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4322,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Gloriosa superba L.",
+dateCreated: "2015-03-19T11:38:16Z",
+lastUpdated: "2015-03-19T11:38:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765096044,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3325,
+url: "http://portal.wikwio.org/biodiv/img//Gloriosa superba/glosi_20090213_162906.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Gloriosa superba/glosi_20090213_162906_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:37:44Z",
+rating: 0
+},
+{
+id: 3326,
+url: "http://portal.wikwio.org/biodiv/img//Gloriosa superba/glosi_20090213_200718.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Gloriosa superba/glosi_20090213_200718_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:37:44Z",
+rating: 0
+},
+{
+id: 3327,
+url: "http://portal.wikwio.org/biodiv/img//Gloriosa superba/glosi_20090213_203428.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Gloriosa superba/glosi_20090213_203428_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:37:44Z",
+rating: 0
+},
+{
+id: 3328,
+url: "http://portal.wikwio.org/biodiv/img//Gloriosa superba/glosi_20090213_203421.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Gloriosa superba/glosi_20090213_203421_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:37:44Z",
+rating: 0
+},
+{
+id: 3329,
+url: "http://portal.wikwio.org/biodiv/img//Gloriosa superba/glosi_20090213_200737.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Gloriosa superba/glosi_20090213_200737_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:37:44Z",
+rating: 0
+},
+{
+id: 3330,
+url: "http://portal.wikwio.org/biodiv/img//Gloriosa superba/glosi_20090213_200754.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Gloriosa superba/glosi_20090213_200754_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:37:45Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

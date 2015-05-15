@@ -1,0 +1,3227 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 225,
+title: "<i>Oxalis corniculata </i>L. ",
+taxonConcept: {
+id: 439,
+name: "Oxalis corniculata L.",
+canonicalForm: "Oxalis corniculata",
+italicisedForm: "<i>Oxalis corniculata </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 437,
+name: "Oxalidaceae",
+canonicalForm: "Oxalidaceae",
+italicisedForm: "<i>Oxalidaceae</i>",
+rank: "Family"
+},
+{
+id: 438,
+name: "Oxalis",
+canonicalForm: "Oxalis",
+italicisedForm: "<i>Oxalis</i>",
+rank: "Genus"
+},
+{
+id: 439,
+name: "Oxalis corniculata L.",
+canonicalForm: "Oxalis corniculata",
+italicisedForm: "<i>Oxalis corniculata </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 4787,
+name: "Acetosella bakeriana Kuntze",
+canonicalForm: "Acetosella bakeriana",
+italicisedForm: "<i>Acetosella bakeriana </i>Kuntze ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4788,
+name: "Acetosella corniculata (L.) Kuntze",
+canonicalForm: "Acetosella corniculata",
+italicisedForm: "<i>Acetosella corniculata (</i>L.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4789,
+name: "Acetosella corniculata var. repens (Thunb.) Kuntze",
+canonicalForm: "Acetosella corniculata repens",
+italicisedForm: "<i>Acetosella corniculata </i>var.<i> repens (</i>Thunb.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4790,
+name: "Acetosella corniculata var. subglabra Kuntze",
+canonicalForm: "Acetosella corniculata subglabra",
+italicisedForm: "<i>Acetosella corniculata </i>var.<i> subglabra </i>Kuntze ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4791,
+name: "Acetosella corniculata var. villosa (M.Bieb.) Kuntze",
+canonicalForm: "Acetosella corniculata villosa",
+italicisedForm: "<i>Acetosella corniculata </i>var.<i> villosa (</i>M.Bieb.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4792,
+name: "Acetosella fontana (Bunge) Kuntze",
+canonicalForm: "Acetosella fontana",
+italicisedForm: "<i>Acetosella fontana (</i>Bunge<i>) </i>Kuntze ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4793,
+name: "Acetosella herpestica (Schltdl.) Kuntze",
+canonicalForm: "Acetosella herpestica",
+italicisedForm: "<i>Acetosella herpestica (</i>Schltdl.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4794,
+name: "Acetosella stricta (L.) Kuntze",
+canonicalForm: "Acetosella stricta",
+italicisedForm: "<i>Acetosella stricta (</i>L.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4795,
+name: "Acetosella villosa (Progel) Kuntze",
+canonicalForm: "Acetosella villosa",
+italicisedForm: "<i>Acetosella villosa (</i>Progel<i>) </i>Kuntze ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4796,
+name: "Oxalis albicans Kunth",
+canonicalForm: "Oxalis albicans",
+italicisedForm: "<i>Oxalis albicans </i>Kunth ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4797,
+name: "Oxalis albicans var. sericea DC.",
+canonicalForm: "Oxalis albicans sericea",
+italicisedForm: "<i>Oxalis albicans </i>var.<i> sericea </i>DC. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4798,
+name: "Oxalis bradei R. Knuth",
+canonicalForm: "Oxalis bradei",
+italicisedForm: "<i>Oxalis bradei </i>R. Knuth ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4799,
+name: "Oxalis corniculata subsp. albicans (Kunth) Lourteig",
+canonicalForm: "Oxalis corniculata albicans",
+italicisedForm: "<i>Oxalis corniculata </i>subsp.<i> albicans (</i>Kunth<i>) </i>Lourteig ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4800,
+name: "Oxalis corniculata var. atropurpurea Planch.",
+canonicalForm: "Oxalis corniculata atropurpurea",
+italicisedForm: "<i>Oxalis corniculata </i>var.<i> atropurpurea </i>Planch. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4801,
+name: "Oxalis corniculata subsp. corniculata",
+canonicalForm: "Oxalis corniculata corniculata",
+italicisedForm: "<i>Oxalis corniculata </i>subsp.<i> corniculata</i>",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4802,
+name: "Oxalis corniculata f. erecta Makino",
+canonicalForm: "Oxalis corniculata erecta",
+italicisedForm: "<i>Oxalis corniculata </i>f.<i> erecta </i>Makino ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4803,
+name: "Oxalis corniculata var. langloisii (Small) Wiegand",
+canonicalForm: "Oxalis corniculata langloisii",
+italicisedForm: "<i>Oxalis corniculata </i>var.<i> langloisii (</i>Small<i>) </i>Wiegand ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4804,
+name: "Oxalis corniculata var. lupulina (Kunth) Zucc.",
+canonicalForm: "Oxalis corniculata lupulina",
+italicisedForm: "<i>Oxalis corniculata </i>var.<i> lupulina (</i>Kunth<i>) </i>Zucc. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4805,
+name: "Oxalis corniculata var. papuana R. Knuth",
+canonicalForm: "Oxalis corniculata papuana",
+italicisedForm: "<i>Oxalis corniculata </i>var.<i> papuana </i>R. Knuth ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4806,
+name: "Oxalis corniculata var. pilosiuscula (Kunth) Zucc.",
+canonicalForm: "Oxalis corniculata pilosiuscula",
+italicisedForm: "<i>Oxalis corniculata </i>var.<i> pilosiuscula (</i>Kunth<i>) </i>Zucc. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4807,
+name: "Oxalis corniculata var. purpurascens Speg.",
+canonicalForm: "Oxalis corniculata purpurascens",
+italicisedForm: "<i>Oxalis corniculata </i>var.<i> purpurascens </i>Speg. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4808,
+name: "Oxalis corniculata var. purpurea Parl.",
+canonicalForm: "Oxalis corniculata purpurea",
+italicisedForm: "<i>Oxalis corniculata </i>var.<i> purpurea </i>Parl. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4809,
+name: "Oxalis corniculata var. repens (Thunb.) Zucc.",
+canonicalForm: "Oxalis corniculata repens",
+italicisedForm: "<i>Oxalis corniculata </i>var.<i> repens (</i>Thunb.<i>) </i>Zucc. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4810,
+name: "Oxalis corniculata var. sericea R. Knuth",
+canonicalForm: "Oxalis corniculata sericea",
+italicisedForm: "<i>Oxalis corniculata </i>var.<i> sericea </i>R. Knuth ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4811,
+name: "Oxalis corniculata subsp. subglabra Masam.",
+canonicalForm: "Oxalis corniculata subglabra",
+italicisedForm: "<i>Oxalis corniculata </i>subsp.<i> subglabra </i>Masam. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4812,
+name: "Oxalis corniculata var. taiwanensis Masam.",
+canonicalForm: "Oxalis corniculata taiwanensis",
+italicisedForm: "<i>Oxalis corniculata </i>var.<i> taiwanensis </i>Masam. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4813,
+name: "Oxalis corniculata var. villosa (M.Bieb.) Hohen.",
+canonicalForm: "Oxalis corniculata villosa",
+italicisedForm: "<i>Oxalis corniculata </i>var.<i> villosa (</i>M.Bieb.<i>) </i>Hohen. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4814,
+name: "Oxalis corniculata var. viscidula Wiegand",
+canonicalForm: "Oxalis corniculata viscidula",
+italicisedForm: "<i>Oxalis corniculata </i>var.<i> viscidula </i>Wiegand ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4815,
+name: "Oxalis foliosa Blatt.",
+canonicalForm: "Oxalis foliosa",
+italicisedForm: "<i>Oxalis foliosa </i>Blatt. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4816,
+name: "Oxalis grenadensis Urb.",
+canonicalForm: "Oxalis grenadensis",
+italicisedForm: "<i>Oxalis grenadensis </i>Urb. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4817,
+name: "Oxalis herpestica Schltdl.",
+canonicalForm: "Oxalis herpestica",
+italicisedForm: "<i>Oxalis herpestica </i>Schltdl. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4818,
+name: "Oxalis langloisii (Small) Fedde",
+canonicalForm: "Oxalis langloisii",
+italicisedForm: "<i>Oxalis langloisii (</i>Small<i>) </i>Fedde ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4819,
+name: "Oxalis lupulina Kunth",
+canonicalForm: "Oxalis lupulina",
+italicisedForm: "<i>Oxalis lupulina </i>Kunth ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4820,
+name: "Oxalis meridensis Pittier",
+canonicalForm: "Oxalis meridensis",
+italicisedForm: "<i>Oxalis meridensis </i>Pittier ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4821,
+name: "Oxalis minima Steud.",
+canonicalForm: "Oxalis minima",
+italicisedForm: "<i>Oxalis minima </i>Steud. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4822,
+name: "Oxalis nematodes Spreng.",
+canonicalForm: "Oxalis nematodes",
+italicisedForm: "<i>Oxalis nematodes </i>Spreng. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4823,
+name: "Oxalis parvifolia DC.",
+canonicalForm: "Oxalis parvifolia",
+italicisedForm: "<i>Oxalis parvifolia </i>DC. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4824,
+name: "Oxalis pilosiuscula Kunth",
+canonicalForm: "Oxalis pilosiuscula",
+italicisedForm: "<i>Oxalis pilosiuscula </i>Kunth ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4825,
+name: "Oxalis procumbens Steud. ex A. Rich.",
+canonicalForm: "Oxalis procumbens",
+italicisedForm: "<i>Oxalis procumbens </i>Steud.<i> ex </i>A. Rich. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4826,
+name: "Oxalis procumbens subsp. bathieana Lourteig",
+canonicalForm: "Oxalis procumbens bathieana",
+italicisedForm: "<i>Oxalis procumbens </i>subsp.<i> bathieana </i>Lourteig ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4827,
+name: "Oxalis pubescens Stokes",
+canonicalForm: "Oxalis pubescens",
+italicisedForm: "<i>Oxalis pubescens </i>Stokes ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4828,
+name: "Oxalis radicosa A. Rich.",
+canonicalForm: "Oxalis radicosa",
+italicisedForm: "<i>Oxalis radicosa </i>A. Rich. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4829,
+name: "Oxalis repens Thunb.",
+canonicalForm: "Oxalis repens",
+italicisedForm: "<i>Oxalis repens </i>Thunb. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4830,
+name: "Oxalis repens var. erecta (Makino) Masam.",
+canonicalForm: "Oxalis repens erecta",
+italicisedForm: "<i>Oxalis repens </i>var.<i> erecta (</i>Makino<i>) </i>Masam. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4831,
+name: "Oxalis repens var. eu-repens A. Chev.",
+canonicalForm: "Oxalis repens eu-repens",
+italicisedForm: "<i>Oxalis repens </i>var.<i> eu-repens </i>A. Chev. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4832,
+name: "Oxalis repens f. speciosa Masam.",
+canonicalForm: "Oxalis repens speciosa",
+italicisedForm: "<i>Oxalis repens </i>f.<i> speciosa </i>Masam. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4833,
+name: "Oxalis simulans Baker",
+canonicalForm: "Oxalis simulans",
+italicisedForm: "<i>Oxalis simulans </i>Baker ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4834,
+name: "Oxalis steudeliana Kunth",
+canonicalForm: "Oxalis steudeliana",
+italicisedForm: "<i>Oxalis steudeliana </i>Kunth ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4835,
+name: "Oxalis taiwanensis (Masam.) Masam.",
+canonicalForm: "Oxalis taiwanensis",
+italicisedForm: "<i>Oxalis taiwanensis (</i>Masam.<i>) </i>Masam. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4836,
+name: "Oxalis trinidadensis R. Knuth",
+canonicalForm: "Oxalis trinidadensis",
+italicisedForm: "<i>Oxalis trinidadensis </i>R. Knuth ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4837,
+name: "Oxalis villosa M.Bieb.",
+canonicalForm: "Oxalis villosa",
+italicisedForm: "<i>Oxalis villosa </i>M.Bieb. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4838,
+name: "Oxys corniculata (L.) Scop.",
+canonicalForm: "Oxys corniculata",
+italicisedForm: "<i>Oxys corniculata (</i>L.<i>) </i>Scop. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4839,
+name: "Oxys lutea Bubani",
+canonicalForm: "Oxys lutea",
+italicisedForm: "<i>Oxys lutea </i>Bubani ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4840,
+name: "Oxys stricta All.",
+canonicalForm: "Oxys stricta",
+italicisedForm: "<i>Oxys stricta </i>All. ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4841,
+name: "Xanthoxalis albicans (Kunth) Small",
+canonicalForm: "Xanthoxalis albicans",
+italicisedForm: "<i>Xanthoxalis albicans (</i>Kunth<i>) </i>Small ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4842,
+name: "Xanthoxalis corniculata (L.) Small",
+canonicalForm: "Xanthoxalis corniculata",
+italicisedForm: "<i>Xanthoxalis corniculata (</i>L.<i>) </i>Small ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4843,
+name: "Xanthoxalis corniculata f. atropupurea (Planch.) Nakai",
+canonicalForm: "Xanthoxalis corniculata atropupurea",
+italicisedForm: "<i>Xanthoxalis corniculata </i>f.<i> atropupurea (</i>Planch.<i>) </i>Nakai ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4844,
+name: "Xanthoxalis corniculata var. atropurpurea (Planch.) Moldenke",
+canonicalForm: "Xanthoxalis corniculata atropurpurea",
+italicisedForm: "<i>Xanthoxalis corniculata </i>var.<i> atropurpurea (</i>Planch.<i>) </i>Moldenke ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4845,
+name: "Xanthoxalis corniculata subsp. repens (Thunb.) Tzvelev",
+canonicalForm: "Xanthoxalis corniculata repens",
+italicisedForm: "<i>Xanthoxalis corniculata </i>subsp.<i> repens (</i>Thunb.<i>) </i>Tzvelev ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4846,
+name: "Xanthoxalis filiformis (Kunth) Holub",
+canonicalForm: "Xanthoxalis filiformis",
+italicisedForm: "<i>Xanthoxalis filiformis (</i>Kunth<i>) </i>Holub ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4847,
+name: "Xanthoxalis langloisii Small",
+canonicalForm: "Xanthoxalis langloisii",
+italicisedForm: "<i>Xanthoxalis langloisii </i>Small ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4848,
+name: "Xanthoxalis parvifolia (DC.) Holub",
+canonicalForm: "Xanthoxalis parvifolia",
+italicisedForm: "<i>Xanthoxalis parvifolia (</i>DC.<i>) </i>Holub ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4849,
+name: "Xanthoxalis repens (Thunb.) Moldenke",
+canonicalForm: "Xanthoxalis repens",
+italicisedForm: "<i>Xanthoxalis repens (</i>Thunb.<i>) </i>Moldenke ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4850,
+name: "Xanthoxalis trinidadensis (R. Knuth) Holub",
+canonicalForm: "Xanthoxalis trinidadensis",
+italicisedForm: "<i>Xanthoxalis trinidadensis (</i>R. Knuth<i>) </i>Holub ",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1063,
+name: "Tref",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1064,
+name: "Yellow sorrel",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1065,
+name: "Bolila",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 492,
+name: "Sotho"
+}
+},
+{
+id: 1066,
+name: "Udzia",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 1067,
+name: "Creeping yellow sorrel",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1068,
+name: "Petit Trèfle",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1069,
+name: "Petit trèfle",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1070,
+name: "Ti trèfle",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1071,
+name: "Isithathe",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 482,
+name: "Zulu"
+}
+},
+{
+id: 1072,
+name: "Jimson weed",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1073,
+name: "Petite oseille",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 1074,
+name: "Steenboksuring",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 1075,
+name: "Siramboalavo",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1076,
+name: "Trèfle",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1077,
+name: "Tuinranksuring",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 1078,
+name: "Kidiadiamborona",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1079,
+name: "Alléluia à fleurs jaunes",
+taxonConcept: {
+id: 439
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:03:09Z",
+lastRevised: "2015-05-07T14:49:45Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_07_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>OXACO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>OXACO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1655,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>OXACO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2014-09-24T18:05:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943772,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1654,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>First Leaves</h6><p>First leaves are alternate, compound, green in color, long-stalked. Blade has 3 digitate leaflets, heart-shaped. The base is cuneate and apex is emarginate. Only the midrib nerve is marked.</p><h6>Leaf</h6><p>Leaves are compound, alternate, sometimes fascicled in young plants. They are carried by a long petiole 3 to 8 cm. Stipules with adherent hair. 3 sessile leaflets, 5 to 18 mm long. Leaflet lamina glabrous or nearly so, broadly emarginate at the top and wide corner at the base. Margin entire, sometimes finely ciliated. Venation sparse.</p><h6>General Habit</h6><p>O. corniculata is a small, creeping or semi-erect herb, commonly lying on the ground.</p><h6>Underground System</h6><p>Taproot and presence of numerous fibrous roots at stem nodes. Without bulb.</p><h6>Flower</h6><p>Bracts and bracteoles linear to triangular, ciliate. Small yellow flowers at the end of a pedicel, shorter than the peduncle and refracted at fruiting. Calyx with 5 linear sepals, 3 to 4 mm long, with short hairs. Corolla with 5 yellow petals, unequal, oblong to spatulate, 4 to 6 mm long. 10 stamens within 5 long and 5 short. The superior ovary is surmounted by a style as long as the stamens and stigma with two lobes.</p><h6>Fruit</h6><p>Fruit are dehiscent capsules, subcylindrical and angular shaped. The apex is pointed, with relected hairs mixed more or less hairs glandular. It is long 10 to 15 mm and includes five longitudinal valves, containing 5-11 seeds each.</p><h6>Seed</h6><p>Seeds are ovoid red-brown, 1 to 1.5 mm long. The tegument has 7-9 transverse ribs marked.</p><h6>Global Description</h6><p>O. corniculata is a small, soft herbaceous plant, semi-erect weed. It is prostrate, rooted at the lower nodes with aerial stems short and slender. Leaves are inserted alternately along the stems. They are composed of three leaflets, heart-shaped, more rounded than in O. latifolia. The leaves are folded in the absence or excess of light. The flowers are yellow, with 5 petals rounded. The fruit is spindle-shaped and erect. It opens when mature, releasing brown seeds.</p><h6>Inflorescence</h6><p>Inflorescence an axillary umbel of small cymes borne on a peduncle shorter than the leaves.</p><h6>Cotyledons</h6><p>Cotyledons are ovate, lanceolate, very shortly petiolate, 5 mm long.</p><h6>Stem</h6><p>Stem is cylindrical, solid, pubescent, often tinged with purple.</p>",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2014-09-24T18:05:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943772,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1660,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Oxalis corniculata L.",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2014-09-24T18:05:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943777,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1652,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "O. corniculata is a annual plant more or less perennial. It multiplies primarily by seeds long-distance spread by spraying or by birds. It also spreads by vegetative fragmentation of creeping stems.<br>",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2014-09-24T18:05:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943771,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1656,
+field: {
+concept: "Natural History",
+category: "Look Alikes",
+description: "Other taxa that this taxon may be confused with, and characters useful for their differentiation. Useful for identification and comparison. Common in invasive species communities.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "O. latifolia can be confused with O. corniculata. O. latifolia is in tufts, has purple flowers and triangular large leaflets while O. corniculata is prostrate, with yellow flowers and rounded small leaflets.<br>",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2014-09-24T18:05:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943773,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1648,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "It occurs on the roadsides and fields up to 300 meters. It can become a troublesome weed in crops.<br>",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2014-09-24T18:05:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943766,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1658,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Origin</h6><p>Native to Europe.</p>",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2014-09-24T18:05:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943773,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1653,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>This weed poses few problems in pastures, however, biological characteristics that make it a potentially invasive species and toxicity call for supervision to limit its spread across the farms and in the territory. Can become a troublesome weed in lawn and crops.</p><h6>Local Weediness</h6><p>South Africa: Occurs in the Western cape province and the entire Eastern part of South Africa. It is a troublesome weed for lawns and gardens and in crops. Sometimes it contains oxalic acid that cause poisoning in livestock.</p>",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2014-09-24T18:05:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943772,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1650,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "It is used as traditionally medicine to treat snake bites, leaves and flowers are edible.<br>",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2014-09-24T18:05:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943768,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1657,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Selective herbicide (2,4-D) can be used in pastures or monocotyledone crops (Sugar cane, Maiz...) or total herbicide (glyphosate).</p>",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2014-09-24T18:05:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943773,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1659,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2015-04-03T11:12:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Publications CC."
+},
+{
+title: "-(AdventOI) Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+title: "-(AdvenPac) Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., and Grard, P. (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+title: "-(AdventOI) Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/o/oxaco/oxaco_fr.html/oxaco_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943774,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1647,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2015-03-29T13:14:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Publications CC."
+},
+{
+title: "-(AdventOI) Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/o/oxaco/oxaco_fr.html/oxaco_fr.html"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/o/oxaco/oxaco_fr.html/oxaco_fr.html"
+},
+{
+title: "-(AdvenPac) Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., and Grard, P. (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943764,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1649,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2015-03-09T05:24:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-(AdvenPac) Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., and Grard, P. (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+title: "-(AdventOI) Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/o/oxaco/oxaco_fr.html/oxaco_fr.html"
+},
+{
+title: "-(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Publications CC."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943767,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1651,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:05:43Z",
+lastUpdated: "2015-04-03T11:12:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Publications CC."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/o/oxaco/oxaco_fr.html/oxaco_fr.html"
+},
+{
+title: "-(AdvenPac) Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., and Grard, P. (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+title: "-(AdventOI) Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+title: "-(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Publications CC."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581943769,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5157,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Oxalis corniculata est une petite herbe fragile, semi-dressée, communément couchée. Elle est rampante, émettant à chaque noeud des racines fasciculées et des tiges aériennes courtes et grêles. Les feuilles sont insérées alternativement, le long des tiges. Elles sont composées de trois folioles, en forme de coeur, plus arrondies que chez O. latifolia. Les feuilles se replient en l'absence ou en excès de lumière. Les fleurs sont de couleur jaune, à 5 pétales arrondis. Le fruit est fusiforme et dressé. Il s'ouvre à maturité, laissant s'échapper des graines brunes.</p>",
+dateCreated: "2015-03-19T11:50:23Z",
+lastUpdated: "2015-03-19T11:50:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765823592,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5143,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>OXACO</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:50:01Z",
+lastUpdated: "2015-03-19T11:50:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765801441,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5148,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Oxalis corniculata</em> est une petite herbe fragile, semi-dress&eacute;e, commun&eacute;ment couch&eacute;e. Elle est rampante, &eacute;mettant &agrave; chaque noeud des racines fascicul&eacute;es et des tiges a&eacute;riennes courtes et gr&ecirc;les. Les feuilles sont ins&eacute;r&eacute;es alternativement, le long des tiges. Elles sont compos&eacute;es de trois folioles, en forme de coeur, plus arrondies que chez O. latifolia. Les feuilles se replient en l&#39;absence ou en exc&egrave;s de lumi&egrave;re. Les fleurs sont de couleur jaune, &agrave; 5 p&eacute;tales arrondis. Le fruit est fusiforme et dress&eacute;. Il s&#39;ouvre &agrave; maturit&eacute;, laissant s&#39;&eacute;chapper des graines brunes.</p> <h6> Cotyl&eacute;dons</h6> <p> Cotyl&eacute;dons ovales, lanc&eacute;ol&eacute;s, tr&egrave;s courtement p&eacute;tiol&eacute;s, longs de 5 mm.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Premi&egrave;res feuilles alternes, compos&eacute;es, d&#39;un vert trouble, longuement p&eacute;tiol&eacute;es. Limbe &agrave; 3 folioles digit&eacute;es, en forme de coeur, &agrave; base en coin et sommet &eacute;margin&eacute;. Seule la nervure m&eacute;diane est marqu&eacute;e. Deux petites stipules, oblongues, &agrave; la base du p&eacute;tiole.</p> <h6> Port</h6> <p> Herbe annuelle ou vivace rampante, stolonif&egrave;re, haute de 5 &agrave; 35 cm. Nombreuses tiges a&eacute;riennes, rampantes, parfois dress&eacute;es, souvent ramifi&eacute;es, et s&#39;enracinant aux noeuds.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est un pivot principal et pr&eacute;sente de nombreuses racines fibreuses fascicul&eacute;es &agrave; partir des noeuds de la tige. Plante sans bulbe.</p> <h6> Tige</h6> <p> Tige cylindrique, pleine, pubescente, souvent teint&eacute;e de pourpre.</p> <h6> Feuille</h6> <p> Feuilles compos&eacute;es, alternes, parfois fascicul&eacute;es chez les jeunes plantes. Elles sont port&eacute;es par un p&eacute;tiole long de 3 &agrave; 8 cm, pr&eacute;sentant, &agrave; la base, des stipules adh&eacute;rantes cili&eacute;es. A l&#39;extr&eacute;mit&eacute; du p&eacute;tiole, 3 folioles sessiles longues de 5 &agrave; 18 mm. Limbe &eacute;margin&eacute;, glabre ou presque, largement &eacute;margin&eacute; au sommet et en coin large &agrave; la base. Marge enti&egrave;re, parfois finement cili&eacute;e. Nervation peu abondante.</p> <h6> Inflorescence</h6> <p> Inflorescence en petite cyme ombelliforme axillaire port&eacute;e par un p&eacute;doncule plus court que les feuilles. Bract&eacute;es et bract&eacute;oles lin&eacute;aires &agrave; triangulaires, cili&eacute;es.</p> <h6> Fleur</h6> <p> Petites fleurs jaunes, &agrave; l&#39;extr&eacute;mit&eacute; d&#39;un p&eacute;dicelle, plus court que le p&eacute;doncule et r&eacute;fract&eacute; lors de la fructification. Calice &agrave; 5 s&eacute;pales lin&eacute;aires, longs de 3 &agrave; 4 mm, &agrave; poils courts. Corolle &agrave; 5 p&eacute;tales jaunes, in&eacute;gaux, oblongs &agrave; spatul&eacute;s, longs de 4 &agrave; 6 mm. 10 &eacute;tamines dont 5 longues et 5 courtes. L&#39;ovaire est sup&egrave;re surmont&eacute; d&#39;un style aussi long que les &eacute;tamines et d&#39;un stigmate bilobul&eacute;.</p> <h6> Fruit</h6> <p> Le fruit est une capsule subcylindrique anguleuse, au sommet aigu, d&eacute;hiscente, &agrave; pubescence r&eacute;trorse et m&ecirc;l&eacute;e plus ou moins &agrave; des poils glanduleux. Elle est longue de 10 &agrave; 15 mm et comprend 5 loges longitudinales, contenant 5 &agrave; 11 graines.</p> <h6> Graine</h6> <p> Graine ovo&iuml;de de couleur rouge brun, longue de 1 &agrave; 1,5 mm. Le t&eacute;gument pr&eacute;sente 7 &agrave; 9 c&ocirc;tes transversales marqu&eacute;es.</p> ",
+dateCreated: "2015-03-19T11:50:03Z",
+lastUpdated: "2015-05-07T14:41:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765803206,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5150,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Oxalis corniculata L.",
+dateCreated: "2015-03-19T11:50:03Z",
+lastUpdated: "2015-03-19T11:50:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765803980,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5149,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Nouvelle-Cal&eacute;donie</strong> : La floraison d&#39;<em>Oxalis corniculata</em> a lieu essentiellement en saison des pluies.<br /> ",
+dateCreated: "2015-03-19T11:50:03Z",
+lastUpdated: "2015-05-07T14:42:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765803605,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5154,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Oxalis corniculata</em> est une plante annuelle &agrave; plus ou moins vivace. Il se multiplie principalement par ses graines diss&eacute;min&eacute;es &agrave; longue distance par projection ou par les oiseaux. Il se propage aussi par voie v&eacute;g&eacute;tative par fragmentation des tiges rampantes. La banque de graines du sol peut &ecirc;tre &eacute;lev&eacute;e, avec pr&egrave;s de 500 000 graines par ha dans des zones o&ugrave; la plante se rencontre fr&eacute;quemment.<br /> ",
+dateCreated: "2015-03-19T11:50:05Z",
+lastUpdated: "2015-05-07T14:42:34Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765805552,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6671,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>O. corniculata</em> peut &ecirc;tre confondu avec <em>O. latifolia</em>&nbsp;; celui-ci pousse en touffe avec des fleurs mauves et de grands folioles triangulaires tandis qu&#39;<em>O. corniculata</em> est prostr&eacute;, avec des fleurs jaunes et de petits folioles arrondis. ",
+dateCreated: "2015-05-07T14:49:45Z",
+lastUpdated: "2015-05-07T14:58:55Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 36,
+name: "Marnotte Pascal",
+icon: "http://portal.wikwio.org/biodiv/users//097b0e2c-495a-4219-bf9f-5a2f78a0889c/resources/330_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 36,
+name: "Marnotte Pascal",
+icon: "http://portal.wikwio.org/biodiv/users//097b0e2c-495a-4219-bf9f-5a2f78a0889c/resources/330_th1.jpg"
+},
+uploadTime: 1431010185928,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5153,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: <em>Oxalis corniculata</em> est pr&eacute;sent au bord des routes et des champs jusqu&#39;&agrave; 300 m d&#39;altitude.<br /> <strong>Madagascar </strong>: Esp&egrave;ce rud&eacute;rale et adventice peu fr&eacute;quente des cultures pluviales dans les Hautes terres et en zone humide, sur sol limono-sableux, sur alluvions et sur colluvions de bas de pente.<br /> <strong>Maurice </strong>: Esp&egrave;ce tr&egrave;s r&eacute;pandue &agrave; toute altitude et devenue une mauvaise herbe g&ecirc;nante dans les cultures.<br /> <strong>La R&eacute;union</strong> : L&#39;esp&egrave;ce est tr&egrave;s commune partout &agrave; La R&eacute;union, en toutes zones. Elle se rencontre sur des sols meubles et pas trop secs, en pleine lumi&egrave;re ou l&eacute;g&egrave;rement &agrave; l&#39;ombre. On la trouve essentiellement sur sols sableux et limons riches en &eacute;l&eacute;ments nutritifs.<br /> <strong>Seychelles </strong>: Adventice pr&eacute;sente dans toutes les zones agricoles mais plus commune en altitude.<br /> ",
+dateCreated: "2015-03-19T11:50:05Z",
+lastUpdated: "2015-05-07T14:42:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765805152,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5152,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Origine</h6> <p> <em>Oxalis corniculata</em> est probablement native d&#39;Europe.</p> <h6> Distribution Mondiale</h6> <p> Introduite ou consid&eacute;r&eacute;e comme indig&egrave;ne dans la plupart des &icirc;les du Pacifique.</p> ",
+dateCreated: "2015-03-19T11:50:04Z",
+lastUpdated: "2015-05-07T14:50:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765804754,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5155,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Globale</h6> <p> <em>O. corniculata</em> est d&eacute;clar&eacute;e esp&egrave;ce envahissante aux &icirc;les Cook, &agrave; Fidji, en Polyn&eacute;sie, &agrave; Hawa&iuml; et dans le Queensland australien.</p> <h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>: <em>O. corniculata</em> est une adventice peu abondante.<br /> <strong>Madagascar </strong>: Esp&egrave;ce peu fr&eacute;quente et peu abondante dans les cultures annuelles.<br /> <strong>Maurice </strong>: Adventice tr&egrave;s pr&eacute;sente dans les champs de canne &agrave; sucre, mais ayant une nuisibilit&eacute; relativement faible pour la culture. Elle a toutefois une nuisibilit&eacute; moyenne &agrave; forte dans certaines cultures mara&icirc;ch&egrave;res.<br /> <strong>Nouvelle-Cal&eacute;donie</strong> : Introduite d&egrave;s le 18&egrave;me si&egrave;cle, elle est relativement commune jusqu&#39;&agrave; des altitudes moyennes de 500 &agrave; 600 m en mara&icirc;chage, dans les jardins, les bas-c&ocirc;t&eacute;s, les friches, les for&ecirc;ts perturb&eacute;es et les p&acirc;turages. Elle pr&eacute;f&egrave;re les sols meubles, pas trop secs, en pleine lumi&egrave;re ou l&eacute;g&egrave;rement &agrave; l&#39;ombre.<br /> <strong>La R&eacute;union</strong> : Cette adventice est l&#39;esp&egrave;ce la plus fr&eacute;quente des cultures r&eacute;unionnaises avec une fr&eacute;quence relative de 70 %, plus particuli&egrave;rement en cultures mara&icirc;ch&egrave;res et en canne &agrave; sucre. Son abondance est tr&egrave;s variable, pouvant atteindre jusqu&#39;&agrave; 85 % de recouvrement en culture mara&icirc;ch&egrave;re tr&egrave;s envahie.<br /> <strong>Seychelles </strong>: Cette adventice peut &ecirc;tre un probl&egrave;me sous serres et dans les cultures mara&icirc;ch&egrave;res et ornementales.</p> ",
+dateCreated: "2015-03-19T11:50:05Z",
+lastUpdated: "2015-05-07T14:51:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765805927,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5158,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>O. corniculata</em> contient des principes toxiques typiques du genre, les acides oxaliques. A forte dose (o&ugrave; par accumulation), ils entra&icirc;nent des troubles irritants, r&eacute;naux et digestifs ; ils ont aussi des effets anti-coagulants et d&eacute;calcifiants.<br /> ",
+dateCreated: "2015-03-19T11:50:23Z",
+lastUpdated: "2015-05-07T14:51:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765823903,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5156,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Locale</h6> <p> <strong>Madagascar </strong>: Les oxalis ont la capacit&eacute; &agrave; se d&eacute;velopper m&ecirc;me &agrave; travers un paillage tr&egrave;s &eacute;pais (gr&acirc;ce &agrave; leurs r&eacute;serves dans les racines). Le contr&ocirc;le par sarclage ou arrachage est donc difficile. Le contr&ocirc;le chimique est aussi difficile, les oxalis r&eacute;sistant &agrave; la plupart des herbicides disponibles &agrave; Madagascar, mis &agrave; part au diuron (et &agrave; l&rsquo;am&eacute;tryne et &agrave; l&rsquo;oxyfluorfen, non disponibles &agrave; Madagascar). Il faut donc absolument les &eacute;liminer avant qu&rsquo;elles ne deviennent abondantes.<br /> <strong>Nouvelle-Cal&eacute;donie</strong> : <em>O. corniculata</em> est une adventice qui pose peu de probl&egrave;mes en p&acirc;turages, cependant ses caract&eacute;ristiques biologiques qui en font une esp&egrave;ce potentiellement envahissante et sa toxicit&eacute; impliquent une surveillance afin de limiter sa propagation &agrave; l&#39;&eacute;chelle des exploitations d&#39;&eacute;levage et sur le territoire. Les d&eacute;buts d&#39;infestation doivent donc &ecirc;tre d&eacute;truits. Dans certaines situations, son d&eacute;veloppement tr&egrave;s dense peut entra&icirc;ner la disparition totale des plantes fourrag&egrave;res ce qui n&eacute;cessite aussi une intervention. La multiplication v&eacute;g&eacute;tative de cette esp&egrave;ce conduit &agrave; recourir &agrave; un traitement chimique s&eacute;lectif (2,4-D) ou total (glyphosate).</p> ",
+dateCreated: "2015-03-19T11:50:06Z",
+lastUpdated: "2015-05-07T14:52:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765806408,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5144,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:50:02Z",
+lastUpdated: "2015-03-31T06:53:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Blanfort V., Desmoulins F., Prosperi J., Le Bourgeois T., Guiglion R. & Grard P. 2010. AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. IAC, Cirad, Montpellier, France, Cédérom. http://idao.cirad.fr/applications."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765802510,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5147,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:50:02Z",
+lastUpdated: "2015-03-31T06:53:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.ars-grin.gov/cgi-bin/npgs/html/taxon.pl?26196"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765802511,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5145,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:50:02Z",
+lastUpdated: "2015-03-31T06:53:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765802510,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5146,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:50:02Z",
+lastUpdated: "2015-03-31T06:53:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765802510,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 4762,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:26Z",
+rating: 0
+},
+{
+id: 4763,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20110719_114318.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20110719_114318_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:26Z",
+rating: 0
+},
+{
+id: 4764,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:26Z",
+rating: 0
+},
+{
+id: 4765,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:26Z",
+rating: 0
+},
+{
+id: 4766,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103912.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103912_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:26Z",
+rating: 0
+},
+{
+id: 4767,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103850.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103850_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:26Z",
+rating: 0
+},
+{
+id: 4768,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103700.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103700_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:26Z",
+rating: 0
+},
+{
+id: 4769,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130618_061405.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130618_061405_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:27Z",
+rating: 0
+},
+{
+id: 4770,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_195422.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_195422_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:27Z",
+rating: 0
+},
+{
+id: 4771,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_195405.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_195405_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:27Z",
+rating: 0
+},
+{
+id: 4772,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_195338.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_195338_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:27Z",
+rating: 0
+},
+{
+id: 4773,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_195322.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_195322_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:27Z",
+rating: 0
+},
+{
+id: 4774,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103924.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103924_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:28Z",
+rating: 0
+},
+{
+id: 4775,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20110719_114400.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20110719_114400_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:28Z",
+rating: 0
+},
+{
+id: 4776,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:28Z",
+rating: 0
+},
+{
+id: 4777,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_195436.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_195436_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:28Z",
+rating: 0
+},
+{
+id: 4778,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103630.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103630_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:28Z",
+rating: 0
+},
+{
+id: 4779,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20110719_114254.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20110719_114254_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:28Z",
+rating: 0
+},
+{
+id: 4780,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20110719_200811.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20110719_200811_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:28Z",
+rating: 0
+},
+{
+id: 4781,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20110719_200654.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20110719_200654_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:29Z",
+rating: 0
+},
+{
+id: 4782,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:29Z",
+rating: 0
+},
+{
+id: 4783,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20020729_154140.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20020729_154140_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:29Z",
+rating: 0
+},
+{
+id: 4784,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_11.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_11_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:29Z",
+rating: 0
+},
+{
+id: 4785,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_10.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_10_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:29Z",
+rating: 0
+},
+{
+id: 4786,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:29Z",
+rating: 0
+},
+{
+id: 4787,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:30Z",
+rating: 0
+},
+{
+id: 4788,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:30Z",
+rating: 0
+},
+{
+id: 4789,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_105612.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_105612_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:30Z",
+rating: 0
+},
+{
+id: 4790,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_104012.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_104012_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:30Z",
+rating: 0
+},
+{
+id: 4791,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103936.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103936_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:30Z",
+rating: 0
+},
+{
+id: 4792,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103606.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_103606_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:30Z",
+rating: 0
+},
+{
+id: 4793,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_105710.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20130617_105710_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:31Z",
+rating: 0
+},
+{
+id: 4794,
+url: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Oxalis corniculata/oxaco_20080609_101246_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:03:31Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

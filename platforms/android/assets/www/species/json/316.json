@@ -1,0 +1,1544 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 316,
+title: "<i>Stachytarpheta urticifolia (</i>Salisb.<i>) </i>Sims ",
+taxonConcept: {
+id: 593,
+name: "Stachytarpheta urticifolia (Salisb.) Sims",
+canonicalForm: "Stachytarpheta urticifolia",
+italicisedForm: "<i>Stachytarpheta urticifolia (</i>Salisb.<i>) </i>Sims ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 358,
+name: "Verbenaceae",
+canonicalForm: "Verbenaceae",
+italicisedForm: "<i>Verbenaceae</i>",
+rank: "Family"
+},
+{
+id: 591,
+name: "Stachytarpheta",
+canonicalForm: "Stachytarpheta",
+italicisedForm: "<i>Stachytarpheta</i>",
+rank: "Genus"
+},
+{
+id: 593,
+name: "Stachytarpheta urticifolia (Salisb.) Sims",
+canonicalForm: "Stachytarpheta urticifolia",
+italicisedForm: "<i>Stachytarpheta urticifolia (</i>Salisb.<i>) </i>Sims ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 6453,
+name: "Cymburus urticifolius Salisb.",
+canonicalForm: "Cymburus urticifolius",
+italicisedForm: "<i>Cymburus urticifolius </i>Salisb. ",
+taxonConcept: {
+id: 593
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6454,
+name: "Verbena salisburii Endl.",
+canonicalForm: "Verbena salisburii",
+italicisedForm: "<i>Verbena salisburii </i>Endl. ",
+taxonConcept: {
+id: 593
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6455,
+name: "Zappania urticifolia (Salisb.) Poir.",
+canonicalForm: "Zappania urticifolia",
+italicisedForm: "<i>Zappania urticifolia (</i>Salisb.<i>) </i>Poir. ",
+taxonConcept: {
+id: 593
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1481,
+name: "Blue porterweed",
+taxonConcept: {
+id: 593
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1478,
+name: "Blue rat's tail",
+taxonConcept: {
+id: 593
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1480,
+name: "Nettleleaf velvetberry",
+taxonConcept: {
+id: 593
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1479,
+name: "Snakeweed",
+taxonConcept: {
+id: 593
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:47:00Z",
+lastRevised: "2015-05-04T09:35:24Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065135_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>STCUR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>STCUR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 2262,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>STCUR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:49:09Z",
+lastUpdated: "2014-09-24T18:49:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584549128,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2257,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Description</h6><p>Stachytarpheta urticifolia is a multi-stemmed, upright, robust herb or subshrub, 0.5 -1.5 m tall, woody at the base. The stems are 4-angled and softly pubescent. The leaves are simple, opposite, with distinct raised areas between the veins, giving the leaf a quilted appearance; the leaf blade is oval-lanceolate, 4-8 cm long and 2-4 cm wide, with a narrowing base and a toothed-margin. The inflorescences are terminal, slender and elongated spikes; their axis is smooth and fleshy, 5 mm in diameter, 15-30 cm long, with linear grooves in which 1-3 dark blue to purple violet flowers are borne. The dry, brown, and conical fruits are located in these grooves; when mature, they split in two seeds.</p>",
+dateCreated: "2014-09-24T18:49:09Z",
+lastUpdated: "2014-09-24T18:49:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584549124,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2259,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Stachytarpheta urticifolia (Salisb.) Sims",
+dateCreated: "2014-09-24T18:49:09Z",
+lastUpdated: "2014-09-24T18:49:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584549126,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2258,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Reproduces by seed. Seeds cling to the fur of animals and to machinery. They accumulate in the soil (several million per ha) and germinate throughout the year with good moisture conditions.<br>",
+dateCreated: "2014-09-24T18:49:09Z",
+lastUpdated: "2014-09-24T18:49:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584549125,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2263,
+field: {
+concept: "Natural History",
+category: "Look Alikes",
+description: "Other taxa that this taxon may be confused with, and characters useful for their differentiation. Useful for identification and comparison. Common in invasive species communities.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Can be confused with S. jamaicensis.<br>",
+dateCreated: "2014-09-24T18:49:09Z",
+lastUpdated: "2014-09-24T18:49:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584549129,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2264,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Origin</h6><p>Tropical and subtropical America.</p>",
+dateCreated: "2014-09-24T18:49:09Z",
+lastUpdated: "2014-09-24T18:49:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584549129,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2261,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Ornament.<br>",
+dateCreated: "2014-09-24T18:49:09Z",
+lastUpdated: "2014-09-24T18:49:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584549128,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2265,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:49:09Z",
+lastUpdated: "2015-02-19T13:33:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., and Grard, P. (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.305."
+},
+{
+title: "-Scott, A. J. 1994. Verbenacées. In Bosser, J. et al. Flore des Mascareignes, No. 137."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584549129,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2256,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:49:09Z",
+lastUpdated: "2015-04-09T15:58:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.305."
+},
+{
+title: "-Scott, A. J. 1994. Verbenacées. In Bosser, J. et al. Flore des Mascareignes, No. 137."
+},
+{
+title: "-Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., and Grard, P. (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584549123,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2260,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:49:09Z",
+lastUpdated: "2015-04-09T15:58:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Bromilow C. 2010. Problem plants and alien weeds of South Africa. Pretoria: Briza Publications. P.305."
+},
+{
+title: "-Scott, A. J. 1994. Verbenacées. In Bosser, J. et al. Flore des Mascareignes, No. 137."
+},
+{
+title: "-Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., and Grard, P. (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584549126,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 6226,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Stachytarpheta urticifolia est une plante herbacée dressée ramifiée qui mesure jusqu’à 1,50 m de haut. Les feuilles sont opposées et simples, longuement pétiolées, à limbe ovale, pointu à l’extrémité, à base atténuée se prolongeant sur le pétiole, à marge dentée. Les fleurs d’un bleu sombre s’échelonnent le long d’un épi florifère mince et allongé. Le fruit, allongé et pointu, est de couleur sombre.</p>",
+dateCreated: "2015-03-19T12:09:02Z",
+lastUpdated: "2015-03-19T12:09:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766942754,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6214,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>STCUR</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T12:08:58Z",
+lastUpdated: "2015-03-19T12:08:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766938056,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6218,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Stachytarpheta urticifolia</em> est une plante herbac&eacute;e dress&eacute;e ramifi&eacute;e qui mesure jusqu&rsquo;&agrave; 1,50 m de haut. Les feuilles sont oppos&eacute;es et simples, longuement p&eacute;tiol&eacute;es, &agrave; limbe ovale, pointu &agrave; l&rsquo;extr&eacute;mit&eacute;, &agrave; base att&eacute;nu&eacute;e se prolongeant sur le p&eacute;tiole, &agrave; marge dent&eacute;e. Les fleurs d&rsquo;un bleu sombre s&rsquo;&eacute;chelonnent le long d&rsquo;un &eacute;pi florif&egrave;re mince et allong&eacute;. Le fruit, allong&eacute; et pointu, est de couleur sombre.</p> <h6> Port</h6> <p> Plante herbac&eacute;e dress&eacute;e ramifi&eacute;e, de 50 cm &agrave; 1,50 m de haut.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est pivotante.</p> <h6> Tige</h6> <p> Les rameaux jeunes sont de section presque quadrangulaire tandis que les tiges &acirc;g&eacute;es sont rondes, glabres et pleines.</p> <h6> Feuille</h6> <p> Les feuilles sont oppos&eacute;es et simples. Le p&eacute;tiole, long de 0,5 &agrave; 2 cm, est ail&eacute; par le prolongement du limbe. Le limbe est ovale ou elliptique, de 3 &agrave; 8 cm de long et 2 &agrave; 4,5 cm de large, &agrave; base att&eacute;nu&eacute;e sur le p&eacute;tiole, &agrave; extr&eacute;mit&eacute; en pointe aig&uuml;e, &agrave; marge d&eacute;coup&eacute;e en dents triangulaires pointues. Sa surface, gaufr&eacute;e sur la face sup&eacute;rieure, est glabre &agrave; l&rsquo;exception d&rsquo;une faible pubescence sur les nervures et &agrave; la base de la feuille jeune, &agrave; la face inf&eacute;rieure.</p> <h6> Inflorescence</h6> <p> L&rsquo;inflorescence est un &eacute;pi assez gr&ecirc;le de 15 &agrave; 40 cm de long. Les bract&eacute;es florales (4 &agrave; 5 mm de long et 1,2 &agrave; 1,5 mm de large) sont ovales, &eacute;troites, att&eacute;nu&eacute;es progressivement en pointe aig&uuml;e, &agrave; marge scarieuse.</p> <h6> Fleur</h6> <p> Le calice, long de 6 &agrave; 7 mm, est glabre, anguleux (5 &agrave; 6 angles), termin&eacute; par 5 &agrave; 6 petites dents au sommet. La corolle, longue de 8 &agrave; 9 mm, d&eacute;passe le calice. Elle se compose d&rsquo;un long tube termin&eacute; par 5 p&eacute;tales arrondis &eacute;tal&eacute;s. Elle est d&rsquo;une couleur bleu pourpre sombre, plus claire au centre.</p> <h6> Fruit</h6> <p> Le fruit est sec enfonc&eacute; dans la rainure de la tige florif&egrave;re. Il est oblong allong&eacute;, termin&eacute; en pointe. Il mesure 4,5 mm de long et 1,3 &agrave; 1,4 mm de large. Sa couleur varie du brun&acirc;tre au noir&acirc;tre. Il se divise en 2 graines &agrave; maturit&eacute;.</p> ",
+dateCreated: "2015-03-19T12:08:59Z",
+lastUpdated: "2015-05-04T09:34:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766939386,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6219,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Stachytarpheta urticifolia (Salisb.) Sims",
+dateCreated: "2015-03-19T12:08:59Z",
+lastUpdated: "2015-03-19T12:08:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766939832,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6223,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Stachytarpheta urticifolia</em> est une esp&egrave;ce p&eacute;renne se propageant par ses graines qui s&rsquo;accrochent au pelage des animaux et aux machines agricoles. Les graines s&rsquo;accumulent dans le sol (plusieurs millions par ha) et germent toute l&rsquo;ann&eacute;e avec de bonnes conditions d&rsquo;humidit&eacute;. Les plantules croissent rapidement et &eacute;mettent des inflorescences d&egrave;s la fin de leur premi&egrave;re saison des pluies. L&rsquo;Herbe bleue reste toujours verte, avec une p&eacute;riode de croissance plus marqu&eacute;e en saison des pluies.<br /> ",
+dateCreated: "2015-03-19T12:09:01Z",
+lastUpdated: "2015-05-04T09:35:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766941171,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6217,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Stachytarpheta urticifolia</em> est tr&egrave;s proche de<em> S. jamaicensis</em>, que l&#39;on distingue par ses feuilles &agrave; sommet et dents arrondies et faces non crisp&eacute;es, les fleurs sont de couleur bleu clair, l&#39;axe de l&#39;&eacute;pi en fruit est &eacute;pais, d&eacute;passant 2,5 mm de diam&egrave;tre et les bract&eacute;es florales sont larges.<br /> ",
+dateCreated: "2015-03-19T12:08:59Z",
+lastUpdated: "2015-05-04T09:36:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766939044,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6222,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Stachytarpheta urticifolia</em> esp&egrave;ce de milieux ouverts. Elle affectionne les sols lourds argileux.<br /> ",
+dateCreated: "2015-03-19T12:09:00Z",
+lastUpdated: "2015-05-04T09:35:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766940830,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6221,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Originaire des zones tropicales et subtropicales d’Amérique.</p><h6>Distribution Mondiale</h6><p>Espèce présente dans la plupart des zones tropicales et subtropicales.</p>",
+dateCreated: "2015-03-19T12:09:00Z",
+lastUpdated: "2015-03-19T12:09:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766940512,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6224,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Globale</h6> <p> C&#39;est une adventice des p&acirc;turages en Australie dans le Queensland et les Territoires du Nord. Elle fait partie des 33 esp&egrave;ces envahissantes les plus significatives des &icirc;les du Pacifique Sud.</p> <h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Nouvelle-Cal&eacute;donie</strong> : Introduite en 1868 comme fourrag&egrave;re, elle est aujourd&rsquo;hui une des adventices majeures des p&acirc;turages et des cultures &agrave; cycle long aux altitudes inf&eacute;rieures &agrave; 1200 m.</p> ",
+dateCreated: "2015-03-19T12:09:01Z",
+lastUpdated: "2015-05-04T09:36:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766941490,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6225,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Un agent de lutte biologique existe aux Etats-Unis : un escargot phytophage <em>Marisa </em>sp. qui d&eacute;feuille la plante.</p> <h6> Lutte Locale</h6> <p> <strong>Nouvelle-Cal&eacute;donie</strong> : La lutte par gyrobroyage est illusoire, il entra&icirc;ne une ramification des tiges. Il faut l&rsquo;associer &agrave; un traitement herbicide par pulv&eacute;risation sur des repousses actives de 3 semaines en saison des pluies avant floraison. Le 2,4-D se montre efficace. Sous peine de voir germer la banque de graines du sol, il faut rapidement effectuer un semis avec travail du sol (2 &agrave; 3 semaines apr&egrave;s traitement) en associant du Sorgho &agrave; une autre gramin&eacute;e fourrag&egrave;re. Une mise en d&eacute;fens de plusieurs mois s&rsquo;av&egrave;re &eacute;galement indispensable pour &eacute;tablir un couvert suffisant limitant les germinations. Une simple mise en d&eacute;fens apr&egrave;s traitement permet de reconstituer le p&acirc;turage, mais en cas de germinations importantes, il faudra effectuer un traitement herbicide dirig&eacute;.</p> ",
+dateCreated: "2015-03-19T12:09:01Z",
+lastUpdated: "2015-05-04T09:37:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766941899,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6216,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:08:58Z",
+lastUpdated: "2015-03-31T06:53:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Scott.A.J. 1994. Flore des Mascareignes, Vol. 137 Verbénacées in Bosser J., Cadet TH., Guého J. & Marais W. ed. Flore des Mascareignes, La Réunion, Maurice, Rodrigues. MSIRI, Maurice, IRD, France, RBG, UK."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766938579,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6215,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:08:58Z",
+lastUpdated: "2015-03-31T06:53:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Blanfort, V., F. Desmoulins, J. Prosperi, T. Le Bourgeois, R. Guiglion and P. Grard (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766938578,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 6791,
+url: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065135.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065135_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:47:08Z",
+rating: 0
+},
+{
+id: 6794,
+url: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065310.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065310_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:47:09Z",
+rating: 0
+},
+{
+id: 6796,
+url: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065210.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065210_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:47:09Z",
+rating: 0
+},
+{
+id: 6800,
+url: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20120125_075842.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20120125_075842_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:47:10Z",
+rating: 0
+},
+{
+id: 6789,
+url: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065134.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065134_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:47:08Z",
+rating: 0
+},
+{
+id: 6790,
+url: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065116.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065116_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:47:08Z",
+rating: 0
+},
+{
+id: 6792,
+url: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065024.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065024_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:47:08Z",
+rating: 0
+},
+{
+id: 6793,
+url: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20120125_075838.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20120125_075838_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:47:08Z",
+rating: 0
+},
+{
+id: 6795,
+url: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065252.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065252_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:47:09Z",
+rating: 0
+},
+{
+id: 6797,
+url: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065156.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065156_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:47:10Z",
+rating: 0
+},
+{
+id: 6798,
+url: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065108.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20111010_065108_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:47:10Z",
+rating: 0
+},
+{
+id: 6799,
+url: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20120125_094916.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Stachytarpheta urticifolia/stcur_20120125_094916_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:47:10Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

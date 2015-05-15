@@ -1,0 +1,2323 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 181,
+title: "<i>Kyllinga erecta </i>Schumach. ",
+taxonConcept: {
+id: 349,
+name: "Kyllinga erecta Schumach.",
+canonicalForm: "Kyllinga erecta",
+italicisedForm: "<i>Kyllinga erecta </i>Schumach. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 10,
+name: "Cyperaceae",
+canonicalForm: "Cyperaceae",
+italicisedForm: "<i>Cyperaceae</i>",
+rank: "Family"
+},
+{
+id: 347,
+name: "Kyllinga",
+canonicalForm: "Kyllinga",
+italicisedForm: "<i>Kyllinga</i>",
+rank: "Genus"
+},
+{
+id: 349,
+name: "Kyllinga erecta Schumach.",
+canonicalForm: "Kyllinga erecta",
+italicisedForm: "<i>Kyllinga erecta </i>Schumach. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 4088,
+name: "Cyperus aromaticus var. elatus (Steud.) Kük.",
+canonicalForm: "Cyperus aromaticus elatus",
+italicisedForm: "<i>Cyperus aromaticus </i>var.<i> elatus (</i>Steud.<i>) </i>Kük. ",
+taxonConcept: {
+id: 349
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4089,
+name: "Cyperus melanospermus subsp. elatus (Steud.) Lye",
+canonicalForm: "Cyperus melanospermus elatus",
+italicisedForm: "<i>Cyperus melanospermus </i>subsp.<i> elatus (</i>Steud.<i>) </i>Lye ",
+taxonConcept: {
+id: 349
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4090,
+name: "Kyllinga melanosperma subsp. elata (Steud.) Lye",
+canonicalForm: "Kyllinga melanosperma elata",
+italicisedForm: "<i>Kyllinga melanosperma </i>subsp.<i> elata (</i>Steud.<i>) </i>Lye ",
+taxonConcept: {
+id: 349
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4091,
+name: "Kyllinga polyphylla var. elata (Steud.) Cherm.",
+canonicalForm: "Kyllinga polyphylla elata",
+italicisedForm: "<i>Kyllinga polyphylla </i>var.<i> elata (</i>Steud.<i>) </i>Cherm. ",
+taxonConcept: {
+id: 349
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 910,
+name: "Kimotondoha",
+taxonConcept: {
+id: 349
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 911,
+name: "Kirindrala",
+taxonConcept: {
+id: 349
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 918,
+name: "Herbe oignon",
+taxonConcept: {
+id: 349
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 916,
+name: "Lerb zonnyon",
+taxonConcept: {
+id: 349
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 913,
+name: "Makunu",
+taxonConcept: {
+id: 349
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 912,
+name: "Nkunu",
+taxonConcept: {
+id: 349
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 914,
+name: "Jambélon",
+taxonConcept: {
+id: 349
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 917,
+name: "Jean-Belon",
+taxonConcept: {
+id: 349
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 915,
+name: "Gros mota",
+taxonConcept: {
+id: 349
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:47:37Z",
+lastRevised: "2015-05-06T12:46:15Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_130208_093102_th1.jpg",
+notes: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>KYLEL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>KYLEL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 1410,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>KYLEL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:50:46Z",
+lastUpdated: "2014-09-24T17:50:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581046994,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1409,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>General Habit</h6><p>Creeping erect herb.</p><h6>Underground System</h6><p>Reddish-brown, creeping rhizomes, from which numerous shoots arise at the close intervals</p><h6>Flower</h6><p>The spikelets have glumes (about 3.5 mm long) that are smooth. Spherical, yellowish flower heads 4-8 mm across subtended by three leafy bracts.</p><h6>Fruit</h6><p>Achene flattened, elliptical, biconvex, 1.5 mm long and 0.8 mm wide, topped by a bifid style. Tegument dark brown, finely punctate.</p><h6>Global Description</h6><p>An erect, perennial glabrous sedge about 12-45 cm high with thick, segmented rhizomes that produce numerous inter-twisted roots.</p><h6>Inflorescence</h6><p>The inflorescence consists of solitary, ovoid heads 4-8 mm long and 8-9 mm wide each subtended by 2-3 leafy bracts, the longest of which may be up to 11 cm long.</p><h6>Stem</h6><p>Tough stem, consists of an underground rhizome that gives rise to above ground stems and shoots. The above ground stem is slender, leafy and smooth.</p>",
+dateCreated: "2014-09-24T17:50:46Z",
+lastUpdated: "2014-09-24T17:50:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581046993,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1406,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Kyllinga erecta Schumach.",
+dateCreated: "2014-09-24T17:50:46Z",
+lastUpdated: "2014-09-24T17:50:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581046989,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1403,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Propagates by seeds and vegetatively by rhizomes.<br>",
+dateCreated: "2014-09-24T17:50:46Z",
+lastUpdated: "2014-09-24T17:50:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581046985,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1402,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "A weed of lowland and hydromorphic rice, but also can be established in damp sandy places.<br>",
+dateCreated: "2014-09-24T17:50:46Z",
+lastUpdated: "2014-09-24T17:50:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581046984,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1413,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Widespread in tropical and subtropical regions.</p><h6>Origin</h6><p>Native from East Africa. It is especially prevalent in the North of Tanzania where it often forms a dense mat which excludes the more desirable lawn grasses. By itself it forms a turf of sorts but unsightly during the dry season when it turns brown.</p>",
+dateCreated: "2014-09-24T17:50:46Z",
+lastUpdated: "2014-09-24T17:50:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581046998,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1405,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Local Weediness</h6><p>Kenya: Frequent but not abundant. Uganda:Frequent and usually abundant.</p>",
+dateCreated: "2014-09-24T17:50:46Z",
+lastUpdated: "2014-09-24T17:50:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581046988,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1414,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Well established Kyllinga is little affected by the selective herbicides and the only satisfactory method of dealing with a heavy infestation in a lawn is to cultivate, remove the rhizomes mechanically and replant. Dense masses of seedlings often appear in replanted lawns and good control of these can be achieved with MCPA or 2,4-D. On paths and other areas where bare ground is required such non-selective chemicals as glyphosate would be expected to be effective. Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2014-09-24T17:50:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047010,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1412,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:46Z",
+lastUpdated: "2015-04-01T09:52:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "I O. Akobundu, C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 33p; Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA/ADRAO, Bouaké. 102p"
+},
+{
+url: "http://www.prpv.org/advenrun/especes/k/kylel/kylel_fr.html"
+},
+{
+title: "G. W. Iven (1989). East Africa weeds and their control. Oxford University press. Nairobi. 23p;"
+},
+{
+url: "http://www.prpv.org/advenrun/especes/k/kylel/kylel_fr.html"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1306"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581046996,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1404,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:46Z",
+lastUpdated: "2015-03-25T07:33:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://plants.jstor.org/upwta/1_1306"
+},
+{
+url: "http://www.prpv.org/advenrun/especes/k/kylel/kylel_fr.html"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "G. W. Iven (1989). East Africa weeds and their control. Oxford University press. Nairobi. 23p;"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1306"
+},
+{
+title: "I O. Akobundu, C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 33p; Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA/ADRAO, Bouaké. 102p"
+},
+{
+title: "I O. Akobundu, C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 33p; Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA/ADRAO, Bouaké. 102p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581046985,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1407,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:46Z",
+lastUpdated: "2015-02-28T01:30:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://plants.jstor.org/upwta/1_1306"
+},
+{
+url: "http://www.prpv.org/advenrun/especes/k/kylel/kylel_fr.html"
+},
+{
+title: "I O. Akobundu, C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 33p; Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA/ADRAO, Bouaké. 102p"
+},
+{
+title: "G. W. Iven (1989). East Africa weeds and their control. Oxford University press. Nairobi. 23p;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581046989,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1411,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:46Z",
+lastUpdated: "2015-04-01T09:52:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "I O. Akobundu, C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 33p; Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA/ADRAO, Bouaké. 102p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "G. W. Iven (1989). East Africa weeds and their control. Oxford University press. Nairobi. 23p;"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1306"
+},
+{
+url: "http://www.prpv.org/advenrun/especes/k/kylel/kylel_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581046994,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1408,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:46Z",
+lastUpdated: "2015-02-23T05:25:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://plants.jstor.org/upwta/1_1306"
+},
+{
+title: "G. W. Iven (1989). East Africa weeds and their control. Oxford University press. Nairobi. 23p;"
+},
+{
+title: "I O. Akobundu, C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 33p; Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA/ADRAO, Bouaké. 102p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.prpv.org/advenrun/especes/k/kylel/kylel_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581046991,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4662,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Kyllinga erecta est une espèce qui se développe en touffe et qui s'étend à l'aide de nombreuses tiges souterraines, courtes et pressées les unes sur les autres, aux racines fibreuses. La plante peut atteindre 35 cm. Les feuilles sont au nombre de 3 à la base de chaque tige. Seule une à deux présentent un limbe linéaire développé, mais qui reste plus court que la tige. Section en « V » et de couleur verte. Les fleurs sont agglomérées à l'extrémité de la tige, formant ainsi un épi globuleux de couleur verte. Sous l'inflorescence se trouvent 3 à 6 feuilles linéaires horizontales. Les fruits sont secs et ont une seule graine, ils ne s'ouvrent pas à maturité.</p>",
+dateCreated: "2015-03-19T11:42:01Z",
+lastUpdated: "2015-03-19T11:42:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765321894,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4648,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>KYLEL</p><h6>Type Biologique</h6><p>cyperacée</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:41:57Z",
+lastUpdated: "2015-03-19T11:41:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765317846,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4653,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Kyllinga erecta</em> est une esp&egrave;ce qui se d&eacute;veloppe en touffe et qui s&#39;&eacute;tend &agrave; l&#39;aide de nombreuses tiges souterraines, courtes et press&eacute;es les unes sur les autres, aux racines fibreuses. La plante peut atteindre 35 cm. Les feuilles sont au nombre de 3 &agrave; la base de chaque tige. Seule une &agrave; deux pr&eacute;sentent un limbe lin&eacute;aire d&eacute;velopp&eacute;, mais qui reste plus court que la tige. Section en &laquo; V &raquo; et de couleur verte. Les fleurs sont agglom&eacute;r&eacute;es &agrave; l&#39;extr&eacute;mit&eacute; de la tige, formant ainsi un &eacute;pi globuleux de couleur verte. Sous l&#39;inflorescence se trouvent 3 &agrave; 6 feuilles lin&eacute;aires horizontales. Les fruits sont secs et ont une seule graine, ils ne s&#39;ouvrent pas &agrave; maturit&eacute;.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Les premi&egrave;res feuilles sont lin&eacute;aires, au limbe court, dress&eacute; verticalement, se terminant en coin aigu, ayant une large section en V, &agrave; marge finement scabre, les gaines s&#39;embo&icirc;tant de fa&ccedil;on tristique.</p> <h6> Port</h6> <p> Touffe cespiteuse, jusqu&#39;&agrave; 40 cm de haut et 10 &agrave; 40 cm de diam&egrave;tre, &agrave; nombreux axes florif&egrave;res.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Les racines sont fascicul&eacute;es, fibreuses avec la pr&eacute;sence de rhizomes &eacute;pais couverts d&#39;&eacute;cailles brunes.</p> <h6> Tige</h6> <p> La tige correspond &agrave; l&#39;axe florif&egrave;re, plein, trigone aux angles nets, glabre, vert clair et large de 1 &agrave; 2 mm.</p> <h6> Feuille</h6> <p> Les feuilles sont lin&eacute;aires et dispos&eacute;es de fa&ccedil;on tristique, longues de 10 &agrave; 20 cm et larges de 2 &agrave; 4 mm, de section large en V, au sommet en coin aigu et &agrave; marge scabre. Les premi&egrave;res feuilles sont courtes, au limbe dress&eacute; verticalement. Seules 1 &agrave; 2 feuilles ont un limbe plus d&eacute;velopp&eacute; et plus &eacute;tal&eacute;, mais toujours plus court que l&#39;axe florif&egrave;re. Faces glabres et de couleur vert clair brillant, car&eacute;n&eacute;es sur la face inf&eacute;rieure. Gaine ferm&eacute;e de section triangulaire &agrave; la base du limbe.</p> <h6> Inflorescence</h6> <p> L&#39;inflorescence est form&eacute;e de fleurs group&eacute;es en courts &eacute;pis terminaux uniques, coniques &agrave; globuleux, de 10 mm de diam&egrave;tre et de couleur verte. Epi sous-tendu par 5 &agrave; 6 bract&eacute;es lin&eacute;aires foliac&eacute;es, longues de 3 &agrave; 15 cm.</p> <h6> Fleur</h6> <p> Les &eacute;pillets sont form&eacute;s de 2 &agrave; 3 glumes aplaties et embo&icirc;t&eacute;es se chevauchant l&#39;une l&#39;autre, longues de 3 mm et ayant une car&egrave;ne orn&eacute;e de petits poils blancs. Chaque &eacute;pillet comprend 1 &agrave; 2 ovaires surmont&eacute;s d&#39;un style bifide ; il produit 1 ou rarement 2 ak&egrave;nes.</p> <h6> Fruit</h6> <p> Le fruit est un ak&egrave;ne elliptique aplati, biconvexe, de 1,5 mm de long et 0,8 mm de large et surmont&eacute; d&#39;un style bifide. T&eacute;gument de couleur brun fonc&eacute;, finement ponctu&eacute;.</p> ",
+dateCreated: "2015-03-19T11:41:58Z",
+lastUpdated: "2015-05-06T12:45:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765318919,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4655,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Kyllinga erecta Schumach.",
+dateCreated: "2015-03-19T11:41:59Z",
+lastUpdated: "2015-03-19T11:41:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765319372,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4654,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "La floraison de <em>K. erecta</em> survient sur des pieds &acirc;g&eacute;s de 2 &agrave; 3 mois en saison des pluies. Dans le m&ecirc;me temps, une nouvelle repousse v&eacute;g&eacute;tative est produite qui va fleurir elle m&ecirc;me en 2 mois. Ce processus continu en fait une esp&egrave;ce tr&egrave;s agressive.<br /> ",
+dateCreated: "2015-03-19T11:41:59Z",
+lastUpdated: "2015-05-06T12:44:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765319145,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4659,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>K. erecta</em> est une esp&egrave;ce vivace se reproduisant par graines et rhizomes. L&#39;esp&egrave;ce se propage de mani&egrave;re v&eacute;g&eacute;tative gr&acirc;ce &agrave; son syst&egrave;me de tiges rhizomateuses souterraines en croissance continue qui produit des repousses &agrave; intervalles r&eacute;guliers. Les fragments de rhizomes vivants peuvent &ecirc;tre d&eacute;plac&eacute;s lors des travaux du sol. La plante se reproduit aussi par ses graines qui peuvent &ecirc;tre transport&eacute;es gr&acirc;ce aux oiseaux granivores ou par la boue adh&eacute;rente aux animaux, aux engins agricoles et aux v&eacute;hicules.<br /> ",
+dateCreated: "2015-03-19T11:42:00Z",
+lastUpdated: "2015-05-06T12:46:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765320318,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4652,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>K. erecta</em> se distingue de <em>K. bulbosa</em> P.Beauv. par la pr&eacute;sence de gros rhizomes courts et de tiges denses, les &eacute;pillets comportent 1 &agrave; 2 fleurs au lieu de 3 &agrave; 5 pour la deuxi&egrave;me esp&egrave;ce.<br /> ",
+dateCreated: "2015-03-19T11:41:58Z",
+lastUpdated: "2015-05-06T12:46:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765318671,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4658,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: <em>K. erecta</em> est tr&egrave;s fr&eacute;quente dans toutes les r&eacute;gions les plus humides de l&rsquo;&icirc;le de la Grande Comore et pr&eacute;f&egrave;re les espaces ouverts, pr&egrave;s des lacs et des rivi&egrave;res. A Anjouan et &agrave; Moh&eacute;li on la retrouve aussi tr&egrave;s fr&eacute;quemment dans les marais, au bord des rivi&egrave;res, &agrave; basse altitude.<br /> <strong>Madagascar </strong>: Adventice assez commune des zones humides (bas-fonds des Hautes Terres centrales, versant oriental). Elle se d&eacute;veloppe dans les terrains humides et les endroits frais, au bord des parcelles de culture, des canaux et des ruisseaux.<br /> <strong>Maurice </strong>: Mauvaise herbe des stations humides &agrave; tr&egrave;s humides, dans les terrains vagues et les cultures.<br /> <strong>La R&eacute;union</strong> : Cette esp&egrave;ce est caract&eacute;ristique des sols sableux en surface. Elle est tr&egrave;s fr&eacute;quente dans tous les sites allant des r&eacute;gions moyennement humides &agrave; surhumides, en grand nombre &eacute;galement dans les r&eacute;gions des plaines c&ocirc;ti&egrave;res &agrave; nappe phr&eacute;atique affleurante et souvent pr&eacute;sente dans les zones irrigu&eacute;es.<br /> <strong>Seychelles </strong>: Adventice commune de la plupart des r&eacute;gions, adapt&eacute;e &agrave; tous les types de sols, des relativement humides aux biens drain&eacute;s.<br /> ",
+dateCreated: "2015-03-19T11:42:00Z",
+lastUpdated: "2015-05-06T12:47:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765320093,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4657,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Origine</h6> <p> <em>K. erecta</em> est originaire d&#39;Afrique de l&#39;Est, Madagascar; Maurice.</p> <h6> Distribution Mondiale</h6> <p> <em>K. erecta</em> a &eacute;t&eacute; introduite dans de nombreux pays tropicaux et subtropicaux.</p> ",
+dateCreated: "2015-03-19T11:41:59Z",
+lastUpdated: "2015-05-06T12:47:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765319846,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4660,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>:<em> K. erecta</em> est tr&egrave;s abondante dans les cultures associ&eacute;es : manioc, ma&iuml;s, ambrevade ainsi que dans les rizi&egrave;res et les champs de bananier.<br /> <strong>Madagascar </strong>: Adventice peu fr&eacute;quente et peu abondantes dans les cultures.<br /> <strong>Maurice </strong>: Un peuplement bien &eacute;tabli peut devenir tr&egrave;s g&ecirc;nant pour le d&eacute;veloppement de la canne &agrave; sucre ou de l&eacute;gumes. Elle a une nuisibilit&eacute; moyenne &agrave; forte.<br /> <strong>Nouvelle-Cal&eacute;donie</strong> : Elle a &eacute;t&eacute; observ&eacute;e d&egrave;s les ann&eacute;es 1950. Cette Cyp&eacute;rac&eacute;e pr&eacute;f&egrave;re les r&eacute;gions humides et on la retrouve pr&eacute;f&eacute;rentiellement sur la C&ocirc;te Est, plut&ocirc;t en situation ensoleill&eacute;e. Ailleurs, elle se cantonne &agrave; certaines zones de p&acirc;turages d&eacute;grad&eacute;s, dans les bas fonds inond&eacute;s temporairement ou apr&egrave;s pi&eacute;tinement d&#39;un sol d&eacute;tremp&eacute; par le b&eacute;tail<br /> <strong>La R&eacute;union</strong> : Cohabitant mal avec la canne &agrave; sucre, on la rencontre dans les champs de petites cannes sous forme d&rsquo;individus souvent nombreux mais &eacute;pars. Elle peut &ecirc;tre tr&egrave;s abondante et tr&egrave;s g&ecirc;nante en prairie.<br /> <strong>Seychelles </strong>: Cette adventice est consid&eacute;r&eacute;e comme l&#39;une des plus s&eacute;rieuses par les agriculteurs parce qu&#39;elle affecte toutes les cultures et est difficile &agrave; contr&ocirc;ler.<br /> <strong>Burkina Faso</strong> : fr&eacute;quente et peu abondante.<br /> <strong>C&ocirc;te d&#39;Ivoire</strong> : fr&eacute;quente et peu abondante.<br /> <strong>Ghana </strong>: fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>Kenya </strong>: fr&eacute;quente et peu abondante.<br /> <strong>Mali </strong>: rare et peu abondante.<br /> <strong>Nigeria </strong>: fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>S&eacute;n&eacute;gal </strong>: rare et peu abondante.<br /> <strong>Ouganda </strong>: fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>Tchad </strong>: fr&eacute;quente et peu abondante.</p> ",
+dateCreated: "2015-03-19T11:42:00Z",
+lastUpdated: "2015-05-06T12:47:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765320544,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4663,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Usages</h6> <p> <em>K. erecta</em> n&#39;est pas app&eacute;t&eacute;e par le b&eacute;tail, sauf au stade jeune dans quelques cas.</p> ",
+dateCreated: "2015-03-19T11:42:02Z",
+lastUpdated: "2015-05-06T12:48:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765322084,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4661,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Conseils de gestion des cyp&eacute;rac&eacute;es vivaces en riz irrigu&eacute; : http://portal.wikwio.org/document/show/29</p> <h6> Lutte Locale</h6> <p> <strong>Nouvelle-Cal&eacute;donie</strong> :<br /> <strong>Lutte m&eacute;canique</strong> : Il faut &agrave; tout prix &eacute;viter le surp&acirc;turage, qui favorise la propagation de<em> K. erecta</em>. Certaines gramin&eacute;es supportant l&#39;engorgement temporaire peuvent la concurrencer (<em>Brachiaria mutica</em>, Para, <em>Paspalum plicatulum</em>, Setaria grass cv. Kazungula). Les petites infestations peuvent &ecirc;tre stopp&eacute;es en arrachant les touffes et toutes les tiges souterraines. Pour des invasions plus importantes, un travail m&eacute;canique du sol hors saison des pluies, fera remonter les rhizomes &agrave; la surface pour les faire se dess&eacute;cher. Le passage r&eacute;p&eacute;t&eacute; d&#39;un rouleau permet aussi de briser r&eacute;guli&egrave;rement les tiges a&eacute;riennes.<br /> <strong>Lutte chimique</strong> : Elle est appropri&eacute;e pour les petites surfaces avec une fr&eacute;quence de 2 applications de glyphosate en plein en ciblant les zones infest&eacute;es au dosage de 2160 g/ha pour obtenir un r&eacute;sultat probant. Une implantation de gramin&eacute;es fourrag&egrave;res adapt&eacute;es aux sols humides peut s&#39;av&eacute;rer n&eacute;cessaire sur les zones trait&eacute;es.</p> ",
+dateCreated: "2015-03-19T11:42:00Z",
+lastUpdated: "2015-05-06T12:49:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765320847,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4649,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:41:58Z",
+lastUpdated: "2015-03-31T06:53:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Blanfort V., Desmoulins F., Prosperi J., Le Bourgeois T., Guiglion R. & Grard P. 2010. AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. IAC, Cirad, Montpellier, France, Cédérom. http://idao.cirad.fr/applications."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765318352,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4650,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:41:58Z",
+lastUpdated: "2015-03-31T06:53:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765318353,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4651,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:41:58Z",
+lastUpdated: "2015-03-31T06:53:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765318353,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3900,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_130208_093102.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_130208_093102_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:54Z",
+rating: 0
+},
+{
+id: 3901,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101222.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101222_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:55Z",
+rating: 0
+},
+{
+id: 3902,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_090608_091221.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_090608_091221_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:55Z",
+rating: 0
+},
+{
+id: 3903,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_170603_120730.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_170603_120730_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:55Z",
+rating: 0
+},
+{
+id: 3904,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_170603_120300.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_170603_120300_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:55Z",
+rating: 0
+},
+{
+id: 3905,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20110718_083240.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20110718_083240_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:55Z",
+rating: 0
+},
+{
+id: 3906,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101220_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101220_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:55Z",
+rating: 0
+},
+{
+id: 3907,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20100818_035524.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20100818_035524_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:55Z",
+rating: 0
+},
+{
+id: 3908,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101222_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101222_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:55Z",
+rating: 0
+},
+{
+id: 3909,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101222_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101222_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:56Z",
+rating: 0
+},
+{
+id: 3910,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_130208_093212.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_130208_093212_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:56Z",
+rating: 0
+},
+{
+id: 3911,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101220_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101220_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:56Z",
+rating: 0
+},
+{
+id: 3912,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101220_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101220_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:56Z",
+rating: 0
+},
+{
+id: 3913,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20110117_182400.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20110117_182400_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:56Z",
+rating: 0
+},
+{
+id: 3914,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101220.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101220_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:56Z",
+rating: 0
+},
+{
+id: 3915,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_170603_120826.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_170603_120826_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:56Z",
+rating: 0
+},
+{
+id: 3916,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20110611_123326.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20110611_123326_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:57Z",
+rating: 0
+},
+{
+id: 3917,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_090608_091222.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_090608_091222_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:57Z",
+rating: 0
+},
+{
+id: 3918,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080213_142737.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080213_142737_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:57Z",
+rating: 0
+},
+{
+id: 3919,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080213_142729.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080213_142729_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:57Z",
+rating: 0
+},
+{
+id: 3920,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20030617_131046.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20030617_131046_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:57Z",
+rating: 0
+},
+{
+id: 3921,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20030617_130440.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20030617_130440_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:57Z",
+rating: 0
+},
+{
+id: 3922,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080213_142730.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080213_142730_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:57Z",
+rating: 0
+},
+{
+id: 3923,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080213_142733.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080213_142733_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:57Z",
+rating: 0
+},
+{
+id: 3924,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101222_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101222_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:58Z",
+rating: 0
+},
+{
+id: 3925,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_170603_120950.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_170603_120950_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:58Z",
+rating: 0
+},
+{
+id: 3926,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_130208_132730.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_130208_132730_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:58Z",
+rating: 0
+},
+{
+id: 3927,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20090703_220813.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20090703_220813_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:58Z",
+rating: 0
+},
+{
+id: 3928,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_170603_120618.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_170603_120618_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:58Z",
+rating: 0
+},
+{
+id: 3929,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20110117_181646.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20110117_181646_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:58Z",
+rating: 0
+},
+{
+id: 3930,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_130208_093255.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_130208_093255_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:58Z",
+rating: 0
+},
+{
+id: 3931,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101222_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101222_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:58Z",
+rating: 0
+},
+{
+id: 3932,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101220_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20080609_101220_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:59Z",
+rating: 0
+},
+{
+id: 3933,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20120504_122432.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20120504_122432_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:59Z",
+rating: 0
+},
+{
+id: 3934,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_090608_091220.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_090608_091220_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:59Z",
+rating: 0
+},
+{
+id: 3935,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20090701_225611.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20090701_225611_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:59Z",
+rating: 0
+},
+{
+id: 3936,
+url: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20110702_104859.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Kyllinga erecta/kylel_20110702_104859_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:47:59Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

@@ -1,0 +1,1100 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 162,
+title: "<i>Hyptis pectinata (</i>L.<i>) </i>Poit. ",
+taxonConcept: {
+id: 324,
+name: "Hyptis pectinata (L.) Poit.",
+canonicalForm: "Hyptis pectinata",
+italicisedForm: "<i>Hyptis pectinata (</i>L.<i>) </i>Poit. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 322,
+name: "Lamiaceae",
+canonicalForm: "Lamiaceae",
+italicisedForm: "<i>Lamiaceae</i>",
+rank: "Family"
+},
+{
+id: 323,
+name: "Hyptis",
+canonicalForm: "Hyptis",
+italicisedForm: "<i>Hyptis</i>",
+rank: "Genus"
+},
+{
+id: 324,
+name: "Hyptis pectinata (L.) Poit.",
+canonicalForm: "Hyptis pectinata",
+italicisedForm: "<i>Hyptis pectinata (</i>L.<i>) </i>Poit. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 3788,
+name: "Ballota disticha Rodschied [Illegitimate]",
+canonicalForm: "Ballota disticha",
+italicisedForm: "<i>Ballota disticha </i>Rodschied<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3789,
+name: "Ballota parviflora Sessé & Moc.",
+canonicalForm: "Ballota parviflora",
+italicisedForm: "<i>Ballota parviflora </i>Sessé<i> & </i>Moc. ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3790,
+name: "Ballota suaveolens Rodschied [Illegitimate]",
+canonicalForm: "Ballota suaveolens",
+italicisedForm: "<i>Ballota suaveolens </i>Rodschied<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3791,
+name: "Brotera persica Spreng.",
+canonicalForm: "Brotera persica",
+italicisedForm: "<i>Brotera persica </i>Spreng. ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3792,
+name: "Bystropogon coarctatus Thonn. & Schumach.",
+canonicalForm: "Bystropogon coarctatus",
+italicisedForm: "<i>Bystropogon coarctatus </i>Thonn.<i> & </i>Schumach. ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3793,
+name: "Bystropogon pectinatus (L.) L'Hér.",
+canonicalForm: "Bystropogon pectinatus",
+italicisedForm: "<i>Bystropogon pectinatus (</i>L.<i>) </i>L'Hér. ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3794,
+name: "Clinopodium imbricatum Vell.",
+canonicalForm: "Clinopodium imbricatum",
+italicisedForm: "<i>Clinopodium imbricatum </i>Vell. ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3795,
+name: "Hyptis nepetoides Fisch. ex Schrank",
+canonicalForm: "Hyptis nepetoides",
+italicisedForm: "<i>Hyptis nepetoides </i>Fisch.<i> ex </i>Schrank ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3796,
+name: "Hyptis persica (Spreng.) Poit.",
+canonicalForm: "Hyptis persica",
+italicisedForm: "<i>Hyptis persica (</i>Spreng.<i>) </i>Poit. ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3797,
+name: "Hyptis racemosa Zuccagni",
+canonicalForm: "Hyptis racemosa",
+italicisedForm: "<i>Hyptis racemosa </i>Zuccagni ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3798,
+name: "Mentha perilloides L.",
+canonicalForm: "Mentha perilloides",
+italicisedForm: "<i>Mentha perilloides </i>L. ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3799,
+name: "Mesosphaerum pectinatum (L.) Kuntze",
+canonicalForm: "Mesosphaerum pectinatum",
+italicisedForm: "<i>Mesosphaerum pectinatum (</i>L.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3800,
+name: "Nepeta aristata Rich.",
+canonicalForm: "Nepeta aristata",
+italicisedForm: "<i>Nepeta aristata </i>Rich. ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3801,
+name: "Nepeta pectinata L.",
+canonicalForm: "Nepeta pectinata",
+italicisedForm: "<i>Nepeta pectinata </i>L. ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3802,
+name: "Nepeta persica Poit. ex Benth.",
+canonicalForm: "Nepeta persica",
+italicisedForm: "<i>Nepeta persica </i>Poit.<i> ex </i>Benth. ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3803,
+name: "Pogostemon perilloides (L.) Mansf.",
+canonicalForm: "Pogostemon perilloides",
+italicisedForm: "<i>Pogostemon perilloides (</i>L.<i>) </i>Mansf. ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3804,
+name: "Stachys trichodesma Boyer",
+canonicalForm: "Stachys trichodesma",
+italicisedForm: "<i>Stachys trichodesma </i>Boyer ",
+taxonConcept: {
+id: 324
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:40:35Z",
+lastRevised: "2015-03-19T11:39:28Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Hyptis pectinata/hpype_20051118_180053_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>HPYPE</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>HPYPE</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1299,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>HPYPE</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2014-09-24T17:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655410,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1298,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Hyptis pectinata (L.) Poit.",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2014-09-24T17:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655409,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4442,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Hyptis pectinata</p>",
+dateCreated: "2015-03-19T11:39:28Z",
+lastUpdated: "2015-03-19T11:39:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765168395,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4431,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>HPYPE</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:39:24Z",
+lastUpdated: "2015-03-19T11:39:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765164638,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4433,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Hyptis pectinata</p><h6>Port</h6><p>Herbe dressée, subligneuse à la base, de couleur vert-grisâtre, de 1 à 2 m de haut.</p><h6>Système Souterrain</h6><p>La racine est pivotante.</p><h6>Tige</h6><p>La tige est à section carrée avec de légers sillons finement pubescents.</p><h6>Feuille</h6><p>Les feuilles sont simples, opposées et décussées à odeur de menthe, portées par un pétiole de 2 à 5 cm de long. Limbe de 1,5 à 6 cm de long ovale, arrondi à l’extrémité et arrondi à tronqué à la base, bord crénelé, avec les deux faces pubescentes.</p><h6>Inflorescence</h6><p>Les inflorescences sont terminales à axillaires en panicules de 10 à 40 cm de long composées de bouquets denses.</p><h6>Fleur</h6><p>Nombreuses petites fleurs (4 mm) blanches à violet-pâle.</p><h6>Fruit</h6><p>Les fruits, inclus dans le calice papyracé, sont des capsules de 2 mm de long comprenant 4 graines.</p><h6>Graine</h6><p>Les graines sont ovoïdes de couleur marron- foncé à noir.</p>",
+dateCreated: "2015-03-19T11:39:25Z",
+lastUpdated: "2015-03-19T11:39:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765165113,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4435,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Hyptis pectinata (L.) Poit.",
+dateCreated: "2015-03-19T11:39:25Z",
+lastUpdated: "2015-03-19T11:39:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765165455,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4434,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "La germination d'H. pectinata a lieu en début de saison des pluies, la pleine floraison s’effectue en milieu de saison chaude et la fructification s’étale sur les saisons fraîche et sèche.<br>",
+dateCreated: "2015-03-19T11:39:25Z",
+lastUpdated: "2015-03-19T11:39:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765165273,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4439,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Hyptis pectinata est une plante annuelle, voire pluri-annuelle, qui se propage uniquement par graines. La dissémination s’effectue essentiellement par adhésion au pelage des animaux.<br>",
+dateCreated: "2015-03-19T11:39:26Z",
+lastUpdated: "2015-03-19T11:39:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765166124,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4436,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Originaire de la zone tropicale d’Amérique du Sud et des Caraïbes</p><h6>Distribution Mondiale</h6><p>H. pectinata est largement disséminée dans les zones cultivées tropicales.</p>",
+dateCreated: "2015-03-19T11:39:25Z",
+lastUpdated: "2015-03-19T11:39:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765165618,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4438,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nouvelle-Calédonie : H. pectinata a une préférence marquée pour les lieux humides et donc les berges des cours d’eau.<br>",
+dateCreated: "2015-03-19T11:39:25Z",
+lastUpdated: "2015-03-19T11:39:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765165961,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4437,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Originaire de la zone tropicale d’Amérique du Sud et des Caraïbes</p><h6>Distribution Mondiale</h6><p>H. pectinata est largement disséminée dans les zones cultivées tropicales.</p>",
+dateCreated: "2015-03-19T11:39:25Z",
+lastUpdated: "2015-03-19T11:39:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765165778,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4440,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Globale</h6><p>Nouvelle-Calédonie : H. pectinata compte parmi les 300 plantes envahissantes majeures de la zone Pacifique-Océan Indien.</p><h6>Nuisibilité Locale</h6><p>Nouvelle-Calédonie : H. pectinata semble s’être installée récemment sur le territoire (années 50). Cette adventice est largement répandue sur la côte Ouest. Présente jusqu’à des altitudes moyennes (autour de 500 m) dans les pâturages, en bord de piste, dans les terrains vagues et les jachères.</p>",
+dateCreated: "2015-03-19T11:39:26Z",
+lastUpdated: "2015-03-19T11:39:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765166286,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4441,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Locale</h6><p>Nouvelle Calédonie : H. pectinata n'est pas consommée par le bétail ; elle peut se développer localement et concurrencer les espèces fourragères en place. Pour éviter la prolifération de cette espèce annuelle, il convient d’éviter le surpâturage pour garder un couvert prairial dense qui limitera les germinations. En cas d’apparition de pieds isolés, un simple arrachage manuel est aisé. Les animaux ayant séjourné dans des parcelles infestées devront passer quelques jours en parcelle de quarantaine pour éviter de contaminer les parcelles propres. En cas d’infestation, il faut gyrobroyer la plante avant sa fructification pour éviter qu’elle ne se multiplie. Un traitement chimique sur les jeunes repousses permet de la détruire (2,4-D) ; sur pâturage amélioré, une fertilisation azotée favorisera la reprise des espèces fourragères et un sursemis peut s’avérer nécessaire. Une application herbicide en novembre, suivi d’un deuxième traitement en février sur les jeunes plantes, est conseillé.</p>",
+dateCreated: "2015-03-19T11:39:26Z",
+lastUpdated: "2015-03-19T11:39:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765166509,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4432,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:24Z",
+lastUpdated: "2015-03-31T06:53:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Blanfort, V., F. Desmoulins, J. Prosperi, T. Le Bourgeois, R. Guiglion and P. Grard (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765164822,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3454,
+url: "http://portal.wikwio.org/biodiv/img//Hyptis pectinata/hpype_20051118_180053.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hyptis pectinata/hpype_20051118_180053_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:38Z",
+rating: 0
+},
+{
+id: 3455,
+url: "http://portal.wikwio.org/biodiv/img//Hyptis pectinata/hpype_20051118_180045.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hyptis pectinata/hpype_20051118_180045_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:38Z",
+rating: 0
+},
+{
+id: 3456,
+url: "http://portal.wikwio.org/biodiv/img//Hyptis pectinata/hpype_20051118_180105.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hyptis pectinata/hpype_20051118_180105_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:38Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

@@ -1,0 +1,2963 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 102,
+title: "<i>Datura stramonium </i>L. ",
+taxonConcept: {
+id: 225,
+name: "Datura stramonium L.",
+canonicalForm: "Datura stramonium",
+italicisedForm: "<i>Datura stramonium </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 222,
+name: "Solanaceae",
+canonicalForm: "Solanaceae",
+italicisedForm: "<i>Solanaceae</i>",
+rank: "Family"
+},
+{
+id: 223,
+name: "Datura",
+canonicalForm: "Datura",
+italicisedForm: "<i>Datura</i>",
+rank: "Genus"
+},
+{
+id: 225,
+name: "Datura stramonium L.",
+canonicalForm: "Datura stramonium",
+italicisedForm: "<i>Datura stramonium </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 2308,
+name: "Datura bernhardii Lundstr.",
+canonicalForm: "Datura bernhardii",
+italicisedForm: "<i>Datura bernhardii </i>Lundstr. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2309,
+name: "Datura bertolonii Parl. ex Guss.",
+canonicalForm: "Datura bertolonii",
+italicisedForm: "<i>Datura bertolonii </i>Parl.<i> ex </i>Guss. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2310,
+name: "Datura cabanesii P.Fourn.",
+canonicalForm: "Datura cabanesii",
+italicisedForm: "<i>Datura cabanesii </i>P.Fourn. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2311,
+name: "Datura capensis Bernh.",
+canonicalForm: "Datura capensis",
+italicisedForm: "<i>Datura capensis </i>Bernh. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2312,
+name: "Datura ferocissima Cabanès & P.Fourn.",
+canonicalForm: "Datura ferocissima",
+italicisedForm: "<i>Datura ferocissima </i>Cabanès<i> & </i>P.Fourn. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2313,
+name: "Datura ferox Nees [Illegitimate]",
+canonicalForm: "Datura ferox",
+italicisedForm: "<i>Datura ferox </i>Nees<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2314,
+name: "Datura hybrida Ten.",
+canonicalForm: "Datura hybrida",
+italicisedForm: "<i>Datura hybrida </i>Ten. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2315,
+name: "Datura inermis Juss. ex Jacq.",
+canonicalForm: "Datura inermis",
+italicisedForm: "<i>Datura inermis </i>Juss.<i> ex </i>Jacq. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2316,
+name: "Datura laevis L.f.",
+canonicalForm: "Datura laevis",
+italicisedForm: "<i>Datura laevis </i>L.f. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2317,
+name: "Datura loricata Sieber ex Bernh.",
+canonicalForm: "Datura loricata",
+italicisedForm: "<i>Datura loricata </i>Sieber<i> ex </i>Bernh. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2318,
+name: "Datura lurida Salisb.",
+canonicalForm: "Datura lurida",
+italicisedForm: "<i>Datura lurida </i>Salisb. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2319,
+name: "Datura microcarpa Godr.",
+canonicalForm: "Datura microcarpa",
+italicisedForm: "<i>Datura microcarpa </i>Godr. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2320,
+name: "Datura muricata Godr. [Illegitimate]",
+canonicalForm: "Datura muricata",
+italicisedForm: "<i>Datura muricata </i>Godr.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2321,
+name: "Datura parviflora Salisb.",
+canonicalForm: "Datura parviflora",
+italicisedForm: "<i>Datura parviflora </i>Salisb. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2322,
+name: "Datura praecox Godr.",
+canonicalForm: "Datura praecox",
+italicisedForm: "<i>Datura praecox </i>Godr. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2323,
+name: "Datura pseudostramonium Sieber ex Bernh.",
+canonicalForm: "Datura pseudostramonium",
+italicisedForm: "<i>Datura pseudostramonium </i>Sieber<i> ex </i>Bernh. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2324,
+name: "Datura stramonium var. canescens Roxb.",
+canonicalForm: "Datura stramonium canescens",
+italicisedForm: "<i>Datura stramonium </i>var.<i> canescens </i>Roxb. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2325,
+name: "Datura stramonium var. chalybaea W.D.J.Koch",
+canonicalForm: "Datura stramonium chalybaea",
+italicisedForm: "<i>Datura stramonium </i>var.<i> chalybaea </i>W.D.J.Koch ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2326,
+name: "Datura stramonium f. godronii (Danert) Geerinck & Walravens",
+canonicalForm: "Datura stramonium godronii",
+italicisedForm: "<i>Datura stramonium </i>f.<i> godronii (</i>Danert<i>) </i>Geerinck<i> & </i>Walravens ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2327,
+name: "Datura stramonium var. gordonii Danert",
+canonicalForm: "Datura stramonium gordonii",
+italicisedForm: "<i>Datura stramonium </i>var.<i> gordonii </i>Danert ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2328,
+name: "Datura stramonium f. inermis (Juss. ex Jacq.) Hupke",
+canonicalForm: "Datura stramonium inermis",
+italicisedForm: "<i>Datura stramonium </i>f.<i> inermis (</i>Juss.<i> ex </i>Jacq.<i>) </i>Hupke ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2329,
+name: "Datura stramonium var. stramonium",
+canonicalForm: "Datura stramonium stramonium",
+italicisedForm: "<i>Datura stramonium </i>var.<i> stramonium</i>",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2330,
+name: "Datura stramonium var. tatula (L.) Decne.",
+canonicalForm: "Datura stramonium tatula",
+italicisedForm: "<i>Datura stramonium </i>var.<i> tatula (</i>L.<i>) </i>Decne. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2331,
+name: "Datura tatula L.",
+canonicalForm: "Datura tatula",
+italicisedForm: "<i>Datura tatula </i>L. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2332,
+name: "Datura wallichii Dunal",
+canonicalForm: "Datura wallichii",
+italicisedForm: "<i>Datura wallichii </i>Dunal ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2333,
+name: "Stramonium foetidum Scop.",
+canonicalForm: "Stramonium foetidum",
+italicisedForm: "<i>Stramonium foetidum </i>Scop. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2334,
+name: "Stramonium laeve Moench",
+canonicalForm: "Stramonium laeve",
+italicisedForm: "<i>Stramonium laeve </i>Moench ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2335,
+name: "Stramonium spinosum Lam.",
+canonicalForm: "Stramonium spinosum",
+italicisedForm: "<i>Stramonium spinosum </i>Lam. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2336,
+name: "Stramonium tatula Moench",
+canonicalForm: "Stramonium tatula",
+italicisedForm: "<i>Stramonium tatula </i>Moench ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2337,
+name: "Stramonium vulgare Moench",
+canonicalForm: "Stramonium vulgare",
+italicisedForm: "<i>Stramonium vulgare </i>Moench ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2338,
+name: "Stramonium vulgatum Gaertn.",
+canonicalForm: "Stramonium vulgatum",
+italicisedForm: "<i>Stramonium vulgatum </i>Gaertn. ",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 605,
+name: "ILoyi",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+language: {
+id: 482,
+name: "Zulu"
+}
+},
+{
+id: 606,
+name: "Lechoe",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+language: {
+id: 492,
+name: "Sotho"
+}
+},
+{
+id: 607,
+name: "Pomme épineuse",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+language: {
+id: 493,
+name: "Français / French"
+}
+},
+{
+id: 608,
+name: "Jimson weed",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 609,
+name: "Olieboom",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 610,
+name: "Ramiary",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 611,
+name: "Ravindramiary",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 612,
+name: "Voandramiary",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 613,
+name: "Gewone stinkblaar",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 614,
+name: "Common thorn apple",
+taxonConcept: {
+id: 225
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:20:18Z",
+lastRevised: "2015-03-19T11:22:18Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060909_1624560_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>DATST</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>DATST</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 875,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>DATST</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322261,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 867,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>First Leaves</h6><p>First leaves are simple, alternate, borne on a stalk down from 12 to 18 mm. The lamina is oval lanceolate, 25 to 36 mm long and 8 to 12 mm wide, with sharp ridges, green on the upper surface and slightly tinged with purple on the lower surface.</p><h6>Leaf</h6><p>Leaves are simple, alternate, borne on a robust petiole, 3 to 11 cm long. The lamina is widely oval to lanceolate, entire or subentire in margin, sharply and irregularly toothed (3 to 5 lobed), with sinuses irregular and deep enough. The base is rounded, the top acute or acuminate. The venation is alternated. Both leaf surfaces are smooth and glabrous.</p><h6>General Habit</h6><p>Herbaceous plant, erect, forming a small bush of 0.5 to 2 m high.</p><h6>Underground System</h6><p>Taproot with many secondary white roots.</p><h6>Flower</h6><p>Large flowers on a solitary tube and erect. The calyx consists of 5 sepals united to form a narrow tube, down from 3 to 4.5 cm, 5 protruding longitudinal ribs and finished with subequal teeth acuminate 5 to 7 mm long. Corolla tube is narrow at the cup and then gradually tapered, white or purple, 6 to 10 cm long. The corolla is ribbed.There are five stamens, net white pubescent at the base, welded to the corolla with a 3 to 5 mm long anthers. The flowering period starts from January to June.</p><h6>Fruit</h6><p>Fruits are subglobose capsules, erect, 3 to 6 cm long and 2 to 4 cm wide. It is thorny, covered with spines conical erect, divided into four zones separated by the suture lines of dehiscence. The fruit is dehiscent at the top, opening into 4 valves. The base of the calyx is persistent and form at the basis of fruit a green collar folded down, about 1 cm long. A capsule containing numerous seeds. The fruiting period starts from January to June.</p><h6>Seed</h6><p>Seeds are elliptical, flattened and wrinkled, 3 to 4 mm long, black.</p><h6>Global Description</h6><p>D. stramonium is a great annual herb, erect, spreading, branching often dichotomous, with foul smell. It grows up to 1.50 m high. The leaves are simple, alternate, stalked, large, broadly ovate, margin with strong sharp teeth or lobed, dark-green, up from 15 to 20 cm long. Upleasent scented when crushed.The flowers are solitary in the axils of branches, large, white or purple, trumpet, more or less wrinkled and 6 to 9 cm long. The fruit is a capsule subglobose, erect, 4 to 6 cm long, covered with soft spines. It opens from the top into 4 valves. The seeds are black, very numerous.</p><h6>Inflorescence</h6><p>Inflorescences are solitary flowers, erect, terminal. They are supported by a short peduncle of 0.5 to 1 cm.</p><h6>Cotyledons</h6><p>Cotyledons are linear lanceolate from 5 to 30 mm long and 4 to 5 mm wide. The lamina is green on the upper surface and tinged with purple on the lower surface.</p><h6>Stem</h6><p>Stem is cylindrical, solid, thick and sometimes woody at the base, quickly and regularly dichotomously divided. It is green or tinged with purple, glabrous or pubescent, simple hairs on young twigs and stems.</p>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322251,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 871,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Datura stramonium L.",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322256,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 863,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "D. stramonium is an annual plant that is propagated by seeds. The flowering period and fruit starts from January to June.<br>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322246,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 872,
+field: {
+concept: "Natural History",
+category: "Look Alikes",
+description: "Other taxa that this taxon may be confused with, and characters useful for their differentiation. Useful for identification and comparison. Common in invasive species communities.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Datura stramonium is similar to Datura ferox and Datura inoxia. D. inoxia is a large bushy sublignous herb; its morphology and behavior are similar to D. stramonium. D. ferox can be distinguished from D. stramonium by its capsule which, has about 40-60 strong spines of variable length. D. ferox flower is shorter (4-6 cm long) compared to the flower of D. stramonium which is longer, up to 10 cm long. Datura ferox and Datura stramonium produce erect capsules on straight stalks which contain black or grey seeds. Datura inoxia can be differentiated from these two species as its capsules are held on a curved stalk, and it produces brown or yellow seeds. D. inoxia is also distinguished by its stem, its branches and leaves which are entirely pubescent with simple glandular hairs, and by its leaves usually entire, rarely toothed. The branches are usually purple. The fruit is pubescent and covered with soft spines.<br>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322258,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 873,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "It is found in disturbed areas, village, roasides, riverine. Prefers humus rich soils.<br>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322258,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 866,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Origin</h6><p>Native to North America.</p>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322249,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 864,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Local Weediness</h6><p>South Africa : Declared weed as category 1, Prohibited weed. It is an invasive plant with moderate impact on the ecosystem.</p>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322247,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 860,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Cultivated for atropine. The blue-green dye from the leaves is used to decorate huts interiors. It is used traditionally to treat asthma, headaches and wounds. Used as an ornamental plant in the gardens.<br>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322241,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 868,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Post-emergence herbicides is applicable as a control method, mannual control of cut and digging is an effective control method for this weed.</p>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322251,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 862,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2015-03-24T14:12:34Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=150830"
+},
+{
+title: "-(A revised list of alien plants for the Kruger National Park.Koedoe) Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=150830"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/d/datst/datst_fr.html"
+},
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+title: "-(A Field Guide to Wild Flowers Kwazulu-Natal and Eastern Region) Pooley, E. Published by The flora publications Trust c/o Natal Herbarium botanic Gardens Road, Durban 4001."
+},
+{
+title: "-(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Plublications CC"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/d/datst/datst_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322243,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 870,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2015-04-08T17:55:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/d/datst/datst_fr.html"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=150830"
+},
+{
+title: "-(A Field Guide to Wild Flowers Kwazulu-Natal and Eastern Region) Pooley, E. Published by The flora publications Trust c/o Natal Herbarium botanic Gardens Road, Durban 4001."
+},
+{
+title: "-(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Plublications CC"
+},
+{
+title: "-(A revised list of alien plants for the Kruger National Park.Koedoe) Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B."
+},
+{
+title: "-(A Field Guide to Wild Flowers Kwazulu-Natal and Eastern Region) Pooley, E. Published by The flora publications Trust c/o Natal Herbarium botanic Gardens Road, Durban 4001."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322254,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 861,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2015-02-28T02:43:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/d/datst/datst_fr.html"
+},
+{
+title: "-(A Field Guide to Wild Flowers Kwazulu-Natal and Eastern Region) Pooley, E. Published by The flora publications Trust c/o Natal Herbarium botanic Gardens Road, Durban 4001."
+},
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+title: "-(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Plublications CC"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=150830"
+},
+{
+title: "-(A revised list of alien plants for the Kruger National Park.Koedoe) Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322242,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 865,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2015-02-28T03:15:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-(A revised list of alien plants for the Kruger National Park.Koedoe) Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=150830"
+},
+{
+title: "-(A Field Guide to Wild Flowers Kwazulu-Natal and Eastern Region) Pooley, E. Published by The flora publications Trust c/o Natal Herbarium botanic Gardens Road, Durban 4001."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/d/datst/datst_fr.html"
+},
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+title: "-(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Plublications CC"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322247,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 869,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2015-03-05T06:57:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Plublications CC"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "-(A revised list of alien plants for the Kruger National Park.Koedoe) Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B."
+},
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+title: "-(A Field Guide to Wild Flowers Kwazulu-Natal and Eastern Region) Pooley, E. Published by The flora publications Trust c/o Natal Herbarium botanic Gardens Road, Durban 4001."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=150830"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/d/datst/datst_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322251,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 859,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2015-03-24T14:12:34Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-(A revised list of alien plants for the Kruger National Park.Koedoe) Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B."
+},
+{
+title: "-(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Plublications CC"
+},
+{
+title: "-(A Field Guide to Wild Flowers Kwazulu-Natal and Eastern Region) Pooley, E. Published by The flora publications Trust c/o Natal Herbarium botanic Gardens Road, Durban 4001."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=150830"
+},
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/d/datst/datst_fr.html"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322239,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 874,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2015-04-08T17:55:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=150830"
+},
+{
+title: "-(A revised list of alien plants for the Kruger National Park.Koedoe) Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B."
+},
+{
+title: "-(Problem plants of South Africa) Bromilow, C. (2001), Published by Briza Plublications CC"
+},
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/d/datst/datst_fr.html"
+},
+{
+title: "-(A Field Guide to Wild Flowers Kwazulu-Natal and Eastern Region) Pooley, E. Published by The flora publications Trust c/o Natal Herbarium botanic Gardens Road, Durban 4001."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322258,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3743,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Datura stramonium est une plante herbacée annuelle ou bisannuelle pouvant atteindre 1,5 mètre de haut. Les feuilles sont découpées profondément en lobes aigus qui se terminent par des pointes et présentent des nervures saillantes sur la face inférieure. La fleur est grande (jusqu'à 10 cm de long) et présente une corolle tubuleuse, qui se finit en s'évasant (l'ensemble fait penser à une trompette), avec des pétales blanchâtres. Le fruit est une capsule épineuse dressée qui contient de nombreuses graines noires réniformes.</p>",
+dateCreated: "2015-03-19T11:22:18Z",
+lastUpdated: "2015-03-19T11:22:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764138199,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3730,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>DATST</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:22:01Z",
+lastUpdated: "2015-03-19T11:22:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764121868,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3736,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Datura stramonium est une plante herbacée annuelle ou bisannuelle pouvant atteindre 1,5 mètre de haut. Les feuilles sont découpées profondément en lobes aigus qui se terminent par des pointes et présentent des nervures saillantes sur la face inférieure. La fleur est grande (jusqu'à 10 cm de long) et présente une corolle tubuleuse, qui se finit en s'évasant (l'ensemble fait penser à une trompette), avec des pétales blanchâtres. Le fruit est une capsule épineuse dressée qui contient de nombreuses graines noires réniformes.</p><h6>Cotylédons</h6><p>Les cotylédons sont linéaires, lancéolées de 5 à 30 mm de long et 4 à 5 mm de large, portés par un pétiole de 5 à 8 mm de long. Le limbe est vert à la face supérieure et teintée de pourpre à la face inférieure.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont simples, alternes portées par un pétiole long de 12 à 18 mm. Le limbe est ovale lancéolé de 25 à 36 mm de long et 8 à 12 mm de large, avec des nervures nettes, vert à la face supérieure et légèrement teinté de pourpre à la face inférieure.</p><h6>Port</h6><p>D. stramonium est une plante herbacée à subligneuse, dressée, haute jusqu'à 1,5 m.</p><h6>Système Souterrain</h6><p>La racine pivotante est pourvue de nombreuses racines secondaires blanches.</p><h6>Tige</h6><p>La tige est cylindrique, pleine, épaisse et plus ou moins lignifiée à la base, rapidement et régulièrement divisée de façon dichotomique. De couleur vert jaunâtre ou teintée de pourpre, elle est glabre ou faiblement pubescente à poils simples sur les jeunes rameaux et les pédoncules.</p><h6>Feuille</h6><p>Les grandes feuilles sont simples, alternes, ovales à elliptiques, généralement lobées, à dents irrégulières, vert foncé brillant à la face supérieure, plus claires et marquées par des nervures saillantes en dessous. Elles sont portées par un long pétiole robuste (3 à 11 cm de long). Le limbe est largement ovale à lancéolé, entier ou presque, à marge fortement et irrégulièrement dentée ou 3 à 5 lobée, à sinus irréguliers et assez profonds. La base est arrondie ou en coin large, le sommet est en coin aigu à acuminé. La nervation est alterne. Les deux faces sont glabres.</p><h6>Inflorescence</h6><p>Les fleurs solitaires sont axillaires.</p><h6>Fleur</h6><p>Les fleurs en forme d’entonnoir (tube étroit, long de 3 à 4,5 cm), plissées à leur base, mesurent 5 à 12 cm de long et s’ouvrent en corolle évasée en forme de trompette, composées de 5 pétales soudés et terminés en pointe. De couleur blanche, jaune ou pourprée, elles sont solitaires à l'aisselle des feuilles supérieures, parfois au niveau des ramifications. Calice tubuleux, denté, soudé à 5 lobes vert-pâle, à préfloraison tordue. Elles sont portées par un pédoncule court de 0,5 à 1 cm.</p><h6>Fruit</h6><p>Le fruit est un capsule subglobuleuse, dressée, à 4 loges, de 3 à 6 cm de long et 2 à 4 cm de large. Elle est épineuse, couverte d’épines coniques dressées de 6 à 10 mm de long, réparties en 4 zones séparées par les lignes de suture et de déhiscence. Le fruit est déhiscent par le sommet, s’ouvrant en 4 valves. La base du calice est persistante et forme à la base du fruit une collerette verte rabattue, d’environ 1 cm de long. Une capsule contient de très nombreuses graines.</p><h6>Graine</h6><p>La graine réniforme est aplatie et ridée, longue de 3-4 mm et noirâtre.</p>",
+dateCreated: "2015-03-19T11:22:04Z",
+lastUpdated: "2015-03-19T11:22:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764124343,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3737,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Datura stramonium L.",
+dateCreated: "2015-03-19T11:22:05Z",
+lastUpdated: "2015-03-19T11:22:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764125042,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3741,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "D. stramonium est une espèce annuelle qui se multiplie uniquement par graines. Floraison brève (1-2 jours) entre juillet et octobre en France (Camargue).<br>",
+dateCreated: "2015-03-19T11:22:06Z",
+lastUpdated: "2015-03-19T11:22:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764126970,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3738,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Amérique du Nord</p><h6>Distribution Mondiale</h6><p>Europe, Amérique du Nord, Asie du Sud,</p>",
+dateCreated: "2015-03-19T11:22:05Z",
+lastUpdated: "2015-03-19T11:22:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764125503,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3735,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "D. stramonium est une grande herbe subligneuse buissonnante, de morphologie et de comportement semblables à D. innoxia. D. stramonium est une plante glabre avec une tige plutôt verte et un fruit dressé, couvert d’épines coniques dures. Alors que D. innoxia se distingue par ses tiges, ses rameaux et ses feuilles entièrement pubescents, à poils simples glanduleux et ses feuilles le plus souvent entières, rarement dentées. Les rameaux sont généralement de couleur pourpre. Le fruit est pendant, pubescent et couvert d’épines molles.<br>",
+dateCreated: "2015-03-19T11:22:03Z",
+lastUpdated: "2015-03-19T11:22:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764123880,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3740,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "D. stramonium est une plante prospérant en terrain inculte, dans les décombres, dans les terres fraîchement labourées mais riches en azote (ex : jachères) et dans tout sol sablonneux, siliceux, argileux calcaire ou limoneux. Comores : absente. Madagascar : Espèce rudérale et adventice des cultures assez commune à Madagascar, surtout sur les Hautes Terres. Elle infeste les décombres, les terrains plus ou moins abandonnés, à proximité des villages et les cultures maraîchères. Elle affectionne particulièrement les sols humifères riches. Maurice : Espèce fréquente dans certaines régions (Réduit et Montagne Longue). Elle se développe au bord des routes, dans les terrains vagues. La Réunion : Espèce nitrophile, principalement rudérale. Elle se développe dans les friches et les zones de décombres. Elle est présente à basse altitude dans le Sud et le Sud-Ouest de l’île, notamment sur les sols riches et profonds, comme à la plaine du Gol. On la rencontre parfois en mélange avec D. innoxia. Seychelles : Espèce rudérale peu fréquente.<br>",
+dateCreated: "2015-03-19T11:22:06Z",
+lastUpdated: "2015-03-19T11:22:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764126482,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3739,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Amérique du Nord</p><h6>Distribution Mondiale</h6><p>Europe, Amérique du Nord, Asie du Sud,</p>",
+dateCreated: "2015-03-19T11:22:05Z",
+lastUpdated: "2015-03-19T11:22:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764125992,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3742,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Globale</h6><p>Le développement végétatif important de D. stramonium en fait une mauvaise herbe très compétitive pour les cultures (maïs, soja, légumes divers…).</p><h6>Nuisibilité Locale</h6><p>Madagascar : D. stramonium est essentiellement une adventice des cultures maraîchères dans les zones périurbaines. Dans le Sud-Ouest, elle est remplacée par D. innoxia qui envahit les cultures (pois du cap, maïs, manioc) dans les plaines alluviales irriguées. Maurice : Adventice dont la présence est rare dans les cultures, à nuisibilité très faible. La Réunion : Adventice occasionnelle de la canne à sucre dans les parcelles sur sol profond et riche. Elle n’est jamais abondante. Seychelles : Espèce non présente dans les cultures.</p>",
+dateCreated: "2015-03-19T11:22:07Z",
+lastUpdated: "2015-03-19T11:22:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764127457,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3744,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Usages</h6><p>D. stramonium est utilisé comme plante ornementale.</p>D. stramonium est une plante très toxique contenant un alcaloïde dangereux la stramonine.<br>",
+dateCreated: "2015-03-19T11:22:18Z",
+lastUpdated: "2015-03-19T11:22:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764138605,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3732,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:22:03Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764123183,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3731,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:22:03Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Carrara A., Dominati E., Girardot F., Marnotte P. 2006 – Plantes et rizières et Camargue – Montpellier, édition CIRAD & CFR – 236 p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764123182,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3733,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:22:03Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/d/datst/datst_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764123183,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3734,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:22:03Z",
+lastUpdated: "2015-03-31T06:52:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://plantes-rizieres-camargue.cirad.fr/dicotyledones/solanaceae/datura_stramonium"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764123183,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 2212,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060909_1624560.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060909_1624560_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:32Z",
+rating: 0
+},
+{
+id: 2213,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20090706_001022.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20090706_001022_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:32Z",
+rating: 0
+},
+{
+id: 2214,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040727_095010.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040727_095010_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:32Z",
+rating: 0
+},
+{
+id: 2215,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040727_094954.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040727_094954_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:32Z",
+rating: 0
+},
+{
+id: 2216,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040903_095820.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040903_095820_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:32Z",
+rating: 0
+},
+{
+id: 2217,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040728_134220.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040728_134220_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:32Z",
+rating: 0
+},
+{
+id: 2218,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040727_100052.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040727_100052_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:32Z",
+rating: 0
+},
+{
+id: 2219,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040930_102228.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040930_102228_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:32Z",
+rating: 0
+},
+{
+id: 2220,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040930_102124.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040930_102124_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:32Z",
+rating: 0
+},
+{
+id: 2221,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040930_102044.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040930_102044_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:32Z",
+rating: 0
+},
+{
+id: 2222,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040930_102036.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040930_102036_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:32Z",
+rating: 0
+},
+{
+id: 2223,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20041007_100428.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20041007_100428_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:32Z",
+rating: 0
+},
+{
+id: 2224,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20041006_114816.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20041006_114816_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2225,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040727_100636.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040727_100636_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2226,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040906_123436.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040906_123436_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2227,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040903_113548.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20040903_113548_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2228,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20130620_112111.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20130620_112111_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2229,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20130619_085156.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20130619_085156_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2230,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20090706_000755.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20090706_000755_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2231,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20080609_1012180.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20080609_1012180_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2232,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20080609_1012158.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20080609_1012158_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2233,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20080609_1012160.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20080609_1012160_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2234,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20080609_1012180_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20080609_1012180_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2235,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20080609_1012160_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20080609_1012160_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2236,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20130620_112128.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20130620_112128_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2237,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20130620_112211.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20130620_112211_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:33Z",
+rating: 0
+},
+{
+id: 2238,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060901_2222340.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060901_2222340_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:34Z",
+rating: 0
+},
+{
+id: 2239,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060909_1443370.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060909_1443370_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:34Z",
+rating: 0
+},
+{
+id: 2240,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060913_1011490.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060913_1011490_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:34Z",
+rating: 0
+},
+{
+id: 2241,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060909_1515150.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060909_1515150_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:34Z",
+rating: 0
+},
+{
+id: 2242,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060901_0701240.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060901_0701240_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:34Z",
+rating: 0
+},
+{
+id: 2243,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060909_1521260.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060909_1521260_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:34Z",
+rating: 0
+},
+{
+id: 2244,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20120615_110125.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20120615_110125_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:34Z",
+rating: 0
+},
+{
+id: 2245,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20120615_110148.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20120615_110148_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:34Z",
+rating: 0
+},
+{
+id: 2246,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20120615_075208.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20120615_075208_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:34Z",
+rating: 0
+},
+{
+id: 2247,
+url: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060909_1624340.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura stramonium/datst_20060909_1624340_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:34Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

@@ -1,0 +1,1251 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 91,
+title: "<i>Cyclospermum leptophyllum (</i>Pers.<i>) </i>Eichler ",
+taxonConcept: {
+id: 206,
+name: "Cyclospermum leptophyllum (Pers.) Eichler",
+canonicalForm: "Cyclospermum leptophyllum",
+italicisedForm: "<i>Cyclospermum leptophyllum (</i>Pers.<i>) </i>Eichler ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 204,
+name: "Apiaceae",
+canonicalForm: "Apiaceae",
+italicisedForm: "<i>Apiaceae</i>",
+rank: "Family"
+},
+{
+id: 205,
+name: "Cyclospermum",
+canonicalForm: "Cyclospermum",
+italicisedForm: "<i>Cyclospermum</i>",
+rank: "Genus"
+},
+{
+id: 206,
+name: "Cyclospermum leptophyllum (Pers.) Eichler",
+canonicalForm: "Cyclospermum leptophyllum",
+italicisedForm: "<i>Cyclospermum leptophyllum (</i>Pers.<i>) </i>Eichler ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 1989,
+name: "Aethusa leptophylla (Pers.) Spreng.",
+canonicalForm: "Aethusa leptophylla",
+italicisedForm: "<i>Aethusa leptophylla (</i>Pers.<i>) </i>Spreng. ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1990,
+name: "Apium ammi var. caespitosum Urb.",
+canonicalForm: "Apium ammi caespitosum",
+italicisedForm: "<i>Apium ammi </i>var.<i> caespitosum </i>Urb. ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1991,
+name: "Apium ammi f. filamentosum (Kuntze) H.Wolff",
+canonicalForm: "Apium ammi filamentosum",
+italicisedForm: "<i>Apium ammi </i>f.<i> filamentosum (</i>Kuntze<i>) </i>H.Wolff ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1992,
+name: "Apium ammi var. leptophyllum (Pers.) Kuntze",
+canonicalForm: "Apium ammi leptophyllum",
+italicisedForm: "<i>Apium ammi </i>var.<i> leptophyllum (</i>Pers.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1993,
+name: "Apium ammi f. nanum Kuntze",
+canonicalForm: "Apium ammi nanum",
+italicisedForm: "<i>Apium ammi </i>f.<i> nanum </i>Kuntze ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1994,
+name: "Apium ammi f. pedunculata Chodat",
+canonicalForm: "Apium ammi pedunculata",
+italicisedForm: "<i>Apium ammi </i>f.<i> pedunculata </i>Chodat ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1995,
+name: "Apium depressum M.E.Jones",
+canonicalForm: "Apium depressum",
+italicisedForm: "<i>Apium depressum </i>M.E.Jones ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1996,
+name: "Apium leptophyllum (Pers.) F.Muell. ex Benth.",
+canonicalForm: "Apium leptophyllum",
+italicisedForm: "<i>Apium leptophyllum (</i>Pers.<i>) </i>F.Muell.<i> ex </i>Benth. ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1997,
+name: "Apium leptophyllum var. dubium Domin",
+canonicalForm: "Apium leptophyllum dubium",
+italicisedForm: "<i>Apium leptophyllum </i>var.<i> dubium </i>Domin ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1998,
+name: "Apium leptophyllum var. multisectum Mathias & Constance",
+canonicalForm: "Apium leptophyllum multisectum",
+italicisedForm: "<i>Apium leptophyllum </i>var.<i> multisectum </i>Mathias<i> & </i>Constance ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1999,
+name: "Apium rivulare Larrañaga",
+canonicalForm: "Apium rivulare",
+italicisedForm: "<i>Apium rivulare </i>Larrañaga ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2000,
+name: "Cyclospermum ammi (Savi) Caruel [Illegitimate]",
+canonicalForm: "Cyclospermum ammi",
+italicisedForm: "<i>Cyclospermum ammi (</i>Savi<i>) </i>Caruel<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2001,
+name: "Cyclospermum leptophyllum (Pers.) Sprague ex Britton & P. Wilson",
+canonicalForm: "Cyclospermum leptophyllum",
+italicisedForm: "<i>Cyclospermum leptophyllum (</i>Pers.<i>) </i>Sprague<i> ex </i>Britton<i> & </i>P. Wilson ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2002,
+name: "Cyclospermum leptophyllum var. leptophyllum",
+canonicalForm: "Cyclospermum leptophyllum leptophyllum",
+italicisedForm: "<i>Cyclospermum leptophyllum </i>var.<i> leptophyllum</i>",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2003,
+name: "Helosciadium leptophyllum (Pers.) DC.",
+canonicalForm: "Helosciadium leptophyllum",
+italicisedForm: "<i>Helosciadium leptophyllum (</i>Pers.<i>) </i>DC. ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2004,
+name: "Oreosciadium andinum Rusby",
+canonicalForm: "Oreosciadium andinum",
+italicisedForm: "<i>Oreosciadium andinum </i>Rusby ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2005,
+name: "Pimpinella domingensis Willd. ex Roem. & Schult.",
+canonicalForm: "Pimpinella domingensis",
+italicisedForm: "<i>Pimpinella domingensis </i>Willd.<i> ex </i>Roem.<i> & </i>Schult. ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2006,
+name: "Pimpinella leptophylla Pers.",
+canonicalForm: "Pimpinella leptophylla",
+italicisedForm: "<i>Pimpinella leptophylla </i>Pers. ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2007,
+name: "Ptychotis leptophylla (Pers.) Penz.",
+canonicalForm: "Ptychotis leptophylla",
+italicisedForm: "<i>Ptychotis leptophylla (</i>Pers.<i>) </i>Penz. ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2008,
+name: "Selinum leptophyllum (Pers.) E.H.L.Krause",
+canonicalForm: "Selinum leptophyllum",
+italicisedForm: "<i>Selinum leptophyllum (</i>Pers.<i>) </i>E.H.L.Krause ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2009,
+name: "Seseli ammi Savi",
+canonicalForm: "Seseli ammi",
+italicisedForm: "<i>Seseli ammi </i>Savi ",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 511,
+name: "Karaotintsoavaly",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 507,
+name: "Anis marron",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 508,
+name: "Anis sauvage",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 510,
+name: "Anis sauvage",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 509,
+name: "Carotte sauvage",
+taxonConcept: {
+id: 206
+},
+isContributor: false,
+language: {
+id: 493,
+name: "Français / French"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:14:28Z",
+lastRevised: "2015-03-19T11:18:31Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_02_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>APULE</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>APULE</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 729,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>APULE</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145122,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 730,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Cyclospermum leptophyllum (Pers.) Eichler",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145123,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3600,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Cyclospermum leptophyllum est une plante dressée ou un peu étalée. Il est glabre et mesure entre 20 et 50 cm de haut. Les feuilles sont divisées en 3 ou 4 parties qui elles-mêmes se divisent en de nombreux segments filiformes. Elles mesurent 1 à 15 cm de long. Les pétioles inférieurs sont plus longs que les pétioles supérieurs. La base de la feuille est engainante autour de la tige. Les inflorescences sont des ombelles ramifiées, opposées aux feuilles et portées par un axe court. Chaque inflorescence est composée de 8 à 15 fleurs très petites (1 mm de diamètre). La plante dégage une forte odeur d'anis.</p>",
+dateCreated: "2015-03-19T11:18:31Z",
+lastUpdated: "2015-03-19T11:18:31Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763911500,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3592,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>APULE</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:18:21Z",
+lastUpdated: "2015-03-19T11:18:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763901887,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3595,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Cyclospermum leptophyllum est une plante dressée ou un peu étalée. Il est glabre et mesure entre 20 et 50 cm de haut. Les feuilles sont divisées en 3 ou 4 parties qui elles-mêmes se divisent en de nombreux segments filiformes. Elles mesurent 1 à 15 cm de long. Les pétioles inférieurs sont plus longs que les pétioles supérieurs. La base de la feuille est engainante autour de la tige. Les inflorescences sont des ombelles ramifiées, opposées aux feuilles et portées par un axe court. Chaque inflorescence est composée de 8 à 15 fleurs très petites (1 mm de diamètre). La plante dégage une forte odeur d'anis.</p><h6>Cotylédons</h6><p>Les cotylédons sont filiformes d'assez grande taille. Ils mesurent 5 à 13 mm de long et environ 1 mm de large.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont longuement pétiolées, divisées en 3 segments, eux-mêmes divisés. Les feuilles suivantes deviennent de plus en plus divisées.</p><h6>Port</h6><p>Herbe dressée ou un peu étalée, atteignant 50 cm de hauteur. Elle est ramifiée dès la base ou présente une tige principale développée.</p><h6>Système Souterrain</h6><p>La racine est un pivot profond.</p><h6>Tige</h6><p>La tige est cylindrique et finement cannelée. Elle est pleine d'une moelle blanche.</p><h6>Feuille</h6><p>Les feuilles sont simples, alternes et longuement pétiolées. Elles sont profondément divisées plusieurs fois en lobes capillaires. Elles présentent 3 ou 4 pennes de contour oblong à ovale avec des segments ultimes linéaires à filiformes. Les feuilles sont de forme générale ovale et mesurent 3,5 à 10 cm de long et 3,5 à 8 cm de large. Les segments ultimes mesurent 15 à 20 mm de long et 0,5 à 1 mm de large, mais sont souvent plus courts et plus larges sur les feuilles inférieures. Le sommet des segments est aigu, leur marge est entière et les deux faces sont glabres. Le pétiole, long de 2,5 à 11 cm, présente une base engainante à bords blancs et membraneux.</p><h6>Inflorescence</h6><p>L’inflorescence est formée d’ombelles habituellement situées latéralement en opposition aux feuilles. L’inflorescence peut présenter un pédoncule très réduit ou atteignant jusqu’à 2 cm de longueur. Il n’y a ni bractées, ni bractéoles et les pédicelles sont longs de 2 à 6 mm.</p><h6>Fleur</h6><p>Les fleurs peuvent aller du blanc au rose pâle. Les ombellules, groupées par 2 à 5, sont formées de 8 à 15 fleurs avec les fleurs centrales sessiles ou subsessiles. Une ombellule mesure de 7 à 10 mm de long. Les fleurs sont très petites, de 1 mm, avec un calice absent et 5 pétales orbiculaires, apiculés et de couleur blanche à blanc rosé.</p><h6>Fruit</h6><p>Le fruit est ovoïde à largement elliptique et fortement comprimé dans le sens latéral. Il mesure de 1,2 à 3 mm de long sur 1,5 à 2 mm de large. Il est formé de deux loges contenant chacune une graine. Le tégument est de couleur brun clair et présente 5 grosses côtes. A maturité, l'ensemble du fruit se détache, ou les loges peuvent se séparer mais restent indéhiscentes.</p>",
+dateCreated: "2015-03-19T11:18:23Z",
+lastUpdated: "2015-03-19T11:18:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763903267,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3596,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Cyclospermum leptophyllum (Pers.) Eichler",
+dateCreated: "2015-03-19T11:18:23Z",
+lastUpdated: "2015-03-19T11:18:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763903838,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3598,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. leptophyllum est une plante annuelle qui se reproduit par graines.<br>",
+dateCreated: "2015-03-19T11:18:24Z",
+lastUpdated: "2015-03-19T11:18:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763904985,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3597,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Comores : C. leptophyllum est une espèce spontanée à proximité des villages. Madagascar : Espèce rudérale des Hauts plateaux. Maurice : Adventice des cultures, espèces rudérale des bords de routes et des jardins, ayant une large répartition. La Réunion : L'espèce est très commune à La Réunion. On la trouve surtout dans les zones humides. Elle se rencontre surtout à basse et moyenne altitude jusqu'à 400 m. Elle est très commune au bord des routes et en bordure de champ, sur la côte Est et Nord de l'île, de Ste Marie à St Benoît, et dans les cultures irriguées de Saint Joseph à l'Etang-Salé. Seychelles : absente.<br>",
+dateCreated: "2015-03-19T11:18:24Z",
+lastUpdated: "2015-03-19T11:18:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763904566,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3599,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Comores : C. leptophyllum est une espèce absente en culture. Madagascar : Espèce rare dans les cultures. Maurice : Adventice commune des cultures maraîchères et de la canne à sucre où elle est faiblement à moyennement nuisible. La Réunion : Adventice ayant une fréquence globale de 16 % dans les parcelles cultivées. Elle ne présente pas de problème particulier en culture de canne à sucre, même si elle peut ponctuellement être très abondante. En culture d'ananas et surtout en maraîchage, elle peut devenir difficile à maîtriser à cause d'un manque de molécule herbicide efficace et sélective, et de son enracinement profond qui limite l'efficacité du désherbage manuel. Son cycle de développement étant proche de celui de certaines cultures, telles que l'oignon, elle devient alors une contrainte agronomique majeure. Seychelles : absente.</p>",
+dateCreated: "2015-03-19T11:18:25Z",
+lastUpdated: "2015-03-19T11:18:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763905416,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3594,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:18:22Z",
+lastUpdated: "2015-03-30T07:03:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763902530,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3593,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:18:22Z",
+lastUpdated: "2015-03-31T18:58:33Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/a/apule/apule_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763902529,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 1704,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:38Z",
+rating: 0
+},
+{
+id: 1705,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:38Z",
+rating: 0
+},
+{
+id: 1706,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:38Z",
+rating: 0
+},
+{
+id: 1707,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101234_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101234_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:38Z",
+rating: 0
+},
+{
+id: 1708,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:38Z",
+rating: 0
+},
+{
+id: 1709,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:38Z",
+rating: 0
+},
+{
+id: 1710,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101234.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101234_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:38Z",
+rating: 0
+},
+{
+id: 1711,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20090701_205952.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20090701_205952_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:38Z",
+rating: 0
+},
+{
+id: 1712,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:38Z",
+rating: 0
+},
+{
+id: 1713,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20090701_205812.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20090701_205812_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:38Z",
+rating: 0
+},
+{
+id: 1714,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:39Z",
+rating: 0
+},
+{
+id: 1715,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20090127_184512.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20090127_184512_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:39Z",
+rating: 0
+},
+{
+id: 1716,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20090701_205454.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20090701_205454_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:39Z",
+rating: 0
+},
+{
+id: 1717,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20020724_143514.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20020724_143514_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:39Z",
+rating: 0
+},
+{
+id: 1718,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:39Z",
+rating: 0
+},
+{
+id: 1719,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101232_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:39Z",
+rating: 0
+},
+{
+id: 1720,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101234_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20080609_101234_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:39Z",
+rating: 0
+},
+{
+id: 1721,
+url: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20090701_210316.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyclospermum leptophyllum/apule_20090701_210316_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:14:39Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

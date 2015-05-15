@@ -1,0 +1,5036 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 99,
+title: "<i>Cyperus rotundus </i>L. ",
+taxonConcept: {
+id: 219,
+name: "Cyperus rotundus L.",
+canonicalForm: "Cyperus rotundus",
+italicisedForm: "<i>Cyperus rotundus </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 10,
+name: "Cyperaceae",
+canonicalForm: "Cyperaceae",
+italicisedForm: "<i>Cyperaceae</i>",
+rank: "Family"
+},
+{
+id: 213,
+name: "Cyperus",
+canonicalForm: "Cyperus",
+italicisedForm: "<i>Cyperus</i>",
+rank: "Genus"
+},
+{
+id: 219,
+name: "Cyperus rotundus L.",
+canonicalForm: "Cyperus rotundus",
+italicisedForm: "<i>Cyperus rotundus </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 2191,
+name: "Chlorocyperus rotundus (L.) Palla",
+canonicalForm: "Chlorocyperus rotundus",
+italicisedForm: "<i>Chlorocyperus rotundus (</i>L.<i>) </i>Palla ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2192,
+name: "Chlorocyperus salaamensis Palla",
+canonicalForm: "Chlorocyperus salaamensis",
+italicisedForm: "<i>Chlorocyperus salaamensis </i>Palla ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2193,
+name: "Cyperus agrestis Willd. ex Spreng. & Link",
+canonicalForm: "Cyperus agrestis",
+italicisedForm: "<i>Cyperus agrestis </i>Willd.<i> ex </i>Spreng.<i> & </i>Link ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2194,
+name: "Cyperus arabicus Ehrenb. ex Boeckeler",
+canonicalForm: "Cyperus arabicus",
+italicisedForm: "<i>Cyperus arabicus </i>Ehrenb.<i> ex </i>Boeckeler ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2195,
+name: "Cyperus badius var. inconspicuus (Nyman) Nyman",
+canonicalForm: "Cyperus badius inconspicuus",
+italicisedForm: "<i>Cyperus badius </i>var.<i> inconspicuus (</i>Nyman<i>) </i>Nyman ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2196,
+name: "Cyperus bicolor Vahl",
+canonicalForm: "Cyperus bicolor",
+italicisedForm: "<i>Cyperus bicolor </i>Vahl ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2197,
+name: "Cyperus bifax C.B.Clarke",
+canonicalForm: "Cyperus bifax",
+italicisedForm: "<i>Cyperus bifax </i>C.B.Clarke ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2198,
+name: "Cyperus bulbosostoloniferus Miq.",
+canonicalForm: "Cyperus bulbosostoloniferus",
+italicisedForm: "<i>Cyperus bulbosostoloniferus </i>Miq. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2199,
+name: "Cyperus comosus Sm.",
+canonicalForm: "Cyperus comosus",
+italicisedForm: "<i>Cyperus comosus </i>Sm. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2200,
+name: "Cyperus disruptus C.B.Clarke",
+canonicalForm: "Cyperus disruptus",
+italicisedForm: "<i>Cyperus disruptus </i>C.B.Clarke ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2201,
+name: "Cyperus elongatus Sieber ex Kunth [Illegitimate]",
+canonicalForm: "Cyperus elongatus",
+italicisedForm: "<i>Cyperus elongatus </i>Sieber<i> ex </i>Kunth<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2202,
+name: "Cyperus herbicavus Melliss",
+canonicalForm: "Cyperus herbicavus",
+italicisedForm: "<i>Cyperus herbicavus </i>Melliss ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2203,
+name: "Cyperus hexastachyos Rottb.",
+canonicalForm: "Cyperus hexastachyos",
+italicisedForm: "<i>Cyperus hexastachyos </i>Rottb. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2204,
+name: "Cyperus hildra Poir.",
+canonicalForm: "Cyperus hildra",
+italicisedForm: "<i>Cyperus hildra </i>Poir. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2205,
+name: "Cyperus hydra Michx.",
+canonicalForm: "Cyperus hydra",
+italicisedForm: "<i>Cyperus hydra </i>Michx. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2206,
+name: "Cyperus inconspicuus Gennari [Illegitimate]",
+canonicalForm: "Cyperus inconspicuus",
+italicisedForm: "<i>Cyperus inconspicuus </i>Gennari<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2207,
+name: "Cyperus laevissimus Steud.",
+canonicalForm: "Cyperus laevissimus",
+italicisedForm: "<i>Cyperus laevissimus </i>Steud. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2208,
+name: "Cyperus leptostachyus Griff.",
+canonicalForm: "Cyperus leptostachyus",
+italicisedForm: "<i>Cyperus leptostachyus </i>Griff. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2209,
+name: "Cyperus longus Boeckeler [Illegitimate]",
+canonicalForm: "Cyperus longus",
+italicisedForm: "<i>Cyperus longus </i>Boeckeler<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2210,
+name: "Cyperus merkeri C.B.Clarke",
+canonicalForm: "Cyperus merkeri",
+italicisedForm: "<i>Cyperus merkeri </i>C.B.Clarke ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2211,
+name: "Cyperus micreilema Steud.",
+canonicalForm: "Cyperus micreilema",
+italicisedForm: "<i>Cyperus micreilema </i>Steud. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2212,
+name: "Cyperus nubicus C.B.Clarke",
+canonicalForm: "Cyperus nubicus",
+italicisedForm: "<i>Cyperus nubicus </i>C.B.Clarke ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2213,
+name: "Cyperus ochreoides Steud.",
+canonicalForm: "Cyperus ochreoides",
+italicisedForm: "<i>Cyperus ochreoides </i>Steud. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2214,
+name: "Cyperus officinalis Nees ex Godr. [Invalid]",
+canonicalForm: "Cyperus officinalis",
+italicisedForm: "<i>Cyperus officinalis </i>Nees<i> ex </i>Godr.<i> [Invalid]</i>",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2215,
+name: "Cyperus oliganthus Gand.",
+canonicalForm: "Cyperus oliganthus",
+italicisedForm: "<i>Cyperus oliganthus </i>Gand. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2216,
+name: "Cyperus olivaris O.Targ.Tozz.",
+canonicalForm: "Cyperus olivaris",
+italicisedForm: "<i>Cyperus olivaris </i>O.Targ.Tozz. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2217,
+name: "Cyperus olivaris var. brevibracteatus Le Grand",
+canonicalForm: "Cyperus olivaris brevibracteatus",
+italicisedForm: "<i>Cyperus olivaris </i>var.<i> brevibracteatus </i>Le Grand ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2218,
+name: "Cyperus pallescens Poir. [Illegitimate]",
+canonicalForm: "Cyperus pallescens",
+italicisedForm: "<i>Cyperus pallescens </i>Poir.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2219,
+name: "Cyperus patulus M.Bieb. [Illegitimate]",
+canonicalForm: "Cyperus patulus",
+italicisedForm: "<i>Cyperus patulus </i>M.Bieb.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2220,
+name: "Cyperus platystachys Cherm.",
+canonicalForm: "Cyperus platystachys",
+italicisedForm: "<i>Cyperus platystachys </i>Cherm. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2221,
+name: "Cyperus procerulus Nees",
+canonicalForm: "Cyperus procerulus",
+italicisedForm: "<i>Cyperus procerulus </i>Nees ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2222,
+name: "Cyperus proteinolepis Boeckeler [Illegitimate]",
+canonicalForm: "Cyperus proteinolepis",
+italicisedForm: "<i>Cyperus proteinolepis </i>Boeckeler<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2223,
+name: "Cyperus pseudovariegatus Boeckeler",
+canonicalForm: "Cyperus pseudovariegatus",
+italicisedForm: "<i>Cyperus pseudovariegatus </i>Boeckeler ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2224,
+name: "Cyperus purpureovariegatus Boeckeler",
+canonicalForm: "Cyperus purpureovariegatus",
+italicisedForm: "<i>Cyperus purpureovariegatus </i>Boeckeler ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2225,
+name: "Cyperus radicosus Sm.",
+canonicalForm: "Cyperus radicosus",
+italicisedForm: "<i>Cyperus radicosus </i>Sm. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2226,
+name: "Cyperus retzii Nees [Illegitimate]",
+canonicalForm: "Cyperus retzii",
+italicisedForm: "<i>Cyperus retzii </i>Nees<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2227,
+name: "Cyperus rotundus var. acutus Boeckeler",
+canonicalForm: "Cyperus rotundus acutus",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> acutus </i>Boeckeler ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2228,
+name: "Cyperus rotundus var. amaliae C.B.Clarke",
+canonicalForm: "Cyperus rotundus amaliae",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> amaliae </i>C.B.Clarke ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2229,
+name: "Cyperus rotundus subsp. brevibracteatus (Le Grand) M.Laínz",
+canonicalForm: "Cyperus rotundus brevibracteatus",
+italicisedForm: "<i>Cyperus rotundus </i>subsp.<i> brevibracteatus (</i>Le Grand<i>) </i>M.Laínz ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2230,
+name: "Cyperus rotundus var. carinalis Benth.",
+canonicalForm: "Cyperus rotundus carinalis",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> carinalis </i>Benth. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2231,
+name: "Cyperus rotundus var. carinatus F.M.Bailey [Spelling variant]",
+canonicalForm: "Cyperus rotundus carinatus",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> carinatus </i>F.M.Bailey<i> [Spelling variant]</i>",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2232,
+name: "Cyperus rotundus var. centiflorus C.B.Clarke",
+canonicalForm: "Cyperus rotundus centiflorus",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> centiflorus </i>C.B.Clarke ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2233,
+name: "Cyperus rotundus var. comosus (Sm.) Nyman",
+canonicalForm: "Cyperus rotundus comosus",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> comosus (</i>Sm.<i>) </i>Nyman ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2234,
+name: "Cyperus rotundus f. contractus Kük.",
+canonicalForm: "Cyperus rotundus contractus",
+italicisedForm: "<i>Cyperus rotundus </i>f.<i> contractus </i>Kük. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2235,
+name: "Cyperus rotundus f. depallescens Ekman & Kük.",
+canonicalForm: "Cyperus rotundus depallescens",
+italicisedForm: "<i>Cyperus rotundus </i>f.<i> depallescens </i>Ekman<i> & </i>Kük. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2236,
+name: "Cyperus rotundus var. disruptus (C.B.Clarke) Kük.",
+canonicalForm: "Cyperus rotundus disruptus",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> disruptus (</i>C.B.Clarke<i>) </i>Kük. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2237,
+name: "Cyperus rotundus subsp. divaricatus Lye",
+canonicalForm: "Cyperus rotundus divaricatus",
+italicisedForm: "<i>Cyperus rotundus </i>subsp.<i> divaricatus </i>Lye ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2238,
+name: "Cyperus rotundus var. elongatus Boeckeler",
+canonicalForm: "Cyperus rotundus elongatus",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> elongatus </i>Boeckeler ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2239,
+name: "Cyperus rotundus var. hydra (Michx.) A.Gray",
+canonicalForm: "Cyperus rotundus hydra",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> hydra (</i>Michx.<i>) </i>A.Gray ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2240,
+name: "Cyperus rotundus f. inconspicuus (Nyman) Kük.",
+canonicalForm: "Cyperus rotundus inconspicuus",
+italicisedForm: "<i>Cyperus rotundus </i>f.<i> inconspicuus (</i>Nyman<i>) </i>Kük. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2241,
+name: "Cyperus rotundus f. latifolius Kük.",
+canonicalForm: "Cyperus rotundus latifolius",
+italicisedForm: "<i>Cyperus rotundus </i>f.<i> latifolius </i>Kük. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2242,
+name: "Cyperus rotundus f. latimarginatus Kük.",
+canonicalForm: "Cyperus rotundus latimarginatus",
+italicisedForm: "<i>Cyperus rotundus </i>f.<i> latimarginatus </i>Kük. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2243,
+name: "Cyperus rotundus var. macrostachyus Boiss.",
+canonicalForm: "Cyperus rotundus macrostachyus",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> macrostachyus </i>Boiss. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2244,
+name: "Cyperus rotundus var. major Parl.",
+canonicalForm: "Cyperus rotundus major",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> major </i>Parl. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2245,
+name: "Cyperus rotundus subsp. merkeri (C.B.Clarke) Kük.",
+canonicalForm: "Cyperus rotundus merkeri",
+italicisedForm: "<i>Cyperus rotundus </i>subsp.<i> merkeri (</i>C.B.Clarke<i>) </i>Kük. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2246,
+name: "Cyperus rotundus var. nubicus (C.B.Clarke) Kük.",
+canonicalForm: "Cyperus rotundus nubicus",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> nubicus (</i>C.B.Clarke<i>) </i>Kük. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2247,
+name: "Cyperus rotundus var. pallidus Benth.",
+canonicalForm: "Cyperus rotundus pallidus",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> pallidus </i>Benth. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2248,
+name: "Cyperus rotundus var. platystachys Bojer ex C.B.Clarke",
+canonicalForm: "Cyperus rotundus platystachys",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> platystachys </i>Bojer<i> ex </i>C.B.Clarke ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2249,
+name: "Cyperus rotundus var. procerula C.B.Clarke",
+canonicalForm: "Cyperus rotundus procerula",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> procerula </i>C.B.Clarke ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2250,
+name: "Cyperus rotundus var. quimoyensis L.K.Dai",
+canonicalForm: "Cyperus rotundus quimoyensis",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> quimoyensis </i>L.K.Dai ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2251,
+name: "Cyperus rotundus subsp. retzii Kük.",
+canonicalForm: "Cyperus rotundus retzii",
+italicisedForm: "<i>Cyperus rotundus </i>subsp.<i> retzii </i>Kük. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2252,
+name: "Cyperus rotundus var. rotundus",
+canonicalForm: "Cyperus rotundus rotundus",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> rotundus</i>",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2253,
+name: "Cyperus rotundus var. salsolus C.B.Clarke",
+canonicalForm: "Cyperus rotundus salsolus",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> salsolus </i>C.B.Clarke ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2254,
+name: "Cyperus rotundus var. spadiceus Boeckeler",
+canonicalForm: "Cyperus rotundus spadiceus",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> spadiceus </i>Boeckeler ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2255,
+name: "Cyperus rotundus var. taylorii (C.B.Clarke) Kük.",
+canonicalForm: "Cyperus rotundus taylorii",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> taylorii (</i>C.B.Clarke<i>) </i>Kük. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2256,
+name: "Cyperus rotundus var. tetrastachyos (Desf.) Trab.",
+canonicalForm: "Cyperus rotundus tetrastachyos",
+italicisedForm: "<i>Cyperus rotundus </i>var.<i> tetrastachyos (</i>Desf.<i>) </i>Trab. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2257,
+name: "Cyperus rotundus subsp. tuberosus (Rottb.) Kük.",
+canonicalForm: "Cyperus rotundus tuberosus",
+italicisedForm: "<i>Cyperus rotundus </i>subsp.<i> tuberosus (</i>Rottb.<i>) </i>Kük. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2258,
+name: "Cyperus rubicundus Willd. ex Link [Illegitimate]",
+canonicalForm: "Cyperus rubicundus",
+italicisedForm: "<i>Cyperus rubicundus </i>Willd.<i> ex </i>Link<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2259,
+name: "Cyperus rudioi Boeckeler",
+canonicalForm: "Cyperus rudioi",
+italicisedForm: "<i>Cyperus rudioi </i>Boeckeler ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2260,
+name: "Cyperus rudioi var. minor Boeckeler",
+canonicalForm: "Cyperus rudioi minor",
+italicisedForm: "<i>Cyperus rudioi </i>var.<i> minor </i>Boeckeler ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2261,
+name: "Cyperus stoloniferus var. pallidus Boeckeler",
+canonicalForm: "Cyperus stoloniferus pallidus",
+italicisedForm: "<i>Cyperus stoloniferus </i>var.<i> pallidus </i>Boeckeler ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2262,
+name: "Cyperus taylorii C.B.Clarke",
+canonicalForm: "Cyperus taylorii",
+italicisedForm: "<i>Cyperus taylorii </i>C.B.Clarke ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2263,
+name: "Cyperus tenuifolius Walp. [Spelling variant]",
+canonicalForm: "Cyperus tenuifolius",
+italicisedForm: "<i>Cyperus tenuifolius </i>Walp.<i> [Spelling variant]</i>",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2264,
+name: "Cyperus tetrastachyos Desf.",
+canonicalForm: "Cyperus tetrastachyos",
+italicisedForm: "<i>Cyperus tetrastachyos </i>Desf. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2265,
+name: "Cyperus tuberosus Rottb.",
+canonicalForm: "Cyperus tuberosus",
+italicisedForm: "<i>Cyperus tuberosus </i>Rottb. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2266,
+name: "Cyperus viridis Roxb. ex C.B.Clarke [Invalid]",
+canonicalForm: "Cyperus viridis",
+italicisedForm: "<i>Cyperus viridis </i>Roxb.<i> ex </i>C.B.Clarke<i> [Invalid]</i>",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2267,
+name: "Cyperus weinlandii Kük.",
+canonicalForm: "Cyperus weinlandii",
+italicisedForm: "<i>Cyperus weinlandii </i>Kük. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2268,
+name: "Cyperus yoshinagae Ohwi",
+canonicalForm: "Cyperus yoshinagae",
+italicisedForm: "<i>Cyperus yoshinagae </i>Ohwi ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2269,
+name: "Pycreus rotundus (L.) Hayek",
+canonicalForm: "Pycreus rotundus",
+italicisedForm: "<i>Pycreus rotundus (</i>L.<i>) </i>Hayek ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2270,
+name: "Schoenus tuberosus Burm.f.",
+canonicalForm: "Schoenus tuberosus",
+italicisedForm: "<i>Schoenus tuberosus </i>Burm.f. ",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 561,
+name: "Nutgrass",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 562,
+name: "Herbe oignon",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 563,
+name: "Nagarmuta",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 50,
+name: "Bengali"
+}
+},
+{
+id: 564,
+name: "Tsingetsetse",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 565,
+name: "Purple nutsedge",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 566,
+name: "Mork",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 455,
+name: "Urdu"
+}
+},
+{
+id: 567,
+name: "Deela",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 455,
+name: "Urdu"
+}
+},
+{
+id: 568,
+name: "Motha",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 177,
+name: "Hindi"
+}
+},
+{
+id: 569,
+name: "Lerb zonnyon",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 570,
+name: "Dila",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 177,
+name: "Hindi"
+}
+},
+{
+id: 571,
+name: "Bedalle",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 50,
+name: "Bengali"
+}
+},
+{
+id: 572,
+name: "Badhail",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 50,
+name: "Bengali"
+}
+},
+{
+id: 573,
+name: "Ndawe",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 574,
+name: "Laiche",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 575,
+name: "Mutha",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 50,
+name: "Bengali"
+}
+},
+{
+id: 576,
+name: "Zoumine",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 577,
+name: "Oumine",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 578,
+name: "Herbe à oignon",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 579,
+name: "Moita",
+taxonConcept: {
+id: 219
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1627,
+name: "Eng: purple nutsedge",
+taxonConcept: {
+id: 219
+},
+isContributor: false
+},
+{
+id: 1628,
+name: "Nutgrass.",
+taxonConcept: {
+id: 219
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:17:40Z",
+lastRevised: "2015-03-19T11:20:49Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_180837_th1.jpg",
+notes: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>CYPRO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>CYPRO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 815,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>CYPRO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145831,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 828,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>The basal leaves vary in number from 6-14 and are about half the length of the terminal internode (culm).</p><h6>General Habit</h6><p>Smooth, erect and perennial sedge with an extensive subterranean tuber system.</p><h6>Underground System</h6><p>Slender runners are produced below ground and form chains of black, irregular shaped tubers, up to 2 cm long. These tubers often sprout to produce new shoots while still attached to the original plant. The tubers are irregularly shaped, white when young, and progressively change in colour with maturity from white through a light-brownish colour to black. The tubers have an acrid taste.</p><h6>Global Description</h6><p>A perrenial herb to 15-30 cm high or sometimes up to 50 cm from a lender rhizomes with small nut-like tubers at the base of each group of stems, of cultivated land and damp site, common throughout the region and dispersed pantropically and subtropically.</p><h6>Inflorescence</h6><p>Subtended by several leaf-like bracts, grows from the top of the stem and consist of a number of slender, spreading branches of unequal length, near the ends of which are clustered the narrow, flattened, dark reddish-brown spikelets 1-2 cm long. Each spikelet is made up of 10-30 closely crowded florets which ripen into black 3-angled nutlets.</p><h6>Stem</h6><p>Are triangular in cross-section.</p>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145857,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 826,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Cyperus rotundus L.",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145853,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 818,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Perrenial herb to 15-30 cm high, reproduces primarily through tubers, and the spread of the plant in the short term is accomplished through rhizomes (Rambakudzibga, 1999); seed occasionally.<br>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145833,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 824,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "It is a major weed near cultivated crops and in. It is encouraged by frequent cultivation and grows best in moist fertile soils. It doesn't grow well in the shade. Prevalent in disturbed areas and lawns. Very persistent once established.<br>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145849,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 817,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Cosmopolitan.</p><h6>Origin</h6><p>Pantropical and subtropical.</p>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145833,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 816,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>C. rotundus has the reputation of being the 'world's worst weed' and is the commonest and most troublesome Cyperus in most parts of East Africa. It occurs in all type of crop up to 2000 m (Ivens, 1989). It was also reported that C. rotundus is a persistent weed of cultivated fields and bush regrowths regarded as one of the world's most troublesome in West Africa (Akobundu et al., 1998). ). It is the most significant weed of 18 most malicious weed plant species of subtropical and tropical farming in both hemispheres and a weed of irrigated agriculture (cotton, maize, vegetable cultures, rice, sugar-cane, rarely lucerne and grain cultures), of gardens, kitchen-gardens, plantations of subtropical cultures.</p><h6>Local Weediness</h6><p>Kenya: Frequent and usually abundant. Tanzania: Frequent and usually abundant. Uganda:Frequent and usually abundant.</p>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145833,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 812,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Against fever, to treat nausea and diarrhea. The rhizome contains: flavonoids, alkaloids, saponins and fatty oils (glycerides). Tubers are aromatic, used to increase body weight. Fresh tubers arediaphoretic, astringent and have been used to combat scorpion stings.<br>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145824,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 829,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>With C. rotundus, C. esculentus and, propably, some other species 2,4-D or MCPA at relatively high rates give some degree of control. The tops of young plants are killed and regrowth may be delayed but the tubers themselves are little affected. In newly planted sugar cane this degree of control may delay weed growth long enough for the crop to establish and shade out the later emerging shoots. In most other crop the effects of such treatment are not sufficiently long lasting. Among other leaf-absorbed chemicals, glyphosphate at higher rates (preferably as a split application of 2 kg/ha fallowed by another 1 kg/ha on any regrowth that appears) gives effective control and also can be used as a pre-planting or directed treatment. Paraquat also kills the tops but must be applied repeatedly at about 4-week internals to give lasting control. In traditional rice-growing areas in India C. rotundus is controlled using pigs. Usually, the pigs are fed with vegetable waste and allowed to forage for tubers in wastelands. Because the tubers are succulent and sweet, pigs are fond of them. They can easily remove the tubers even if the soil is hard. Usually, the field is soaked with water and puddle well and then the pigs are introduced. An animal can collect 2-4 kg of tubers in one day and 60-75 animals can remove the tubers from 1 ha in one day. Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145858,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 823,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-03-07T03:18:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.tropilab.com/nutgrass.html"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p;"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 19-20pp;"
+},
+{
+url: "http://www.agroatlas.ru/en/content/weeds/Cyperus_rotundus/"
+},
+{
+title: "A M Rambakudzibga (1999). Aspects of the growth and development of Cyperus rotundus under arable crop canopies: implications for integrated control. University of Giessen, Tropical Crop Science, Germany. Blackwell Science: Weed Research 39, 507±514;"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1274"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+url: "http://www.agroatlas.ru/en/content/weeds/Cyperus_rotundus/"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 438p;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145846,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 810,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-04T17:59:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+},
+{
+url: "http://www.tropilab.com/nutgrass.html"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+url: "http://www.agroatlas.ru/en/content/weeds/Cyperus_rotundus/"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 19-20pp;"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1274"
+},
+{
+url: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 438p;"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p;"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "A M Rambakudzibga (1999). Aspects of the growth and development of Cyperus rotundus under arable crop canopies: implications for integrated control. University of Giessen, Tropical Crop Science, Germany. Blackwell Science: Weed Research 39, 507±514;"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145817,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 813,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-04T17:59:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 438p;"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+title: "A M Rambakudzibga (1999). Aspects of the growth and development of Cyperus rotundus under arable crop canopies: implications for integrated control. University of Giessen, Tropical Crop Science, Germany. Blackwell Science: Weed Research 39, 507±514;"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p;"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1274"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 19-20pp;"
+},
+{
+url: "http://www.tropilab.com/nutgrass.html"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://www.agroatlas.ru/en/content/weeds/Cyperus_rotundus/"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145825,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 811,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-04T17:59:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p;"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://www.tropilab.com/nutgrass.html"
+},
+{
+title: "A M Rambakudzibga (1999). Aspects of the growth and development of Cyperus rotundus under arable crop canopies: implications for integrated control. University of Giessen, Tropical Crop Science, Germany. Blackwell Science: Weed Research 39, 507±514;"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 438p;"
+},
+{
+url: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+},
+{
+url: "http://www.tropilab.com/nutgrass.html"
+},
+{
+url: "http://www.agroatlas.ru/en/content/weeds/Cyperus_rotundus/"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1274"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 19-20pp;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145820,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 814,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-04T17:59:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 19-20pp;"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+},
+{
+url: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+},
+{
+title: "A M Rambakudzibga (1999). Aspects of the growth and development of Cyperus rotundus under arable crop canopies: implications for integrated control. University of Giessen, Tropical Crop Science, Germany. Blackwell Science: Weed Research 39, 507±514;"
+},
+{
+url: "http://www.agroatlas.ru/en/content/weeds/Cyperus_rotundus/"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p;"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://plants.jstor.org/upwta/1_1274"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+url: "http://www.tropilab.com/nutgrass.html"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 438p;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145828,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 825,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-02-24T11:01:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://plants.jstor.org/upwta/1_1274"
+},
+{
+url: "http://www.agroatlas.ru/en/content/weeds/Cyperus_rotundus/"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 438p;"
+},
+{
+url: "http://www.tropilab.com/nutgrass.html"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p;"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 19-20pp;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+},
+{
+url: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "A M Rambakudzibga (1999). Aspects of the growth and development of Cyperus rotundus under arable crop canopies: implications for integrated control. University of Giessen, Tropical Crop Science, Germany. Blackwell Science: Weed Research 39, 507±514;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145850,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 827,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-03-03T16:06:19Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 438p;"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p;"
+},
+{
+url: "http://www.tropilab.com/nutgrass.html"
+},
+{
+url: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+url: "http://www.agroatlas.ru/en/content/weeds/Cyperus_rotundus/"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://plants.jstor.org/upwta/1_1274"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 19-20pp;"
+},
+{
+title: "A M Rambakudzibga (1999). Aspects of the growth and development of Cyperus rotundus under arable crop canopies: implications for integrated control. University of Giessen, Tropical Crop Science, Germany. Blackwell Science: Weed Research 39, 507±514;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145854,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 830,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-03-07T03:18:33Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://plants.jstor.org/upwta/1_1274"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p;"
+},
+{
+url: "http://www.agroatlas.ru/en/content/weeds/Cyperus_rotundus/"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 438p;"
+},
+{
+url: "http://www.tropilab.com/nutgrass.html"
+},
+{
+title: "A M Rambakudzibga (1999). Aspects of the growth and development of Cyperus rotundus under arable crop canopies: implications for integrated control. University of Giessen, Tropical Crop Science, Germany. Blackwell Science: Weed Research 39, 507±514;"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 19-20pp;"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145858,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 819,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-04T17:59:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p;"
+},
+{
+title: "A M Rambakudzibga (1999). Aspects of the growth and development of Cyperus rotundus under arable crop canopies: implications for integrated control. University of Giessen, Tropical Crop Science, Germany. Blackwell Science: Weed Research 39, 507±514;"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+url: "http://www.agroatlas.ru/en/content/weeds/Cyperus_rotundus/"
+},
+{
+url: "http://www.tropilab.com/nutgrass.html"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 438p;"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 19-20pp;"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1274"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145834,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 820,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-04T17:59:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.tropilab.com/nutgrass.html"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1274"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 19-20pp;"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 438p;"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+url: "http://www.agroatlas.ru/en/content/weeds/Cyperus_rotundus/"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p;"
+},
+{
+title: "A M Rambakudzibga (1999). Aspects of the growth and development of Cyperus rotundus under arable crop canopies: implications for integrated control. University of Giessen, Tropical Crop Science, Germany. Blackwell Science: Weed Research 39, 507±514;"
+},
+{
+url: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145837,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 822,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-04T17:59:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 438p;"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+title: "A M Rambakudzibga (1999). Aspects of the growth and development of Cyperus rotundus under arable crop canopies: implications for integrated control. University of Giessen, Tropical Crop Science, Germany. Blackwell Science: Weed Research 39, 507±514;"
+},
+{
+url: "http://www.tropilab.com/nutgrass.html"
+},
+{
+url: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+url: "http://www.agroatlas.ru/en/content/weeds/Cyperus_rotundus/"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1274"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 19-20pp;"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145843,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 821,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2015-04-04T17:59:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 19-20pp;"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+},
+{
+url: "http://www.tropilab.com/nutgrass.html"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1274"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "G. W. Ivens (1989). Eastern Africa weeds control. Oxford University press, Nairobi. 17p;"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+url: "http://www.agroatlas.ru/en/content/weeds/Cyperus_rotundus/"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 438p;"
+},
+{
+url: "http://plants.jstor.org/upwta/1_1274"
+},
+{
+url: "http://www.hear.org/pier/species/cyperus_rotundus.htm"
+},
+{
+title: "A M Rambakudzibga (1999). Aspects of the growth and development of Cyperus rotundus under arable crop canopies: implications for integrated control. University of Giessen, Tropical Crop Science, Germany. Blackwell Science: Weed Research 39, 507±514;"
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145840,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3688,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Cyperus rotundus est une herbe qui se développe en petites touffes. Le pied-mère est relié à de nombreux pieds-fils par des tiges souterraines ramifiées formant des chapelets de tubercules. Les tubercules sont couverts d'écailles fibreuses sombres. Ils donnent naissance à des tiges feuillées et à de nouvelles tiges souterraines. Ils dégagent une forte odeur poivrée, lorsqu'on les écrase. Les tiges sont triangulaires et épaissies à la base en un bulbe noirâtre. Les feuilles sont fines, d'un vert profond brillant. Elles sont disposées selon trois directions. Le bord du limbe est rugueux au toucher. L'ensemble des fleurs rayonne à partir de l'extrémité de la tige. Les petits épis, de couleur rouge pourpre, sont groupés au sommet des rayons.</p>",
+dateCreated: "2015-03-19T11:20:49Z",
+lastUpdated: "2015-03-19T11:20:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764049773,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3673,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CYPRO</p><h6>Type Biologique</h6><p>cyperacée</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:20:19Z",
+lastUpdated: "2015-03-19T11:20:19Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764019752,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3681,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Cyperus rotundus est une herbe qui se développe en petites touffes. Le pied-mère est relié à de nombreux pieds-fils par des tiges souterraines ramifiées formant des chapelets de tubercules. Les tubercules sont couverts d'écailles fibreuses sombres. Ils donnent naissance à des tiges feuillées et à de nouvelles tiges souterraines. Ils dégagent une forte odeur poivrée, lorsqu'on les écrase. Les tiges sont triangulaires et épaissies à la base en un bulbe noirâtre. Les feuilles sont fines, d'un vert profond brillant. Elles sont disposées selon trois directions. Le bord du limbe est rugueux au toucher. L'ensemble des fleurs rayonne à partir de l'extrémité de la tige. Les petits épis, de couleur rouge pourpre, sont groupés au sommet des rayons.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont linéaires, longues de 5 à 15 cm et larges de 3 à 6 mm. Limbe à section formant un ' V ' large aux branches cassées. Base du pied entourée d'écailles fibreuses sombres, issues du tubercule. Base du pied et tubercules écrasés dégageant une forte odeur poivrée.</p><h6>Port</h6><p>Herbe à port en touffe aux feuilles dressées disposées de façon tristique. Haute de 30 à 100 cm.</p><h6>Système Souterrain</h6><p>Les racines sont fasciculées, simples et filiformes, fibreuses. Réseau de rhizomes très ramifiés portant des tubercules ellipsoïdes, longs de 2 à 3 cm et larges de 1 cm, couverts d'écailles fibreuses de couleur sombre.</p><h6>Tige</h6><p>La tige est pleine et trigone aux angles arrondis, glabre, en général épaissie à la base et couverte d'écailles fibreuses sombres. Large de 4 à 6 mm, haute de 20 à 100 cm, plus longue que les feuilles basales. Correspond à l'axe florifère.</p><h6>Feuille</h6><p>Les feuilles sont linéaires et tristiques, disposées à la partie inférieure de l'axe florifère, longues de 10 à 50 cm et larges de 5 à 8 mm. Limbe de couleur vert sombre ; section formant un ' V ' large aux branches cassées horizontalement . Sommet aigu. Faces glabres, mais marge et nervure médiane scabre.</p><h6>Inflorescence</h6><p>L'inflorescence est une ombelle sous-tendue par 2 à 4 bractées foliacées longues de 5 à 25 cm. Fleurs assemblées en épillets linéaires et plats groupés au sommet des rayons de l'ombelle et orientés obliquement vers l'extrémité de l'axe.</p><h6>Fleur</h6><p>Les épillets sont longs de 0,5 à 4 cm et larges de 2 mm comprenant de nombreuses fleurs alternes, distiques. Glumes de couleur rouge pourpre, marquées de nervures longitudinales, portant un très court mucron au sommet.</p><h6>Fruit</h6><p>Le fruit est un akène de couleur gris vert à brun, trigones, de forme obovoïde, légèrement aplati, aux angles arrondis, surmontés d'un style trifide. Long de 1,5 mm et large de 0,8 mm.</p>",
+dateCreated: "2015-03-19T11:20:22Z",
+lastUpdated: "2015-03-19T11:20:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764022481,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3683,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Cyperus rotundus L.",
+dateCreated: "2015-03-19T11:20:23Z",
+lastUpdated: "2015-03-19T11:20:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764023365,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3682,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : C. rotundus se développe toute l'année si le sol est humide. En parcelle non irriguée, l'émergence des jeunes pieds commence au début de la saison pluvieuse et de façon très importante après chaque opération culturale (labour, sarclage). La floraison intervient 6 à 8 semaines après l'émergence.<br>",
+dateCreated: "2015-03-19T11:20:22Z",
+lastUpdated: "2015-03-19T11:20:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764022922,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3685,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. rotundus est une espèce vivace, qui se multiplie principalement par son réseau de tiges souterraines ramifiées, le long desquelles se forment des tubercules. La dissémination par graines est très faible. Les tubercules se forment principalement entre 5 et 10 cm de profondeur, mais peuvent émerger depuis 20 cm de profondeur. La multiplication est favorisée par tout travail du sol qui fractionne les chaînettes de tubercules (labours répétés à la charrue à disques). Ce fractionnement lève la dormance des tubercules intermédiaires. A l'inverse, les tubercules supportent mal la dessiccation. Toute action remontant les chaînettes de tubercules sans les fractionner, en surface et en période sèche, diminue leur viabilité (labour à la charrue à soc en fin de saison des pluies).<br>",
+dateCreated: "2015-03-19T11:20:25Z",
+lastUpdated: "2015-03-19T11:20:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764025259,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3680,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. rotundus peut être confondu au stade végétatif avec C. esculentus L. Elle s'en distingue aisément par ses tubercules fusiformes écailleux reliés en chainettes ramifiées. Lorsqu'on les écrase ou que l'on écrase la base de la plante, il se dégage une odeur poivrée. Chez C. esculentus, les rhizomes sont simples et terminés par un tubercule unique, sphérique, sans écailles fibreuses et au goût sucré.<br>",
+dateCreated: "2015-03-19T11:20:22Z",
+lastUpdated: "2015-03-19T11:20:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764022041,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3684,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. rotundus aime les lieux ensoleillés et ne supporte pas l'ombrage et la compétition des espèces à fort recouvrement. Elle se développe bien dans les sols légers et faciles à pénétrer. Elle est répandue dans des endroits humides, mais bien drainés. Nord-Cameroun : C. rotundus se développe dans les sols à pH compris entre 5 et 7, à l'exception des sols très argileux. Sa croissance et le réseau de rhizomes seront d'autant plus importants que le sol est léger et facile à pénétrer. Cette espèce nécessite un sol humide, mais elle tolère mal l'excès d'humidité. Elle est abondante dans les parcelles irriguées et fréquente, par taches, dans les parcelles sur sol ferrugineux en zone basse, à condition que l'eau ne persiste pas en surface. Elle est également fréquente dans les parcelles sur sols alluviaux sablo-limoneux en bordure de fleuve. Comores : Cette espèce se développe dans les espaces très ouverts surtout bien éclairés en association avec des Poaceae. Elle préfère les endroits humides, les sols légers. On la retrouve dans toutes les régions de la Grande Comore jusqu’à 600 m d’altitude, à Anjouan jusqu’à 400 m et à Mohéli à basse altitude. Maurice : Espèce très répandue sur toute l'île. La Réunion : Espèce extrêmement commune, présente dans l'île sur tout type de sol et à toute altitude. Seychelles : Espèce commune dans toutes les régions sur quasiment tous les types de sol, à toutes les altitudes, mais ne supporte pas l'ombrage.<br>",
+dateCreated: "2015-03-19T11:20:24Z",
+lastUpdated: "2015-03-19T11:20:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764024819,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3686,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Comores : C. rotundus est une adventice commune des jeunes cultures de maïs et de riz. Le réseau de ses tubercules rend le désherbage très difficile. Madagascar : Espèce localement très abondante, qui pose de gros problèmes de désherbage. Maurice : Adventice très importante des cultures, pouvant avoir une nuisibilité très forte. La Réunion : C. rotundus est particulièrement bien adaptée aux champs de jeunes cannes, de maïs et aux cultures maraîchères. Elle est présente dans 50 % des parcelles cultivées et apparait comme une mauvaise herbe majeur de l'agriculture réunionnaise avec un taux de recouvrement atteignant régulièrement 70 à 85 %. Seychelles : C. rotundus est considérée comme une adventice majeure dans toutes les cultures, y compris dans les cultures de couverture, affectant la plupart des cultures légumières et ornementales. Elle est très persistante une fois installée et difficile à contrôler. Bénin : fréquente et généralement abondante. Burkina Faso : fréquente et peu abondante. Côte d'Ivoire : fréquente et généralement abondante. Ghana : fréquente et généralement abondante. Kenya : fréquente et généralement abondante. Mali : rare mais abondante quand elle est présente. Nigeria : fréquente et généralement abondante. Sénégal : fréquente et généralement abondante. Ouganda : fréquente et généralement abondante. Tanzanie : fréquente et généralement abondante. Tchad : rare et peu abondante.</p>",
+dateCreated: "2015-03-19T11:20:25Z",
+lastUpdated: "2015-03-19T11:20:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764025700,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3687,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Conseils de gestion des cypéracées vivaces en riz irrigué : http://portal.wikwio.org/document/show/29</p><h6>Lutte Locale</h6><p>Nord-Cameroun : Un ombrage de 70 % peut réduire la production de tubercules de C. rotundus de 10 à 50 %. Elle tolère mal la compétition d'autres espèces comme Cynodon dactylon. En jachère, elle disparaît rapidement, mais les tubercules peuvent rester viables et latents dans le sol pendant de nombreuses années. Dès que le sol est de nouveau labouré et découvert, C. rotundus réapparaît. Cette espèce n'est pas sensible aux herbicides de pré-levée. Les plantes adultes sont sensibles aux herbicides systémiques de post-levée mais si ceux-ci ne pénètrent pas jusqu'aux tubercules dormants, ils se développent dès que les plantes touchées par l'herbicide meurent. Nouvelle-Calédonie : La meilleure prévention dans les pâturages de zone humide consiste à maintenir un couvert herbacé suffisant pour gêner la germination et le développement de cette héliophile. Une fois installée, C. rotundus est très difficile à maîtriser. Le travail du sol doit éviter de stimuler la multiplication végétative. Des labours à la herse rotative, effectués par temps chaud et sec, à la profondeur de la position des bulbes ramèneraient les bulbes dormants en surface, conduisant à l'épuisement des réserves souterraines. Cette opération devra être répétée toutes les 6 semaines. Le gyrobroyage est une autre technique courante d'entretien à condition de pouvoir réaliser la coupe suffisamment bas, il est nécessaire de réaliser plusieurs interventions pour que la défoliation épuise la plante. Le recours à un traitement herbicide est aussi envisageable (glyphosate en total et halosulfuron-méthyl en sélectif). Madagascar : Le travail du sol ou l’arrachage (très laborieux) fragmentent les chaînettes de bulbilles, libérant les pieds-fils de la dominance du pied-mère, contribuant ainsi à leur multiplication rapide. Tolérants à la plupart des herbicides de pré-levée. Sensibles au 2,4-D et au glyphosate, mais dans des conditions d’application difficiles sur des cultures. Il est préférable de contrôler ces adventices (glyphosate à 2160 g/ha) en fin de saison de culture, pour préparer l’année suivante. En revanche, ces cypéracées supportent mal l’ombrage. Une bonne couverture végétale qui retarde (mais n’arrête pas) leur émergence et un semis dense d’une culture qui couvre rapidement le sol permettent de bien les contrôler.</p>",
+dateCreated: "2015-03-19T11:20:26Z",
+lastUpdated: "2015-03-19T11:20:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764026202,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3677,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:20:21Z",
+lastUpdated: "2015-03-31T07:07:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764021433,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3679,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:20:21Z",
+lastUpdated: "2015-03-31T07:07:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cypro/cypro_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764021434,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3676,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:20:21Z",
+lastUpdated: "2015-03-31T07:07:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764021433,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3674,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:20:21Z",
+lastUpdated: "2015-03-31T07:07:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764021432,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3675,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:20:21Z",
+lastUpdated: "2015-03-31T07:07:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764021433,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3678,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:20:21Z",
+lastUpdated: "2015-03-31T07:07:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.issg.org/database/species/ecology.asp?si=1448&fr=1&sts=sss&lang=FR"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764021433,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 2006,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_180837.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_180837_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:22Z",
+rating: 0
+},
+{
+id: 2007,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_173848.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_173848_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:22Z",
+rating: 0
+},
+{
+id: 2008,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161130.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161130_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:22Z",
+rating: 0
+},
+{
+id: 2009,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161115.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161115_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:22Z",
+rating: 0
+},
+{
+id: 2010,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161152.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161152_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:22Z",
+rating: 0
+},
+{
+id: 2011,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161103.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161103_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:22Z",
+rating: 0
+},
+{
+id: 2012,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161136.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161136_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:22Z",
+rating: 0
+},
+{
+id: 2013,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161140.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161140_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:22Z",
+rating: 0
+},
+{
+id: 2014,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161102.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161102_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:22Z",
+rating: 0
+},
+{
+id: 2015,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161141.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161141_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:23Z",
+rating: 0
+},
+{
+id: 2016,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050128_150106.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050128_150106_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:23Z",
+rating: 0
+},
+{
+id: 2017,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20041006_135144.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20041006_135144_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:23Z",
+rating: 0
+},
+{
+id: 2018,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161149.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161149_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:23Z",
+rating: 0
+},
+{
+id: 2019,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_173930.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_173930_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:23Z",
+rating: 0
+},
+{
+id: 2020,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_174054.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_174054_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:23Z",
+rating: 0
+},
+{
+id: 2021,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161138.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161138_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:23Z",
+rating: 0
+},
+{
+id: 2022,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161155.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20051113_161155_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:23Z",
+rating: 0
+},
+{
+id: 2023,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_174453.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_174453_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:23Z",
+rating: 0
+},
+{
+id: 2024,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_174216.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_174216_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:23Z",
+rating: 0
+},
+{
+id: 2025,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_174134.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_174134_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:23Z",
+rating: 0
+},
+{
+id: 2026,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050222_140222.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050222_140222_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:23Z",
+rating: 0
+},
+{
+id: 2027,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110914_150052.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110914_150052_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:23Z",
+rating: 0
+},
+{
+id: 2028,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110914_145956.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110914_145956_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:24Z",
+rating: 0
+},
+{
+id: 2029,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:24Z",
+rating: 0
+},
+{
+id: 2030,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_182220.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_182220_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:24Z",
+rating: 0
+},
+{
+id: 2031,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110916_112722.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110916_112722_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:24Z",
+rating: 0
+},
+{
+id: 2032,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:24Z",
+rating: 0
+},
+{
+id: 2033,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050222_140246.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050222_140246_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:24Z",
+rating: 0
+},
+{
+id: 2034,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050128_150140.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050128_150140_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:24Z",
+rating: 0
+},
+{
+id: 2035,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_142802.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_142802_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:24Z",
+rating: 0
+},
+{
+id: 2036,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_143139.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_143139_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:24Z",
+rating: 0
+},
+{
+id: 2037,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20101207_104333.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20101207_104333_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:24Z",
+rating: 0
+},
+{
+id: 2038,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20031114_080402.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20031114_080402_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:24Z",
+rating: 0
+},
+{
+id: 2039,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_181057.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_181057_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:25Z",
+rating: 0
+},
+{
+id: 2040,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102133.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102133_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:25Z",
+rating: 0
+},
+{
+id: 2041,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20031114_091022.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20031114_091022_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:25Z",
+rating: 0
+},
+{
+id: 2042,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091206_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091206_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:25Z",
+rating: 0
+},
+{
+id: 2043,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_10.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_10_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:25Z",
+rating: 0
+},
+{
+id: 2044,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110911_135730.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110911_135730_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:25Z",
+rating: 0
+},
+{
+id: 2045,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102100.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102100_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:25Z",
+rating: 0
+},
+{
+id: 2046,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102411.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102411_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:25Z",
+rating: 0
+},
+{
+id: 2047,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102437.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102437_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:25Z",
+rating: 0
+},
+{
+id: 2048,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102330.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102330_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:25Z",
+rating: 0
+},
+{
+id: 2049,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110207_143629.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110207_143629_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:25Z",
+rating: 0
+},
+{
+id: 2050,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_145627.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_145627_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:25Z",
+rating: 0
+},
+{
+id: 2051,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110911_135723.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110911_135723_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:25Z",
+rating: 0
+},
+{
+id: 2052,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091206_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091206_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:26Z",
+rating: 0
+},
+{
+id: 2053,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050804_062534.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050804_062534_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:26Z",
+rating: 0
+},
+{
+id: 2054,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091206_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091206_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:26Z",
+rating: 0
+},
+{
+id: 2055,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20101201_162407.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20101201_162407_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:26Z",
+rating: 0
+},
+{
+id: 2056,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050804_072708.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050804_072708_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:26Z",
+rating: 0
+},
+{
+id: 2057,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:26Z",
+rating: 0
+},
+{
+id: 2058,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091206_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091206_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:26Z",
+rating: 0
+},
+{
+id: 2059,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_180907.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_180907_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:26Z",
+rating: 0
+},
+{
+id: 2060,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:26Z",
+rating: 0
+},
+{
+id: 2061,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:26Z",
+rating: 0
+},
+{
+id: 2062,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102220.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102220_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:26Z",
+rating: 0
+},
+{
+id: 2063,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_182134.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_182134_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:26Z",
+rating: 0
+},
+{
+id: 2064,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110711_1109550.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110711_1109550_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:27Z",
+rating: 0
+},
+{
+id: 2065,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_184130.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_184130_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:27Z",
+rating: 0
+},
+{
+id: 2066,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110911_135650.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110911_135650_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:27Z",
+rating: 0
+},
+{
+id: 2067,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110911_135628.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110911_135628_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:27Z",
+rating: 0
+},
+{
+id: 2068,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102315.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102315_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:27Z",
+rating: 0
+},
+{
+id: 2069,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091201.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091201_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:27Z",
+rating: 0
+},
+{
+id: 2070,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_150059.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_150059_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:27Z",
+rating: 0
+},
+{
+id: 2071,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050901_124056.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050901_124056_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:27Z",
+rating: 0
+},
+{
+id: 2072,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20031114_090402.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20031114_090402_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:27Z",
+rating: 0
+},
+{
+id: 2073,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20031114_091600.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20031114_091600_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:27Z",
+rating: 0
+},
+{
+id: 2074,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_173757.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20070718_173757_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:27Z",
+rating: 0
+},
+{
+id: 2075,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20031114_081022.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20031114_081022_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:27Z",
+rating: 0
+},
+{
+id: 2076,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090224_124334.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090224_124334_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:27Z",
+rating: 0
+},
+{
+id: 2077,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110914_150207.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110914_150207_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:28Z",
+rating: 0
+},
+{
+id: 2078,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091206_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091206_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:28Z",
+rating: 0
+},
+{
+id: 2079,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090224_124509.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090224_124509_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:28Z",
+rating: 0
+},
+{
+id: 2080,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110911_135736.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110911_135736_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:28Z",
+rating: 0
+},
+{
+id: 2081,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20030605_140626.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20030605_140626_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:28Z",
+rating: 0
+},
+{
+id: 2082,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102152.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20111006_102152_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:28Z",
+rating: 0
+},
+{
+id: 2083,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20120504_120503.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20120504_120503_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:28Z",
+rating: 0
+},
+{
+id: 2084,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110911_135744.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20110911_135744_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:28Z",
+rating: 0
+},
+{
+id: 2085,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091206.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_091206_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:28Z",
+rating: 0
+},
+{
+id: 2086,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20040816_105808.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20040816_105808_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:28Z",
+rating: 0
+},
+{
+id: 2087,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20031114_081600.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20031114_081600_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:28Z",
+rating: 0
+},
+{
+id: 2088,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050518_161128.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050518_161128_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:28Z",
+rating: 0
+},
+{
+id: 2089,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20041006_135136.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20041006_135136_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:28Z",
+rating: 0
+},
+{
+id: 2090,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050222_140230.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050222_140230_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:29Z",
+rating: 0
+},
+{
+id: 2091,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050222_140204.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050222_140204_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:29Z",
+rating: 0
+},
+{
+id: 2092,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:29Z",
+rating: 0
+},
+{
+id: 2093,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_180549.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20090218_180549_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:29Z",
+rating: 0
+},
+{
+id: 2094,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:29Z",
+rating: 0
+},
+{
+id: 2095,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:29Z",
+rating: 0
+},
+{
+id: 2096,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050128_140134.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20050128_140134_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:29Z",
+rating: 0
+},
+{
+id: 2097,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20080609_1012060_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:29Z",
+rating: 0
+},
+{
+id: 2098,
+url: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20041007_100440.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Cyperus rotundus/cypro_20041007_100440_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:18:29Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

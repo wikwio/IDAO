@@ -1,0 +1,94 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 345,
+title: "<i>Persicaria mitis (</i>Schrank.<i>) </i>Assenov. ",
+taxonConcept: {
+id: 648,
+name: "Persicaria mitis (Schrank.) Assenov.",
+canonicalForm: "Persicaria mitis",
+italicisedForm: "<i>Persicaria mitis (</i>Schrank.<i>) </i>Assenov. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 69,
+name: "Polygonales",
+canonicalForm: "Polygonales",
+italicisedForm: "<i>Polygonales</i>",
+rank: "Order"
+},
+{
+id: 70,
+name: "Polygonaceae",
+canonicalForm: "Polygonaceae",
+italicisedForm: "<i>Polygonaceae</i>",
+rank: "Family"
+},
+{
+id: 474,
+name: "Persicaria",
+canonicalForm: "Persicaria",
+italicisedForm: "<i>Persicaria</i>",
+rank: "Genus"
+},
+{
+id: 648,
+name: "Persicaria mitis (Schrank.) Assenov.",
+canonicalForm: "Persicaria mitis",
+italicisedForm: "<i>Persicaria mitis (</i>Schrank.<i>) </i>Assenov. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [ ],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-10-24T07:32:46Z",
+lastRevised: "2014-11-23T22:50:49Z",
+thumbnail: "http://portal.wikwio.org/biodiv/group_icons/speciesGroups/plants_th1.png",
+notes: "",
+summary: "",
+fields: [ ],
+resource: [ ],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

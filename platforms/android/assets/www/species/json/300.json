@@ -1,0 +1,1222 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 300,
+title: "<i>Sigesbeckia orientalis </i>L. ",
+taxonConcept: {
+id: 566,
+name: "Sigesbeckia orientalis L.",
+canonicalForm: "Sigesbeckia orientalis",
+italicisedForm: "<i>Sigesbeckia orientalis </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 24,
+name: "Asteraceae",
+canonicalForm: "Asteraceae",
+italicisedForm: "<i>Asteraceae</i>",
+rank: "Family"
+},
+{
+id: 565,
+name: "Sigesbeckia",
+canonicalForm: "Sigesbeckia",
+italicisedForm: "<i>Sigesbeckia</i>",
+rank: "Genus"
+},
+{
+id: 566,
+name: "Sigesbeckia orientalis L.",
+canonicalForm: "Sigesbeckia orientalis",
+italicisedForm: "<i>Sigesbeckia orientalis </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 6155,
+name: "Minyranthes heterophylla Turcz.",
+canonicalForm: "Minyranthes heterophylla",
+italicisedForm: "<i>Minyranthes heterophylla </i>Turcz. ",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6156,
+name: "Sigesbeckia brachiata Roxb. [Illegitimate]",
+canonicalForm: "Sigesbeckia brachiata",
+italicisedForm: "<i>Sigesbeckia brachiata </i>Roxb.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6157,
+name: "Sigesbeckia caspica Fisch. & C.A.Mey.",
+canonicalForm: "Sigesbeckia caspica",
+italicisedForm: "<i>Sigesbeckia caspica </i>Fisch.<i> & </i>C.A.Mey. ",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6158,
+name: "Sigesbeckia gracilis DC.",
+canonicalForm: "Sigesbeckia gracilis",
+italicisedForm: "<i>Sigesbeckia gracilis </i>DC. ",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6159,
+name: "Sigesbeckia humilis Koidz.",
+canonicalForm: "Sigesbeckia humilis",
+italicisedForm: "<i>Sigesbeckia humilis </i>Koidz. ",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6160,
+name: "Sigesbeckia iberica Willd.",
+canonicalForm: "Sigesbeckia iberica",
+italicisedForm: "<i>Sigesbeckia iberica </i>Willd. ",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6161,
+name: "Sigesbeckia orientalis f. angustifolia Makino",
+canonicalForm: "Sigesbeckia orientalis angustifolia",
+italicisedForm: "<i>Sigesbeckia orientalis </i>f.<i> angustifolia </i>Makino ",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6162,
+name: "Sigesbeckia orientalis subsp. caspica Kitam.",
+canonicalForm: "Sigesbeckia orientalis caspica",
+italicisedForm: "<i>Sigesbeckia orientalis </i>subsp.<i> caspica </i>Kitam. ",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6163,
+name: "Sigesbeckia orientalis f. orientalis",
+canonicalForm: "Sigesbeckia orientalis orientalis",
+italicisedForm: "<i>Sigesbeckia orientalis </i>f.<i> orientalis</i>",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6164,
+name: "Sigesbeckia orientalis var. tenggerensis Hochr.",
+canonicalForm: "Sigesbeckia orientalis tenggerensis",
+italicisedForm: "<i>Sigesbeckia orientalis </i>var.<i> tenggerensis </i>Hochr. ",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1371,
+name: "Herbe grasse",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 1372,
+name: "Souveraine",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1373,
+name: "Colle Colle",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1374,
+name: "Satrikoazamaratra",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1375,
+name: "Guérit vite",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1376,
+name: "Herbe grasse",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1377,
+name: "Herbe de flacque",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1378,
+name: "Herbe de Flack",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1379,
+name: "Herbe guérit vite",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1380,
+name: "Herbe de Flacq",
+taxonConcept: {
+id: 566
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:37:05Z",
+lastRevised: "2015-03-19T12:06:07Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_143137_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>SIKOR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>SIKOR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 2139,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>SIKOR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:42:50Z",
+lastUpdated: "2014-09-24T18:42:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584170176,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2138,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Sigesbeckia orientalis L.",
+dateCreated: "2014-09-24T18:42:50Z",
+lastUpdated: "2014-09-24T18:42:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584170175,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 6052,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Sigesbeckia orientalis est une herbe dressée ramifiée, haute de 20 à 60 cm. Les feuilles sont d'un vert grisé, légèrement visqueuses. Elles sont insérées par paires, de part et d'autre de la tige. Elles sont grossièrement découpées de dents sur le bord. Le limbe a des nervures pourpres caractéristiques, très nettes. Les fleurs sont jaunes. Elles sont réunies en petites têtes sphériques poisseuses au sommet de la plante. Elles sont soutenues par de petites feuilles en forme de spatules, poilues et collantes.</p>",
+dateCreated: "2015-03-19T12:06:07Z",
+lastUpdated: "2015-03-19T12:06:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766767665,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6043,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>SIKOR</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T12:06:02Z",
+lastUpdated: "2015-03-19T12:06:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766762478,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6046,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Sigesbeckia orientalis</em> est une herbe dress&eacute;e ramifi&eacute;e, haute de 20 &agrave; 60 cm. Les feuilles sont d&#39;un vert gris&eacute;, l&eacute;g&egrave;rement visqueuses. Elles sont ins&eacute;r&eacute;es par paires, de part et d&#39;autre de la tige. Elles sont grossi&egrave;rement d&eacute;coup&eacute;es de dents sur le bord. Le limbe a des nervures pourpres caract&eacute;ristiques, tr&egrave;s nettes. Les fleurs sont jaunes. Elles sont r&eacute;unies en petites t&ecirc;tes sph&eacute;riques poisseuses au sommet de la plante. Elles sont soutenues par de petites feuilles en forme de spatules, poilues et collantes.</p> <h6> Cotyl&eacute;dons</h6> <p> Cotyl&eacute;dons courtement p&eacute;tiol&eacute;s. Longs de 10 mm et larges de 5 mm. Le limbe est ovale arrondi, att&eacute;nu&eacute; &agrave; la base, charnu, glabre.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Feuilles simples, oppos&eacute;es, d&eacute;cuss&eacute;es, velout&eacute;es, de couleur vert gris. Elles sont p&eacute;tiol&eacute;es. Le limbe est entier en coin large ou tronqu&eacute; &agrave; la base, l&eacute;g&egrave;rement d&eacute;current le long du p&eacute;tiole et aigu au sommet. La marge est enti&egrave;re &agrave; faiblement dent&eacute;e. Nervures pourpres bien visibles.</p> <h6> Port</h6> <p> Plante herbac&eacute;e, dress&eacute;e, ramifi&eacute;e, haute de 30 &agrave; 60 cm.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est un pivot ramifi&eacute;.</p> <h6> Tige</h6> <p> Tige cylindrique, pleine. Elle est pubescente glanduleuse dans la partie sup&eacute;rieure. Elle est de couleur vert sombre, souvent lav&eacute;e de pourpre.</p> <h6> Feuille</h6> <p> Feuilles simples, oppos&eacute;es, d&eacute;cuss&eacute;es, port&eacute;es par des p&eacute;tioles longs de 1 &agrave; 1,5 cm dont les bases se rejoignent autour de la tige. Le limbe est ovale &agrave; lanc&eacute;ol&eacute;, en coin large &agrave; la base et l&eacute;g&egrave;rement d&eacute;current le long du p&eacute;tiole, au sommet en coin aigu ou acumin&eacute;. Il est long de 6 &agrave; 7 cm, large de 2,5 cm. La marge est grossi&egrave;rement dent&eacute;e. La face sup&eacute;rieure est finement pubescente &agrave; glabre. La face inf&eacute;rieure est pubescente glanduleuse, l&eacute;g&egrave;rement visqueuse. Les feuilles terminales sont oblongues lanc&eacute;ol&eacute;es, elles sont g&eacute;n&eacute;ralement lav&eacute;es de pourpre &agrave; la base.</p> <h6> Inflorescence</h6> <p> Les fleurs sont assembl&eacute;es en capitules terminaux isol&eacute;s ou par 2 &agrave; 3 &agrave; l&rsquo;extr&eacute;mit&eacute; d&rsquo;un p&eacute;doncule de 3 cm. Le capitule est l&acirc;che, entour&eacute; d&#39;un involucre de bract&eacute;es en 2 s&eacute;ries. La s&eacute;rie externe est form&eacute;e de 5 bract&eacute;es spatul&eacute;es de 7 &agrave; 8 mm de long, d&eacute;passant largement le capitule. Elles portent des poils glanduleux, en t&ecirc;tes d&rsquo;&eacute;pingles collantes. La s&eacute;rie interne comprend 5 bract&eacute;es obovales, &agrave; pilosit&eacute; glanduleuse, de 5 mm de long, appliqu&eacute;es sur la base du capitule. Celui ci comprend 6 &agrave; 8 fleurs externes, ligul&eacute;es, femelles.</p> <h6> Fleur</h6> <p> Les fleurs ont une ligule jaune, trilob&eacute;e au sommet. La base de chaque fleur est entour&eacute;e d&rsquo;une bract&eacute;e glanduleuse. Les fleurs centrales sont tubul&eacute;es, hermaphrodites, plus nombreuses, jaunes. La base de chaque fleur est entour&eacute;e d&rsquo;une bract&eacute;e membraneuse.</p> <h6> Fruit</h6> <p> Le fruit est un ak&egrave;ne obovo&iuml;de ou obconique, anguleux, glabre, sans pappus, long de 3 &agrave; 4 mm et large de 1 mm, brun sombre ou noir&acirc;tre. Il est parfois inclus dans la bract&eacute;e membraneuse.</p> ",
+dateCreated: "2015-03-19T12:06:03Z",
+lastUpdated: "2015-05-01T06:21:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766763428,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6047,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Sigesbeckia orientalis L.",
+dateCreated: "2015-03-19T12:06:03Z",
+lastUpdated: "2015-03-19T12:06:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766763804,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6049,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Sigesbeckia orientalis</em> est une esp&egrave;ce annuelle se reproduisant uniquement par graines.<br /> ",
+dateCreated: "2015-03-19T12:06:04Z",
+lastUpdated: "2015-05-01T06:21:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766764601,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6048,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong><em>Sigesbeckia orientalis</em> est pr&eacute;sente &agrave; Anjouan, en milieu ouvert et humide de moyenne altitude.<br /> <strong>Madagascar </strong>: Esp&egrave;ce rud&eacute;rale adventice des cultures pluviales rencontr&eacute;e essentiellement sur les Hautes Terres et le versant oriental assez humide. Elle se d&eacute;veloppe sur les terres fertiles situ&eacute;es en t&ecirc;te de bas-fonds, autour des villages ou sur les terres alluviales le long des cours d&#39;eau, tanety et baiboho.<br /> <strong>Maurice </strong>: Adventice des cultures et esp&egrave;ce rud&eacute;rale tr&egrave;s commune sur l&#39;&icirc;le, dans les jach&egrave;res, les terrains vagues et au bord des routes.<br /> <strong>La R&eacute;union</strong> : <em>S. orientalis</em> est une esp&egrave;ce r&eacute;pandue &agrave; La R&eacute;union dans toutes les zones de l&#39;&icirc;le. Elle est pr&eacute;sente dans les r&eacute;gions littorales moyennement humides, les zones s&egrave;ches irrigu&eacute;es, dans le Sud-Ouest et le Sud. Dans la partie ouest, elle se rencontre en altitude moyenne et jusque au del&agrave; de 1000 m.<br /> <strong>Seychelles </strong>: Esp&egrave;ce pr&eacute;sente en clairi&egrave;res et dans les lieux abandonn&eacute;s. Elle est rarement abondante.<br /> ",
+dateCreated: "2015-03-19T12:06:04Z",
+lastUpdated: "2015-05-01T06:23:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766764309,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6050,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>: <em>Sigesbeckia orientalis</em> est une adventice pr&eacute;sente dans les jeunes plantations de manioc et en culture mara&icirc;ch&egrave;re.<br /> <strong>Madagascar </strong>: Esp&egrave;ce relativement peu fr&eacute;quente dans les cultures mais peut &ecirc;tre localement abondante (cultures mara&icirc;ch&egrave;res, ma&iuml;s associ&eacute; avec haricot). Elle est utilis&eacute;e comme plante m&eacute;dicinale.<br /> <strong>Maurice </strong>: Adventice ayant une nuisibilit&eacute; faible &agrave; moyenne dans les champs de canne &agrave; sucre.<br /> <strong>La R&eacute;union</strong> : Cette mauvaise herbe est pr&eacute;sente dans 52 % des parcelles cultiv&eacute;es, principalement en canne &agrave; sucre et en mara&icirc;chage. Elle s&rsquo;installe dans les champs de canne &agrave; sucre imm&eacute;diatement apr&egrave;s la plantation. Elle peut former dans les champs de jeunes cannes de v&eacute;ritables peuplements pouvant recouvrir 100 % de la surface de la parcelle, notamment sur la c&ocirc;te Est de l&#39;&icirc;le o&ugrave; elle est tr&egrave;s abondante.<br /> <strong>Seychelles </strong>: Adventice &agrave; faible nuisibilit&eacute;.</p> ",
+dateCreated: "2015-03-19T12:06:04Z",
+lastUpdated: "2015-05-01T06:25:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766764870,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6051,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Locale</h6> <p> <strong>Madagascar </strong>: Le sarclage manuel de <em>S. orientalis</em> est exigeant en temps. Chimiquement, elle est facilement contr&ocirc;l&eacute;e : diuron ou oxadiazon en pr&eacute;-lev&eacute;e ou post-lev&eacute;e pr&eacute;coce ; 2,4-D ou glyphosate sur plantes jeunes ou &acirc;g&eacute;es.<br /> <em>S. orientalis</em> est bien contr&ocirc;l&eacute;e par un paillage et dispara&icirc;t progressivement en semis direct sur couverture v&eacute;g&eacute;tale permanente.</p> ",
+dateCreated: "2015-03-19T12:06:05Z",
+lastUpdated: "2015-05-01T06:26:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766765222,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6044,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:06:02Z",
+lastUpdated: "2015-03-19T13:23:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766762922,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6045,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:06:02Z",
+lastUpdated: "2015-03-25T06:44:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766762923,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 6329,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_143137.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_143137_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:21Z",
+rating: 0
+},
+{
+id: 6333,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_140817.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_140817_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:22Z",
+rating: 0
+},
+{
+id: 6318,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_141707.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_141707_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:19Z",
+rating: 0
+},
+{
+id: 6319,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20020730_115422.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20020730_115422_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:19Z",
+rating: 0
+},
+{
+id: 6320,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124204.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124204_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:19Z",
+rating: 0
+},
+{
+id: 6321,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124207.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124207_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:20Z",
+rating: 0
+},
+{
+id: 6322,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124205.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124205_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:20Z",
+rating: 0
+},
+{
+id: 6323,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124203.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124203_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:20Z",
+rating: 0
+},
+{
+id: 6324,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124208.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124208_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:20Z",
+rating: 0
+},
+{
+id: 6325,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124206.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124206_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:20Z",
+rating: 0
+},
+{
+id: 6326,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124209.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124209_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:21Z",
+rating: 0
+},
+{
+id: 6327,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_142525.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_142525_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:21Z",
+rating: 0
+},
+{
+id: 6328,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_142058.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_142058_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:21Z",
+rating: 0
+},
+{
+id: 6330,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124210.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124210_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:21Z",
+rating: 0
+},
+{
+id: 6331,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_101242.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_101242_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:22Z",
+rating: 0
+},
+{
+id: 6332,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_140610.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_140610_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:22Z",
+rating: 0
+},
+{
+id: 6334,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_141015.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20090702_141015_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:22Z",
+rating: 0
+},
+{
+id: 6335,
+url: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124202.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sigesbeckia orientalis/sikor_20080609_10124202_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:37:22Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

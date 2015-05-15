@@ -1,0 +1,970 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 160,
+title: "<i>Hydrocotyle bonariensis </i>Lam. ",
+taxonConcept: {
+id: 319,
+name: "Hydrocotyle bonariensis Lam.",
+canonicalForm: "Hydrocotyle bonariensis",
+italicisedForm: "<i>Hydrocotyle bonariensis </i>Lam. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 317,
+name: "Araliaceae",
+canonicalForm: "Araliaceae",
+italicisedForm: "<i>Araliaceae</i>",
+rank: "Family"
+},
+{
+id: 318,
+name: "Hydrocotyle",
+canonicalForm: "Hydrocotyle",
+italicisedForm: "<i>Hydrocotyle</i>",
+rank: "Genus"
+},
+{
+id: 319,
+name: "Hydrocotyle bonariensis Lam.",
+canonicalForm: "Hydrocotyle bonariensis",
+italicisedForm: "<i>Hydrocotyle bonariensis </i>Lam. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 3781,
+name: "Hydrocotyle bonariensis var. multiflora (Lam.) Don",
+canonicalForm: "Hydrocotyle bonariensis multiflora",
+italicisedForm: "<i>Hydrocotyle bonariensis </i>var.<i> multiflora (</i>Lam.<i>) </i>Don ",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3782,
+name: "Hydrocotyle bonariensis var. texana J.M. Coult. & Rose",
+canonicalForm: "Hydrocotyle bonariensis texana",
+italicisedForm: "<i>Hydrocotyle bonariensis </i>var.<i> texana </i>J.M. Coult.<i> & </i>Rose ",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3783,
+name: "Hydrocotyle multiflora Ruiz & Pav.",
+canonicalForm: "Hydrocotyle multiflora",
+italicisedForm: "<i>Hydrocotyle multiflora </i>Ruiz<i> & </i>Pav. ",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3784,
+name: "Hydrocotyle polystachya var. quinqueradiata Thouars ex A. Rich.",
+canonicalForm: "Hydrocotyle polystachya quinqueradiata",
+italicisedForm: "<i>Hydrocotyle polystachya </i>var.<i> quinqueradiata </i>Thouars<i> ex </i>A. Rich. ",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3785,
+name: "Hydrocotyle umbellata var. bonariensis (Comm. ex Lam.) Spreng.",
+canonicalForm: "Hydrocotyle umbellata bonariensis",
+italicisedForm: "<i>Hydrocotyle umbellata </i>var.<i> bonariensis (</i>Comm.<i> ex </i>Lam.<i>) </i>Spreng. ",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3786,
+name: "Hydrocotyle verticillata var. bonariensis (Lam.) Urb.",
+canonicalForm: "Hydrocotyle verticillata bonariensis",
+italicisedForm: "<i>Hydrocotyle verticillata </i>var.<i> bonariensis (</i>Lam.<i>) </i>Urb. ",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3787,
+name: "Hydrocotyle yucatanensis Millsp.",
+canonicalForm: "Hydrocotyle yucatanensis",
+italicisedForm: "<i>Hydrocotyle yucatanensis </i>Millsp. ",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 849,
+name: "Viliantsahona",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 845,
+name: "Cochléaria du pays",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 844,
+name: "Herbe bol",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 847,
+name: "Herbe tam-tam",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 848,
+name: "Oreille Jacquot",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 851,
+name: "Cochléaria du pays",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 850,
+name: "Herbe bol",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 846,
+name: "Herbe tam-tam",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 852,
+name: "Oreille Jacquot",
+taxonConcept: {
+id: 319
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:40:16Z",
+lastRevised: "2015-03-19T11:39:20Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_02_th1.jpg",
+notes: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>HYDBO</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>HYDBO</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 1295,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>HYDBO</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2014-09-24T17:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655327,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1294,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Hydrocotyle bonariensis Lam.",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2014-09-24T17:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655326,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4419,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Hydrocotyle bonariensis est une herbe vivace, glabre aux nombreuses tiges horizontales et rampantes, s’enracinant à chaque noeud. Elle dégage une odeur forte quand on l’écrase. Les feuilles sont simples, alternes, à limbe circulaire ou largement elliptique, insérées presque en leur milieu sur un pétiole grêle, verticale. La marge est plus ou moins crénelée. Les inflorescences sont des ombelles multiples portées par un pédoncule grêle et habituellement plus long que les feuilles. Les fleurs sont blanches à crèmes. Le fruit est transversalement ellipsoïde, latéralement comprimé.</p>",
+dateCreated: "2015-03-19T11:39:20Z",
+lastUpdated: "2015-03-19T11:39:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765160332,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4412,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>HYDBO</p><h6>Type Biologique</h6><p>liane</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>bas-fond humide</p>",
+dateCreated: "2015-03-19T11:39:18Z",
+lastUpdated: "2015-03-19T11:39:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765158048,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4414,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Hydrocotyle bonariensis est une herbe vivace, glabre aux nombreuses tiges horizontales et rampantes, s’enracinant à chaque noeud. Elle dégage une odeur forte quand on l’écrase. Les feuilles sont simples, alternes, à limbe circulaire ou largement elliptique, insérées presque en leur milieu sur un pétiole grêle, verticale. La marge est plus ou moins crénelée. Les inflorescences sont des ombelles multiples portées par un pédoncule grêle et habituellement plus long que les feuilles. Les fleurs sont blanches à crèmes. Le fruit est transversalement ellipsoïde, latéralement comprimé.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont issues de tiges rampantes souterraines. Elles sont simples et alternes, à limbe circulaire et pelté, porté par un pétiole grêle et long. Les jeunes feuilles sont glabres, à marge crénelée et présentent un aspect luisant.</p><h6>Port</h6><p>Plante herbacée, vivace, rampante, s'enracinant aux nœuds et se développant en tache dense.</p><h6>Système Souterrain</h6><p>La racine est constituée d'un pivot principal et de nombreuses racines pivotantes adventives se développant à chaque nœud en contact avec le sol.</p><h6>Tige</h6><p>La tige grêle est rampante, partiellement rhizomateuse souterraine ou stolonifère. Elle est cylindrique, pleine, charnue et glabre, s’enracinant aux nœuds.</p><h6>Feuille</h6><p>Les feuilles sont simples, alternes portées par un pétiole grêle, charnu, dressé verticalement, long de 2 à 37,5 cm. Le limbe est circulaire à largement elliptique, de 1,2 à 12 cm de diamètre, et largement pelté, disposé horizontalement. La marge est plus ou moins crénelée à parfois profondément lobée. La nervation est constituée de 12 à 20 nervures palmées, rayonnant à partir du point d’insertion du pétiole. Les faces sont glabres.</p><h6>Inflorescence</h6><p>L'inflorescence est une ombelle composée au sommet d’un pédoncule grêle et habituellement plus long que les feuilles. L’ombelle principale comprend 5 à 7 rayons. Au sommet de chaque rayon se trouve un verticille de fleurs, sous-tendu par un involucre de bractées ovales lancéolées de 1 à 2 mm de long.</p><h6>Fleur</h6><p>Chaque fleur est portée par un pédicelle de 1 à 2 cm de long, étalé ou réfléchi. Le calice est réduit à de petites dents collées à l’ovaire infère, la corolle est formée de 5 pétales ovales, étalés au dessus de l’ovaire, de couleur blanche à verdâtre et de 2 à 2,5 mm de diamètre. 5 étamines sont fixées en alternance avec les pétales. L’ovaire à 2 carpelles biloculaires est situé en position infère. Il est surmonté de 2 courts styles filiformes de 1 mm de long surmontés de stigmates courts.</p><h6>Fruit</h6><p>Le fruit est une capsule transversalement ellipsoïde, latéralement comprimé, longue de 1 à 2 mm, large de 2 à 4 mm, émarginée à la base et au sommet. Elle est formée de 2 méricarpes qui restent soudés entre eux à maturité. Le sommet est surmonté des 2 styles, longs d’environ 1 mm. Les 10 côtes longitudinales sont bien distinctes. Le tégument est brun rouge, légèrement ridé à maturité.</p>",
+dateCreated: "2015-03-19T11:39:18Z",
+lastUpdated: "2015-03-19T11:39:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765158523,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4415,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Hydrocotyle bonariensis Lam.",
+dateCreated: "2015-03-19T11:39:18Z",
+lastUpdated: "2015-03-19T11:39:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765158747,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4417,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "H. bonariensis est une plante vivace qui se multiplie abondamment de façon végétative par ses stolons et tiges rampantes enracinées à chaque noeud. Elle produit également des graines viables. En climat tropical, elle peut fleurir toute l’année.<br>",
+dateCreated: "2015-03-19T11:39:19Z",
+lastUpdated: "2015-03-19T11:39:19Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765159213,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4416,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Comores : H. bonariensis est absente. Madagascar : H. bonariensis est une adventice assez commune un peu partout, occupant les endroits frais et humides : elle s’installe dans les canaux à eau peu profonde et dans les zones marécageuses, dans les rizières mal entretenues. Maurice : Espèce de stations humides où elle peut être abondante, surtout le long des cours d’eau et dans les fossés. La Réunion : Espèce des bas-fonds humides et des bords de canaux d’irrigation et de cours d’eau. Elle peut tolérer une certaine salinité des milieux et se développer à proximité des lagunes. Seychelles : absente.<br>",
+dateCreated: "2015-03-19T11:39:19Z",
+lastUpdated: "2015-03-19T11:39:19Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765159053,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4418,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Comores : H. bonariensis est absente. Madagascar : H. bonariensis est une adventice relativement peu fréquente et rarement abondante dans les rizières. L’infestation des canaux d’irrigation peu être gênante. Maurice : Adventice de la canne à sucre et des cultures maraîchères. Elle se propage facilement par les tiges rampantes et devient ainsi gênante dans les cultures, en formant un tapis continu et très dense. Elle est de nuisibilité moyenne. La Réunion : Cette espèce n'est pas recensée en culture. Seychelles : absente.</p>",
+dateCreated: "2015-03-19T11:39:19Z",
+lastUpdated: "2015-03-19T11:39:19Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765159373,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4413,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:18Z",
+lastUpdated: "2015-03-31T06:53:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765158208,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3433,
+url: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:22Z",
+rating: 0
+},
+{
+id: 3434,
+url: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:22Z",
+rating: 0
+},
+{
+id: 3435,
+url: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:22Z",
+rating: 0
+},
+{
+id: 3436,
+url: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:22Z",
+rating: 0
+},
+{
+id: 3437,
+url: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:22Z",
+rating: 0
+},
+{
+id: 3438,
+url: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:23Z",
+rating: 0
+},
+{
+id: 3439,
+url: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:23Z",
+rating: 0
+},
+{
+id: 3440,
+url: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20060905_114513.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20060905_114513_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:23Z",
+rating: 0
+},
+{
+id: 3441,
+url: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20060901_075306.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20060901_075306_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:23Z",
+rating: 0
+},
+{
+id: 3442,
+url: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:23Z",
+rating: 0
+},
+{
+id: 3443,
+url: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hydrocotyle bonariensis/hydbo_20080609_101258_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:40:23Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

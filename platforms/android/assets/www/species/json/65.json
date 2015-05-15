@@ -1,0 +1,2980 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 65,
+title: "<i>Cleome viscosa </i>L. ",
+taxonConcept: {
+id: 153,
+name: "Cleome viscosa L.",
+canonicalForm: "Cleome viscosa",
+italicisedForm: "<i>Cleome viscosa </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 149,
+name: "Cleomaceae",
+canonicalForm: "Cleomaceae",
+italicisedForm: "<i>Cleomaceae</i>",
+rank: "Family"
+},
+{
+id: 150,
+name: "Cleome",
+canonicalForm: "Cleome",
+italicisedForm: "<i>Cleome</i>",
+rank: "Genus"
+},
+{
+id: 153,
+name: "Cleome viscosa L.",
+canonicalForm: "Cleome viscosa",
+italicisedForm: "<i>Cleome viscosa </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 1649,
+name: "Arivela viscosa (L.) Raf.",
+canonicalForm: "Arivela viscosa",
+italicisedForm: "<i>Arivela viscosa (</i>L.<i>) </i>Raf. ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1650,
+name: "Arivela viscosa var. deglabrata (Backer) M.L.Zhang & G.C.Tucker",
+canonicalForm: "Arivela viscosa deglabrata",
+italicisedForm: "<i>Arivela viscosa </i>var.<i> deglabrata (</i>Backer<i>) </i>M.L.Zhang<i> & </i>G.C.Tucker ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1651,
+name: "Cleome acutifolia Elmer",
+canonicalForm: "Cleome acutifolia",
+italicisedForm: "<i>Cleome acutifolia </i>Elmer ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1652,
+name: "Cleome icosandra L.",
+canonicalForm: "Cleome icosandra",
+italicisedForm: "<i>Cleome icosandra </i>L. ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1653,
+name: "Cleome viscosa var. deglabrata (Backer) B.S.Sun",
+canonicalForm: "Cleome viscosa deglabrata",
+italicisedForm: "<i>Cleome viscosa </i>var.<i> deglabrata (</i>Backer<i>) </i>B.S.Sun ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1654,
+name: "Cleome viscosa var. nagarjunakondensis Sundararagh.",
+canonicalForm: "Cleome viscosa nagarjunakondensis",
+italicisedForm: "<i>Cleome viscosa </i>var.<i> nagarjunakondensis </i>Sundararagh. ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1655,
+name: "Cleome viscosa var. parviflora Kuntze",
+canonicalForm: "Cleome viscosa parviflora",
+italicisedForm: "<i>Cleome viscosa </i>var.<i> parviflora </i>Kuntze ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1656,
+name: "Cleome viscosa var. viscosa",
+canonicalForm: "Cleome viscosa viscosa",
+italicisedForm: "<i>Cleome viscosa </i>var.<i> viscosa</i>",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1657,
+name: "Polanisia icosandra (L.) Wight & Arn.",
+canonicalForm: "Polanisia icosandra",
+italicisedForm: "<i>Polanisia icosandra (</i>L.<i>) </i>Wight<i> & </i>Arn. ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1658,
+name: "Polanisia microphylla Eichler",
+canonicalForm: "Polanisia microphylla",
+italicisedForm: "<i>Polanisia microphylla </i>Eichler ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1659,
+name: "Polanisia orthocarpa Hochst. ex Webb",
+canonicalForm: "Polanisia orthocarpa",
+italicisedForm: "<i>Polanisia orthocarpa </i>Hochst.<i> ex </i>Webb ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1660,
+name: "Polanisia viscosa (L.) Blume",
+canonicalForm: "Polanisia viscosa",
+italicisedForm: "<i>Polanisia viscosa (</i>L.<i>) </i>Blume ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1661,
+name: "Polanisia viscosa var. deglabrata Backer",
+canonicalForm: "Polanisia viscosa deglabrata",
+italicisedForm: "<i>Polanisia viscosa </i>var.<i> deglabrata </i>Backer ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1662,
+name: "Polanisia viscosa var. icosandra (L.) Schweinf. ex Oliv.",
+canonicalForm: "Polanisia viscosa icosandra",
+italicisedForm: "<i>Polanisia viscosa </i>var.<i> icosandra (</i>L.<i>) </i>Schweinf.<i> ex </i>Oliv. ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1663,
+name: "Sinapistrum viscosum (L.) Moench",
+canonicalForm: "Sinapistrum viscosum",
+italicisedForm: "<i>Sinapistrum viscosum (</i>L.<i>) </i>Moench ",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 378,
+name: "Kifafalahy",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 381,
+name: "Pisar lisyen",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 374,
+name: "Pissat de chien",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 376,
+name: "Brède caya",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 380,
+name: "Pisar lisyen",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 377,
+name: "Pissat de chien",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 375,
+name: "Brède caya",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 379,
+name: "Sticky spider-flower",
+taxonConcept: {
+id: 153
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1615,
+name: "Eng: sticky spider-flower",
+taxonConcept: {
+id: 153
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:07:44Z",
+lastRevised: "2015-03-19T11:12:51Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_185159_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CLEVI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CLEVI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 543,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CLEVI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541377,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 542,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Seed</h6><p>1.3 mm across, 1 mm thick, reddish brown, cleft narrow.</p><h6>Global Description</h6><p>Terrestrial, annual, erect, aromatic (fetid smell) herb, up to 120 cm tall. Taproots white or brown. Stem erect, rounded, solid, (glandular) hairy. Stipules absent. Leaves compound, trifoliolate, alternate spiral, stalked, leaflets elliptic, (glandular) hairy on both side, margin entire, apex acute, base acute, pinnately veined. Flowers bisexual, single, axillary, stalked, yellow, petals 4, free. Fruits a capsule, opening by two valves.</p>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541377,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 550,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Cleome viscosa L.",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541382,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 553,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Reproducing by seeds.<br>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541384,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 547,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "A tolerant ruderal plant on arable land; along roadsides, refuse heaps, coconut grooves; often in great quantities. Prefers sunny, lighter soil, both under seasonally dry and under ever-wet conditions; sometimes on sandy or calcareous soils. In E. Java it is typical on recently formed, very porous and light volcanic soil. Near the coast or in savannahs, up to 500 m alt. (mostly lower).<br>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541380,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 552,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>S.E.Asia, Malesia, tropical Australia, tropical Africa & Southern Arabia.</p>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541383,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 546,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>Occasionally a noxious weed. In Spain it is a troublesome weed on irrigated crops in arid areas.</p>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541379,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 544,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "The sap of leaves mixed with water or milk is applied to the eye in Java. The whole herb is rubbed on the body against rheumatism. The seeds contain an appreciable quantity of alkaloids. Leaf decoction is used for eyesore. In Sumatra the seeds are added to tobacco to enhance narcotic quality. In Australia, the aerial parts are used for respiratory tract infections and infected wounds. In the USA it is a noxious weed.<br>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541378,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 548,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Due to its rapid growth it should be controlled in some annual crops. Besides the normal hoeing, soil-applied herbicides (mono-linuron, trifluralin, chlorbromuron, atrazine, prometryne, terbutryne, metribuzin, diuron, oxadiazon) have been successful, but alachlor and fluorodifen are inefficient. Some foliar-applied herbicides (MCPA, 2.4-D and paraquat) are equally effective.</p>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541380,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 541,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-03-16T05:57:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "-Lavit Kham. 2004. Medicinal plants of Cambodia."
+},
+{
+title: "-Tavatchai Radanachaless, J.F.Maxwell. 1994. Weeds of soybean fields in Thailand. Multiple Cropping, Center Publications. Thailand."
+},
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541375,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 551,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-04-09T16:19:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Lavit Kham. 2004. Medicinal plants of Cambodia."
+},
+{
+title: "-Tavatchai Radanachaless, J.F.Maxwell. 1994. Weeds of soybean fields in Thailand. Multiple Cropping, Center Publications. Thailand."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "-Tavatchai Radanachaless, J.F.Maxwell. 1994. Weeds of soybean fields in Thailand. Multiple Cropping, Center Publications. Thailand."
+},
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541382,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 545,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-03-09T05:23:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Tavatchai Radanachaless, J.F.Maxwell. 1994. Weeds of soybean fields in Thailand. Multiple Cropping, Center Publications. Thailand."
+},
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "-Lavit Kham. 2004. Medicinal plants of Cambodia."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541378,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 549,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-04-09T16:19:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "-Lavit Kham. 2004. Medicinal plants of Cambodia."
+},
+{
+title: "-Lavit Kham. 2004. Medicinal plants of Cambodia."
+},
+{
+title: "-Tavatchai Radanachaless, J.F.Maxwell. 1994. Weeds of soybean fields in Thailand. Multiple Cropping, Center Publications. Thailand."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541380,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3324,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Cleome viscosa est une plante dressée, ramifiée, pouvant atteindre 1 m de haut et couverte de poils glanduleux. Les feuilles sont alternes, composées de 3 ou 5 folioles obovales. Les fleurs sont solitaires de couleur jaune. Le fruit est une capsule cylindrique linéaire, qui s'ouvre à maturité uniquement dans la partie supérieure. Il contient de très nombreuses graines, fortement ridées. Cette plante se caractérise par une forte odeur.</p>",
+dateCreated: "2015-03-19T11:12:51Z",
+lastUpdated: "2015-03-19T11:12:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763571237,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3299,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CLEVI</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:12:41Z",
+lastUpdated: "2015-03-19T11:12:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763561986,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3315,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Cleome viscosa est une plante dressée, ramifiée, pouvant atteindre 1 m de haut et couverte de poils glanduleux. Les feuilles sont alternes, composées de 3 ou 5 folioles obovales. Les fleurs sont solitaires de couleur jaune. Le fruit est une capsule cylindrique linéaire, qui s'ouvre à maturité uniquement dans la partie supérieure. Il contient de très nombreuses graines, fortement ridées. Cette plante se caractérise par une forte odeur.</p><h6>Cotylédons</h6><p>Les cotylédons sont très petits, elliptiques à orbiculaires, portés par un pétiole presque deux fois plus long que le limbe. Le limbe est long de 3 mm et large de 2 mm.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont alternes, composées et palmées, comprenant 2 ou 3 folioles obovales. Elles sont longuement pétiolées.</p><h6>Port</h6><p>Plante robuste à port dressé. et abondamment ramifiée dès la base, avec des rameaux secondaires ascendants. Elle peut mesurer de 30 à 100 cm de hauteur.</p><h6>Système Souterrain</h6><p>La racine est pivotante, souvent ligneuse chez les plantes âgées.</p><h6>Tige</h6><p>La tige est cylindrique et pleine. Elle est finement striée longitudinalement et couverte de poils glanduleux poisseux. La base de la tige devient rapidement ligneuse.</p><h6>Feuille</h6><p>Les feuilles sont alternes, composées et palmées. Elles sont composées de 3 ou 5 folioles. Elles sont portées par un pétiole long de 2 à 5 cm. Les folioles sont sessiles, de forme obovale, au sommet en coin aigu ou arrondi et apiculé. La base est atténuée en coin aigu. La foliole médiane est toujours plus grande que les folioles latérales. Elle est longue de 2 à 4 cm et large de 1 à 2 cm. La marge est plus ou moins ondulée et ciliée de poils glanduleux. Les deux faces sont couvertes de poils glanduleux, et sont marquées de 3 à 8 nervures pennées.</p><h6>Inflorescence</h6><p>Les fleurs sont solitaires, disposées à l’aisselle des feuilles. Elles sont portées par des pédicelles de 1 à 2 cm de long, pubescents, glanduleux.</p><h6>Fleur</h6><p>Les fleurs sont jaunes, très légèrement asymétriques. Le calice est composé de 4 sépales ovales de 4 mm de long, couverts de poils glanduleux. Les 4 pétales sont presque égaux, de forme obovale, au sommet arrondi. Ils sont longs de 6 à 10 mm et larges de 4 à 5 mm. Les étamines fertiles de 7 mm de long sont nombreuses (12 à 15).</p><h6>Fruit</h6><p>Le fruit est une capsule linéaire cylindrique, déhiscente uniquement dans la moitié supérieure. Les fruits sont dressés obliquement à 45 degrés. Le sommet et la base sont atténués. La capsule mesure 5 à 8 cm de long et jusqu'à 4 mm de diamètre. Les parois des deux valves sont finement striées longitudinalement et couvertes de poils glanduleux courts. Une capsule contient plus d’une centaine de graines.</p><h6>Graine</h6><p>La graine est enroulée sur elle-même, de forme suborbiculaire, légèrement aplatie latéralement. Elle mesure 1,4 mm de diamètre. Le tégument est brun foncé, parcouru par de nombreuses rides transversales.</p>",
+dateCreated: "2015-03-19T11:12:45Z",
+lastUpdated: "2015-03-19T11:12:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763565286,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3317,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Cleome viscosa L.",
+dateCreated: "2015-03-19T11:12:45Z",
+lastUpdated: "2015-03-19T11:12:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763565900,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3316,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : C. viscosa est présente tout au long de la saison des pluies mais, dans les parcelles cultivées, elle est particulièrement abondante en début de cycle cultural. La germination débute en mai, soit après un labour précoce, soit avant le labour lorsqu'il est tardif. La floraison et la fructification interviennent très rapidement. Les premières fleurs s'épanouissent 2 semaines après la levée et les premières capsules se forment une semaine plus tard. Les premières graines peuvent être libérées fin juin. La plante continue de grandir tout au long de la floraison. La rapidité de ce cycle de développement permet à cette espèce d'assurer sa reproduction dès le début de la saison humide, à condition que les opérations culturales de désherbage soient suffisamment espacées dans le temps. Après chaque opération de travail du sol (sarclage, buttage), de nouvelles levées apparaissent. Quelle que soit l'époque de germination, l'ensemble des individus se dessèche en fin de saison des pluies (septembre-octobre). Les individus ayant germé tardivement ont un développement et une production de graines beaucoup moins importants que ceux ayant germé en début de cycle. Sur les parcelles temporairement inondées, le cycle de développement peut avoir lieu en début de saison sèche une fois le sol ressuyé.<br>",
+dateCreated: "2015-03-19T11:12:45Z",
+lastUpdated: "2015-03-19T11:12:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763565575,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3321,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. viscosa est une espèce annuelle. Elle se multiplie uniquement par graines.<br>",
+dateCreated: "2015-03-19T11:12:47Z",
+lastUpdated: "2015-03-19T11:12:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763567380,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3318,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>C. viscosa est répandue dans toute l'Afrique tropicale sub-saharienne, depuis les îles du Cap-Vert jusqu'en Ethiopie. Elle est également présente à Madagascar, dans la péninsule arabique, en Inde, en Australie et a été introduite en Amérique tropicale.</p>",
+dateCreated: "2015-03-19T11:12:46Z",
+lastUpdated: "2015-03-19T11:12:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763566449,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3320,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : C. viscosa est une espèce rudérale commune au bord des chemins et à proximité des villages. Elle est abondante dans les jeunes jachères. C'est également une adventice des cultures annuelles. Elle se développe principalement en région soudano-sahélienne dont la pluviométrie annuelle est comprise entre 900 et 1200 mm. Comores : Espèce rudérale, observée dans toutes les régions de basse altitude de l’île de la Grande Comore. Madagascar : Espèce rudérale et adventice des cultures pluviales en zone de basse et moyenne altitude, à saison sèche marquée (Moyen-Ouest, Ouest, Nord-Ouest et Sud-Ouest) sur les bords de chemins dans les jachères et les cultures pluviales. Maurice : Mauvaise herbe commune dans les champs de canne à sucre et sur les terres incultes, surtout à basse altitude. La Réunion : C'est une espèce rudérale peu répandue à La Réunion. Seychelles : Espèce des clairières et des lieux cultivés. Elle est rarement abondante.<br>",
+dateCreated: "2015-03-19T11:12:47Z",
+lastUpdated: "2015-03-19T11:12:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763567058,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3319,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>C. viscosa est répandue dans toute l'Afrique tropicale sub-saharienne, depuis les îles du Cap-Vert jusqu'en Ethiopie. Elle est également présente à Madagascar, dans la péninsule arabique, en Inde, en Australie et a été introduite en Amérique tropicale.</p>",
+dateCreated: "2015-03-19T11:12:46Z",
+lastUpdated: "2015-03-19T11:12:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763566737,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3322,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Nord-Cameroun : C. viscosa est une espèce caractéristique des environs de Garoua, où elle est présente dans plus de 40 % des parcelles et peut être très abondante. En revanche, en zone soudanienne du Nord-Cameroun, sa fréquence n'est que de 4 % et en zone sahélo-soudanienne, de 10 %. Cette espèce est typiquement une adventice potentielle régionale. Elle se développe sur sol sableux ou caillouteux, notamment sur sol ferrugineux dégradé. Elle croît également sur alluvions périodiquement inondées. Comores : Adventice majeure des premières cultures telles que les plantations de manioc ou de maïs. Madagascar : Espèce peu nuisible. Maurice : Adventice commune dans les zones à faible pluviométrie où elle présente une nuisibilité relativement faible. La Réunion : C. viscosa est une adventice des cultures annuelles et apparaît principalement en début de cycle cultural. Elle est présente dans un seul relevé floristique en culture de canne à sucre dans le Sud de l'île. Seychelles : Adventice à faible nuisibilité.</p>",
+dateCreated: "2015-03-19T11:12:47Z",
+lastUpdated: "2015-03-19T11:12:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763567668,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3314,
+field: {
+concept: "Démographie et Conservation",
+category: "Menaces",
+description: "Les menaces que subit le taxon",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. viscosa est citée comme hôte d'Helicoverpa armigera.<br>",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-19T11:12:44Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564848,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3323,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Conseils de gestion des adventices annuelles à feuilles larges en riz irrigué : http://portal.wikwio.org/document/show/19</p>",
+dateCreated: "2015-03-19T11:12:48Z",
+lastUpdated: "2015-03-19T11:12:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763568053,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3303,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Braun M., Burgstaller H., Hamdoun A. M. & Walter H., 1991."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564547,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3302,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1974. Flore illustrée du Sénégal. Tome 2. Clairafrique éd., Dakar, Sénégal, 695 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564547,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3301,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564546,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3300,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I.O. & Agyakwa C.W., 1989. Guide des adventices d'Afrique de l'Ouest. Institut international d'agriculture tropicale. Ibadan, Nigeria, 521 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564546,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3310,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Merlier H. & Montégut J., 1982. Adventices tropicales. ORSTOM-GERDAT-ENSH éd., Montpellier, France, 490 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564548,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3312,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564549,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3311,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564548,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3313,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564549,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3309,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois Th., 1993. Les mauvaises herbes dans la rotation cotonnière au Nord-Cameroun (Afrique) - Amplitude d'habitat et degré d'infestation - Cycle de développement. Thèse USTL Montpellier II, Montpellier, France, 241p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564548,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3308,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Koch W., 1981. Mauvaises herbes des cultures tropicales. In Kranz J., Schmutterer H. & Koch W. : Maladies, ravageurs et mauvaises herbes des cultures tropicales. Verlag Paul Parey, Berlin, Hambourg : 587-665."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564548,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3307,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Kers L. E., 1986. Flore du Cameroun. 29 - Capparidacées. MESRES éd., Yaoundé, Cameroun, 141 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564548,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3306,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., Moody K. & Egunjobi J. K., 1978. West African Weeds. Oxford University Press, Ibadan, Nigeria, 255 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564547,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3305,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hutchinson J., Dalziel J. M., Keay R. W. J. & Hepper F. N., 1954. Flora of West Tropical Africa. Vol. I part. 1. 2ème éd. The Whitefriars Press ed., London & Tonbridge, 295 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564547,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3304,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:44Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Common weeds of Central Sudan. GTZ, Verlag Josef Margraf ed. Scientific Book, Weikersheim, Germany, 329 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763564547,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 1147,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_185159.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_185159_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:59Z",
+rating: 0
+},
+{
+id: 1148,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_10.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_10_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:59Z",
+rating: 0
+},
+{
+id: 1149,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051116_180516.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051116_180516_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:59Z",
+rating: 0
+},
+{
+id: 1150,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051116_180504.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051116_180504_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:59Z",
+rating: 0
+},
+{
+id: 1151,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_185250.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_185250_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:59Z",
+rating: 0
+},
+{
+id: 1152,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051116_180555.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051116_180555_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:59Z",
+rating: 0
+},
+{
+id: 1153,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_153200.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_153200_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:59Z",
+rating: 0
+},
+{
+id: 1154,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_185230.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_185230_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:59Z",
+rating: 0
+},
+{
+id: 1155,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_185342.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_185342_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:59Z",
+rating: 0
+},
+{
+id: 1156,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:59Z",
+rating: 0
+},
+{
+id: 1157,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:59Z",
+rating: 0
+},
+{
+id: 1158,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_153650.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_153650_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1159,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051118_141002.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051118_141002_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1160,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20020724_153828.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20020724_153828_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1161,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1162,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051118_140954.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051118_140954_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1163,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1164,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1165,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1166,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1167,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_152446.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_152446_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1168,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_152317.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_152317_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1169,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051116_180547.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051116_180547_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1170,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1171,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051116_180528.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20051116_180528_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1172,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_185018.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_185018_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1173,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_153238.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_153238_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1174,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20080609_1012069_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1175,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_152114.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_152114_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1176,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_185100.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_185100_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:00Z",
+rating: 0
+},
+{
+id: 1177,
+url: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_152401.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Cleome viscosa/clevi_20090217_152401_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:08:01Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

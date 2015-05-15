@@ -1,0 +1,1219 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 44,
+title: "<i>Brachiaria umbellata (</i>Trin.<i>) </i>Clayton ",
+taxonConcept: {
+id: 110,
+name: "Brachiaria umbellata (Trin.) Clayton",
+canonicalForm: "Brachiaria umbellata",
+italicisedForm: "<i>Brachiaria umbellata (</i>Trin.<i>) </i>Clayton ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 105,
+name: "Brachiaria",
+canonicalForm: "Brachiaria",
+italicisedForm: "<i>Brachiaria</i>",
+rank: "Genus"
+},
+{
+id: 110,
+name: "Brachiaria umbellata (Trin.) Clayton",
+canonicalForm: "Brachiaria umbellata",
+italicisedForm: "<i>Brachiaria umbellata (</i>Trin.<i>) </i>Clayton ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 892,
+name: "Panicum nossibense Steud.",
+canonicalForm: "Panicum nossibense",
+italicisedForm: "<i>Panicum nossibense </i>Steud. ",
+taxonConcept: {
+id: 110
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 893,
+name: "Panicum umbellatum Trin.",
+canonicalForm: "Panicum umbellatum",
+italicisedForm: "<i>Panicum umbellatum </i>Trin. ",
+taxonConcept: {
+id: 110
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 894,
+name: "Panicum umbellatum subsp. nossibense (Steud.) A.Camus",
+canonicalForm: "Panicum umbellatum nossibense",
+italicisedForm: "<i>Panicum umbellatum </i>subsp.<i> nossibense (</i>Steud.<i>) </i>A.Camus ",
+taxonConcept: {
+id: 110
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 278,
+name: "Fandridahy",
+taxonConcept: {
+id: 110
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 286,
+name: "Fandrotrarana",
+taxonConcept: {
+id: 110
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 279,
+name: "Volonondry",
+taxonConcept: {
+id: 110
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 280,
+name: "Gazon",
+taxonConcept: {
+id: 110
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 281,
+name: "Gazon trel",
+taxonConcept: {
+id: 110
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 283,
+name: "Gazon trelle",
+taxonConcept: {
+id: 110
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 282,
+name: "Herbe Edwards",
+taxonConcept: {
+id: 110
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 284,
+name: "Gazon chinois",
+taxonConcept: {
+id: 110
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 285,
+name: "Gros chiendent",
+taxonConcept: {
+id: 110
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:02:54Z",
+lastRevised: "2015-05-07T13:47:34Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Brachiaria umbellata/panum_20060910_105007_th1.jpg",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>PANUM</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>PANUM</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 410,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>PANUM</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2014-09-24T17:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277483,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 411,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Brachiaria umbellata (Trin.) Clayton",
+dateCreated: "2014-09-24T17:04:37Z",
+lastUpdated: "2014-09-24T17:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578277483,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3076,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Brachiaria umbellata est une herbe vivace à stolons rampants, abondamment ramifiée, enracinée aux noeuds. Les chaumes florifères sont dressés, grêles, glabres, de 8 à 30 cm de haut. Les feuilles ont un limbe lancéolé, plan ou à marge enroulée, plus ou moins pubescent, de 1 à 4 cm de long sur 1 à 6 mm de large. L'inflorescence est une panicule ombelliforme, nettement dégagée de la dernière feuille, largement ovale, de 1,5 à 5 cm de long, à ramifications solitaires ou par petits groupes obliquement dressées. Les épillets sont oblongs aigus, glabres, vert jaunâtre ou plus ou moins pourpres, et mesurent 1,7 à 2 mm de long.</p>",
+dateCreated: "2015-03-19T11:07:42Z",
+lastUpdated: "2015-03-19T11:07:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763262256,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3062,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>PANUM</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:07:38Z",
+lastUpdated: "2015-03-19T11:07:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763258883,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3067,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Brachiaria umbellata</em> est une herbe vivace &agrave; stolons rampants, abondamment ramifi&eacute;e, enracin&eacute;e aux noeuds. Les chaumes florif&egrave;res sont dress&eacute;s, gr&ecirc;les, glabres, de 8 &agrave; 30 cm de haut. Les feuilles ont un limbe lanc&eacute;ol&eacute;, plan ou &agrave; marge enroul&eacute;e, plus ou moins pubescent, de 1 &agrave; 4 cm de long sur 1 &agrave; 6 mm de large. L&#39;inflorescence est une panicule ombelliforme, nettement d&eacute;gag&eacute;e de la derni&egrave;re feuille, largement ovale, de 1,5 &agrave; 5 cm de long, &agrave; ramifications solitaires ou par petits groupes obliquement dress&eacute;es. Les &eacute;pillets sont oblongs aigus, glabres, vert jaun&acirc;tre ou plus ou moins pourpres, et mesurent 1,7 &agrave; 2 mm de long.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Les premi&egrave;res feuilles sont simples, alternes, &agrave; limbe ovale lanc&eacute;ol&eacute; de 6 &agrave; 9 mm de long sur 4 &agrave; 6 mm de large, &agrave; gaine et marge parsem&eacute;es de longs poils.</p> <h6> Port</h6> <p> Petite herbe stolonif&egrave;re abondamment ramifi&eacute;e, gazonnante.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Les racines sont fascicul&eacute;es &agrave; la base ; nombreuse racines adventives au niveau des n&oelig;uds.</p> <h6> Tige</h6> <p> Le chaume florif&egrave;re est gr&ecirc;le, glabre, plus moins dress&eacute;, de 8 &agrave; 30 cm de haut, portant l&#39;inflorescence.</p> <h6> Feuille</h6> <p> Les feuilles sont simples alternes. La gaine est courte, &agrave; marge plus ou moins pileuse. La ligule est cili&eacute;e, form&eacute;e par une ligne de poils denses et courts. Le limbe est lanc&eacute;ol&eacute; ou lin&eacute;aire lanc&eacute;ol&eacute;, de 1 &agrave; 4 cm de long sur 1 &agrave; 6 mm de large, plan ou &agrave; marge enroul&eacute;e, glabre &agrave; dens&eacute;ment velout&eacute; pubescent et quelquefois muni de poils raides &agrave; base tubercul&eacute;e.</p> <h6> Inflorescence</h6> <p> Les inflorescences sont des panicules terminales nettement d&eacute;gag&eacute;es de la derni&egrave;re feuille, largement ov&eacute;es de 1,5 &agrave; 5 cm de long et de 1 &agrave; 5 cm de large, l&acirc;ches ou assez contract&eacute;es, souvent ombelliformes. L&rsquo;axe de l&rsquo;inflorescence ou des ramifications est glabre ou &agrave; pilosit&eacute; l&acirc;che. Les p&eacute;dicelles des &eacute;pillets sont gr&ecirc;les, en g&eacute;n&eacute;ral de 1 &agrave; 2 mm.</p> <h6> Fleur</h6> <p> Les &eacute;pillets sont oblongs aigus, un peu comprim&eacute;s dorsiventralement, de 1,7 &agrave; 2 mm de long, glabres, vert jaun&acirc;tre ou plus ou moins pourpres ; glumes tr&egrave;s in&eacute;gales, l&rsquo;inf&eacute;rieure petite parfois r&eacute;duite &agrave; une &eacute;caille &agrave; la base de l&rsquo;&eacute;pillet ou pouvant atteindre le 1/3 de sa longueur, sans nervure, la sup&eacute;rieure de la taille de l&rsquo;&eacute;pillet &agrave; 3-5 nervures saillantes. La fleur inf&eacute;rieure est st&eacute;rile et r&eacute;duite &agrave; une lemna assez semblable &agrave; la glume sup&eacute;rieure. La fleur sup&eacute;rieure est fertile, de la taille de l&rsquo;&eacute;pillet ou l&eacute;g&egrave;rement plus courte, oblongue &agrave; lemna et pal&eacute;a crustac&eacute;es, lisses, jaunes.</p> <h6> Fruit</h6> <p> Le grain est largement oblong, de 1 mm de long.</p> ",
+dateCreated: "2015-03-19T11:07:39Z",
+lastUpdated: "2015-05-07T13:46:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763259888,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3069,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Brachiaria umbellata (Trin.) Clayton",
+dateCreated: "2015-03-19T11:07:40Z",
+lastUpdated: "2015-03-19T11:07:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763260332,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3068,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Sur les Hautes Terres de Madagascar, <em>B. umbellata</em> est une herbe vivace avec de nombreux stolons qui monte en fleur d&egrave;s le milieu de la saison des pluies.<br /> ",
+dateCreated: "2015-03-19T11:07:40Z",
+lastUpdated: "2015-05-07T13:47:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763260123,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3073,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>B. umbellata</em> est une herbe vivace &agrave; nombreux stolons ramifi&eacute;s, enracin&eacute;s aux n&oelig;uds. <em>B. umbellata</em> se propage par fragmentation de stolons, mais aussi par graines.<br /> ",
+dateCreated: "2015-03-19T11:07:41Z",
+lastUpdated: "2015-05-07T13:47:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763261220,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3066,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Brachiaria umbellata</em> peut &ecirc;tre condue avec <em>Panicum parviflorum</em> Lamk., une herbe vivace stolonif&egrave;re, &agrave; stolons gr&ecirc;les, glabres, enracin&eacute;s et ramifi&eacute;s aux n&oelig;uds, aux chaumes florif&egrave;res atteignant 30 cm mais aux inflorescences en panicules ov&eacute;es plus petites, peu exsertes et paucispicul&eacute;es, &agrave; ramifications souvent r&eacute;fl&eacute;chies. <em>P. parviflolium</em> est une plante hygrophile assez commune croissant dans les bas-fonds mar&eacute;cageux et au bord des marais, dans les zones humides et chaudes (Est) et subhumides des Plateaux et de l&rsquo;Ouest de Madagascar.<br /> ",
+dateCreated: "2015-03-19T11:07:39Z",
+lastUpdated: "2015-05-07T13:48:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763259680,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3072,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>:<em> B. umbellata</em> est une esp&egrave;ce commune donnant un gazon dense et ras.<br /> <strong>Madagascar </strong>: <em>B. umbellata </em>se d&eacute;veloppe sur la plupart des sols sablonneux plus ou moins humides et sur les sols ferrallitiques des collines peu &eacute;rod&eacute;es, en bas de pente ou sur les terrasses. Environnement : On peut distinguer deux populations de <em>B. umbellata</em> : l&rsquo;une des zones humides (pluviom&eacute;trie sup&eacute;rieure &agrave; 1800 mm avec saison s&egrave;che tr&egrave;s courte), &agrave; feuilles g&eacute;n&eacute;ralement glabres, l&rsquo;autre des stations plus s&egrave;ches des zones subhumides du Moyen-Ouest de Madagascar, &agrave; feuilles tr&egrave;s pileuses ou soyeuses avec des formes interm&eacute;diaires se trouvant sur les plateaux du Centre (pluviom&eacute;trie comprise entre 1200 et 1600 mm r&eacute;partie sur 5 &agrave; 7 mois). Fertilit&eacute; du sol : <em>B. umbellata</em> s&rsquo;installe sur les sables stabilis&eacute;s et tous les sols ferrallitiques de fertilit&eacute; m&eacute;diocre &agrave; moyenne pour former un gazon ras. Degr&eacute; d&rsquo;ombrage : <em>B. umbellata</em> cro&icirc;t principalement dans les stations ensoleill&eacute;es ou faiblement ombrag&eacute;es. Syst&egrave;me de culture : <em>B. umbellata</em> envahit de pr&eacute;f&eacute;rence les syst&egrave;mes de cultures traditionnels &agrave; base de manioc ou de voandzou (les plus cultiv&eacute;es sur ces types de sol en culture pure ou en association avec le ma&iuml;s). Degr&eacute; d&rsquo;intensification : <em>B. umbellata</em> se rencontre dans des syst&egrave;mes de culture traditionnels extensifs ou semi-intensifs (sans fertilisation avec jach&egrave;re p&eacute;riodique ou minimum de fertilisation organique) Zone agro-&eacute;cologique concern&eacute;e dans le pays : Est, Hauts plateaux (Centre), Moyen-Ouest.<br /> <strong>Seychelles </strong>: Esp&egrave;ce commune, souvent utilis&eacute;e comme gazon.<br /> ",
+dateCreated: "2015-03-19T11:07:40Z",
+lastUpdated: "2015-05-07T13:50:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763260987,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3071,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>Afrique de l’Est, Iles du Sud-Ouest de l’Océan Indien.</p>",
+dateCreated: "2015-03-19T11:07:40Z",
+lastUpdated: "2015-03-19T11:07:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763260774,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3074,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>: <em>B. umbellata</em> est une adventice fr&eacute;quente des jach&egrave;res et des cultures pluviales.<br /> <strong>Madagascar </strong>: <em>B. umbellata</em> est la principale plante des jach&egrave;res et des p&acirc;turages naturels et une mauvaise herbe fr&eacute;quente et souvent abondante des cultures de manioc, de voandzou et parfois du ma&iuml;s associ&eacute; avec du ni&eacute;b&eacute; ou du soja sur les Hauts Plateaux, le versant oriental et le Moyen-Ouest. <em>B. umbellata</em> s&rsquo;installe rapidement &agrave; partir des fragments de stolons mal enfouis lors de la pr&eacute;paration du sol, pour former un gazon dense o&ugrave; les autres plantes s&rsquo;introduisent difficilement. <em>B. umbellata </em>est une esp&egrave;ce rud&eacute;rale et adventice des jach&egrave;res et des p&acirc;turages. C&rsquo;est &eacute;galement une mauvaise herbe des cultures s&egrave;ches, capable d&rsquo;occuper rapidement le sol si le sarclage est insuffisant, surtout dans les cultures de manioc (&agrave; cycle sup&eacute;rieur &agrave; 8 mois) et les cultures p&eacute;rennes arbustives.<br /> <strong>Maurice </strong>: Adventice rare dans les cultures.<br /> <strong>La R&eacute;union</strong> : Esp&egrave;ce non recens&eacute;e en culture.<br /> <strong>Seychelles </strong>: Adventice commune des cultures, difficile &agrave; &eacute;liminer une fois install&eacute;e.</p> ",
+dateCreated: "2015-03-19T11:07:41Z",
+lastUpdated: "2015-05-07T13:51:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763261430,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3077,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Usages</h6><p>Madagascar : B. umbellata donne un pâturage court très utilisé en saison humide.</p>",
+dateCreated: "2015-03-19T11:07:42Z",
+lastUpdated: "2015-03-19T11:07:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763262454,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3075,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Locale</h6> <p> <strong>Madagascar </strong>: L&#39;agriculteur se d&eacute;barrasse difficilement de <em>B. umbellata.</em> Une fois install&eacute;e dans les cultures, cette mauvaise herbe forme un gazon ras fortement enracin&eacute; difficile &agrave; sarcler manuellement. Le sarclage en temps pluvieux est inefficace en raison de la capacit&eacute; des fragments de stolons &agrave; red&eacute;marrer rapidement. A Madagascar, l&rsquo;envahissement par <em>B. umbellata</em> peut &ecirc;tre limit&eacute; par la combinaison de la bonne pr&eacute;paration du sol et le sarclage pr&eacute;coce &agrave; l&rsquo;angady.</p> ",
+dateCreated: "2015-03-19T11:07:41Z",
+lastUpdated: "2015-05-07T13:51:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763261686,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3063,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:07:39Z",
+lastUpdated: "2015-03-19T12:47:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763259359,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3065,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:07:39Z",
+lastUpdated: "2015-03-19T18:14:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763259359,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3064,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:07:39Z",
+lastUpdated: "2015-03-31T04:58:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "zipcodezoo.com/plants/P/Panicum_umbellatum/"
+},
+{
+title: "Bosser J. : Graminées des pâturages et des cultures à Madagascar ; ORSTOM, 440 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763259359,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 818,
+url: "http://portal.wikwio.org/biodiv/img//Brachiaria umbellata/panum_20060910_105007.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Brachiaria umbellata/panum_20060910_105007_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:02:56Z",
+rating: 0
+},
+{
+id: 819,
+url: "http://portal.wikwio.org/biodiv/img//Brachiaria umbellata/panum_20060905_111613.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Brachiaria umbellata/panum_20060905_111613_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:02:56Z",
+rating: 0
+},
+{
+id: 820,
+url: "http://portal.wikwio.org/biodiv/img//Brachiaria umbellata/panum_20060911_155819.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Brachiaria umbellata/panum_20060911_155819_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:02:56Z",
+rating: 0
+},
+{
+id: 821,
+url: "http://portal.wikwio.org/biodiv/img//Brachiaria umbellata/panum_20060911_160013.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Brachiaria umbellata/panum_20060911_160013_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:02:56Z",
+rating: 0
+},
+{
+id: 822,
+url: "http://portal.wikwio.org/biodiv/img//Brachiaria umbellata/panum_20060910_105225.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Brachiaria umbellata/panum_20060910_105225_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:02:56Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}
