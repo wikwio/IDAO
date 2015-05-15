@@ -1,0 +1,179 @@
+
+
+
+<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="js/offline.js"></script>
+
+
+
+<script type="text/javascript">
+
+function gene_breif(notes){
+    return '<li><a href="#" class="jslist"><i></i>Brief</a><ul><li>'+notes+'</li></ul></li>';
+}
+
+/*function gene_classify(taxonRegistry){
+      var output = '<li><a href="#" class="jslist"><i></i>Classifications</a><ul class="closed" >';
+      $.each(taxonRegistry[0].hierarchies, function(k,v){
+            //console.log(v);
+            output +='<li>'+v.rank +'  --  '+ v.name+'</li>';
+      });
+      output += '</ul></li>';
+      //console.log(output);
+      return output;
+} */
+
+function gene_synonyms(synonyms){
+    var output = '<li><a href="#" class="jslist"><i></i>Synonyms</a><ul class="closed">';
+    $.each(synonyms, function(k,v){
+        output +='<li>'+v.name+'</li>';
+    });
+    output += '</ul></li>';
+    //console.log(output);
+    return output;
+}
+
+function gene_commonnames(commonnames){
+  var output = '';
+    if(Object.keys(commonnames).length > 0){
+      // To do make the list value
+     
+      return output;
+
+      //return '';
+    }else{
+      return output;  
+    }
+}
+
+function gene_speciesFields(species_fields,langId){
+    var output = '';
+    var chjk = '';
+    var ignore_fields = ['Nomenclature and Classification' , 'References','Documents','Nomenclature et Classification','Références'];
+    var ignore_repeat_category = [];
+    var ignore_repeat_concept = [];
+    console.log("Fields Total = "+Object.keys(species_fields).length);
+    $.each(species_fields, function(k,v){   
+        console.log("Passed 1" +langId);   
+        if(v.field.language.id == parseInt(langId)){  
+          console.log("Passed Language");
+          if($.trim(v.text) != ''){
+            console.log("Passed Text");
+          if($.inArray( $.trim(v.field.concept), ignore_fields ) == -1){        
+            if( $.inArray( $.trim(v.field.category), ignore_fields ) == -1){              
+              if($.inArray( $.trim(v.field.concept), ignore_repeat_concept ) == -1){
+                console.log("Passed Category");
+                output += chjk;
+                chjk    = '</li></ul></li>';  // first li close for category close
+                output += '<li><a href="#" class="jslist"><i></i>'+v.field.concept+'</a><ul class="closed">'; 
+                output += '<li><h4>'+v.field.category+'</h4>';
+                output += v.text;             
+                ignore_repeat_concept.push(v.field.concept);
+              }else{
+                  if($.inArray( $.trim(v.field.category), ignore_repeat_category ) == -1){
+                    console.log("Passed concept");
+                    output += '<li><h4>'+v.field.category+'</h4>';
+                    output += v.text;
+                    ignore_repeat_category.push(v.field.category);
+                  }else{
+                    output += "<hr>"+v.text;
+                  }
+              }
+              
+          }
+      }
+
+    }
+       
+    }    
+     });
+    console.log(output);
+    return output;
+   
+
+}
+function gene_html(speciesInstance,langId){
+      var output ='';
+      output += '<a href="#" rel="en_'+speciesInstance.id+'" class ="change_lan">En</a> | <a href="#" rel="fr_'+speciesInstance.id+'" class ="change_lan">Fr</a>';
+      output += '<h1>'+speciesInstance.title;
+      var portal_url = 'http:\\portal.wikwio.org/species/show/'+speciesInstance.id;
+      output += '<a href="#" onclick="window.open('+portal_url+', "_system");" style="text-decoration:none;" class="portallinkanchor">- Online version</a></h1>';
+     // output += '<img src="species/1.jpg" style="width: 100%;height: 50%;" />';
+      /* Species List  Started */
+      output += '<ul>';
+
+      output += gene_breif(speciesInstance.notes);
+      
+      //output += gene_classify(speciesInstance.taxonRegistry);
+
+      output += gene_synonyms(speciesInstance.synonyms);
+
+      output += gene_commonnames(speciesInstance.common_names);
+
+      output += gene_speciesFields(speciesInstance.fields,langId);
+
+
+      output += '</ul>';
+      $('#gene').html(output);
+
+}
+
+
+
+
+
+$(document).ready(function(){
+  var html_out = '';
+  for(var i=1; i <= 13; i++){
+      html_out +='<a href="#" rel="'+i+'" class="change_page">'+i+'</a>';
+      if(i == 12){
+        $('.page_wrapper').html(html_out);
+      }
+  }
+
+$(document).on('click','.change_lan',function(){
+      var spLan    = $(this).attr('rel');
+      var languageList = {'en' : '123', 'fr' : '137'};
+      var spLanObj = spLan.split("_");
+      var lanStr = spLanObj[0];
+      var speciesId = spLanObj[1];
+      var languageId = languageList[lanStr];
+      console.log("languageId ="+languageId+" speciesId ="+speciesId+" lanStr ="+lanStr);
+
+      $.ajax({
+         url : 'species/json/'+speciesId+'.json',
+         success : function(data){
+            gene_html(data.instance,languageId);
+         }
+       });
+
+});
+
+
+$(document).on('click','.change_page',function(){
+  var spID = $(this).attr('rel');
+$.ajax({
+   url : 'species/json/'+spID+'.json',
+   success : function(data){
+      gene_html(data.instance,'123');
+   }
+ });
+
+});
+
+$.ajax({
+   url : 'species/json/4.json',
+   success : function(data){
+      gene_html(data.instance,'137');
+   }
+
+ });
+
+
+});
+
+</script>
+
+<div class="page_wrapper"></div>
+
+<div class="specieslocal" id="gene"></div>
