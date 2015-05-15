@@ -1,0 +1,3507 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 188,
+title: "<i>Leersia hexandra </i>Sw. ",
+taxonConcept: {
+id: 364,
+name: "Leersia hexandra Sw.",
+canonicalForm: "Leersia hexandra",
+italicisedForm: "<i>Leersia hexandra </i>Sw. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 363,
+name: "Leersia",
+canonicalForm: "Leersia",
+italicisedForm: "<i>Leersia</i>",
+rank: "Genus"
+},
+{
+id: 364,
+name: "Leersia hexandra Sw.",
+canonicalForm: "Leersia hexandra",
+italicisedForm: "<i>Leersia hexandra </i>Sw. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 4222,
+name: "Asprella australis (R.Br.) Roem. & Schult.",
+canonicalForm: "Asprella australis",
+italicisedForm: "<i>Asprella australis (</i>R.Br.<i>) </i>Roem.<i> & </i>Schult. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4223,
+name: "Asprella brasiliensis (Spreng.) Schult.",
+canonicalForm: "Asprella brasiliensis",
+italicisedForm: "<i>Asprella brasiliensis (</i>Spreng.<i>) </i>Schult. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4224,
+name: "Asprella mexicana (Kunth) Roem. & Schult.",
+canonicalForm: "Asprella mexicana",
+italicisedForm: "<i>Asprella mexicana (</i>Kunth<i>) </i>Roem.<i> & </i>Schult. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4225,
+name: "Asprella purpurea Bojer [Invalid]",
+canonicalForm: "Asprella purpurea",
+italicisedForm: "<i>Asprella purpurea </i>Bojer<i> [Invalid]</i>",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4226,
+name: "Blepharochloa ciliata Endl.",
+canonicalForm: "Blepharochloa ciliata",
+italicisedForm: "<i>Blepharochloa ciliata </i>Endl. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4227,
+name: "Homalocenchrus gouinii (E.Fourn.) Kuntze",
+canonicalForm: "Homalocenchrus gouinii",
+italicisedForm: "<i>Homalocenchrus gouinii (</i>E.Fourn.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4228,
+name: "Homalocenchrus hexandrus (Sw.) Kuntze",
+canonicalForm: "Homalocenchrus hexandrus",
+italicisedForm: "<i>Homalocenchrus hexandrus (</i>Sw.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4229,
+name: "Hygroryza ciliata (Retz.) Steud.",
+canonicalForm: "Hygroryza ciliata",
+italicisedForm: "<i>Hygroryza ciliata (</i>Retz.<i>) </i>Steud. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4230,
+name: "Leersia abyssinica Hochst. ex A.Rich.",
+canonicalForm: "Leersia abyssinica",
+italicisedForm: "<i>Leersia abyssinica </i>Hochst.<i> ex </i>A.Rich. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4231,
+name: "Leersia aegyptiaca Fig. & De Not.",
+canonicalForm: "Leersia aegyptiaca",
+italicisedForm: "<i>Leersia aegyptiaca </i>Fig.<i> & </i>De Not. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4232,
+name: "Leersia australis R.Br.",
+canonicalForm: "Leersia australis",
+italicisedForm: "<i>Leersia australis </i>R.Br. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4233,
+name: "Leersia brasiliensis Spreng.",
+canonicalForm: "Leersia brasiliensis",
+italicisedForm: "<i>Leersia brasiliensis </i>Spreng. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4234,
+name: "Leersia capensis C.Muell.",
+canonicalForm: "Leersia capensis",
+italicisedForm: "<i>Leersia capensis </i>C.Muell. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4235,
+name: "Leersia ciliaris Griff.",
+canonicalForm: "Leersia ciliaris",
+italicisedForm: "<i>Leersia ciliaris </i>Griff. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4236,
+name: "Leersia ciliata (Retz.) Roxb.",
+canonicalForm: "Leersia ciliata",
+italicisedForm: "<i>Leersia ciliata (</i>Retz.<i>) </i>Roxb. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4237,
+name: "Leersia compressa A.Chev.",
+canonicalForm: "Leersia compressa",
+italicisedForm: "<i>Leersia compressa </i>A.Chev. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4238,
+name: "Leersia contracta Nees",
+canonicalForm: "Leersia contracta",
+italicisedForm: "<i>Leersia contracta </i>Nees ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4239,
+name: "Leersia dubia Aresch.",
+canonicalForm: "Leersia dubia",
+italicisedForm: "<i>Leersia dubia </i>Aresch. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4240,
+name: "Leersia elongata Willd. ex Trin. [Invalid]",
+canonicalForm: "Leersia elongata",
+italicisedForm: "<i>Leersia elongata </i>Willd.<i> ex </i>Trin.<i> [Invalid]</i>",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4241,
+name: "Leersia ferox Fig. & De Not.",
+canonicalForm: "Leersia ferox",
+italicisedForm: "<i>Leersia ferox </i>Fig.<i> & </i>De Not. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4242,
+name: "Leersia glaberrima Trin.",
+canonicalForm: "Leersia glaberrima",
+italicisedForm: "<i>Leersia glaberrima </i>Trin. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4243,
+name: "Leersia gouinii E.Fourn.",
+canonicalForm: "Leersia gouinii",
+italicisedForm: "<i>Leersia gouinii </i>E.Fourn. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4244,
+name: "Leersia gracilis Willd. ex Trin. [Invalid]",
+canonicalForm: "Leersia gracilis",
+italicisedForm: "<i>Leersia gracilis </i>Willd.<i> ex </i>Trin.<i> [Invalid]</i>",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4245,
+name: "Leersia griffithiana C.Muell.",
+canonicalForm: "Leersia griffithiana",
+italicisedForm: "<i>Leersia griffithiana </i>C.Muell. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4246,
+name: "Leersia hexandra subsp. hexandra",
+canonicalForm: "Leersia hexandra hexandra",
+italicisedForm: "<i>Leersia hexandra </i>subsp.<i> hexandra</i>",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4247,
+name: "Leersia luzonensis J.Presl",
+canonicalForm: "Leersia luzonensis",
+italicisedForm: "<i>Leersia luzonensis </i>J.Presl ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4248,
+name: "Leersia mauritanica Salzm. ex Trin.",
+canonicalForm: "Leersia mauritanica",
+italicisedForm: "<i>Leersia mauritanica </i>Salzm.<i> ex </i>Trin. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4249,
+name: "Leersia mauritiaca Salzm. ex Trin.",
+canonicalForm: "Leersia mauritiaca",
+italicisedForm: "<i>Leersia mauritiaca </i>Salzm.<i> ex </i>Trin. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4250,
+name: "Leersia mexicana Kunth",
+canonicalForm: "Leersia mexicana",
+italicisedForm: "<i>Leersia mexicana </i>Kunth ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4251,
+name: "Leersia parviflora Desv.",
+canonicalForm: "Leersia parviflora",
+italicisedForm: "<i>Leersia parviflora </i>Desv. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4252,
+name: "Leersia triniana Sieber ex Trin. [Invalid]",
+canonicalForm: "Leersia triniana",
+italicisedForm: "<i>Leersia triniana </i>Sieber<i> ex </i>Trin.<i> [Invalid]</i>",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4253,
+name: "Oryza australis R.Br. ex Schweinf. [Invalid]",
+canonicalForm: "Oryza australis",
+italicisedForm: "<i>Oryza australis </i>R.Br.<i> ex </i>Schweinf.<i> [Invalid]</i>",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4254,
+name: "Oryza hexandra (Sw.) Döll",
+canonicalForm: "Oryza hexandra",
+italicisedForm: "<i>Oryza hexandra (</i>Sw.<i>) </i>Döll ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4255,
+name: "Oryza hexandra var. hexandra",
+canonicalForm: "Oryza hexandra hexandra",
+italicisedForm: "<i>Oryza hexandra </i>var.<i> hexandra</i>",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4256,
+name: "Oryza mexicana (Kunth) Döll",
+canonicalForm: "Oryza mexicana",
+italicisedForm: "<i>Oryza mexicana (</i>Kunth<i>) </i>Döll ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4257,
+name: "Pharus ciliatus Retz.",
+canonicalForm: "Pharus ciliatus",
+italicisedForm: "<i>Pharus ciliatus </i>Retz. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4258,
+name: "Pseudoryza ciliata (Retz.) Griff.",
+canonicalForm: "Pseudoryza ciliata",
+italicisedForm: "<i>Pseudoryza ciliata (</i>Retz.<i>) </i>Griff. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4259,
+name: "Turraya napalensis Wall. [Invalid]",
+canonicalForm: "Turraya napalensis",
+italicisedForm: "<i>Turraya napalensis </i>Wall.<i> [Invalid]</i>",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4260,
+name: "Zizania ciliata (Retz.) Spreng.",
+canonicalForm: "Zizania ciliata",
+italicisedForm: "<i>Zizania ciliata (</i>Retz.<i>) </i>Spreng. ",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 951,
+name: "Ahikongona",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 952,
+name: "Ahitsiriry",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 945,
+name: "Hosy hosy",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 948,
+name: "Tsingirifotse",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 949,
+name: "Tsiriry",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 947,
+name: "Vilona",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 946,
+name: "Rice grass",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 950,
+name: "Herbe à blé",
+taxonConcept: {
+id: 364
+},
+isContributor: false,
+language: {
+id: 499,
+name: "Créole Guyane"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:49:34Z",
+lastRevised: "2015-03-19T11:42:59Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20041005_161020_th1.jpg",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>LERHE</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>LERHE</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 1453,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>LERHE</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2014-09-24T17:50:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047512,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1452,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>The leaves are linear to linear-lanceolate, about 15 cm long and 1.5 cm wide, stiff and sharply pointed at the tip. The midrib bears sharp recurved spines, that could lacerate human skin. The leaf margins are razor sharp. The ligule is pale and membranous, while the sheath is glabrous and has prominent auricles.</p><h6>Underground System</h6><p>Elongated rhizomes which form a dense mat.</p><h6>Flower</h6><p>Spikelets narrowly elliptic to elliptic-oblong, 3-4 mm, pale green or purple tinged; lemma conspicuously pectinate-hispid on keel, lateral veins and sometimes surface sparsely spinulose, margins shortly hispid, apex contracted into a short obtuse beak. Stamens 6, anthers 2-2.5 mm.</p><h6>Fruit</h6><p>Caryopsis oblong to ovoid, laterally compressed, not furrowed.</p><h6>Global Description</h6><p>A lax, climbing aquatic perennial grass with long rhizomes that root at the nodes and send up erect shoots up to 1 m high, and is propagated by seeds as well as from rhizomes.</p><h6>Inflorescence</h6><p>Panicle lanceolate-oblong in outline, 5-10 cm, exserted; branches inserted singly, ascending, 4-5 cm, unbranched, slenderly terete or triquetrous, densely clothed to near base with closely overlapping spikelets.</p><h6>Stem</h6><p>Culms decumbent, rooting at lower nodes, erect shoots up to 30-100 cm, nodes retrorsely pubescent.</p>",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2014-09-24T17:50:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047511,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1440,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Leersia hexandra Sw.",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2014-09-24T17:50:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047461,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1451,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "The plant reproduces by seeds but is easily propagated by division of rhizomes.<br>",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2014-09-24T17:50:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047511,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1448,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "A common weed of salt-shy grass found on permanent moist or marshy habitats, along irrigation ditches and other watersides, in humid thickets, in ponds, in rice fields, and on moist arable lands. In East Africa, it is found in shallow water, often forming extensive matted carpets on flood plains and in swamps, up to 2000 m. In West Africa, lowland and hydromorphic areas, most soil or where flooding in shallow, drainage ditches and field margins.<br>",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2014-09-24T17:50:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047504,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1450,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Origin</h6><p>Tropical America.</p>",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2014-09-24T17:50:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047508,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1454,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Local Weediness</h6><p>Tanzania: Frequent but not abundant. Uganda:Rare but abundant when present</p>",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2014-09-24T17:50:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047512,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1442,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2015-04-06T04:00:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 303p"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025647"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 172p"
+},
+{
+url: "http://www.hear.org/pier/species/leersia_hexandra.htm"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 84p."
+},
+{
+url: "http://plants.jstor.org/upwta/2_582"
+},
+{
+title: "Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db/www/imp05897.htm"
+},
+{
+title: "Clayton, W. D. 1970. Gramineae (Part 1). In: Flora of tropical East Africa, E. Milne-Redhead and R. M. Polhill, eds. Crown Agents, London. pp. 25, 27."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 305p."
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047484,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1443,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2015-04-06T04:00:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Clayton, W. D. 1970. Gramineae (Part 1). In: Flora of tropical East Africa, E. Milne-Redhead and R. M. Polhill, eds. Crown Agents, London. pp. 25, 27."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025647"
+},
+{
+url: "http://www.hear.org/pier/species/leersia_hexandra.htm"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025647"
+},
+{
+url: "http://plants.jstor.org/upwta/2_582"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 305p."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 303p"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 172p"
+},
+{
+title: "Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db/www/imp05897.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 84p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047488,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1447,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2015-04-06T04:00:31Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.hear.org/pier/species/leersia_hexandra.htm"
+},
+{
+title: "Clayton, W. D. 1970. Gramineae (Part 1). In: Flora of tropical East Africa, E. Milne-Redhead and R. M. Polhill, eds. Crown Agents, London. pp. 25, 27."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025647"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://plants.jstor.org/upwta/2_582"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 305p."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 303p"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 172p"
+},
+{
+title: "Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db/www/imp05897.htm"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 84p."
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047501,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1449,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2015-04-06T04:00:31Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://plants.jstor.org/upwta/2_582"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 172p"
+},
+{
+title: "Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db/www/imp05897.htm"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025647"
+},
+{
+title: "Clayton, W. D. 1970. Gramineae (Part 1). In: Flora of tropical East Africa, E. Milne-Redhead and R. M. Polhill, eds. Crown Agents, London. pp. 25, 27."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 303p"
+},
+{
+url: "http://plants.jstor.org/upwta/2_582"
+},
+{
+url: "http://www.hear.org/pier/species/leersia_hexandra.htm"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 305p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 84p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047505,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1446,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2015-04-06T04:00:31Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Clayton, W. D. 1970. Gramineae (Part 1). In: Flora of tropical East Africa, E. Milne-Redhead and R. M. Polhill, eds. Crown Agents, London. pp. 25, 27."
+},
+{
+url: "http://www.hear.org/pier/species/leersia_hexandra.htm"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 84p."
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 172p"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 303p"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025647"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 305p."
+},
+{
+title: "Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db/www/imp05897.htm"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://plants.jstor.org/upwta/2_582"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047497,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1445,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2015-02-24T06:19:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db/www/imp05897.htm"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 303p"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 305p."
+},
+{
+title: "Clayton, W. D. 1970. Gramineae (Part 1). In: Flora of tropical East Africa, E. Milne-Redhead and R. M. Polhill, eds. Crown Agents, London. pp. 25, 27."
+},
+{
+url: "http://www.hear.org/pier/species/leersia_hexandra.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://plants.jstor.org/upwta/2_582"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 84p."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025647"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 172p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047494,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1437,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2015-04-06T04:00:31Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+title: "Clayton, W. D. 1970. Gramineae (Part 1). In: Flora of tropical East Africa, E. Milne-Redhead and R. M. Polhill, eds. Crown Agents, London. pp. 25, 27."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025647"
+},
+{
+url: "http://plants.jstor.org/upwta/2_582"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 84p."
+},
+{
+title: "Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db/www/imp05897.htm"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 305p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 303p"
+},
+{
+url: "http://www.hear.org/pier/species/leersia_hexandra.htm"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 172p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047451,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1438,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2015-04-06T04:00:31Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db/www/imp05897.htm"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 84p."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 303p"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 305p."
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 172p"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025647"
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+url: "http://plants.jstor.org/upwta/2_582"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.hear.org/pier/species/leersia_hexandra.htm"
+},
+{
+title: "Clayton, W. D. 1970. Gramineae (Part 1). In: Flora of tropical East Africa, E. Milne-Redhead and R. M. Polhill, eds. Crown Agents, London. pp. 25, 27."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047454,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1439,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2015-04-06T04:00:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 172p"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025647"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 84p."
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+url: "http://plants.jstor.org/upwta/2_582"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.hear.org/pier/species/leersia_hexandra.htm"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 303p"
+},
+{
+title: "Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db/www/imp05897.htm"
+},
+{
+title: "Clayton, W. D. 1970. Gramineae (Part 1). In: Flora of tropical East Africa, E. Milne-Redhead and R. M. Polhill, eds. Crown Agents, London. pp. 25, 27."
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 305p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047457,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1441,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2015-04-06T04:00:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 84p."
+},
+{
+title: "Clayton, W. D. 1970. Gramineae (Part 1). In: Flora of tropical East Africa, E. Milne-Redhead and R. M. Polhill, eds. Crown Agents, London. pp. 25, 27."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 303p"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 305p."
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 172p"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025647"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+title: "Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db/www/imp05897.htm"
+},
+{
+url: "http://www.hear.org/pier/species/leersia_hexandra.htm"
+},
+{
+url: "http://plants.jstor.org/upwta/2_582"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047482,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1444,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2015-04-06T04:00:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025647"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 172p"
+},
+{
+title: "Clayton, W. D. 1970. Gramineae (Part 1). In: Flora of tropical East Africa, E. Milne-Redhead and R. M. Polhill, eds. Crown Agents, London. pp. 25, 27."
+},
+{
+title: "Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db/www/imp05897.htm"
+},
+{
+title: "Tropical Agriculture, Ibadan, Nigeria (1998), 84p."
+},
+{
+url: "http://www.hear.org/pier/species/leersia_hexandra.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "I. O. Akobundu, C.W. Agyakwa: A handbook of West African Weeds. International Institute of"
+},
+{
+title: "Holm, Leroy G./Plucknett, D. L./Pancho, J. V./Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 305p."
+},
+{
+url: "http://www.hear.org/pier/species/leersia_hexandra.htm"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 303p"
+},
+{
+url: "http://plants.jstor.org/upwta/2_582"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047491,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4722,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Leersia hexandra est une Graminée subaquatique, vivace, rampante, à rhizomes denses formant un peuplement gazonnant sur sol hydromorphe. Les rhizomes sont longs, traçants, radicants aux noeuds. Les chaumes sont plus ou moins couchés ou dressés, atteignant 90 cm de hauteur. Les feuilles distiques sont glauques, à limbe linéaire étalé, pointu, et mesurent 5 à 20 cm de long sur 2 à 8 mm de large. Les feuilles à bords accrochants, voire coupants, sont désagréables au toucher. L'inflorescence est une panicule étroite rappelant, en plus petit, l'inflorescence du riz. Les épillets sont solitaires, atteignant 3 à 5 mm de long, disposés unilatéralement sur l'axe ; ils ressemblent à des petits grains de paddy de couleur rougeâtre ou violacée.</p>",
+dateCreated: "2015-03-19T11:42:59Z",
+lastUpdated: "2015-03-19T11:42:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765379664,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4711,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>LERHE</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>bas-fond humide</p>",
+dateCreated: "2015-03-19T11:42:50Z",
+lastUpdated: "2015-03-19T11:42:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765370773,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4716,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Leersia hexandra</em> est une Gramin&eacute;e subaquatique, vivace, rampante, &agrave; rhizomes denses formant un peuplement gazonnant sur sol hydromorphe. Les rhizomes sont longs, tra&ccedil;ants, radicants aux noeuds. Les chaumes sont plus ou moins couch&eacute;s ou dress&eacute;s, atteignant 90 cm de hauteur. Les feuilles distiques sont glauques, &agrave; limbe lin&eacute;aire &eacute;tal&eacute;, pointu, et mesurent 5 &agrave; 20 cm de long sur 2 &agrave; 8 mm de large. Les feuilles &agrave; bords accrochants, voire coupants, sont d&eacute;sagr&eacute;ables au toucher. L&#39;inflorescence est une panicule &eacute;troite rappelant, en plus petit, l&#39;inflorescence du riz. Les &eacute;pillets sont solitaires, atteignant 3 &agrave; 5 mm de long, dispos&eacute;s unilat&eacute;ralement sur l&#39;axe ; ils ressemblent &agrave; des petits grains de paddy de couleur rouge&acirc;tre ou violac&eacute;e.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Les premi&egrave;res feuilles sont tr&egrave;s &eacute;troites enroul&eacute;es, dress&eacute;es verticalement. La pr&eacute;foliaison est enroul&eacute;e.</p> <h6> Port</h6> <p> Herbe rampante, &agrave; stolons et rhizomes d&eacute;velopp&eacute;s et ramifi&eacute;s, &agrave; chaumes nombreux, plus ou moins couch&eacute;s ou dress&eacute;s, atteignant 90 cm de haut.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Les racines sont fascicul&eacute;es et de nombreuses racines adventives apparaissent au niveau des noeuds.</p> <h6> Tige</h6> <p> Le chaume est cylindrique, gr&ecirc;le, plus ou moins couch&eacute; &agrave; la base puis dress&eacute;, glabre mais &agrave; noeuds pileux &agrave; poils blancs r&eacute;fl&eacute;chis.</p> <h6> Feuille</h6> <p> Les feuilles sont simples alternes. La gaine est glabre ou finement scabre, &agrave; pubescence l&acirc;che &agrave; poils r&eacute;fl&eacute;chis, munie au sommet de 2 petites auricules pointues. La ligule est membraneuse, ovale ou tronqu&eacute;e, de 1 &agrave; 3 mm de long. Le limbe est lin&eacute;aire, &eacute;tal&eacute;, de 5 &agrave; 20 cm de long et 2 &agrave; 8 mm de large, &agrave; base att&eacute;nu&eacute;e, moins large que le sommet de la gaine, et sommet en coin aigu. La face sup&eacute;rieure est glabre, la face inf&eacute;rieure est finement scabre. La marge est scabre ce qui rend les bords des feuilles accrochants, voire coupants, et d&eacute;sagr&eacute;ables au toucher.</p> <h6> Inflorescence</h6> <p> L&#39;inflorescence est une panicule &eacute;troite elliptique, de 5 &agrave; 12 cm de long et 1 &agrave; 4 cm de large, &agrave; rameaux solitaires gr&ecirc;les plus ou moins dress&eacute;s et nus dans leur partie inf&eacute;rieure.</p> <h6> Fleur</h6> <p> Les &eacute;pillets sont solitaires, bri&egrave;vement p&eacute;dicell&eacute;s, oblongs, sans ar&ecirc;te, de 3 &agrave; 5 mm de long, de couleur vert jaune &agrave; rouge&acirc;tre ou violac&eacute;. Ils sont dispos&eacute;s unilat&eacute;ralement sur le rachis &eacute;troit en zigzag. Les glumes sont absentes, r&eacute;duites &agrave; un anneau clair au sommet du p&eacute;dicelle. La fleur a une lemma naviculaire &agrave; 5 nervures, tr&egrave;s comprim&eacute;e, car&eacute;n&eacute;e (car&egrave;ne et marge fortement scabres &agrave; pectin&eacute;es). La pal&eacute;a, plus &eacute;troite que la lemma, &agrave; 3 nervures, est comprim&eacute;e car&eacute;n&eacute;e &eacute;galement &agrave; car&egrave;ne et marge scabres.</p> <h6> Fruit</h6> <p> Le grain est obliquement oblong, de 1,5 mm de long, il reste inclus dans les glumelles.</p> ",
+dateCreated: "2015-03-19T11:42:51Z",
+lastUpdated: "2015-05-06T13:26:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765371908,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4717,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Leersia hexandra Sw.",
+dateCreated: "2015-03-19T11:42:52Z",
+lastUpdated: "2015-03-19T11:42:52Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765372241,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4719,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>L. hexandra</em> est une herbe vivace qui se propage par fragmentation de stolons et de rhizomes mais aussi par graines.<br /> ",
+dateCreated: "2015-03-19T11:42:52Z",
+lastUpdated: "2015-05-06T13:26:44Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765372930,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4718,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: <em>L. hexandra</em> est absente.<br /> <strong>Madagascar </strong>: <em>L. hexandra</em> est une Gramin&eacute;e des stations tr&egrave;s humides ou inond&eacute;es, tr&egrave;s commune dans toutes les r&eacute;gions de Madagascar, sauf dans le Sud trop sec. Elle forme des prairies mar&eacute;cageuses sur sols hydromorphes constamment humides ou inond&eacute;s dans les bas-fonds.<br /> <strong>Maurice </strong>: Plante aquatique, se d&eacute;veloppant dans les marais, au bords des lacs et des r&eacute;servoirs, et dans les canaux dans la partie haute de l&#39;&icirc;le.<br /> <strong>La R&eacute;union</strong> : absente.<br /> <strong>Seychelles </strong>: absente.<br /> ",
+dateCreated: "2015-03-19T11:42:52Z",
+lastUpdated: "2015-05-06T13:27:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765372690,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4720,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>: <em>L. hexandra</em> est absente.<br /> <strong>Madagascar </strong>:<em> L. hexandra</em> est une adventice fr&eacute;quente dans toutes les zones rizicoles. Son abondance est toutefois assez variable en fonction des situations locales (intensification de la riziculture, ma&icirc;trise de l&rsquo;eau). Elle infeste particuli&egrave;rement les rizi&egrave;res basses inondables ou les parcelles en t&ecirc;te de bas-fond constamment humides, mais &eacute;galement le riz et les cultures mara&icirc;ch&egrave;res en contre-saison. Dans le cas d&rsquo;un peuplement tr&egrave;s dense, les travaux culturaux deviennent extr&ecirc;mement difficiles.<br /> <strong>Maurice </strong>:<em> L. hexandra</em> n&#39;est pas pr&eacute;sente dans les cultures.<br /> <strong>La R&eacute;union</strong> : absente.<br /> <strong>Seychelles </strong>: absente.<br /> <strong>B&eacute;nin </strong>: rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>C&ocirc;te d&#39;Ivoire</strong> : fr&eacute;quente et peu abondante.<br /> <strong>Ghana </strong>: fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>Mali </strong>: fr&eacute;quente et peu abondante.<br /> <strong>Ouganda </strong>: rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>S&eacute;n&eacute;gal </strong>: rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>Tanzanie </strong>: fr&eacute;quente et peu abondante.<br /> <strong>Tchad </strong>: rare et peu abondante.</p> ",
+dateCreated: "2015-03-19T11:42:53Z",
+lastUpdated: "2015-05-06T13:27:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765373191,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4715,
+field: {
+concept: "Démographie et Conservation",
+category: "Menaces",
+description: "Les menaces que subit le taxon",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Madagascar </strong>: <em>L. hexandra</em> est un h&ocirc;te interm&eacute;diaire de <em>Xanthomonas campestris.</em><br /> ",
+dateCreated: "2015-03-19T11:42:51Z",
+lastUpdated: "2015-05-06T13:28:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765371554,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4723,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Usages</h6> <p> <strong>Madagascar </strong>: <em>L. hexandra</em> est un fourrage important surtout en saison s&egrave;che (il reste vert dans les bas-fonds).</p> ",
+dateCreated: "2015-03-19T11:42:59Z",
+lastUpdated: "2015-05-06T13:28:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765379866,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4721,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Conseils de gestion des gramin&eacute;es vivaces en riz irrigu&eacute; : http://portal.wikwio.org/document/show/33</p> <h6> Lutte Locale</h6> <p> <strong>Madagascar </strong>: <em>L. hexandra</em> est une adventice particuli&egrave;rement difficile &agrave; contr&ocirc;ler. Elle supporte tr&egrave;s bien la submersion et le travail du sol fractionne les rhizomes et favorise sa multiplication. Le contr&ocirc;le manuel est tr&egrave;s d&eacute;licat, les jeunes plantules &eacute;tant difficiles &agrave; diff&eacute;rencier du riz. Son contr&ocirc;le chimique en culture n&eacute;cessite un herbicide graminicide, s&eacute;lectif du riz (type cyalofop-butyl) non disponible &agrave; Madagascar. Le contr&ocirc;le peut se faire par application de glyphosate apr&egrave;s la r&eacute;colte du riz, pour la saison suivante.</p> ",
+dateCreated: "2015-03-19T11:42:53Z",
+lastUpdated: "2015-05-06T13:28:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765373484,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4713,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:42:51Z",
+lastUpdated: "2015-03-31T06:53:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765371315,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4714,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:42:51Z",
+lastUpdated: "2015-03-31T06:53:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765371315,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4712,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:42:51Z",
+lastUpdated: "2015-03-31T06:53:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765371314,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3997,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20041005_161020.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20041005_161020_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:01Z",
+rating: 0
+},
+{
+id: 3998,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_164415.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_164415_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:02Z",
+rating: 0
+},
+{
+id: 3999,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154502.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154502_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:02Z",
+rating: 0
+},
+{
+id: 4000,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154444.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154444_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:02Z",
+rating: 0
+},
+{
+id: 4001,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154512.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154512_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:02Z",
+rating: 0
+},
+{
+id: 4002,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20101201_162324.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20101201_162324_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:02Z",
+rating: 0
+},
+{
+id: 4003,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20041006_171018.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20041006_171018_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:02Z",
+rating: 0
+},
+{
+id: 4004,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20120509_110147.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20120509_110147_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:02Z",
+rating: 0
+},
+{
+id: 4005,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20101201_162327.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20101201_162327_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:03Z",
+rating: 0
+},
+{
+id: 4006,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110706_102225.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110706_102225_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:03Z",
+rating: 0
+},
+{
+id: 4007,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_103246.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_103246_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:03Z",
+rating: 0
+},
+{
+id: 4008,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_103330.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_103330_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:03Z",
+rating: 0
+},
+{
+id: 4009,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_103304.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_103304_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:03Z",
+rating: 0
+},
+{
+id: 4010,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20090213_130354.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20090213_130354_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:03Z",
+rating: 0
+},
+{
+id: 4011,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110706_102312.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110706_102312_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:03Z",
+rating: 0
+},
+{
+id: 4012,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154454.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154454_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:03Z",
+rating: 0
+},
+{
+id: 4013,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20041005_161036.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20041005_161036_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:04Z",
+rating: 0
+},
+{
+id: 4014,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154658.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154658_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:04Z",
+rating: 0
+},
+{
+id: 4015,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154606.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154606_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:04Z",
+rating: 0
+},
+{
+id: 4016,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110719_112242.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110719_112242_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:04Z",
+rating: 0
+},
+{
+id: 4017,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20060901_053449.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20060901_053449_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:04Z",
+rating: 0
+},
+{
+id: 4018,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20060909_154308.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20060909_154308_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:04Z",
+rating: 0
+},
+{
+id: 4019,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154554.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110701_154554_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:04Z",
+rating: 0
+},
+{
+id: 4020,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20060909_154117.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20060909_154117_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:04Z",
+rating: 0
+},
+{
+id: 4021,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20060901_052155.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20060901_052155_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:05Z",
+rating: 0
+},
+{
+id: 4022,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110629_155202.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110629_155202_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:05Z",
+rating: 0
+},
+{
+id: 4023,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20060915_171822.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20060915_171822_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:05Z",
+rating: 0
+},
+{
+id: 4024,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_164519.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_164519_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:05Z",
+rating: 0
+},
+{
+id: 4025,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010054.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010054_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:05Z",
+rating: 0
+},
+{
+id: 4026,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010040.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010040_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:05Z",
+rating: 0
+},
+{
+id: 4027,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20041005_161002.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20041005_161002_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:05Z",
+rating: 0
+},
+{
+id: 4028,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20041202_151216.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20041202_151216_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:06Z",
+rating: 0
+},
+{
+id: 4029,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20120529_142148.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20120529_142148_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:06Z",
+rating: 0
+},
+{
+id: 4030,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20041202_151246.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20041202_151246_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:06Z",
+rating: 0
+},
+{
+id: 4031,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20070508_125428.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20070508_125428_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:06Z",
+rating: 0
+},
+{
+id: 4032,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20070508_125212.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20070508_125212_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:06Z",
+rating: 0
+},
+{
+id: 4033,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010115.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010115_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:06Z",
+rating: 0
+},
+{
+id: 4034,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20080609_101212_1.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20080609_101212_1_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:06Z",
+rating: 0
+},
+{
+id: 4035,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010029.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010029_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:06Z",
+rating: 0
+},
+{
+id: 4036,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010033.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010033_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:07Z",
+rating: 0
+},
+{
+id: 4037,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20070508_125532.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20070508_125532_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:07Z",
+rating: 0
+},
+{
+id: 4038,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010102.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010102_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:07Z",
+rating: 0
+},
+{
+id: 4039,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20070508_125432.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20070508_125432_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:07Z",
+rating: 0
+},
+{
+id: 4040,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_104154.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_104154_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:07Z",
+rating: 0
+},
+{
+id: 4041,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_175844.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_175844_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:07Z",
+rating: 0
+},
+{
+id: 4042,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_180406.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_180406_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:07Z",
+rating: 0
+},
+{
+id: 4043,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_104608.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_104608_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:07Z",
+rating: 0
+},
+{
+id: 4044,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010036.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010036_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:08Z",
+rating: 0
+},
+{
+id: 4045,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010058.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010058_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:08Z",
+rating: 0
+},
+{
+id: 4046,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010121.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010121_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:08Z",
+rating: 0
+},
+{
+id: 4047,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010050.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010050_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:08Z",
+rating: 0
+},
+{
+id: 4048,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010106.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010106_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:08Z",
+rating: 0
+},
+{
+id: 4049,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20070508_125229.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20070508_125229_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:08Z",
+rating: 0
+},
+{
+id: 4050,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010045.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010045_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:08Z",
+rating: 0
+},
+{
+id: 4051,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010110.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110703_010110_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:09Z",
+rating: 0
+},
+{
+id: 4052,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110910_113934.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110910_113934_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:09Z",
+rating: 0
+},
+{
+id: 4053,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_164548.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20110702_164548_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:09Z",
+rating: 0
+},
+{
+id: 4054,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20101201_162325.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20101201_162325_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:09Z",
+rating: 0
+},
+{
+id: 4055,
+url: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20050218_160242.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leersia hexandra/lerhe_20050218_160242_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:09Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

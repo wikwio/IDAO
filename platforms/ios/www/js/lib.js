@@ -260,25 +260,33 @@ function popup(portalLink, localLink){
 
 	var listvalues = localStorage.getItem('appstrvalue'); 
    	var finalvalue = JSON.parse(listvalues);
-    var speciesURL = portalLink;
-    var speciesURLSplit = speciesURL.split("/");
-    var speciesId = speciesURLSplit[speciesURLSplit.length-1];
-    var newLocalURL = 'species/json/'+speciesId+'.json';
+    var newLocalURL = generate_local_link(portalLink);
     console.log(newLocalURL);
     //finalvalue.linkresult = localLink;
 
 	//localStorage.setItem('appstrvalue', JSON.stringify(linkvar));
 
 	$.get(newLocalURL, function(data) {
-          //alert(data.instance);
+          alert(data.instance);
           var html_output = gene_html(data.instance,'123');
           $(".popup").html(html_output).show();
           //$.getScript('js/offline.js');
-    },dataType="json");
-
+          },dataType="json")
+    .fail(function(error) {
+                                 alert(error); // or whatever
+                                 });
     //$(".popup").html('<iframe height="100%" width="100%" allowTransparency="true" frameborder="0" scrolling="yes"  src="'+portalLink+'" type= "text/javascript"></iframe>').show();
     
 	    }
+function generate_local_link(portalLink){
+    
+    var speciesURL = portalLink;
+    var speciesURLSplit = speciesURL.split("/");
+    var speciesId = speciesURLSplit[speciesURLSplit.length-1];
+    var newLocalURL = 'species/json/'+speciesId+'.json';
+    return newLocalURL;
+}
+
 
 function speciesPopup(link){
 
@@ -294,30 +302,20 @@ function speciesPopup(link){
 
 
 	$('.speciespopup').html(showLoader()).show();
+    
+    var newLocalURL = generate_local_link(link);
 
-	var lan = 'fr';
-	var contlin ="";
-         $(".languagecheck").each(function(){         		
-         		var that = $(this);
-         		if(that.hasClass('ui-btn-active')){
-         			lan = that.attr('rel');	
-         		}
-         });
+console.log(newLocalURL);
+     $.get(newLocalURL, function(data) {
+           alert(data);
+           var html_output = gene_html(data.instance,'123');
+           $(".speciespopup").html(html_output).show();
+       // $(".speciespopup").html(data).show();
+           },dataType="json")
+    .fail(function(error) {
+       alert(error); // or whatever
+       });
 
-         if(lan=="fr"){
-
-          contlin = link.substr(0,8)+"fr"+link.substr(10,30);
-
-          $.get(contlin, function(data) {
-            $(".speciespopup").html(data).show();
-        	});
-
-         }else{
-
-         	 $.get(link, function(data) {
-            	$(".speciespopup").html(data).show();
-        	});
-         }
 
 	   // $(".speciespopup").html('<iframe  height="100%" width="100%" allowTransparency="true" frameborder="0" scrolling="yes" style="overflow:hidden;width:100%;height:200%;" src="'+link+'" type= "text/javascript"></iframe>').show();
 

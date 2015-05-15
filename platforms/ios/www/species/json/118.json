@@ -1,0 +1,3128 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 118,
+title: "<i>Echinochloa pyramidalis (</i>Lam.<i>) </i>Hitchc.<i> & </i>Chase ",
+taxonConcept: {
+id: 247,
+name: "Echinochloa pyramidalis (Lam.) Hitchc. & Chase",
+canonicalForm: "Echinochloa pyramidalis",
+italicisedForm: "<i>Echinochloa pyramidalis (</i>Lam.<i>) </i>Hitchc.<i> & </i>Chase ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 244,
+name: "Echinochloa",
+canonicalForm: "Echinochloa",
+italicisedForm: "<i>Echinochloa</i>",
+rank: "Genus"
+},
+{
+id: 247,
+name: "Echinochloa pyramidalis (Lam.) Hitchc. & Chase",
+canonicalForm: "Echinochloa pyramidalis",
+italicisedForm: "<i>Echinochloa pyramidalis (</i>Lam.<i>) </i>Hitchc.<i> & </i>Chase ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 2811,
+name: "Echinochloa frumentacea var. violacea Vanderyst [Invalid]",
+canonicalForm: "Echinochloa frumentacea violacea",
+italicisedForm: "<i>Echinochloa frumentacea </i>var.<i> violacea </i>Vanderyst<i> [Invalid]</i>",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2812,
+name: "Echinochloa guadeloupensis (Hack.) Wiegand",
+canonicalForm: "Echinochloa guadeloupensis",
+italicisedForm: "<i>Echinochloa guadeloupensis (</i>Hack.<i>) </i>Wiegand ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2813,
+name: "Echinochloa holubii (Stapf) Stapf",
+canonicalForm: "Echinochloa holubii",
+italicisedForm: "<i>Echinochloa holubii (</i>Stapf<i>) </i>Stapf ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2814,
+name: "Echinochloa kimpokoensis Vanderyst [Invalid]",
+canonicalForm: "Echinochloa kimpokoensis",
+italicisedForm: "<i>Echinochloa kimpokoensis </i>Vanderyst<i> [Invalid]</i>",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2815,
+name: "Echinochloa pyramidalis f. decomposita Chiov.",
+canonicalForm: "Echinochloa pyramidalis decomposita",
+italicisedForm: "<i>Echinochloa pyramidalis </i>f.<i> decomposita </i>Chiov. ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2816,
+name: "Echinochloa pyramidalis var. guadeloupensis (Hack.) Stehlé",
+canonicalForm: "Echinochloa pyramidalis guadeloupensis",
+italicisedForm: "<i>Echinochloa pyramidalis </i>var.<i> guadeloupensis (</i>Hack.<i>) </i>Stehlé ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2817,
+name: "Echinochloa pyramidalis var. violacea (Vanderyst) Vanderyst",
+canonicalForm: "Echinochloa pyramidalis violacea",
+italicisedForm: "<i>Echinochloa pyramidalis </i>var.<i> violacea (</i>Vanderyst<i>) </i>Vanderyst ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2818,
+name: "Echinochloa quadrifaria (A.Rich.) Chiov.",
+canonicalForm: "Echinochloa quadrifaria",
+italicisedForm: "<i>Echinochloa quadrifaria (</i>A.Rich.<i>) </i>Chiov. ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2819,
+name: "Echinochloa quadrifaria var. atroviolacea (A.Rich.) Chiov.",
+canonicalForm: "Echinochloa quadrifaria atroviolacea",
+italicisedForm: "<i>Echinochloa quadrifaria </i>var.<i> atroviolacea (</i>A.Rich.<i>) </i>Chiov. ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2820,
+name: "Echinochloa senegalensis Mez",
+canonicalForm: "Echinochloa senegalensis",
+italicisedForm: "<i>Echinochloa senegalensis </i>Mez ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2821,
+name: "Echinochloa verticillata Berhaut",
+canonicalForm: "Echinochloa verticillata",
+italicisedForm: "<i>Echinochloa verticillata </i>Berhaut ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2822,
+name: "Panicum atroviolaceum A.Rich.",
+canonicalForm: "Panicum atroviolaceum",
+italicisedForm: "<i>Panicum atroviolaceum </i>A.Rich. ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2823,
+name: "Panicum crus-galli f. aristatum Chiov.",
+canonicalForm: "Panicum crus-galli aristatum",
+italicisedForm: "<i>Panicum crus-galli </i>f.<i> aristatum </i>Chiov. ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2824,
+name: "Panicum crus-galli var. molle Peter",
+canonicalForm: "Panicum crus-galli molle",
+italicisedForm: "<i>Panicum crus-galli </i>var.<i> molle </i>Peter ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2825,
+name: "Panicum crus-galli f. muticum Chiov.",
+canonicalForm: "Panicum crus-galli muticum",
+italicisedForm: "<i>Panicum crus-galli </i>f.<i> muticum </i>Chiov. ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2826,
+name: "Panicum crus-galli var. polystachyum Asch. & Schweinf.",
+canonicalForm: "Panicum crus-galli polystachyum",
+italicisedForm: "<i>Panicum crus-galli </i>var.<i> polystachyum </i>Asch.<i> & </i>Schweinf. ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2827,
+name: "Panicum frumentaceum var. cuspidatum Nees",
+canonicalForm: "Panicum frumentaceum cuspidatum",
+italicisedForm: "<i>Panicum frumentaceum </i>var.<i> cuspidatum </i>Nees ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2828,
+name: "Panicum hildebrandtii Hack. ex T.Durand & Schinz [Invalid]",
+canonicalForm: "Panicum hildebrandtii",
+italicisedForm: "<i>Panicum hildebrandtii </i>Hack.<i> ex </i>T.Durand<i> & </i>Schinz<i> [Invalid]</i>",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2829,
+name: "Panicum holubii Stapf",
+canonicalForm: "Panicum holubii",
+italicisedForm: "<i>Panicum holubii </i>Stapf ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2830,
+name: "Panicum pyramidale Lam.",
+canonicalForm: "Panicum pyramidale",
+italicisedForm: "<i>Panicum pyramidale </i>Lam. ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2831,
+name: "Panicum pyramidale var. hebetatum Stapf",
+canonicalForm: "Panicum pyramidale hebetatum",
+italicisedForm: "<i>Panicum pyramidale </i>var.<i> hebetatum </i>Stapf ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2832,
+name: "Panicum pyramidale var. quadrifarium (A.Rich.) Chiov.",
+canonicalForm: "Panicum pyramidale quadrifarium",
+italicisedForm: "<i>Panicum pyramidale </i>var.<i> quadrifarium (</i>A.Rich.<i>) </i>Chiov. ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2833,
+name: "Panicum pyramidale var. spadiceum Peter",
+canonicalForm: "Panicum pyramidale spadiceum",
+italicisedForm: "<i>Panicum pyramidale </i>var.<i> spadiceum </i>Peter ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2834,
+name: "Panicum quadrifarium Hochst. ex A.Rich.",
+canonicalForm: "Panicum quadrifarium",
+italicisedForm: "<i>Panicum quadrifarium </i>Hochst.<i> ex </i>A.Rich. ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2835,
+name: "Panicum setarioides Steud.",
+canonicalForm: "Panicum setarioides",
+italicisedForm: "<i>Panicum setarioides </i>Steud. ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2836,
+name: "Panicum spadiciferum Peter [Invalid]",
+canonicalForm: "Panicum spadiciferum",
+italicisedForm: "<i>Panicum spadiciferum </i>Peter<i> [Invalid]</i>",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2837,
+name: "Panicum spadiferum Peter [Invalid]",
+canonicalForm: "Panicum spadiferum",
+italicisedForm: "<i>Panicum spadiferum </i>Peter<i> [Invalid]</i>",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2838,
+name: "Panicum spectabile var. guadeloupense Hack.",
+canonicalForm: "Panicum spectabile guadeloupense",
+italicisedForm: "<i>Panicum spectabile </i>var.<i> guadeloupense </i>Hack. ",
+taxonConcept: {
+id: 247
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:26:08Z",
+lastRevised: "2015-03-19T11:28:28Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110705_160802_th1.jpg",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ECHPY</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ECHPY</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 984,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ECHPY</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2014-09-24T17:27:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626062,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 989,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Blade-shaped, stiff, expanded or hispid 8-60 cm long x 2-25 mm wide. Leaf sheaths can be hairy or glabrous. The ligules are conspicuous and occur as a finger of stiff white hairs.</p><h6>General Habit</h6><p>Tufted or rhizomatous grass.</p><h6>Underground System</h6><p>Well developed and forming a mat.</p><h6>Flower</h6><p>anthers 3.</p><h6>Fruit</h6><p>Caryopsis elliptic.</p><h6>Global Description</h6><p>Perennial grass, usually grow up to 1-4 m high with roots well developed and forming a mat on the soil. It reproduces from seeds and as well as from rhizomes.</p><h6>Inflorescence</h6><p>Closely and multi-branched, about 30 cm long. The spekelets are densely crowded, have sharp points and about 3 mm long. They are plump and green in colour.</p><h6>Stem</h6><p>Red-like, erect with roots growing out from the lower nodes.</p>",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2014-09-24T17:27:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626069,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 994,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Echinochloa pyramidalis (Lam.) Hitchc. & Chase",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2014-09-24T17:27:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626079,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 997,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Perennial grass, reproduces from seeds and rhizomes.<br>",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2014-09-24T17:27:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626086,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 987,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Weed of lowland rice, mashes, shallow water, stream banks and river flood plains.<br>",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2014-09-24T17:27:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626065,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 983,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Widespread in West Africa.</p><h6>Origin</h6><p>Native to tropical zones of Africa, Southern Africa and .</p>",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2014-09-24T17:27:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626060,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 990,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>Considered as one of the most troublesome weeds, in the different agro-ecosystem marshland in tropical regions.</p><h6>Local Weediness</h6><p>Kenya: Frequent but not abundant.</p>",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2014-09-24T17:27:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626070,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 985,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Although extremely coarse, indigenous animals graze it readily to ground level at the end of the dry season. The young growth is very palatable after the old material has been burnt off. It makes useful hay and silage in South Africa. The types with glabrous or smooth leaf-sheaths should be used for hay: those with hairy leaf-sheaths are unpleasant to handle.<br>",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2014-09-24T17:27:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626062,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 992,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2015-05-14T10:57:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "CAAMAL-MALDONADO, J.A.; JIMENEZ, J.J.; TORRES, A. & ANAYA, A. (2001): The use of allelopathic legume cover and mulch species for weed control in cropping systems. Agronomy Journal 93(1): 27-36."
+},
+{
+title: "I.O. AKOBUNDU, C.W. AGYAKWA (1998). a handbook of west african weeds. international institute of tropical agriculture, Ibadan, Nigeria 76P;"
+},
+{
+title: "JOHNSON, D.E. (1997). Weeds of Rice in west africa. adrao/warda, Bouaké, Côte-d'Ivoire. 154p"
+},
+{
+title: "TROUPIN G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 240p"
+},
+{
+url: "http://plants.jstor.org/upwta/2_484"
+},
+{
+url: "http://eol.org/pages/1115591/overview"
+},
+{
+url: "http://apps.kew.org/wcsp/namedetail.do?accepted_id=410353&repSynonym_id=430007&name_id=410353&status=true"
+},
+{
+title: "HUANG, S.W.; WATSON, A.K.; DUAN, G.F. & YU, L.Q. (2001): Preliminary evaluation of potential pathogenic fungi as bioherbicides of barnyardgrass (Echinochloa crus-galli) in China. International Rice Research Institute Notes 26(2): 36-37."
+},
+{
+url: "http://apps.kew.org/wcsp/namedetail.do?accepted_id=410353&repSynonym_id=430007&name_id=410353&status=true"
+},
+{
+url: "http://informedfarmers.com/antelope-grass/"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626073,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 993,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2015-05-14T10:57:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "CAAMAL-MALDONADO, J.A.; JIMENEZ, J.J.; TORRES, A. & ANAYA, A. (2001): The use of allelopathic legume cover and mulch species for weed control in cropping systems. Agronomy Journal 93(1): 27-36."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://apps.kew.org/wcsp/namedetail.do?accepted_id=410353&repSynonym_id=430007&name_id=410353&status=true"
+},
+{
+url: "http://eol.org/pages/1115591/overview"
+},
+{
+url: "http://eol.org/pages/1115591/overview"
+},
+{
+title: "HUANG, S.W.; WATSON, A.K.; DUAN, G.F. & YU, L.Q. (2001): Preliminary evaluation of potential pathogenic fungi as bioherbicides of barnyardgrass (Echinochloa crus-galli) in China. International Rice Research Institute Notes 26(2): 36-37."
+},
+{
+url: "http://plants.jstor.org/upwta/2_484"
+},
+{
+title: "TROUPIN G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 240p"
+},
+{
+title: "I.O. AKOBUNDU, C.W. AGYAKWA (1998). a handbook of west african weeds. international institute of tropical agriculture, Ibadan, Nigeria 76P;"
+},
+{
+url: "http://informedfarmers.com/antelope-grass/"
+},
+{
+title: "JOHNSON, D.E. (1997). Weeds of Rice in west africa. adrao/warda, Bouaké, Côte-d'Ivoire. 154p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626076,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 991,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2015-03-17T14:57:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "HUANG, S.W.; WATSON, A.K.; DUAN, G.F. & YU, L.Q. (2001): Preliminary evaluation of potential pathogenic fungi as bioherbicides of barnyardgrass (Echinochloa crus-galli) in China. International Rice Research Institute Notes 26(2): 36-37."
+},
+{
+title: "JOHNSON, D.E. (1997). Weeds of Rice in west africa. adrao/warda, Bouaké, Côte-d'Ivoire. 154p"
+},
+{
+title: "CAAMAL-MALDONADO, J.A.; JIMENEZ, J.J.; TORRES, A. & ANAYA, A. (2001): The use of allelopathic legume cover and mulch species for weed control in cropping systems. Agronomy Journal 93(1): 27-36."
+},
+{
+title: "I.O. AKOBUNDU, C.W. AGYAKWA (1998). a handbook of west african weeds. international institute of tropical agriculture, Ibadan, Nigeria 76P;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_484"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://eol.org/pages/1115591/overview"
+},
+{
+title: "TROUPIN G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 240p"
+},
+{
+url: "http://apps.kew.org/wcsp/namedetail.do?accepted_id=410353&repSynonym_id=430007&name_id=410353&status=true"
+},
+{
+url: "http://informedfarmers.com/antelope-grass/"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626071,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 998,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2015-05-14T10:57:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "TROUPIN G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 240p"
+},
+{
+url: "http://eol.org/pages/1115591/overview"
+},
+{
+title: "HUANG, S.W.; WATSON, A.K.; DUAN, G.F. & YU, L.Q. (2001): Preliminary evaluation of potential pathogenic fungi as bioherbicides of barnyardgrass (Echinochloa crus-galli) in China. International Rice Research Institute Notes 26(2): 36-37."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "I.O. AKOBUNDU, C.W. AGYAKWA (1998). a handbook of west african weeds. international institute of tropical agriculture, Ibadan, Nigeria 76P;"
+},
+{
+url: "http://informedfarmers.com/antelope-grass/"
+},
+{
+title: "CAAMAL-MALDONADO, J.A.; JIMENEZ, J.J.; TORRES, A. & ANAYA, A. (2001): The use of allelopathic legume cover and mulch species for weed control in cropping systems. Agronomy Journal 93(1): 27-36."
+},
+{
+title: "JOHNSON, D.E. (1997). Weeds of Rice in west africa. adrao/warda, Bouaké, Côte-d'Ivoire. 154p"
+},
+{
+url: "http://plants.jstor.org/upwta/2_484"
+},
+{
+url: "http://apps.kew.org/wcsp/namedetail.do?accepted_id=410353&repSynonym_id=430007&name_id=410353&status=true"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626088,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 995,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2015-03-19T13:22:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://informedfarmers.com/antelope-grass/"
+},
+{
+url: "http://plants.jstor.org/upwta/2_484"
+},
+{
+title: "I.O. AKOBUNDU, C.W. AGYAKWA (1998). a handbook of west african weeds. international institute of tropical agriculture, Ibadan, Nigeria 76P;"
+},
+{
+title: "HUANG, S.W.; WATSON, A.K.; DUAN, G.F. & YU, L.Q. (2001): Preliminary evaluation of potential pathogenic fungi as bioherbicides of barnyardgrass (Echinochloa crus-galli) in China. International Rice Research Institute Notes 26(2): 36-37."
+},
+{
+url: "http://apps.kew.org/wcsp/namedetail.do?accepted_id=410353&repSynonym_id=430007&name_id=410353&status=true"
+},
+{
+title: "CAAMAL-MALDONADO, J.A.; JIMENEZ, J.J.; TORRES, A. & ANAYA, A. (2001): The use of allelopathic legume cover and mulch species for weed control in cropping systems. Agronomy Journal 93(1): 27-36."
+},
+{
+title: "TROUPIN G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 240p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "JOHNSON, D.E. (1997). Weeds of Rice in west africa. adrao/warda, Bouaké, Côte-d'Ivoire. 154p"
+},
+{
+url: "http://eol.org/pages/1115591/overview"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626081,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 981,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2015-05-14T10:57:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "JOHNSON, D.E. (1997). Weeds of Rice in west africa. adrao/warda, Bouaké, Côte-d'Ivoire. 154p"
+},
+{
+title: "HUANG, S.W.; WATSON, A.K.; DUAN, G.F. & YU, L.Q. (2001): Preliminary evaluation of potential pathogenic fungi as bioherbicides of barnyardgrass (Echinochloa crus-galli) in China. International Rice Research Institute Notes 26(2): 36-37."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://plants.jstor.org/upwta/2_484"
+},
+{
+title: "CAAMAL-MALDONADO, J.A.; JIMENEZ, J.J.; TORRES, A. & ANAYA, A. (2001): The use of allelopathic legume cover and mulch species for weed control in cropping systems. Agronomy Journal 93(1): 27-36."
+},
+{
+url: "http://apps.kew.org/wcsp/namedetail.do?accepted_id=410353&repSynonym_id=430007&name_id=410353&status=true"
+},
+{
+url: "http://eol.org/pages/1115591/overview"
+},
+{
+title: "TROUPIN G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 240p"
+},
+{
+url: "http://informedfarmers.com/antelope-grass/"
+},
+{
+title: "I.O. AKOBUNDU, C.W. AGYAKWA (1998). a handbook of west african weeds. international institute of tropical agriculture, Ibadan, Nigeria 76P;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626055,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 996,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2015-05-14T10:57:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://apps.kew.org/wcsp/namedetail.do?accepted_id=410353&repSynonym_id=430007&name_id=410353&status=true"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "TROUPIN G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 240p"
+},
+{
+url: "http://informedfarmers.com/antelope-grass/"
+},
+{
+url: "http://plants.jstor.org/upwta/2_484"
+},
+{
+title: "CAAMAL-MALDONADO, J.A.; JIMENEZ, J.J.; TORRES, A. & ANAYA, A. (2001): The use of allelopathic legume cover and mulch species for weed control in cropping systems. Agronomy Journal 93(1): 27-36."
+},
+{
+url: "http://informedfarmers.com/antelope-grass/"
+},
+{
+title: "I.O. AKOBUNDU, C.W. AGYAKWA (1998). a handbook of west african weeds. international institute of tropical agriculture, Ibadan, Nigeria 76P;"
+},
+{
+url: "http://eol.org/pages/1115591/overview"
+},
+{
+title: "HUANG, S.W.; WATSON, A.K.; DUAN, G.F. & YU, L.Q. (2001): Preliminary evaluation of potential pathogenic fungi as bioherbicides of barnyardgrass (Echinochloa crus-galli) in China. International Rice Research Institute Notes 26(2): 36-37."
+},
+{
+title: "JOHNSON, D.E. (1997). Weeds of Rice in west africa. adrao/warda, Bouaké, Côte-d'Ivoire. 154p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626083,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 986,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2015-05-14T10:57:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://eol.org/pages/1115591/overview"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "CAAMAL-MALDONADO, J.A.; JIMENEZ, J.J.; TORRES, A. & ANAYA, A. (2001): The use of allelopathic legume cover and mulch species for weed control in cropping systems. Agronomy Journal 93(1): 27-36."
+},
+{
+url: "http://informedfarmers.com/antelope-grass/"
+},
+{
+url: "http://plants.jstor.org/upwta/2_484"
+},
+{
+url: "http://apps.kew.org/wcsp/namedetail.do?accepted_id=410353&repSynonym_id=430007&name_id=410353&status=true"
+},
+{
+title: "HUANG, S.W.; WATSON, A.K.; DUAN, G.F. & YU, L.Q. (2001): Preliminary evaluation of potential pathogenic fungi as bioherbicides of barnyardgrass (Echinochloa crus-galli) in China. International Rice Research Institute Notes 26(2): 36-37."
+},
+{
+title: "TROUPIN G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 240p"
+},
+{
+title: "I.O. AKOBUNDU, C.W. AGYAKWA (1998). a handbook of west african weeds. international institute of tropical agriculture, Ibadan, Nigeria 76P;"
+},
+{
+title: "JOHNSON, D.E. (1997). Weeds of Rice in west africa. adrao/warda, Bouaké, Côte-d'Ivoire. 154p"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626062,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 982,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2015-05-14T10:57:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "TROUPIN G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 240p"
+},
+{
+url: "http://apps.kew.org/wcsp/namedetail.do?accepted_id=410353&repSynonym_id=430007&name_id=410353&status=true"
+},
+{
+title: "JOHNSON, D.E. (1997). Weeds of Rice in west africa. adrao/warda, Bouaké, Côte-d'Ivoire. 154p"
+},
+{
+url: "http://informedfarmers.com/antelope-grass/"
+},
+{
+url: "http://plants.jstor.org/upwta/2_484"
+},
+{
+title: "CAAMAL-MALDONADO, J.A.; JIMENEZ, J.J.; TORRES, A. & ANAYA, A. (2001): The use of allelopathic legume cover and mulch species for weed control in cropping systems. Agronomy Journal 93(1): 27-36."
+},
+{
+title: "HUANG, S.W.; WATSON, A.K.; DUAN, G.F. & YU, L.Q. (2001): Preliminary evaluation of potential pathogenic fungi as bioherbicides of barnyardgrass (Echinochloa crus-galli) in China. International Rice Research Institute Notes 26(2): 36-37."
+},
+{
+url: "http://plants.jstor.org/upwta/2_484"
+},
+{
+title: "I.O. AKOBUNDU, C.W. AGYAKWA (1998). a handbook of west african weeds. international institute of tropical agriculture, Ibadan, Nigeria 76P;"
+},
+{
+url: "http://eol.org/pages/1115591/overview"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626058,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 988,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:27:06Z",
+lastUpdated: "2015-05-14T10:57:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "I.O. AKOBUNDU, C.W. AGYAKWA (1998). a handbook of west african weeds. international institute of tropical agriculture, Ibadan, Nigeria 76P;"
+},
+{
+title: "JOHNSON, D.E. (1997). Weeds of Rice in west africa. adrao/warda, Bouaké, Côte-d'Ivoire. 154p"
+},
+{
+url: "http://plants.jstor.org/upwta/2_484"
+},
+{
+url: "http://informedfarmers.com/antelope-grass/"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "HUANG, S.W.; WATSON, A.K.; DUAN, G.F. & YU, L.Q. (2001): Preliminary evaluation of potential pathogenic fungi as bioherbicides of barnyardgrass (Echinochloa crus-galli) in China. International Rice Research Institute Notes 26(2): 36-37."
+},
+{
+url: "http://eol.org/pages/1115591/overview"
+},
+{
+title: "TROUPIN G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 240p"
+},
+{
+title: "CAAMAL-MALDONADO, J.A.; JIMENEZ, J.J.; TORRES, A. & ANAYA, A. (2001): The use of allelopathic legume cover and mulch species for weed control in cropping systems. Agronomy Journal 93(1): 27-36."
+},
+{
+url: "http://apps.kew.org/wcsp/namedetail.do?accepted_id=410353&repSynonym_id=430007&name_id=410353&status=true"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579626067,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3941,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Echinochloa pyramidalis est une grande herbe robuste et rhizomateuse qui atteint 5 m de hauteur. Le chaume, qui atteint 1,5 cm de diamètre, est radicant à sa base et souvent couché sur une grande longueur avant de se redresser. Les feuilles présentent une gaine glabre, une ligule ciliée, un limbe plat et glabre, linéaire, aux marges scabres. L'inflorescence est grande (jusqu'à 40 cm de haut), dressée à un peu penchée, ovale à lancéolée. Elle est composée de nombreux rameaux qui portent des faisceaux d'épillets disposés en rangs serrés. Les épillets sont ovoïdes, pointus et de grosse taille. Chacun d'eux renferme 2 fleurs : l'inférieure qui est mâle ou vide, la supérieure qui est fertile.</p>",
+dateCreated: "2015-03-19T11:28:28Z",
+lastUpdated: "2015-03-19T11:28:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764508539,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3930,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>ECHPY</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>bas-fond humide</p>",
+dateCreated: "2015-03-19T11:28:12Z",
+lastUpdated: "2015-03-19T11:28:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764492698,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3935,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Echinochloa pyramidalis est une grande herbe robuste et rhizomateuse qui atteint 5 m de hauteur. Le chaume, qui atteint 1,5 cm de diamètre, est radicant à sa base et souvent couché sur une grande longueur avant de se redresser. Les feuilles présentent une gaine glabre, une ligule ciliée, un limbe plat et glabre, linéaire, aux marges scabres. L'inflorescence est grande (jusqu'à 40 cm de haut), dressée à un peu penchée, ovale à lancéolée. Elle est composée de nombreux rameaux qui portent des faisceaux d'épillets disposés en rangs serrés. Les épillets sont ovoïdes, pointus et de grosse taille. Chacun d'eux renferme 2 fleurs : l'inférieure qui est mâle ou vide, la supérieure qui est fertile.</p><h6>Port</h6><p>Grande herbe vivace à gros rhizomes qui mesure 1 à 5 m de hauteur.</p><h6>Système Souterrain</h6><p>Le système souterrain est un gros rhizome d'où partent des racines bien développées qui forment un tapis.</p><h6>Tige</h6><p>Le chaume est très robuste, cylindrique, pouvant atteindre 1,5 cm de diamètre à la base et glabre. Il est plus ou moins spongieux dans sa partie inférieure qui est souvent longuement couchée sur le sol ou sur l'eau et radicante aux noeuds. Ensuite, il est redressé et ramifié. Les noeuds sont pubescents sauf les supérieurs qui sont presque glabres.</p><h6>Feuille</h6><p>La gaine est glabre, exceptée celle des feuilles inférieures qui présente quelquefois des poils à base tuberculée. La ligule est représentée par une ligne de cils bien développés (quelquefois absente dans les feuilles supérieures). Le limbe est plan, linéaire allongé, de 8 à 60 cm de long et 2 à 2,5 cm de large, à base arrondie et extrémité effilée pointue. Il est raide, glauque, en général glabre (quelquefois pourvu de poils tuberculés), à marge cartilagineuse scabre.</p><h6>Inflorescence</h6><p>L'inflorescence est une grande panicule dressée ou un peu penchée, de forme ovale à étroitement lancéolée. Elle mesure 8 à 40 cm de haut. Elle est composée de 20 rameaux ou plus, dressés, flexueux, qui peuvent êtres simples ou ramifiés, seuls ou groupés. Ces rameaux mesurent 3 à 20 cm de long. L'axe principal est anguleux, scabre sur les bords, poilu sur les noeuds. Les axes secondaires sont anguleux, à bords scabres et ciliés. Les épillets sont groupés en faisceaux. Ils sont ovoïdes à ellipsoïdes, pointus à l'extrémité, glabres ou pileux, de 2,5 à 4 mm de long. Ils sont de couleur verte ou violacée. Les glumes sont de taille inégale, scabres sur les nervures. La glume inférieure est ovale, à sommet aigu souvent couverte d'une pubescence fine. Elle mesure la moitié de la taille de l'épillet et est parcourue par 5 nervures scabres. La glume supérieure est ovale, pointue à l'extrémité. Elle est aussi longue que l'épillet et marquée de 5 à 7 nervures scabres.</p><h6>Fleur</h6><p>L'épillet est composé de 2 fleurs : une fleur inférieure mâle ou vide, une fleur supérieure fertile, à trois étamines. La glumelle inférieure de la fleur inférieure est semblable à la glume supérieure. La glumelle inférieure de la fleur fertile est un peu coriace, à dos convexe, lisse et brillante, de couleur jaune.</p><h6>Fruit</h6><p>Le grain est elliptique, large, de 2 à 2,5 mm de long, plan-convexe, mucroné.</p>",
+dateCreated: "2015-03-19T11:28:15Z",
+lastUpdated: "2015-03-19T11:28:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764495173,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3936,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Echinochloa pyramidalis (Lam.) Hitchc. & Chase",
+dateCreated: "2015-03-19T11:28:15Z",
+lastUpdated: "2015-03-19T11:28:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764495958,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3938,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Echinochloa pyramidalis est une plante vivace se propageant par rhizomes et se multipliant par graines.<br>",
+dateCreated: "2015-03-19T11:28:17Z",
+lastUpdated: "2015-03-19T11:28:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764497471,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3937,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Echinochloa pyramidalis est une espèce semi-flottante du bord des cours d'eau et des mares et des milieux humides en général. Adventice des rizières de bas-fonds et des fossés de drainage.<br>",
+dateCreated: "2015-03-19T11:28:16Z",
+lastUpdated: "2015-03-19T11:28:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764496918,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3939,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Bénin : E. pyramidalis est fréquente et généralement abondante. Burkina Faso : E. pyramidalis est rare et peu abondante. Côte d'Ivoire : fréquente et généralement abondante. Ghana : fréquente et généralement abondante. Kenya : fréquente et peu abondante. Mali : fréquente et généralement abondante. Sénégal : rare et peu abondante. Tchad : rare et peu abondante.</p>",
+dateCreated: "2015-03-19T11:28:18Z",
+lastUpdated: "2015-03-19T11:28:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764498023,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3940,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Conseils de gestion des graminées vivaces en riz irrigué : http://portal.wikwio.org/document/show/33</p>",
+dateCreated: "2015-03-19T11:28:18Z",
+lastUpdated: "2015-03-19T11:28:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764498684,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3934,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:28:14Z",
+lastUpdated: "2015-03-31T06:53:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764494213,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3933,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:28:14Z",
+lastUpdated: "2015-03-31T06:53:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Van der Zon, A.P.M. 1992. Graminées du Cameroun, volume 2, Flore. Wageningen Agric. Univ. Pays-Bas."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764494213,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3932,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:28:14Z",
+lastUpdated: "2015-03-31T06:53:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Poilecot, P. 1999. Les Poaceae du Niger. Conservatoire et jardin botaniques de Genève, Genève, Suisse."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764494212,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3931,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:28:14Z",
+lastUpdated: "2015-03-31T06:53:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E. 1997. Les adventices en riziculture en Afrique de l'Ouest. ADRAO/WARDA, Bouaké, Côte-d'Ivoire."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764494212,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 2632,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110705_160802.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110705_160802_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:28Z",
+rating: 0
+},
+{
+id: 2633,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_152956.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_152956_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:29Z",
+rating: 0
+},
+{
+id: 2634,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_153144.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_153144_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:29Z",
+rating: 0
+},
+{
+id: 2635,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_105452.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_105452_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:29Z",
+rating: 0
+},
+{
+id: 2636,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20090220_161400.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20090220_161400_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:29Z",
+rating: 0
+},
+{
+id: 2637,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110705_160912.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110705_160912_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:29Z",
+rating: 0
+},
+{
+id: 2638,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_153108.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_153108_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:29Z",
+rating: 0
+},
+{
+id: 2639,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_153210.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_153210_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:29Z",
+rating: 0
+},
+{
+id: 2640,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050111_160102.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050111_160102_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:29Z",
+rating: 0
+},
+{
+id: 2641,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_105400.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_105400_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:29Z",
+rating: 0
+},
+{
+id: 2642,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110706_101232.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110706_101232_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:29Z",
+rating: 0
+},
+{
+id: 2643,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_105352.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_105352_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:29Z",
+rating: 0
+},
+{
+id: 2644,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_153202.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_153202_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:30Z",
+rating: 0
+},
+{
+id: 2645,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110705_161042.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110705_161042_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:30Z",
+rating: 0
+},
+{
+id: 2646,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20090220_160748.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20090220_160748_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:30Z",
+rating: 0
+},
+{
+id: 2647,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050111_160142.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050111_160142_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:30Z",
+rating: 0
+},
+{
+id: 2648,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_185100.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_185100_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:30Z",
+rating: 0
+},
+{
+id: 2649,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20090220_161449.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20090220_161449_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:30Z",
+rating: 0
+},
+{
+id: 2650,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110705_160524.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110705_160524_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:30Z",
+rating: 0
+},
+{
+id: 2651,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_153216.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_153216_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:30Z",
+rating: 0
+},
+{
+id: 2652,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_183545.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_183545_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:30Z",
+rating: 0
+},
+{
+id: 2653,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_153212.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110701_153212_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:30Z",
+rating: 0
+},
+{
+id: 2654,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_184501.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_184501_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:30Z",
+rating: 0
+},
+{
+id: 2655,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_184819.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_184819_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:31Z",
+rating: 0
+},
+{
+id: 2656,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_184617.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_184617_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:31Z",
+rating: 0
+},
+{
+id: 2657,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_111920.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_111920_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:31Z",
+rating: 0
+},
+{
+id: 2658,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20090220_160914.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20090220_160914_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:31Z",
+rating: 0
+},
+{
+id: 2659,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_112038.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_112038_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:31Z",
+rating: 0
+},
+{
+id: 2660,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_184958.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_184958_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:31Z",
+rating: 0
+},
+{
+id: 2661,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_105516.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_105516_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:31Z",
+rating: 0
+},
+{
+id: 2662,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050203_160208.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050203_160208_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:31Z",
+rating: 0
+},
+{
+id: 2663,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_191047.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_191047_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:31Z",
+rating: 0
+},
+{
+id: 2664,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_185309.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_185309_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:31Z",
+rating: 0
+},
+{
+id: 2665,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_191122.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_191122_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:31Z",
+rating: 0
+},
+{
+id: 2666,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_191200.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_191200_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:31Z",
+rating: 0
+},
+{
+id: 2667,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_184642.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_184642_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:32Z",
+rating: 0
+},
+{
+id: 2668,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_184529.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_184529_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:32Z",
+rating: 0
+},
+{
+id: 2669,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110125_160152.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110125_160152_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:32Z",
+rating: 0
+},
+{
+id: 2670,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050203_160216.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050203_160216_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:32Z",
+rating: 0
+},
+{
+id: 2671,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_185152.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_185152_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:32Z",
+rating: 0
+},
+{
+id: 2672,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041122_231100.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041122_231100_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:32Z",
+rating: 0
+},
+{
+id: 2673,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050203_160202.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050203_160202_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:32Z",
+rating: 0
+},
+{
+id: 2674,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110125_160101.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110125_160101_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:32Z",
+rating: 0
+},
+{
+id: 2675,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20120504_152132.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20120504_152132_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:32Z",
+rating: 0
+},
+{
+id: 2676,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041121_211126.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041121_211126_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:32Z",
+rating: 0
+},
+{
+id: 2677,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041121_211138.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041121_211138_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:32Z",
+rating: 0
+},
+{
+id: 2678,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20090220_145146.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20090220_145146_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:32Z",
+rating: 0
+},
+{
+id: 2679,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050111_160122.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050111_160122_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:33Z",
+rating: 0
+},
+{
+id: 2680,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041121_211108.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041121_211108_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:33Z",
+rating: 0
+},
+{
+id: 2681,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041121_211132.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041121_211132_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:33Z",
+rating: 0
+},
+{
+id: 2682,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050203_160238.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050203_160238_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:33Z",
+rating: 0
+},
+{
+id: 2683,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041121_211118.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041121_211118_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:33Z",
+rating: 0
+},
+{
+id: 2684,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041122_231108.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041122_231108_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:33Z",
+rating: 0
+},
+{
+id: 2685,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041121_211140.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20041121_211140_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:33Z",
+rating: 0
+},
+{
+id: 2686,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050203_160234.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20050203_160234_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:33Z",
+rating: 0
+},
+{
+id: 2687,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_105426.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_105426_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:33Z",
+rating: 0
+},
+{
+id: 2688,
+url: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_110706.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Echinochloa pyramidalis/echpy_20110702_110706_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:26:33Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

@@ -1,0 +1,919 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 78,
+title: "<i>Cosmos caudatus </i>Kunth ",
+taxonConcept: {
+id: 182,
+name: "Cosmos caudatus Kunth",
+canonicalForm: "Cosmos caudatus",
+italicisedForm: "<i>Cosmos caudatus </i>Kunth ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 24,
+name: "Asteraceae",
+canonicalForm: "Asteraceae",
+italicisedForm: "<i>Asteraceae</i>",
+rank: "Family"
+},
+{
+id: 181,
+name: "Cosmos",
+canonicalForm: "Cosmos",
+italicisedForm: "<i>Cosmos</i>",
+rank: "Genus"
+},
+{
+id: 182,
+name: "Cosmos caudatus Kunth",
+canonicalForm: "Cosmos caudatus",
+italicisedForm: "<i>Cosmos caudatus </i>Kunth ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 1870,
+name: "Bidens artemisiifolia subsp. caudata (Kunth) Kuntze",
+canonicalForm: "Bidens artemisiifolia caudata",
+italicisedForm: "<i>Bidens artemisiifolia </i>subsp.<i> caudata (</i>Kunth<i>) </i>Kuntze ",
+taxonConcept: {
+id: 182
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1871,
+name: "Bidens berteriana Spreng.",
+canonicalForm: "Bidens berteriana",
+italicisedForm: "<i>Bidens berteriana </i>Spreng. ",
+taxonConcept: {
+id: 182
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1872,
+name: "Bidens carnea Heer",
+canonicalForm: "Bidens carnea",
+italicisedForm: "<i>Bidens carnea </i>Heer ",
+taxonConcept: {
+id: 182
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1873,
+name: "Bidens caudata (Kunth) Sch.Bip.",
+canonicalForm: "Bidens caudata",
+italicisedForm: "<i>Bidens caudata (</i>Kunth<i>) </i>Sch.Bip. ",
+taxonConcept: {
+id: 182
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1874,
+name: "Cosmea caudata (Kunth) Spreng.",
+canonicalForm: "Cosmea caudata",
+italicisedForm: "<i>Cosmea caudata (</i>Kunth<i>) </i>Spreng. ",
+taxonConcept: {
+id: 182
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1875,
+name: "Cosmos caudatus var. caudatus",
+canonicalForm: "Cosmos caudatus caudatus",
+italicisedForm: "<i>Cosmos caudatus </i>var.<i> caudatus</i>",
+taxonConcept: {
+id: 182
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1876,
+name: "Cosmos caudatus var. exaristatus Sherff",
+canonicalForm: "Cosmos caudatus exaristatus",
+italicisedForm: "<i>Cosmos caudatus </i>var.<i> exaristatus </i>Sherff ",
+taxonConcept: {
+id: 182
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:11:30Z",
+lastRevised: "2015-03-26T15:16:31Z",
+thumbnail: "http://portal.wikwio.org/biodiv/group_icons/speciesGroups/plants_th1.png",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CMSCA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CMSCA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 646,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CMSCA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718647,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 645,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Cosmos caudatus Kunth",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718646,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3457,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CMSCA</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:15:16Z",
+lastUpdated: "2015-03-19T11:15:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763716626,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6559,
+field: {
+concept: "Généralités",
+category: "Sous Espèces Variétés Races",
+subCategory: "Description",
+description: "Un descriptif textuel du niveau infraspécifique, non nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<div class="description"> <h6> Description Globale</h6> <p> Cosmos caudatus est une herbe annuelle, dress&eacute;e, presque enti&egrave;rement glabre, &agrave; tige dress&eacute;e de 40 &agrave; 220 cm de hauteur, simple &agrave; la base, tr&egrave;s ramifi&eacute;e au-dessus. Les feuilles sont oppos&eacute;es, p&eacute;tiol&eacute;es, &agrave; limbe ovale-triangulaire de 5 &agrave;15 cm sur 3 &agrave; 6 cm, 2-3-pennatis&eacute;qu&eacute; &agrave; segments lanc&eacute;ol&eacute;s ou elliptiques-ovales, de 3 &agrave; 10 mm de large. Inflorescences en capitules solitaires au sommet de longs p&eacute;doncules de 10 &agrave; 30 cm, terminaux et axillaires. Fleurs ligul&eacute;es externes roses, g&eacute;n&eacute;ralement 8, fleurs internes tubul&eacute;es jaunes 25 &agrave; 50, longues de 8 &agrave; 10 mm. Le fruit est un ak&egrave;ne &eacute;troit un peu incurv&eacute;, att&eacute;nu&eacute; vers le haut en un bec long de 10 &agrave; 15 mm, plus ou moins surmont&eacute; par 2 &agrave; 4 ar&ecirc;tes persistantes tr&egrave;s divergentes ou r&eacute;fl&eacute;chies de 2 &agrave; 5 mm.</p> <h6> Cotyl&eacute;dons</h6> <p> Cotyl&eacute;dons &agrave; limbe subessile, elliptique-lin&eacute;aire, de 20 &agrave; 25 mm de long et 3 &agrave; 5 mm de large.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Premi&egrave;res feuilles oppos&eacute;es, profond&eacute;ment lob&eacute;es, &agrave; 5 lobes lin&eacute;aires, le premier lobe d&eacute;j&agrave; tr&egrave;s d&eacute;coup&eacute;, de 22 &agrave; 25 mm de long et14 &agrave; 18 mm de large, p&eacute;tiole ail&eacute; long de 4 &agrave; 6 mm.</p> <h6> Port</h6> <p> Plante herbac&eacute;e annuelle dress&eacute;e, presque enti&egrave;rement glabre, de 0,6 &agrave; 2,5 m de hauteur.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est un fort pivot.</p> <h6> Tige</h6> <p> Tige dress&eacute;e glabre ou parfois &agrave; poils hispides clairsem&eacute;s, de 0,60 &agrave; 2,50 m de hauteur, simple &agrave; la base et tr&egrave;s ramifi&eacute;e au-dessus.</p> <h6> Feuille</h6> <p> Feuilles oppos&eacute;es, simples profond&eacute;ment d&eacute;coup&eacute;es, &agrave; p&eacute;tiole long de 2 &agrave; 7 cm. Celui des feuilles sup&eacute;rieures plus court. Le limbe est triangulaire&ndash;ovale, de 5 &agrave; 15 cm de long, 2-3-pennatis&eacute;qu&eacute;, &agrave; segments lanc&eacute;ol&eacute;s ou elliptiques-ovales, de 3 &agrave; 10 mm de large, souvent mucron&eacute;s.</p> <h6> Inflorescence</h6> <p> Inflorescence en capitules solitaires radi&eacute;s au sommet de longs p&eacute;doncules nus de 10 &agrave; 30 cm, terminaux et axillaires. Bract&eacute;es involucrales externes foliac&eacute;es, lin&eacute;aires-lanc&eacute;ol&eacute;es, g&eacute;n&eacute;ralement 8, longues de 6 &agrave; 10 mm jusqu&rsquo;&agrave; 15 mm, &eacute;gales ou plus courtes que les internes, celles-ci jaun&acirc;tres ou pourpres, oblongues, acumin&eacute;es, longues de 8 &agrave; 12 mm.</p> <h6> Fleur</h6> <p> Fleurs externes radi&eacute;es g&eacute;n&eacute;ralement 8, &agrave; rayon de 10 &agrave; 18 mm de long et 6 &agrave; 8 mm de large, plus ou moins avort&eacute;es, roses ; fleurs internes tubuleuses jaunes, environ de 25 &agrave; 50, &agrave; corolle longue de 8 &agrave; 10 mm.</p> <h6> Fruit</h6> <p> Le fruit est un ak&egrave;ne fusiforme un peu incurv&eacute;, plus ou moins anguleux, longs de 12 &agrave; 30 mm, large de 1 mm environ, r&eacute;tr&eacute;ci en bec de 10 &agrave; 15 mm.</p> </div> <p> </p> ",
+dateCreated: "2015-03-26T15:11:25Z",
+lastUpdated: "2015-03-26T15:11:25Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427382685529,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3458,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Cosmos caudatus Kunth",
+dateCreated: "2015-03-19T11:15:17Z",
+lastUpdated: "2015-03-19T11:15:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763717654,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6561,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Madagascar :</strong> Floraison-fructification de mars &agrave; mai. <p> &nbsp;</p> ",
+dateCreated: "2015-03-26T15:12:15Z",
+lastUpdated: "2015-03-26T15:12:15Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427382735805,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6560,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Cosmos caudatus est une herbe annuelle qui se multiplie par graines transport&eacute;es par les animaux et les outils agricoles.",
+dateCreated: "2015-03-26T15:11:50Z",
+lastUpdated: "2015-03-26T15:11:50Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427382710484,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6563,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. caudatus peut &ecirc;tre confondu avec C. sulphureus Cav., une herbe de port et de taille identique mais cette derni&egrave;re se distingue principalement par la couleur soufre, orange fonc&eacute; ou rouge jaun&acirc;tre des fleurs externes ligul&eacute;es. <p> </p> ",
+dateCreated: "2015-03-26T15:13:25Z",
+lastUpdated: "2015-03-26T15:13:25Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427382805280,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6562,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores :</strong> Esp&egrave;ce pr&eacute;sente ponctuellement dans les jardins.<br /> <strong>Madagascar :</strong> L&#39;esp&egrave;ce se d&eacute;veloppe sur les sols ferrallitiques, relativement fertiles, sur les terrains bien ensoleill&eacute;, dans les syst&egrave;mes de culture semi-intensifs &agrave; base de ma&iuml;s ou de manioc, arboriculture. Elle est pr&eacute;sente dans les Hautes terres centrale de Madagascar. C&#39;est une mauvaise des cultures pluviales et des arbres fruitiers, plante rud&eacute;rale envahissant les bords des chemins, en bordure des habitations, particuli&egrave;rement dans la r&eacute;gion du Vakinakaratara (Antsirabe), altitude sup&eacute;rieure &agrave; 1000 m.<br /> <strong>Maurice :</strong> On la retrouve dans toute les zones agroclimatiques o&ugrave; elle est cultiv&eacute;e et s&#39;est, par endroits, naturalis&eacute;e. <p> </p> ",
+dateCreated: "2015-03-26T15:12:58Z",
+lastUpdated: "2015-03-26T15:12:58Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427382778536,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6564,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Origine</strong><br /> <br /> Originaire d&rsquo;Am&eacute;rique Centrale, Mexique.<br /> <br /> <strong>R&eacute;partition mondiale</strong><br /> <br /> Am&eacute;rique centrale, Am&eacute;rique du Sud, Afrique du Nord, Inde, Sud-ouest de l&rsquo;Oc&eacute;an Indien, Australie.",
+dateCreated: "2015-03-26T15:14:30Z",
+lastUpdated: "2015-03-26T15:14:30Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427382870175,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6565,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Agressivit&eacute; locale</strong><br /> <br /> <strong>Comores : </strong>Esp&egrave;ce non pr&eacute;sente dans les cultures.<br /> <strong>Madagascar :</strong> Mauvaise herbe de fr&eacute;quence relativement faible mais localement abondante en particulier en altitude dans la zone d&rsquo;Antsirabe. Cette esp&egrave;ce de grande taille pousse souvent avec une abondance moyenne &agrave; &eacute;lev&eacute;e. Cette adventice peut &ecirc;tre &eacute;limin&eacute;e facilement par le sarclage manuel ou l&rsquo;arrachage &agrave; la main mais l&rsquo;intervention doit &ecirc;tre effectu&eacute;e &agrave; temps pour &eacute;liminer la concurrence pr&eacute;coce de cette esp&egrave;ce. De fortes infestations ont &eacute;t&eacute; observ&eacute;es dans les cultures de ma&iuml;s, de manioc et en arboriculture.<br /> <strong>Maurice :</strong> Elle est rarement rencontr&eacute; dans les cultures, elle a donc une nuisibilit&eacute; faible. <p> </p> ",
+dateCreated: "2015-03-26T15:15:28Z",
+lastUpdated: "2015-03-26T15:15:28Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427382928246,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6567,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>M&eacute;dicinal:</strong> plante m&eacute;dicinale reconnue comme anti-oxidant, anti-bact&eacute;rie, anti-fongique, anti-ost&eacute;oporose et anti-hypertensive.<br /> <br /> <strong>Ornemental :</strong> Esp&egrave;ce plant&eacute;e dans les jardins. <p> &nbsp;</p> ",
+dateCreated: "2015-03-26T15:16:31Z",
+lastUpdated: "2015-03-26T15:16:31Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427382991365,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6566,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Lutte locale</strong><br /> <br /> <strong>Madagascar :</strong> Les agriculteurs malgaches utilisent seulement le sarclage manuel &agrave; l&rsquo;angady.<br /> <strong>Maurice :</strong> Elle n&#39;est pas une mauvaise herbe importante qui demande une lutte particuli&egrave;re.",
+dateCreated: "2015-03-26T15:16:07Z",
+lastUpdated: "2015-03-26T15:16:07Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427382967618,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6650,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-04-22T12:36:23Z",
+lastUpdated: "2015-04-22T12:36:23Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [
+{
+title: "HUMBERT, H. 1963. Flore de Madagascar et des Comores, fasc.189 COMPOSEES (Tome 3), p. 662"
+},
+{
+title: "HUSSON O et al; 2010. ANNEXE 1: Les principales plantes des jachères et adventices des cultures à Madagascar 63p."
+},
+{
+title: "ANTOINE R., BOSSER J. & FERGUSON I.K. 1993 Flore des Mascareignes. La Réunion, Maurice, Rodrigues. 109 COMPOSEES p. 198-201"
+},
+{
+title: "BUNAWAN H. et al.; 2014 : Cosmos caudatus Kunth : a Traditional Medicinal herb in Global Journal of Pharmacology 8 (3): 420-426."
+}
+],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1429706183595,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [ ],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

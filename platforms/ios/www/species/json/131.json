@@ -1,0 +1,2291 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 131,
+title: "<i>Eragrostis cilianensis (</i>Allioni<i>) </i>F.T.Hubb. ",
+taxonConcept: {
+id: 268,
+name: "Eragrostis cilianensis (Allioni) F.T.Hubb.",
+canonicalForm: "Eragrostis cilianensis",
+italicisedForm: "<i>Eragrostis cilianensis (</i>Allioni<i>) </i>F.T.Hubb. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 265,
+name: "Eragrostis",
+canonicalForm: "Eragrostis",
+italicisedForm: "<i>Eragrostis</i>",
+rank: "Genus"
+},
+{
+id: 268,
+name: "Eragrostis cilianensis (Allioni) F.T.Hubb.",
+canonicalForm: "Eragrostis cilianensis",
+italicisedForm: "<i>Eragrostis cilianensis (</i>Allioni<i>) </i>F.T.Hubb. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 3101,
+name: "Briza eragrostis L.",
+canonicalForm: "Briza eragrostis",
+italicisedForm: "<i>Briza eragrostis </i>L. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3102,
+name: "Briza major L. ex Kunth",
+canonicalForm: "Briza major",
+italicisedForm: "<i>Briza major </i>L.<i> ex </i>Kunth ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3103,
+name: "Briza megastachya Steud. [Invalid]",
+canonicalForm: "Briza megastachya",
+italicisedForm: "<i>Briza megastachya </i>Steud.<i> [Invalid]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3104,
+name: "Briza oblonga Moench [Illegitimate]",
+canonicalForm: "Briza oblonga",
+italicisedForm: "<i>Briza oblonga </i>Moench<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3105,
+name: "Briza purpurascens Muhl.",
+canonicalForm: "Briza purpurascens",
+italicisedForm: "<i>Briza purpurascens </i>Muhl. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3106,
+name: "Calotheca purpurascens (Muhl.) Spreng.",
+canonicalForm: "Calotheca purpurascens",
+italicisedForm: "<i>Calotheca purpurascens (</i>Muhl.<i>) </i>Spreng. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3107,
+name: "Eragrostis argentina Jedwabn.",
+canonicalForm: "Eragrostis argentina",
+italicisedForm: "<i>Eragrostis argentina </i>Jedwabn. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3108,
+name: "Eragrostis articulata De Wild. [Illegitimate]",
+canonicalForm: "Eragrostis articulata",
+italicisedForm: "<i>Eragrostis articulata </i>De Wild.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3109,
+name: "Eragrostis cilianensis subsp. major (Host) Maire & Weiller",
+canonicalForm: "Eragrostis cilianensis major",
+italicisedForm: "<i>Eragrostis cilianensis </i>subsp.<i> major (</i>Host<i>) </i>Maire<i> & </i>Weiller ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3110,
+name: "Eragrostis cilianensis f. megastachya (Koeler) Maire & Weiller",
+canonicalForm: "Eragrostis cilianensis megastachya",
+italicisedForm: "<i>Eragrostis cilianensis </i>f.<i> megastachya (</i>Koeler<i>) </i>Maire<i> & </i>Weiller ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3111,
+name: "Eragrostis cilianensis subsp. starosselskyi (Grossh.) Tzvelev",
+canonicalForm: "Eragrostis cilianensis starosselskyi",
+italicisedForm: "<i>Eragrostis cilianensis </i>subsp.<i> starosselskyi (</i>Grossh.<i>) </i>Tzvelev ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3112,
+name: "Eragrostis cilianensis var. subbiloba (Chiov.) Dobignard & Portal",
+canonicalForm: "Eragrostis cilianensis subbiloba",
+italicisedForm: "<i>Eragrostis cilianensis </i>var.<i> subbiloba (</i>Chiov.<i>) </i>Dobignard<i> & </i>Portal ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3113,
+name: "Eragrostis cilianensis var. thyrsiflora (Willk. & Lange) Dobignard & Portal",
+canonicalForm: "Eragrostis cilianensis thyrsiflora",
+italicisedForm: "<i>Eragrostis cilianensis </i>var.<i> thyrsiflora (</i>Willk.<i> & </i>Lange<i>) </i>Dobignard<i> & </i>Portal ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3114,
+name: "Eragrostis costata B.L.Turner",
+canonicalForm: "Eragrostis costata",
+italicisedForm: "<i>Eragrostis costata </i>B.L.Turner ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3115,
+name: "Eragrostis eragrostis (L.) MacMill. [Invalid]",
+canonicalForm: "Eragrostis eragrostis",
+italicisedForm: "<i>Eragrostis eragrostis (</i>L.<i>) </i>MacMill.<i> [Invalid]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3116,
+name: "Eragrostis flexuosa Steud.",
+canonicalForm: "Eragrostis flexuosa",
+italicisedForm: "<i>Eragrostis flexuosa </i>Steud. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3117,
+name: "Eragrostis leersioides (J.Presl) Steud.",
+canonicalForm: "Eragrostis leersioides",
+italicisedForm: "<i>Eragrostis leersioides (</i>J.Presl<i>) </i>Steud. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3118,
+name: "Eragrostis leersioides var. leersioides",
+canonicalForm: "Eragrostis leersioides leersioides",
+italicisedForm: "<i>Eragrostis leersioides </i>var.<i> leersioides</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3119,
+name: "Eragrostis major Host [Illegitimate]",
+canonicalForm: "Eragrostis major",
+italicisedForm: "<i>Eragrostis major </i>Host<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3120,
+name: "Eragrostis major var. subbiloba (Chiov.) Chiov.",
+canonicalForm: "Eragrostis major subbiloba",
+italicisedForm: "<i>Eragrostis major </i>var.<i> subbiloba (</i>Chiov.<i>) </i>Chiov. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3121,
+name: "Eragrostis megalostachya (Koeler) St.-Lag.",
+canonicalForm: "Eragrostis megalostachya",
+italicisedForm: "<i>Eragrostis megalostachya (</i>Koeler<i>) </i>St.-Lag. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3122,
+name: "Eragrostis megastachya (Koeler) Link",
+canonicalForm: "Eragrostis megastachya",
+italicisedForm: "<i>Eragrostis megastachya (</i>Koeler<i>) </i>Link ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3123,
+name: "Eragrostis megastachya var. cilianensis (All.) Asch. & Graebn.",
+canonicalForm: "Eragrostis megastachya cilianensis",
+italicisedForm: "<i>Eragrostis megastachya </i>var.<i> cilianensis (</i>All.<i>) </i>Asch.<i> & </i>Graebn. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3124,
+name: "Eragrostis megastachya var. compacta (Regel) Krylov",
+canonicalForm: "Eragrostis megastachya compacta",
+italicisedForm: "<i>Eragrostis megastachya </i>var.<i> compacta (</i>Regel<i>) </i>Krylov ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3125,
+name: "Eragrostis megastachya f. nana Lorentz & Niederl.",
+canonicalForm: "Eragrostis megastachya nana",
+italicisedForm: "<i>Eragrostis megastachya </i>f.<i> nana </i>Lorentz<i> & </i>Niederl. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3126,
+name: "Eragrostis megastachya var. thyrsiflora Willk. & Lange",
+canonicalForm: "Eragrostis megastachya thyrsiflora",
+italicisedForm: "<i>Eragrostis megastachya </i>var.<i> thyrsiflora </i>Willk.<i> & </i>Lange ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3127,
+name: "Eragrostis minor var. megastachya (Koeler) Burtt Davy",
+canonicalForm: "Eragrostis minor megastachya",
+italicisedForm: "<i>Eragrostis minor </i>var.<i> megastachya (</i>Koeler<i>) </i>Burtt Davy ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3128,
+name: "Eragrostis monodii A.Camus",
+canonicalForm: "Eragrostis monodii",
+italicisedForm: "<i>Eragrostis monodii </i>A.Camus ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3129,
+name: "Eragrostis multiflora var. cilianensis (All.) Maire",
+canonicalForm: "Eragrostis multiflora cilianensis",
+italicisedForm: "<i>Eragrostis multiflora </i>var.<i> cilianensis (</i>All.<i>) </i>Maire ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3130,
+name: "Eragrostis multiflora var. glandulifera Chiov.",
+canonicalForm: "Eragrostis multiflora glandulifera",
+italicisedForm: "<i>Eragrostis multiflora </i>var.<i> glandulifera </i>Chiov. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3131,
+name: "Eragrostis multiflora var. insularis Chiov.",
+canonicalForm: "Eragrostis multiflora insularis",
+italicisedForm: "<i>Eragrostis multiflora </i>var.<i> insularis </i>Chiov. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3132,
+name: "Eragrostis multiflora var. leersioides (Guss.) Richt.",
+canonicalForm: "Eragrostis multiflora leersioides",
+italicisedForm: "<i>Eragrostis multiflora </i>var.<i> leersioides (</i>Guss.<i>) </i>Richt. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3133,
+name: "Eragrostis multiflora var. subbiloba Chiov.",
+canonicalForm: "Eragrostis multiflora subbiloba",
+italicisedForm: "<i>Eragrostis multiflora </i>var.<i> subbiloba </i>Chiov. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3134,
+name: "Eragrostis multiflora var. triticea (C. Presl) Richt.",
+canonicalForm: "Eragrostis multiflora triticea",
+italicisedForm: "<i>Eragrostis multiflora </i>var.<i> triticea (</i>C. Presl<i>) </i>Richt. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3135,
+name: "Eragrostis multiflora f. violacea N.Terrac. ex Chiov.",
+canonicalForm: "Eragrostis multiflora violacea",
+italicisedForm: "<i>Eragrostis multiflora </i>f.<i> violacea </i>N.Terrac.<i> ex </i>Chiov. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3136,
+name: "Eragrostis oblonga (Moench) Baumg. [Illegitimate]",
+canonicalForm: "Eragrostis oblonga",
+italicisedForm: "<i>Eragrostis oblonga (</i>Moench<i>) </i>Baumg.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3137,
+name: "Eragrostis pappiana var. insularis (Chiov.) Mattei",
+canonicalForm: "Eragrostis pappiana insularis",
+italicisedForm: "<i>Eragrostis pappiana </i>var.<i> insularis (</i>Chiov.<i>) </i>Mattei ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3138,
+name: "Eragrostis pappii Gand.",
+canonicalForm: "Eragrostis pappii",
+italicisedForm: "<i>Eragrostis pappii </i>Gand. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3139,
+name: "Eragrostis polyadenia Mattei",
+canonicalForm: "Eragrostis polyadenia",
+italicisedForm: "<i>Eragrostis polyadenia </i>Mattei ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3140,
+name: "Eragrostis polymorpha Roem. & Schult.",
+canonicalForm: "Eragrostis polymorpha",
+italicisedForm: "<i>Eragrostis polymorpha </i>Roem.<i> & </i>Schult. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3141,
+name: "Eragrostis polysperma Peter",
+canonicalForm: "Eragrostis polysperma",
+italicisedForm: "<i>Eragrostis polysperma </i>Peter ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3142,
+name: "Eragrostis pooides var. compacta Regel",
+canonicalForm: "Eragrostis pooides compacta",
+italicisedForm: "<i>Eragrostis pooides </i>var.<i> compacta </i>Regel ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3143,
+name: "Eragrostis pooides var. megastachya (Koeler) A.Gray",
+canonicalForm: "Eragrostis pooides megastachya",
+italicisedForm: "<i>Eragrostis pooides </i>var.<i> megastachya (</i>Koeler<i>) </i>A.Gray ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3144,
+name: "Eragrostis schweinfurthiana Jedwabn.",
+canonicalForm: "Eragrostis schweinfurthiana",
+italicisedForm: "<i>Eragrostis schweinfurthiana </i>Jedwabn. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3145,
+name: "Eragrostis starosselskyi Grossh.",
+canonicalForm: "Eragrostis starosselskyi",
+italicisedForm: "<i>Eragrostis starosselskyi </i>Grossh. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3146,
+name: "Eragrostis triticea (C.Presl) Steud.",
+canonicalForm: "Eragrostis triticea",
+italicisedForm: "<i>Eragrostis triticea (</i>C.Presl<i>) </i>Steud. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3147,
+name: "Eragrostis virletii E.Fourn.",
+canonicalForm: "Eragrostis virletii",
+italicisedForm: "<i>Eragrostis virletii </i>E.Fourn. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3148,
+name: "Eragrostis vulgaris C.Presl ex Steud. [Illegitimate]",
+canonicalForm: "Eragrostis vulgaris",
+italicisedForm: "<i>Eragrostis vulgaris </i>C.Presl<i> ex </i>Steud.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3149,
+name: "Eragrostis vulgaris subsp. megastachya (Koeler) Douin",
+canonicalForm: "Eragrostis vulgaris megastachya",
+italicisedForm: "<i>Eragrostis vulgaris </i>subsp.<i> megastachya (</i>Koeler<i>) </i>Douin ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3150,
+name: "Erosion cilianense (All.) Lunell",
+canonicalForm: "Erosion cilianense",
+italicisedForm: "<i>Erosion cilianense (</i>All.<i>) </i>Lunell ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3151,
+name: "Megastachya eragrostis (L.) Roem. & Schult.",
+canonicalForm: "Megastachya eragrostis",
+italicisedForm: "<i>Megastachya eragrostis (</i>L.<i>) </i>Roem.<i> & </i>Schult. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3152,
+name: "Megastachya leersioides C.Presl",
+canonicalForm: "Megastachya leersioides",
+italicisedForm: "<i>Megastachya leersioides </i>C.Presl ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3153,
+name: "Megastachya oblonga (Moench) P.Beauv. [Illegitimate]",
+canonicalForm: "Megastachya oblonga",
+italicisedForm: "<i>Megastachya oblonga (</i>Moench<i>) </i>P.Beauv.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3154,
+name: "Megastachya obtusa Schult.",
+canonicalForm: "Megastachya obtusa",
+italicisedForm: "<i>Megastachya obtusa </i>Schult. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3155,
+name: "Megastachya purpurascens (Muhl.) Schult.",
+canonicalForm: "Megastachya purpurascens",
+italicisedForm: "<i>Megastachya purpurascens (</i>Muhl.<i>) </i>Schult. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3156,
+name: "Megastachya triticea C.Presl",
+canonicalForm: "Megastachya triticea",
+italicisedForm: "<i>Megastachya triticea </i>C.Presl ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3157,
+name: "Poa cachectica Schumach.",
+canonicalForm: "Poa cachectica",
+italicisedForm: "<i>Poa cachectica </i>Schumach. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3158,
+name: "Poa cilianensis All.",
+canonicalForm: "Poa cilianensis",
+italicisedForm: "<i>Poa cilianensis </i>All. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3159,
+name: "Poa eragrostis (L.) Brot. [Illegitimate]",
+canonicalForm: "Poa eragrostis",
+italicisedForm: "<i>Poa eragrostis (</i>L.<i>) </i>Brot.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3160,
+name: "Poa flava Willd. ex Steud. [Invalid]",
+canonicalForm: "Poa flava",
+italicisedForm: "<i>Poa flava </i>Willd.<i> ex </i>Steud.<i> [Invalid]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3161,
+name: "Poa flexuosa Roxb. [Illegitimate]",
+canonicalForm: "Poa flexuosa",
+italicisedForm: "<i>Poa flexuosa </i>Roxb.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3162,
+name: "Poa leersioides (J.Presl) Guss.",
+canonicalForm: "Poa leersioides",
+italicisedForm: "<i>Poa leersioides (</i>J.Presl<i>) </i>Guss. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3163,
+name: "Poa megastachya Koeler [Illegitimate]",
+canonicalForm: "Poa megastachya",
+italicisedForm: "<i>Poa megastachya </i>Koeler<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3164,
+name: "Poa nuttallii Spreng. [Illegitimate]",
+canonicalForm: "Poa nuttallii",
+italicisedForm: "<i>Poa nuttallii </i>Spreng.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3165,
+name: "Poa oblonga (Moench) Baumg. [Illegitimate]",
+canonicalForm: "Poa oblonga",
+italicisedForm: "<i>Poa oblonga (</i>Moench<i>) </i>Baumg.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3166,
+name: "Poa obtusa Nutt. [Illegitimate]",
+canonicalForm: "Poa obtusa",
+italicisedForm: "<i>Poa obtusa </i>Nutt.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3167,
+name: "Poa pennsylvanica Nutt.",
+canonicalForm: "Poa pennsylvanica",
+italicisedForm: "<i>Poa pennsylvanica </i>Nutt. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3168,
+name: "Poa philadelphica W.P.C.Barton [Illegitimate]",
+canonicalForm: "Poa philadelphica",
+italicisedForm: "<i>Poa philadelphica </i>W.P.C.Barton<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3169,
+name: "Poa polymorpha J.Koenig ex Rottb. [Illegitimate]",
+canonicalForm: "Poa polymorpha",
+italicisedForm: "<i>Poa polymorpha </i>J.Koenig<i> ex </i>Rottb.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3170,
+name: "Poa roxburghiana Schult.",
+canonicalForm: "Poa roxburghiana",
+italicisedForm: "<i>Poa roxburghiana </i>Schult. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3171,
+name: "Poa tortuosa Spreng.",
+canonicalForm: "Poa tortuosa",
+italicisedForm: "<i>Poa tortuosa </i>Spreng. ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3172,
+name: "Poa triticea (J.Presl) Kunth",
+canonicalForm: "Poa triticea",
+italicisedForm: "<i>Poa triticea (</i>J.Presl<i>) </i>Kunth ",
+taxonConcept: {
+id: 268
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:31:49Z",
+lastRevised: "2015-03-19T11:36:14Z",
+thumbnail: "http://portal.wikwio.org/biodiv/group_icons/speciesGroups/plants_th1.png",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ERAME</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ERAME</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1117,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ERAME</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093092,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1118,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Eragrostis cilianensis (Allioni) F.T.Hubb.",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093093,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4136,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Eragrostis cilianensis est une plante en touffe, aux feuilles longues et effilées marquées par une touffe de longs poils blancs périligulaires. La ligule est ciliée. La marge du limbe est glanduleuse. L'inflorescence est une panicule lâche, ovoïde, composée d'épillets longuement pédicellés. Ils sont comprimés latéralement, comprenant 5 à 40 fleurs. Les épillets se désarticulent à partir de la base mais les paléas sont persistantes. Les glumes, les lemmas et les paléas sont cartilagineuses, à nervure dorsale glanduleuse. Le grain est orbiculaire, de couleur rouge.</p>",
+dateCreated: "2015-03-19T11:36:14Z",
+lastUpdated: "2015-03-19T11:36:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764974704,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4116,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>ERAME</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:36:09Z",
+lastUpdated: "2015-03-19T11:36:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764969939,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4128,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Eragrostis cilianensis est une plante en touffe, aux feuilles longues et effilées marquées par une touffe de longs poils blancs périligulaires. La ligule est ciliée. La marge du limbe est glanduleuse. L'inflorescence est une panicule lâche, ovoïde, composée d'épillets longuement pédicellés. Ils sont comprimés latéralement, comprenant 5 à 40 fleurs. Les épillets se désarticulent à partir de la base mais les paléas sont persistantes. Les glumes, les lemmas et les paléas sont cartilagineuses, à nervure dorsale glanduleuse. Le grain est orbiculaire, de couleur rouge.</p><h6>Premières Feuilles</h6><p>Les premières feuilles ont une préfoliaison enroulée. Le limbe est linéaire et très effilé jusqu'au sommet, long de 2 à 8 cm et large de 2 à 4 mm. Il est dressé obliquement. La ligule est ciliée. La ligne périligulaire est composée d'un alignement de longs poils blancs formant des moustaches de chaque côté de la ligule. La gaine est cylindrique et glabre. La carène est très peu marquée. Le limbe est glabre. La marge est bordée de quelques glandes. La nervure principale est peu marquée.</p><h6>Port</h6><p>Le port est en touffe lâche. Cette espèce mesure 10 à 60 cm de hauteur.</p><h6>Système Souterrain</h6><p>Les racines sont fasciculées.</p><h6>Tige</h6><p>Le chaume est cylindrique, large de 1 à 3 mm. Il est lisse et glabre. Les noeuds sont glabres et de couleur foncée.</p><h6>Feuille</h6><p>Les feuilles sont alternes et dressées obliquement. La gaine est cylindrique et faiblement carénée. Elle est glabre. La ligule est ciliée et haute de 1 mm. La ligne périligulaire est composée d'un alignement de longs poils blancs, longs de 2 à 5 mm, ainsi que de moustaches de chaque côté de la ligule. Le limbe est linéaire, longuement effilé jusqu'au sommet en pointe aiguë. Il est long de 5 à 20 cm et large de 4 à 8 mm. Il est glabre et la marge est finement scabre, avec de petites glandes espacées sur toute la longueur.</p><h6>Inflorescence</h6><p>L'inflorescence est une panicule ovoïde, lâche, longue de 4 à 20 cm. Les ramifications principales sont souvent glanduleuses.</p><h6>Fleur</h6><p>Les épillets sont portés par des pédicelles longs de 1 à 4 mm. Ils sont de couleur vert jaunâtre, comprimés latéralement et ils mesurent 3 à 20 mm de long et 2 à 4 mm de large. Ils comprennent 5 à 40 fleurs identiques qui, à maturité, se désarticulent à partir de la base de l'épillet. Lors de la désarticulation, les paléas restent persistantes sur la rachéole. Les glumes sont ovales lancéolées, longues de 1,5 à 2 mm. La glume inférieure est plus étroite et plus longue que la glume supérieure. La nervure dorsale est finement scabre. Les lemmas sont ovales et longues de 2 à 2,7 mm. Elles sont souvent glanduleuses le long de la nervure dorsale et présentent une nervure latérale marquée. Les paléas sont plus courtes et plus étroites. Toutes les pièces sont membraneuses à cartilagineuses.</p><h6>Fruit</h6><p>Le grain est libre, orbiculaire, d'un diamètre de 0,5 mm. Le tégument est lisse et de couleur rouge foncé.</p>",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-19T11:36:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970499,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4130,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Eragrostis cilianensis (Allioni) F.T.Hubb.",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-19T11:36:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970631,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4129,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : E. cilianensis est présente surtout en début et en milieu de cycle cultural. La germination a lieu en mai et ne dure qu'une à deux semaines. Après les sarclages ou le buttage, les nouvelles levées sont peu nombreuses. La floraison intervient très rapidement (juin), soit 2 à 3 semaines après la levée. Cette floraison est abondante jusqu'en juillet. La fructification et la dissémination se déroulent principalement de juillet à août et se prolongent de façon moins importante jusqu'au dessèchement de la plante en fin de saison des pluies (octobre). Dans les parcelles régulièrement entretenues, seuls quelques individus se développent après la dernière opération culturale. Leur temps de croissance avant la mise à fleur est rallongé mais leur cycle de développement s'achève également en fin de saison des pluies.<br>",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-19T11:36:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970564,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4134,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "E. cilianensis est une espèce annuelle. Elle se multiplie uniquement par graines.<br>",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-19T11:36:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970916,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4131,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>E. cilianensis est répandue dans toutes les régions tropicales.</p>",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-19T11:36:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970696,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4133,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "E. cilianensis est une espèce héliophile. Nord-Cameroun : E. cilianensis se développe dans les régions sahélo-soudanienne et soudano-sahéliennes dont la pluviométrie annuelle est comprise entre 500 et 1 200 mm. C'est une espèce rudérale, qui croît en bordure de chemin, dans les terrains vagues et dans les jachères. C'est également une adventice commune des cultures annuelles. Elle se développe principalement dans les sols argileux comme les vertisols, les alluvions et les sols fersialitiques.<br>",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-19T11:36:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970849,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4132,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>E. cilianensis est répandue dans toutes les régions tropicales.</p>",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-19T11:36:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970783,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4135,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Nord-Cameroun : E. cilianensis est une adventice régionale, présente dans 15 % des parcelles cultivées en zone sahélo-soudanienne et de façon moindre en région soudano-sahélienne. Cette espèce est principalement présente dans les cultures peu intensifiées ne recevant pas d'herbicide. Son développement est aisément limité par les opérations culturales, telles que les sarclages et le buttage.</p>",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-19T11:36:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970983,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4119,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-20T23:49:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970372,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4125,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-31T06:52:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Vanden Berghen C., 1983. Matériaux pour une flore de la végétation herbacée de la Casamance occidentale, Sénégal, Fascicule 2, Gramineae. Jardin Botanique National de Belgique, 66 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970374,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4126,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-31T06:52:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Zon van der A.P.M., 1992. Graminées du Cameroun, Vol. II, Flore. Wageningen Agric. Univ. Papers 92 - 1, Wageningen, 557 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970374,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4127,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-31T06:52:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=adventrop/species/e/erame/erame_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970374,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4122,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-31T06:53:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois Th. & Kamga F., 1991. Quelques critères de détermination au stade végétatif des Eragrostis annuels adventices des cultures au Nord-Cameroun. Weed Research, 31, 1 : 59-62."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970373,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4117,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970372,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4118,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Braun M., Burgstaller H., Hamdoun A. M. & Walter H., 1991. Common weeds of Central Sudan. GTZ, Verlag Josef Margraf ed. Scientific Book, Weikersheim, Germany, 329 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970372,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4120,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hutchinson J., Dalziel J. M., Keay R. W. J. & Hepper F. N., 1972. Flora of West Tropical Africa. Vol. III part. 2. 2ème éd. The Whitefriars Press ed., London & Tonbridge, 574 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970373,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4123,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-31T06:53:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Stanfield D.P., 1970. The flora of Nigeria, Grasses. Stanfield and Lowe ed., Ibadan University Press, Ibadan, Nigeria, 118 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970373,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4121,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-03-31T06:53:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois Th., 1993. Les mauvaises herbes dans la rotation cotonnière au Nord-Cameroun (Afrique) - Amplitude d'habitat et degré d'infestation - Cycle de développement. Thèse USTL Montpellier II, Montpellier, France, 241 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970373,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4124,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:10Z",
+lastUpdated: "2015-04-11T04:23:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 p."
+},
+{
+title: "Grard, P., T. Le Bourgeois and H. Merlier (2010). Adventrop V.1.5 Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764970373,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [ ],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

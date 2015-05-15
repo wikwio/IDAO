@@ -1,0 +1,3084 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 216,
+title: "<i>Momordica charantia </i>L. ",
+taxonConcept: {
+id: 419,
+name: "Momordica charantia L.",
+canonicalForm: "Momordica charantia",
+italicisedForm: "<i>Momordica charantia </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 161,
+name: "Cucurbitaceae",
+canonicalForm: "Cucurbitaceae",
+italicisedForm: "<i>Cucurbitaceae</i>",
+rank: "Family"
+},
+{
+id: 418,
+name: "Momordica",
+canonicalForm: "Momordica",
+italicisedForm: "<i>Momordica</i>",
+rank: "Genus"
+},
+{
+id: 419,
+name: "Momordica charantia L.",
+canonicalForm: "Momordica charantia",
+italicisedForm: "<i>Momordica charantia </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 4643,
+name: "Cucumis argyi H.Lév.",
+canonicalForm: "Cucumis argyi",
+italicisedForm: "<i>Cucumis argyi </i>H.Lév. ",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4644,
+name: "Cucumis intermedius M.Roem.",
+canonicalForm: "Cucumis intermedius",
+italicisedForm: "<i>Cucumis intermedius </i>M.Roem. ",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4645,
+name: "Momordica charantia subsp. abbreviata (Ser.) Greb.",
+canonicalForm: "Momordica charantia abbreviata",
+italicisedForm: "<i>Momordica charantia </i>subsp.<i> abbreviata (</i>Ser.<i>) </i>Greb. ",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4646,
+name: "Momordica charantia var. longirostrata Cogn.",
+canonicalForm: "Momordica charantia longirostrata",
+italicisedForm: "<i>Momordica charantia </i>var.<i> longirostrata </i>Cogn. ",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4647,
+name: "Momordica charantia var. muricata (Willd.) Chakrav.",
+canonicalForm: "Momordica charantia muricata",
+italicisedForm: "<i>Momordica charantia </i>var.<i> muricata (</i>Willd.<i>) </i>Chakrav. ",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4648,
+name: "Momordica chinensis Spreng.",
+canonicalForm: "Momordica chinensis",
+italicisedForm: "<i>Momordica chinensis </i>Spreng. ",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4649,
+name: "Momordica elegans Salisb.",
+canonicalForm: "Momordica elegans",
+italicisedForm: "<i>Momordica elegans </i>Salisb. ",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4650,
+name: "Momordica indica L.",
+canonicalForm: "Momordica indica",
+italicisedForm: "<i>Momordica indica </i>L. ",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4651,
+name: "Momordica muricata Willd.",
+canonicalForm: "Momordica muricata",
+italicisedForm: "<i>Momordica muricata </i>Willd. ",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4652,
+name: "Momordica sinensis Spreng.",
+canonicalForm: "Momordica sinensis",
+italicisedForm: "<i>Momordica sinensis </i>Spreng. ",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4653,
+name: "Momordica thollonii Cogn.",
+canonicalForm: "Momordica thollonii",
+italicisedForm: "<i>Momordica thollonii </i>Cogn. ",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4654,
+name: "Sicyos fauriei H. Lév.",
+canonicalForm: "Sicyos fauriei",
+italicisedForm: "<i>Sicyos fauriei </i>H. Lév. ",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1032,
+name: "Mafaibe",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1033,
+name: "Margose sauvage",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1034,
+name: "Bitter Gourd",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 1035,
+name: "Balsam Pear",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 1036,
+name: "Margoz marron",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1037,
+name: "Marigoza",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1038,
+name: "Marigozi",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 1039,
+name: "Margose",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 1040,
+name: "Margose",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1041,
+name: "Margose marron",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1042,
+name: "Margoz sovaz",
+taxonConcept: {
+id: 419
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:59:50Z",
+lastRevised: "2015-03-19T11:48:09Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_09_th1.jpg",
+notes: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>MOMCH</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>MOMCH</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1607,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>MOMCH</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706263,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1601,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Up to 5cm long, with spiral tendrils at opposite sides , Petioles 4-5 cm long, pubescent. The leaves are carried singly along the stems, and each leaf is 4-10 cm long, rounded in outline, and deeply 5-9 lobed. The foliage has an unpleasant smell when crushed.</p><h6>Flower</h6><p>Monoecious pale to deep yellow flowers with bract part way on peduncle, solitary in the upper leaf axils on 2-10 cm long stalks with a small leaf-like bract towards the base. Male flowers larger than female flowers and have a slender basal swelling which is continuous with the base of the sepal tube, which ends in five blunt sepals. There are five oval yellow petals 10-20 cm long, and five central stamens. Female flowers are similar to the male flowers but have a distinct warty swelling well below the base of the sepal tube and three stigmas.</p><h6>Fruit</h6><p>The pendulous cylindrical fruits are egg-shaped and 2-10 cm long (up to 20 cm in cultivated varieties), and covered with longitudinal ridges and warts. At maturity, they turn orange to yellow, and the tips split into three and turn back to reveal the yellow pulp and the bright red arils that enclose the seeds which adhere to the inside of the fruit. Each of the flattened woody seeds is 5-9 mm long, and has finely pitted surfaces.</p><h6>Global Description</h6><p>An annual to perennial climbing, scandent or prostrate broadleaf herb growing up to 5 meters high.</p><h6>Stem</h6><p>This herbaceous, tendril-bearing vine grows to 5 meters. It may be either hairless or slightly hairy.</p>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706251,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1596,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Momordica charantia L.",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706243,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1603,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Upland/hydromorphic areas in the forest and derived savannah zones.<br>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706254,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1609,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>It is a common cucurbit in the wild flora of Africa, occurring almost throughout tropical Africa. It is only occasionally collected from the wild as a vegetable or medicinal plant. It is occasionally cultivated in East Africa mostly by people of Asian origin using Asian cultivars.</p><h6>Origin</h6><p>Momordica charantia is native to the Old World tropics, but now pantropical.</p>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706280,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1611,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>Rapid growth is able to smother young rice and twinning nature makes it hard to remove without damaging the crop.</p>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706283,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1599,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "It is grown in tropical areas, including parts of the Amazon, east Africa, Asia, and the Caribbean, and is cultivated throughout South America as a food and medicine. The leaves and fruits may be picked from the plant as needed, and used in many ways, dried or fresh, internally and externally. The leaves and fruits taken from the plant at the end of the season may be preserved by drying, tincture, canning, or other ways, for use when the fresh plant is not available. For external use, the leaves may be crushed and the juice applied to the skin. This has been used for insect bites, bee stings, burns, contact rashes, and small wounds. The ripe berries may also be preserved in spirits such as whiskey or vodka, and this applied to the skin. The leaves may be boiled to make a decoction. Enough leaves should be used to give the decoction a strong bitter taste and impart colour. It is a particular problem in sugarcane; in the first three months it may smother all growth, and at all stages, but particularly towards harvest, it climbs over the crop and binds stalks together, reducing sugar content and making harvesting very difficult. The weed is a nuisance in pastures as it has an unpleasant odour when bruised and is unpalatable to stock. It may even be harmful to stock .It is also an alternative host for viruses and leafhoppers that affect celery, pawpaw and watermelon, and is a host for many other pests. Immature fruits of Momordica charantia are used in stews and curries, or pickled. They are also stuffed with minced meat. Seeds of more mature fruits must be removed. Bitterness may be reduced by parboiling or soaking, squeezing or mashing in salted water, or by scoring the skin of the fruit and sprinkling it with salt. Young fruits of wild small-fruited types are locally eaten in West Africa as supplementary or emergency food. In Zimbabwe young non -bitter fruits are eaten in salads, in the same way as cucumbers. Mature fruits of wild plants are said to be poisonous to people and domestic animals. In Asia shoot tips are a popular leafy vegetable that is considered very healthy. Some farmers even grow bushy bitter gourd types with small fruits especially for this purpose. Bitter gourd tea, made from dried fruit pieces, is a popular health drink in Japan and some other Asian countries. Bitter gourd has numerous medicinal uses. In many African countries the fruit is taken as a purgative and vermifuge, whereas leaves are steeped in water and taken to treat diarrhoea and dysentery. Steeped leaves used as enema are said to have strong astringent properties. The seed is used internally as an anthelmintic, especially in DR Congo. In West Africa the plant is used as a febrifuge either by washing or drinking. Yellow fever and jaundice are treated by an enema of the entire plant in water or eye instillation of leaf sap. The plant is used as an aphrodisiac and in local treatment of gonorrhoea. Preparations made from stems and leaves are used to treat yaws. A decoction is applied to boils, ulcers, septic swellings and infected feet. Plaster made from pulverized plants is used to treat malignant ulcers, breast cancer and skin parasites such as filaria and guinea worms. The leaves are taken to treat menstrual problems and the roots are used against syphilis and rheumatism and as an abortifacient. Crushed leaves are used together with other drugs to relieve heart problems, e.g. tachycardia. Manifold medicinal uses are also reported from Asia and the Americas, e.g. to treat cancer, diabetes, psoriasis and many infectious diseases. It is especially renowned as a remedy for diabetes mellitus, just by eating it regularly as a vegetable.<br>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706247,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1598,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>May be uprooted by hand or hoed out so long as the tap root is cut through at, or just below, ground level, Cultural Control. Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706246,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1597,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2015-03-28T23:14:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 246p."
+},
+{
+title: "Grubben, G.J.H. & Denton, 0.A. (Editors). 2004. Plant Ressources of Tropical 2. Vegetable. PROTA Foundation, Wagenigen, Netherlands/Backhuys Publishers, Leiden, Netherlands/CTA, Wageningen, Netherlands, 384-388p."
+},
+{
+url: "http://www.rain-tree.com/bitmelon.htm"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=157190"
+},
+{
+title: "Johnson, DE 1997. Weeds in rice in West Africa. WARDA, Bouake, Ivory Coast. 70p."
+},
+{
+url: "http://www.rain-tree.com/bitmelon.htm"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 460 p"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=157190"
+},
+{
+url: "http://www.plantwise.org/?dsid=34678&loadmodule=plantwisedatasheet&page=4270&site=234"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706244,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1604,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2015-02-19T17:26:44Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=157190"
+},
+{
+url: "http://www.plantwise.org/?dsid=34678&loadmodule=plantwisedatasheet&page=4270&site=234"
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 246p."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 460 p"
+},
+{
+url: "http://www.rain-tree.com/bitmelon.htm"
+},
+{
+title: "Johnson, DE 1997. Weeds in rice in West Africa. WARDA, Bouake, Ivory Coast. 70p."
+},
+{
+title: "Grubben, G.J.H. & Denton, 0.A. (Editors). 2004. Plant Ressources of Tropical 2. Vegetable. PROTA Foundation, Wagenigen, Netherlands/Backhuys Publishers, Leiden, Netherlands/CTA, Wageningen, Netherlands, 384-388p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706255,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1605,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2015-03-16T19:13:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.rain-tree.com/bitmelon.htm"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Johnson, DE 1997. Weeds in rice in West Africa. WARDA, Bouake, Ivory Coast. 70p."
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 460 p"
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 246p."
+},
+{
+url: "http://www.plantwise.org/?dsid=34678&loadmodule=plantwisedatasheet&page=4270&site=234"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=157190"
+},
+{
+title: "Grubben, G.J.H. & Denton, 0.A. (Editors). 2004. Plant Ressources of Tropical 2. Vegetable. PROTA Foundation, Wagenigen, Netherlands/Backhuys Publishers, Leiden, Netherlands/CTA, Wageningen, Netherlands, 384-388p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706257,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1606,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2015-03-17T14:57:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 246p."
+},
+{
+url: "http://www.plantwise.org/?dsid=34678&loadmodule=plantwisedatasheet&page=4270&site=234"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 460 p"
+},
+{
+title: "Grubben, G.J.H. & Denton, 0.A. (Editors). 2004. Plant Ressources of Tropical 2. Vegetable. PROTA Foundation, Wagenigen, Netherlands/Backhuys Publishers, Leiden, Netherlands/CTA, Wageningen, Netherlands, 384-388p."
+},
+{
+title: "Johnson, DE 1997. Weeds in rice in West Africa. WARDA, Bouake, Ivory Coast. 70p."
+},
+{
+url: "http://www.rain-tree.com/bitmelon.htm"
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=157190"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706260,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1600,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2015-03-31T19:08:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, DE 1997. Weeds in rice in West Africa. WARDA, Bouake, Ivory Coast. 70p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Grubben, G.J.H. & Denton, 0.A. (Editors). 2004. Plant Ressources of Tropical 2. Vegetable. PROTA Foundation, Wagenigen, Netherlands/Backhuys Publishers, Leiden, Netherlands/CTA, Wageningen, Netherlands, 384-388p."
+},
+{
+url: "http://www.plantwise.org/?dsid=34678&loadmodule=plantwisedatasheet&page=4270&site=234"
+},
+{
+url: "http://www.rain-tree.com/bitmelon.htm"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 460 p"
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 246p."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=157190"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706248,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1602,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2015-03-31T19:08:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, DE 1997. Weeds in rice in West Africa. WARDA, Bouake, Ivory Coast. 70p."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 246p."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=157190"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 460 p"
+},
+{
+url: "http://www.rain-tree.com/bitmelon.htm"
+},
+{
+title: "Grubben, G.J.H. & Denton, 0.A. (Editors). 2004. Plant Ressources of Tropical 2. Vegetable. PROTA Foundation, Wagenigen, Netherlands/Backhuys Publishers, Leiden, Netherlands/CTA, Wageningen, Netherlands, 384-388p."
+},
+{
+url: "http://www.plantwise.org/?dsid=34678&loadmodule=plantwisedatasheet&page=4270&site=234"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706252,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1608,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2015-03-31T19:08:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.plantwise.org/?dsid=34678&loadmodule=plantwisedatasheet&page=4270&site=234"
+},
+{
+url: "http://www.plantwise.org/?dsid=34678&loadmodule=plantwisedatasheet&page=4270&site=234"
+},
+{
+url: "http://www.rain-tree.com/bitmelon.htm"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 460 p"
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 246p."
+},
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=157190"
+},
+{
+title: "Johnson, DE 1997. Weeds in rice in West Africa. WARDA, Bouake, Ivory Coast. 70p."
+},
+{
+title: "Grubben, G.J.H. & Denton, 0.A. (Editors). 2004. Plant Ressources of Tropical 2. Vegetable. PROTA Foundation, Wagenigen, Netherlands/Backhuys Publishers, Leiden, Netherlands/CTA, Wageningen, Netherlands, 384-388p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706277,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1610,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2015-03-31T19:08:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=157190"
+},
+{
+title: "Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume II). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 460 p"
+},
+{
+title: "Johnson, DE 1997. Weeds in rice in West Africa. WARDA, Bouake, Ivory Coast. 70p."
+},
+{
+url: "http://www.plantwise.org/?dsid=34678&loadmodule=plantwisedatasheet&page=4270&site=234"
+},
+{
+url: "http://www.rain-tree.com/bitmelon.htm"
+},
+{
+title: "Grubben, G.J.H. & Denton, 0.A. (Editors). 2004. Plant Ressources of Tropical 2. Vegetable. PROTA Foundation, Wagenigen, Netherlands/Backhuys Publishers, Leiden, Netherlands/CTA, Wageningen, Netherlands, 384-388p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W. (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 246p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706281,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5060,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Momordica charantia est une liane herbacée à fleurs mâles et femelles distinctes, à tige rampante ou grimpante assez grêle. Les feuilles sont découpées en lobes profonds en doigts de gants. A la base du pétiole se trouve une vrille simple. Les fleurs sont solitaires, à l'extrémité d'un long pétiole portant au sommet une petite feuille ronde. Elles possèdent 5 pétales jaunes arrondis. Certaines sont mâles, contenant 3 étamines courtes, d'autres sont femelles, ayant en dessous un renflement correspondant au futur fruit. Le fruit est fusiforme verruqueux virant du jaune au rouge à maturité et s'ouvrant en trois parties laissant apparaître des graines enrobées dans une gélatine rouge vif.</p>",
+dateCreated: "2015-03-19T11:48:09Z",
+lastUpdated: "2015-03-19T11:48:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765689922,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5051,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>MOMCH</p><h6>Type Biologique</h6><p>liane</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:48:03Z",
+lastUpdated: "2015-03-19T11:48:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765683242,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5054,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Momordica charantia</em> est une liane herbac&eacute;e &agrave; fleurs m&acirc;les et femelles distinctes, &agrave; tige rampante ou grimpante assez gr&ecirc;le. Les feuilles sont d&eacute;coup&eacute;es en lobes profonds en doigts de gants. A la base du p&eacute;tiole se trouve une vrille simple. Les fleurs sont solitaires, &agrave; l&#39;extr&eacute;mit&eacute; d&#39;un long p&eacute;tiole portant au sommet une petite feuille ronde. Elles poss&egrave;dent 5 p&eacute;tales jaunes arrondis. Certaines sont m&acirc;les, contenant 3 &eacute;tamines courtes, d&#39;autres sont femelles, ayant en dessous un renflement correspondant au futur fruit. Le fruit est fusiforme verruqueux virant du jaune au rouge &agrave; maturit&eacute; et s&#39;ouvrant en trois parties laissant appara&icirc;tre des graines enrob&eacute;es dans une g&eacute;latine rouge vif.</p> <h6> Cotyl&eacute;dons</h6> <p> Cotyl&eacute;dons subsessiles, de forme obovale &agrave; elliptique, au sommet arrondi et &agrave; base att&eacute;nu&eacute;e. Le limbe est glabre et assez &eacute;pais. Il mesure de 8 &agrave; 12 mm de long et 4 &agrave; 6 mm de large.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Premi&egrave;res feuilles alternes et simples, longuement p&eacute;tiol&eacute;es. Le limbe est palm&eacute; mais avec des lobes peu d&eacute;coup&eacute;s. Ils seront de plus en plus marqu&eacute;s sur les feuilles suivantes.</p> <h6> Port</h6> <p> Plante &agrave; port grimpant ou rampant. C&#39;est une liane avec des tiges assez gr&ecirc;les qui peuvent atteindre plusieurs m&egrave;tres de long.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est un pivot qui peut devenir rhizomateux.</p> <h6> Tige</h6> <p> Tige pentagonale, anguleuse et pleine, de couleur vert clair, glabre ou &agrave; poils &eacute;pars. Elle se ramifie &agrave; la base.</p> <h6> Feuille</h6> <p> Feuilles simples et alternes, port&eacute;es par un long p&eacute;tiole canalicul&eacute;, long de 1,5 &agrave; 7 cm, &agrave; la base duquel se trouve une vrille simple. Les feuilles sont palm&eacute;es et profond&eacute;ment lob&eacute;es, de forme g&eacute;n&eacute;rale suborbiculaire. Le limbe est aussi long que large (3 &agrave; 12 cm). Il est form&eacute; de 3 &agrave; 7 lobes profond&eacute;ment d&eacute;coup&eacute;s jusqu&#39;&agrave; la moiti&eacute; de la longueur du limbe ou plus. La base est largement cord&eacute;e, le sommet des lobes est en coin aigu. La marge est irr&eacute;guli&egrave;rement dent&eacute;e. Les deux faces sont pratiquement glabres avec quelques poils &eacute;pars le long des nervures &agrave; la face inf&eacute;rieure.</p> <h6> Fleur</h6> <p> C&#39;est une esp&egrave;ce mono&iuml;que, avec des fleurs m&acirc;les et des fleurs femelles distinctes. Les fleurs sont solitaires, axillaires, &agrave; l&#39;extr&eacute;mit&eacute; d&#39;un long p&eacute;doncule, de 5 &agrave; 15 cm, qui porte &agrave; son sommet ou en partie m&eacute;diane une bract&eacute;e foliac&eacute;e orbiculaire &agrave; r&eacute;niforme, embrassante, de 5 &agrave; 15 mm de diam&egrave;tre. La coupe florale est campanul&eacute;e, large de 2 &agrave; 3 mm. Les s&eacute;pales sont lanc&eacute;ol&eacute;s, de 4 &agrave; 6 mm de long et 2 mm de large, glabres. Les p&eacute;tales sont jaunes, obovales et glabres. Ils mesurent 10 &agrave; 20 mm de long et 7 &agrave; 15 mm de large et deux d&#39;entre eux portent une &eacute;caille &agrave; leur base. Les fleurs m&acirc;les comprennent 3 &eacute;tamines aux filets courts de 1,5 &agrave; 2 mm, et aux anth&egrave;res repli&eacute;es en &#39;S&#39;. La fleur femelle poss&egrave;de un ovaire inf&egrave;re fusiforme ou ovo&iuml;de, tuberculeux, muni d&#39;une pointe courte et ferme. Il apparait rapidement sous la fleur.</p> <h6> Fruit</h6> <p> Fruit charnu largement ovo&iuml;de oblong &agrave; fusiforme, de 4 &agrave; 20 cm de long et 2,5 &agrave; 4 cm de large, d&eacute;hiscent par 3 valves. La paroi externe est couverte de tubercules irr&eacute;guliers. Il est de couleur jaune orange &agrave; vermillon. Il contient un grand nombre de graines.</p> <h6> Graine</h6> <p> Graine ovale elliptique, presque trident&eacute;e au sommet et mesurant 10 &agrave; 16 mm de long et 7 &agrave; 9 mm de large et 2 &agrave; 3 mm d&#39;&eacute;paisseur. T&eacute;gument ornement&eacute; et marge cannel&eacute;e. Les graines sont incluses dans un mucilage rouge vif.</p> ",
+dateCreated: "2015-03-19T11:48:04Z",
+lastUpdated: "2015-05-07T14:31:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765684421,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5055,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Momordica charantia L.",
+dateCreated: "2015-03-19T11:48:04Z",
+lastUpdated: "2015-03-19T11:48:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765684889,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5057,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Momordica charantia</em> est une plante principalement annuelle qui se multiplie par graines ou de fa&ccedil;on v&eacute;g&eacute;tative &agrave; partir de bourgeons issus du rhizome. Les graines sont largement diss&eacute;min&eacute;es par les oiseaux frugivores.<br /> ",
+dateCreated: "2015-03-19T11:48:05Z",
+lastUpdated: "2015-05-07T14:31:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765685874,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5056,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: <em>Momordica charantia</em> est une esp&egrave;ce grimpante qui pr&eacute;f&egrave;re les situations assez s&egrave;ches. Elle est tr&egrave;s courante sur les murs des maisons abandonn&eacute;es, dans les zones ensoleill&eacute;es ou en bordure des champs.<br /> <strong>Madagascar </strong>: Esp&egrave;ce subspontan&eacute;e r&eacute;pandue un peu partout &agrave; Madagascar. Elle se d&eacute;veloppe aux environs des habitations, sur les haies et les talus (esp&egrave;ce utilis&eacute;e comme plante m&eacute;dicinale).<br /> <strong>Maurice </strong>: Cette plante est naturalis&eacute;e et cultiv&eacute;e pour ses fruits consomm&eacute;s comme l&eacute;gumes. Elle se d&eacute;veloppe mieux dans les endroits chauds et secs.<br /> <strong>La R&eacute;union</strong> : C&rsquo;est une esp&egrave;ce rud&eacute;rale qui pr&eacute;f&egrave;re les situations assez s&egrave;ches. Elle est tr&egrave;s courante sur le bord des chemins dans les zones ensoleill&eacute;es ou en bordure des champs et dans les haies. On la retrouve parfois dans les parcelles de canne &agrave; sucre.<br /> <strong>Seychelles </strong>: Esp&egrave;ce r&eacute;cemment introduite, pr&eacute;sente uniquement dans la r&eacute;gion d&#39;Anse royale au sud-est de l&#39;&icirc;le de Mah&eacute;.<br /> ",
+dateCreated: "2015-03-19T11:48:05Z",
+lastUpdated: "2015-05-07T14:31:34Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765685514,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5058,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>: <em>Momordica charantia</em> n&rsquo;est pas abondante dans les cultures mais on la trouve parfois dans les vieilles cultures de manioc. Elle se d&eacute;veloppe en grimpant sur la culture et en provoquant son &eacute;touffement.<br /> <strong>C&ocirc;te d&#39;Ivoire</strong> : Fr&eacute;quente et peu abondante.<br /> <strong>Ghana </strong>: Rare et peu abondante.<br /> <strong>Madagascar </strong>: Esp&egrave;ce peu fr&eacute;quente dans les cultures et rarement consid&eacute;r&eacute;e comme nuisible dans les jardins.<br /> <strong>Mali </strong>: Rare et peu abondante.<br /> <strong>Maurice </strong>: Bien que pr&eacute;sente occasionnellement dans les champs de canne &agrave; sucre, cette adventice n&#39;a pas une nuisibilit&eacute; importante pour les cultures.<br /> <strong>Nigeria </strong>: Rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>La R&eacute;union</strong> : C&rsquo;est une esp&egrave;ce tr&egrave;s commune pour toutes les cultures, pr&eacute;sente dans 40 % des parcelles. Elle peut devenir rapidement envahissante et atteint fr&eacute;quemment entre 30 et 85 % de recouvrement. Elle est tr&egrave;s fr&eacute;quente &agrave; la lisi&egrave;re des champs de canne &agrave; sucre, dans les haies et sur les andains de pierres.<br /> <strong>S&eacute;n&eacute;gal </strong>: Rare et peu abondante.</p> ",
+dateCreated: "2015-03-19T11:48:06Z",
+lastUpdated: "2015-05-07T14:32:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765686234,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5059,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Pour des conseils de d&eacute;sherbage des adventices annuelles &agrave; feuilles larges du riz irrigu&eacute; et de bas-fond en Afrique consulter : http://portal.wikwio.org/document/show/19</p> ",
+dateCreated: "2015-03-19T11:48:06Z",
+lastUpdated: "2015-05-07T14:33:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765686643,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5052,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:48:03Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765683794,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5053,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:48:03Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765683794,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 4593,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:30Z",
+rating: 0
+},
+{
+id: 4594,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:30Z",
+rating: 0
+},
+{
+id: 4595,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110914_195014.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110914_195014_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:30Z",
+rating: 0
+},
+{
+id: 4596,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110914_195022.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110914_195022_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:30Z",
+rating: 0
+},
+{
+id: 4597,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20101210_111206.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20101210_111206_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:30Z",
+rating: 0
+},
+{
+id: 4598,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_065330.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_065330_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:30Z",
+rating: 0
+},
+{
+id: 4599,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20060307_062506.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20060307_062506_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:30Z",
+rating: 0
+},
+{
+id: 4600,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20060307_062342.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20060307_062342_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:31Z",
+rating: 0
+},
+{
+id: 4601,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110914_194852.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110914_194852_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:31Z",
+rating: 0
+},
+{
+id: 4602,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070352.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070352_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:31Z",
+rating: 0
+},
+{
+id: 4603,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070452.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070452_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:31Z",
+rating: 0
+},
+{
+id: 4604,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20070608_130244.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20070608_130244_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:31Z",
+rating: 0
+},
+{
+id: 4605,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110914_194956.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110914_194956_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:31Z",
+rating: 0
+},
+{
+id: 4606,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20111027_111048.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20111027_111048_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:31Z",
+rating: 0
+},
+{
+id: 4607,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030916_100200.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030916_100200_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:32Z",
+rating: 0
+},
+{
+id: 4608,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20111027_111117.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20111027_111117_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:32Z",
+rating: 0
+},
+{
+id: 4609,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:32Z",
+rating: 0
+},
+{
+id: 4610,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20111027_111148.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20111027_111148_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:32Z",
+rating: 0
+},
+{
+id: 4611,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20111026_185723.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20111026_185723_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:32Z",
+rating: 0
+},
+{
+id: 4612,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070544.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070544_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:32Z",
+rating: 0
+},
+{
+id: 4613,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070328.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070328_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:32Z",
+rating: 0
+},
+{
+id: 4614,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:33Z",
+rating: 0
+},
+{
+id: 4615,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_10.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_10_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:33Z",
+rating: 0
+},
+{
+id: 4616,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070410.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070410_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:33Z",
+rating: 0
+},
+{
+id: 4617,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110914_194836.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110914_194836_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:33Z",
+rating: 0
+},
+{
+id: 4618,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_11.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_11_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:33Z",
+rating: 0
+},
+{
+id: 4619,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20111026_185619.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20111026_185619_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:33Z",
+rating: 0
+},
+{
+id: 4620,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_14.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_14_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:34Z",
+rating: 0
+},
+{
+id: 4621,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_13.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_13_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:34Z",
+rating: 0
+},
+{
+id: 4622,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20120504_110218.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20120504_110218_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:34Z",
+rating: 0
+},
+{
+id: 4623,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:34Z",
+rating: 0
+},
+{
+id: 4624,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_071044.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_071044_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:34Z",
+rating: 0
+},
+{
+id: 4625,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20081216_074828.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20081216_074828_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:34Z",
+rating: 0
+},
+{
+id: 4626,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064240.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064240_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:34Z",
+rating: 0
+},
+{
+id: 4627,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_065804.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_065804_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:35Z",
+rating: 0
+},
+{
+id: 4628,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064554.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064554_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:35Z",
+rating: 0
+},
+{
+id: 4629,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20061122_084626.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20061122_084626_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:35Z",
+rating: 0
+},
+{
+id: 4630,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20071008_070708.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20071008_070708_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:35Z",
+rating: 0
+},
+{
+id: 4631,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20111026_185602.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20111026_185602_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:35Z",
+rating: 0
+},
+{
+id: 4632,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20070608_130302.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20070608_130302_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:35Z",
+rating: 0
+},
+{
+id: 4633,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20061122_084838.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20061122_084838_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:36Z",
+rating: 0
+},
+{
+id: 4634,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20070608_130244_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20070608_130244_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:36Z",
+rating: 0
+},
+{
+id: 4635,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20061030_074506.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20061030_074506_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:36Z",
+rating: 0
+},
+{
+id: 4636,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20061122_085108.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20061122_085108_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:36Z",
+rating: 0
+},
+{
+id: 4637,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064922.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064922_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:36Z",
+rating: 0
+},
+{
+id: 4638,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20130619_052406.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20130619_052406_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:36Z",
+rating: 0
+},
+{
+id: 4639,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030916_100000.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030916_100000_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:36Z",
+rating: 0
+},
+{
+id: 4640,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_070104.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_070104_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:37Z",
+rating: 0
+},
+{
+id: 4641,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20060309_124116.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20060309_124116_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:37Z",
+rating: 0
+},
+{
+id: 4642,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20061030_074748.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20061030_074748_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:37Z",
+rating: 0
+},
+{
+id: 4643,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030916_095552.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030916_095552_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:37Z",
+rating: 0
+},
+{
+id: 4644,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064146.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064146_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:37Z",
+rating: 0
+},
+{
+id: 4645,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064356.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064356_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:37Z",
+rating: 0
+},
+{
+id: 4646,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070926.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070926_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:37Z",
+rating: 0
+},
+{
+id: 4647,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030916_095346.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030916_095346_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:38Z",
+rating: 0
+},
+{
+id: 4648,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030916_095750.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030916_095750_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:38Z",
+rating: 0
+},
+{
+id: 4649,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20050221_180226.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20050221_180226_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:38Z",
+rating: 0
+},
+{
+id: 4650,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20060309_124100.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20060309_124100_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:38Z",
+rating: 0
+},
+{
+id: 4651,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20061123_095940.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20061123_095940_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:38Z",
+rating: 0
+},
+{
+id: 4652,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_065124.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_065124_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:38Z",
+rating: 0
+},
+{
+id: 4653,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_065516.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_065516_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:38Z",
+rating: 0
+},
+{
+id: 4654,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:39Z",
+rating: 0
+},
+{
+id: 4655,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:39Z",
+rating: 0
+},
+{
+id: 4656,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070946.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070946_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:39Z",
+rating: 0
+},
+{
+id: 4657,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070252.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20110518_070252_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:39Z",
+rating: 0
+},
+{
+id: 4658,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064100.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064100_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:39Z",
+rating: 0
+},
+{
+id: 4659,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064452.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20030618_064452_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:40Z",
+rating: 0
+},
+{
+id: 4660,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_15.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_15_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:40Z",
+rating: 0
+},
+{
+id: 4661,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20020729_145748.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20020729_145748_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:40Z",
+rating: 0
+},
+{
+id: 4662,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20130619_052256.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20130619_052256_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:40Z",
+rating: 0
+},
+{
+id: 4663,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20130619_052234.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20130619_052234_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:40Z",
+rating: 0
+},
+{
+id: 4664,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20130619_052220.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20130619_052220_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:40Z",
+rating: 0
+},
+{
+id: 4665,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20130619_052446.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20130619_052446_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:40Z",
+rating: 0
+},
+{
+id: 4666,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:41Z",
+rating: 0
+},
+{
+id: 4667,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_12.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_12_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:41Z",
+rating: 0
+},
+{
+id: 4668,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20080609_101210_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:41Z",
+rating: 0
+},
+{
+id: 4669,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20040811_170832.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20040811_170832_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:41Z",
+rating: 0
+},
+{
+id: 4670,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20051117_161141.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20051117_161141_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:41Z",
+rating: 0
+},
+{
+id: 4671,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20040811_170842.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20040811_170842_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:41Z",
+rating: 0
+},
+{
+id: 4672,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20051117_161101.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20051117_161101_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:41Z",
+rating: 0
+},
+{
+id: 4673,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20050221_180240.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20050221_180240_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:42Z",
+rating: 0
+},
+{
+id: 4674,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20101210_111206_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20101210_111206_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:42Z",
+rating: 0
+},
+{
+id: 4675,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20020101_070100.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20020101_070100_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:42Z",
+rating: 0
+},
+{
+id: 4676,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20050221_180234.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20050221_180234_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:42Z",
+rating: 0
+},
+{
+id: 4677,
+url: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20060307_062614.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Momordica charantia/momch_20060307_062614_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:42Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

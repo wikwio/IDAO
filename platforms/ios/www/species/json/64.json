@@ -1,0 +1,381 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 64,
+title: "<i>Cleome hirta (</i>Klotzsch<i>) </i>Oliv. ",
+taxonConcept: {
+id: 152,
+name: "Cleome hirta (Klotzsch) Oliv.",
+canonicalForm: "Cleome hirta",
+italicisedForm: "<i>Cleome hirta (</i>Klotzsch<i>) </i>Oliv. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 149,
+name: "Cleomaceae",
+canonicalForm: "Cleomaceae",
+italicisedForm: "<i>Cleomaceae</i>",
+rank: "Family"
+},
+{
+id: 150,
+name: "Cleome",
+canonicalForm: "Cleome",
+italicisedForm: "<i>Cleome</i>",
+rank: "Genus"
+},
+{
+id: 152,
+name: "Cleome hirta (Klotzsch) Oliv.",
+canonicalForm: "Cleome hirta",
+italicisedForm: "<i>Cleome hirta (</i>Klotzsch<i>) </i>Oliv. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 1643,
+name: "Cleome bechuanensis Bremek. & Oberm.",
+canonicalForm: "Cleome bechuanensis",
+italicisedForm: "<i>Cleome bechuanensis </i>Bremek.<i> & </i>Oberm. ",
+taxonConcept: {
+id: 152
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1644,
+name: "Cleome glandulosissima Gilg",
+canonicalForm: "Cleome glandulosissima",
+italicisedForm: "<i>Cleome glandulosissima </i>Gilg ",
+taxonConcept: {
+id: 152
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1645,
+name: "Cleome hildebrandtii Gilg & Benedict",
+canonicalForm: "Cleome hildebrandtii",
+italicisedForm: "<i>Cleome hildebrandtii </i>Gilg<i> & </i>Benedict ",
+taxonConcept: {
+id: 152
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1646,
+name: "Cleome pulcherrima Buscal. & Muschl.",
+canonicalForm: "Cleome pulcherrima",
+italicisedForm: "<i>Cleome pulcherrima </i>Buscal.<i> & </i>Muschl. ",
+taxonConcept: {
+id: 152
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1647,
+name: "Cleome scheffleri Briq.",
+canonicalForm: "Cleome scheffleri",
+italicisedForm: "<i>Cleome scheffleri </i>Briq. ",
+taxonConcept: {
+id: 152
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1648,
+name: "Decastemon hirtus Klotzsch",
+canonicalForm: "Decastemon hirtus",
+italicisedForm: "<i>Decastemon hirtus </i>Klotzsch ",
+taxonConcept: {
+id: 152
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:07:43Z",
+lastRevised: "2015-03-19T11:12:37Z",
+thumbnail: "http://portal.wikwio.org/biodiv/group_icons/speciesGroups/plants_th1.png",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CLEHI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CLEHI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 539,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CLEHI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541316,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 540,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Cleome hirta (Klotzsch) Oliv.",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541317,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3297,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CLEHI</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:12:36Z",
+lastUpdated: "2015-03-19T11:12:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763556996,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3298,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Cleome hirta (Klotzsch) Oliv.",
+dateCreated: "2015-03-19T11:12:37Z",
+lastUpdated: "2015-03-19T11:12:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763557893,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [ ],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

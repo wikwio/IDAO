@@ -1,0 +1,1891 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 14,
+title: "<i>Ageratum houstonianum </i>Mill. ",
+taxonConcept: {
+id: 41,
+name: "Ageratum houstonianum Mill.",
+canonicalForm: "Ageratum houstonianum",
+italicisedForm: "<i>Ageratum houstonianum </i>Mill. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 24,
+name: "Asteraceae",
+canonicalForm: "Asteraceae",
+italicisedForm: "<i>Asteraceae</i>",
+rank: "Family"
+},
+{
+id: 39,
+name: "Ageratum",
+canonicalForm: "Ageratum",
+italicisedForm: "<i>Ageratum</i>",
+rank: "Genus"
+},
+{
+id: 41,
+name: "Ageratum houstonianum Mill.",
+canonicalForm: "Ageratum houstonianum",
+italicisedForm: "<i>Ageratum houstonianum </i>Mill. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 223,
+name: "Ageratum conyzoides subsp. houstonianum (Mill.) M.Sharma",
+canonicalForm: "Ageratum conyzoides houstonianum",
+italicisedForm: "<i>Ageratum conyzoides </i>subsp.<i> houstonianum (</i>Mill.<i>) </i>M.Sharma ",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 224,
+name: "Ageratum conyzoides var. mexicanum (Sims) DC.",
+canonicalForm: "Ageratum conyzoides mexicanum",
+italicisedForm: "<i>Ageratum conyzoides </i>var.<i> mexicanum (</i>Sims<i>) </i>DC. ",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 225,
+name: "Ageratum houstonianum var. angustatum B.L.Rob.",
+canonicalForm: "Ageratum houstonianum angustatum",
+italicisedForm: "<i>Ageratum houstonianum </i>var.<i> angustatum </i>B.L.Rob. ",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 226,
+name: "Ageratum houstonianum f. luteum B.L.Rob.",
+canonicalForm: "Ageratum houstonianum luteum",
+italicisedForm: "<i>Ageratum houstonianum </i>f.<i> luteum </i>B.L.Rob. ",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 227,
+name: "Ageratum houstonianum f. niveum B.L.Rob.",
+canonicalForm: "Ageratum houstonianum niveum",
+italicisedForm: "<i>Ageratum houstonianum </i>f.<i> niveum </i>B.L.Rob. ",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 228,
+name: "Ageratum mexicanum Sweet [Illegitimate]",
+canonicalForm: "Ageratum mexicanum",
+italicisedForm: "<i>Ageratum mexicanum </i>Sweet<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 229,
+name: "Ageratum mexicanum f. caeruleum Voss",
+canonicalForm: "Ageratum mexicanum caeruleum",
+italicisedForm: "<i>Ageratum mexicanum </i>f.<i> caeruleum </i>Voss ",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 230,
+name: "Ageratum mexicanum f. lasseauxii (Carrière) Voss",
+canonicalForm: "Ageratum mexicanum lasseauxii",
+italicisedForm: "<i>Ageratum mexicanum </i>f.<i> lasseauxii (</i>Carrière<i>) </i>Voss ",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 231,
+name: "Ageratum mexicanum var. nanum Voss",
+canonicalForm: "Ageratum mexicanum nanum",
+italicisedForm: "<i>Ageratum mexicanum </i>var.<i> nanum </i>Voss ",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 232,
+name: "Ageratum mexicanum var. wendlandii Voss",
+canonicalForm: "Ageratum mexicanum wendlandii",
+italicisedForm: "<i>Ageratum mexicanum </i>var.<i> wendlandii </i>Voss ",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 233,
+name: "Ageratum wendlandii Hort. ex Vilm.",
+canonicalForm: "Ageratum wendlandii",
+italicisedForm: "<i>Ageratum wendlandii </i>Hort.<i> ex </i>Vilm. ",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 234,
+name: "Cacalia mentrasto Vell.",
+canonicalForm: "Cacalia mentrasto",
+italicisedForm: "<i>Cacalia mentrasto </i>Vell. ",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 235,
+name: "Carelia houstoniana (Mill.) Kuntze",
+canonicalForm: "Carelia houstoniana",
+italicisedForm: "<i>Carelia houstoniana (</i>Mill.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1687,
+name: "Mexikaanse ageratum",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 1688,
+name: "Tuin ageratum",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 1686,
+name: "Floss flower",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+language: {
+id: 123,
+name: "English"
+}
+},
+{
+id: 1689,
+name: "Garden ageratum",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+language: {
+id: 123,
+name: "English"
+}
+},
+{
+id: 1685,
+name: "Mexican ageratum",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+language: {
+id: 123,
+name: "English"
+}
+},
+{
+id: 1690,
+name: "Todd's curse",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+language: {
+id: 123,
+name: "English"
+}
+},
+{
+id: 1691,
+name: "Bemaimbo",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+language: {
+id: 283,
+name: "Malagasy"
+}
+},
+{
+id: 1692,
+name: "Herbe bouc",
+taxonConcept: {
+id: 41
+},
+isContributor: false,
+language: {
+id: 501,
+name: "Creoles and pidgins, French-based"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T16:56:07Z",
+lastRevised: "2015-03-19T11:02:22Z",
+thumbnail: "http://portal.wikwio.org/biodiv/group_icons/speciesGroups/plants_th1.png",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>AGEHO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>AGEHO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 137,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>AGEHO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T16:57:47Z",
+lastUpdated: "2014-09-24T16:58:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411577867518,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 136,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Ageratum houstonianum Mill.",
+dateCreated: "2014-09-24T16:57:47Z",
+lastUpdated: "2014-09-24T16:58:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411577867517,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2651,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Ageratum houstonianum est une plante herbacée (annuelle ou courtement pérenne) mesurant jusqu'à 1 m de hauteur. La tige est cylindrique et pleine, verte ou rougeâtre, et densément couverte de longs poils doux. Les feuilles sont simples et opposées, vert vif, douces, velues et légèrement aromatiques. Les fleurs sont disposées en ombelle terminale dense de capitules mauves, bleus, roses ou blancs, à l'extrémité des branches. Le fruit est un akène brun à noir surmonté de cinq soies blanches.</p>",
+dateCreated: "2015-03-19T11:02:22Z",
+lastUpdated: "2015-03-19T11:03:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762942868,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2628,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>AGEHO</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:02:20Z",
+lastUpdated: "2015-03-19T11:03:19Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762940921,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2642,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> Ageratum houstonianum est une plante herbac&eacute;e (annuelle ou courtement p&eacute;renne) mesurant jusqu&#39;&agrave; 1 m de hauteur. La tige est cylindrique et pleine, verte ou rouge&acirc;tre, et dens&eacute;ment couverte de longs poils doux. Les feuilles sont simples et oppos&eacute;es, vert vif, douces, velues et l&eacute;g&egrave;rement aromatiques. Les fleurs sont dispos&eacute;es en ombelle terminale dense de capitules mauves, bleus, roses ou blancs, &agrave; l&#39;extr&eacute;mit&eacute; des branches. Le fruit est un ak&egrave;ne brun &agrave; noir surmont&eacute; de cinq soies blanches.</p> <h6> Cotyl&eacute;dons</h6> <p> Cotyl&eacute;dons &agrave; limbe ovale &agrave; triangulaire, de 3 &agrave; 5,5 mm sur 3 &agrave; 5 mm, &agrave; sommet tronqu&eacute; &agrave; arrondi, port&eacute; par un p&eacute;tiole de 2 &agrave; 4 mm de long.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Les premi&egrave;res feuilles sont simples, oppos&eacute;es. Le limbe est triangulaire de 10 &agrave; 13 mm de long sur 8 &agrave; 11 mm de large, &agrave; base att&eacute;nu&eacute;e en p&eacute;tiole, &agrave; marge finement dent&eacute;e, p&eacute;tiole long de 5 &agrave; 7,5 mm</p> <h6> Port</h6> <p> C&#39;est une herbe annuelle buissonnante qui pousse jusqu&#39;&agrave; 1 m de haut. Les feuilles &eacute;cras&eacute;es sont l&eacute;g&egrave;rement aromatiques.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est pivotante.</p> <h6> Tige</h6> <p> Tige cylindrique, pleine, enti&egrave;rement recouverte de longs poils doux.</p> <h6> Feuille</h6> <p> Les feuilles sont simples et oppos&eacute;es. Le limbe est ovale, avec un p&eacute;tiole de longueur moyenne. La base est cord&eacute;e et le sommet est aigu &agrave; arrondi. La marge des feuilles est finement dentel&eacute;e, les deux faces des feuilles sont velues. La texture de est douce. Les feuilles &eacute;cras&eacute;es ont une l&eacute;g&egrave;re odeur.</p> <h6> Inflorescence</h6> <p> L&#39;inflorescence est form&eacute;e de nombreux capitules compacts assembl&eacute;s en une ombelle terminale.</p> <h6> Fleur</h6> <p> Chaque capitule (5-8 mm de diam&egrave;tre) a de nombreuses petites fleurs tubulaires qui sont entour&eacute;s par deux ou trois rang&eacute;es de bract&eacute;es verd&acirc;tres. Les bract&eacute;es (3-5 mm de long) sont de forme allong&eacute;e (lin&eacute;aires-lanc&eacute;ol&eacute;es) et couvertes de poils collants (pubescence glanduleuse). Les fleurons (2-3 mm de long) sont de couleur lavande, rose, violac&eacute; ou bleu. Chacun est surmont&eacute; des deux branches du style longues et filiformes.</p> <h6> Fruit</h6> <p> Le fruit est un ak&egrave;ne de 2 mm de long, brun &agrave; noir, et surmont&eacute; d&#39;un pappus de cinq &eacute;cailles longues d&rsquo;environ 2,5 mm, lanc&eacute;ol&eacute;es, acumin&eacute;es et r&eacute;tr&eacute;cies en une ar&ecirc;te gr&ecirc;le ; de couleur blanch&acirc;tre.</p> ",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-24T15:01:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941565,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2644,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Ageratum houstonianum Mill.",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-19T11:03:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941699,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2643,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "La floraison a lieu tout au long de l&#39;ann&eacute;e, principalement de mars &agrave; juin.<br /> ",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-24T15:02:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941633,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2648,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Ageratum houstonianum est une plante annuelle. Elle se multiplie par graines. Les fruits sont diss&eacute;min&eacute;s par le vent, les animaux et par l&rsquo;eau.<br /> ",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-24T15:02:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941987,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2645,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Originaire du Mexique, d'Amérique centrale et des Caraïbes.</p>",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-19T11:03:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941767,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2641,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Ageratum houstonianum est souvent confondu avec Ageratum conyzoides. Ces espèces peuvent être distinguées comme suit: Ageratum conyzoides est plus petit, moins robuste que A. houstonianum. Pubescence est généralement modérée à dense et la base des feuilles en général est obtuse ou largement en coin. Il n'a que quelques poils sur les bractées entourant ses capitules (les bractées sont glabres ou pubescentes). Chacune des petites fleurs (fleurons) qui composent les capitules ont un style à 2 branches courtes et étroites qui sont plus courts que chez A. houstonianum. Ageratum houstonianum est plus grand, plus robuste que A. conyzoides. Pubescence est habituellement dense et la base des feuilles en général est cordée à tronquée. Il a de nombreux poils collants sur les bractées entourant ses capitules (les bractées sont pubescent glandulaire). Chacune des petites fleurs qui composent les capitules ont deux branches de style longues et étroites.<br>",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-19T11:03:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941499,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2647,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Il pr&eacute;f&egrave;re les conditions humides et ombrag&eacute;es. Il se d&eacute;veloppe le long des routes, dans les zones perturb&eacute;es et le long des berges des rivi&egrave;res.<br /> <br /> <strong>Madagascar :</strong> L&#39;esp&egrave;ce se d&eacute;veloppe sur sols g&eacute;n&eacute;ralement assez fertiles de type ferrallitique, plus ou moins humide des terrasses et pentes, sous un climat humide (versant oriental de l&#39;&icirc;le) et sub humide des Hautes terres, sols humides mais assez bien drain&eacute;s. Terrains ensoleill&eacute; ou faiblement ombrag&eacute;, dans les syst&egrave;mes de culture &agrave; base de cultures mara&icirc;ch&egrave;res, de manioc, riz pluvial sur abattis-br&ucirc;lis en syst&egrave;me extensif ou semi-intensif<br /> Les zones agro-&eacute;cologiques concern&eacute;e &agrave; Madagascar sont les Hautes Terres centrales et le versant oriental de l&#39;&icirc;le.<br /> <strong>Maurice :</strong> Commune dans les champs de canne &agrave; sucre et sur le bord des routes, plus particuli&egrave;rement dans la zone perhumide.<br /> <strong>La R&eacute;union :</strong> Absente.",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-24T15:03:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941921,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2646,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Origine</h6> <p> Originaire du Mexique, d&#39;Am&eacute;rique centrale et des Cara&iuml;bes.<br /> <br /> <strong>R&eacute;partition mondiale</strong><br /> <br /> Am&eacute;rique du centre du Sud, Sud-est des USA, Sud de l&rsquo;Europe, Afrique australe et orientale, Sud-ouest de l&rsquo;Oc&eacute;an indien, Chine, Japon, Australie, Nouvelle Z&eacute;lande et &icirc;les du Pacifique.</p> ",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-24T15:04:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941833,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2649,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Globale</h6> <p> Mauvaise herbe commune des cultures annuelles; peut envahir les cultures p&eacute;rennes telles que la canne &agrave; sucre. &Agrave; l&#39;occasion, il peut constituer un probl&egrave;me important pour le coton o&ugrave; les ak&egrave;nes transport&eacute;s par le vent contaminent la fibre. Les graines sont &eacute;galement mentionn&eacute;es pour se coller dans la gorge des vaches et peuvent les &eacute;touffer et les tuer.</p> <h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Afrique du Sud :</strong> Pr&eacute;sent dans les provinces de Eastern Cape, Kwa-Zulu Natal, Limpopo et Mpumalanga. Consi&eacute;dr&eacute;e comme esp&egrave;ce de Cat&eacute;gorie 1. Nemba - Cat&eacute;gorie 1b<br /> <strong>Madagascar :</strong> Assez fr&eacute;quente avec une abondance variable dans les cultures de manioc, cultures p&eacute;rennes, riz sur d&eacute;friche-br&ucirc;lis, cultures mara&icirc;ch&egrave;res, sur les bords des chemins et des cultures.<br /> <strong>Maurice :</strong> Pr&eacute;sent mais peu abondante. Elle concurrence s&eacute;v&egrave;rement les jeunes cannes lorsqu&#39;elle est pr&eacute;sente en grand nombre.<br /> <strong>La R&eacute;union :</strong> Absente.</p> ",
+dateCreated: "2015-03-19T11:02:22Z",
+lastUpdated: "2015-03-24T15:06:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762942055,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2652,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Usages</h6> <p> <strong>Ornement :</strong> Plante fr&eacute;quemment utilis&eacute;e comme plante d&#39;ornement.<br /> <strong>M&eacute;dicinal :</strong> Anti-inflammatoire, cicatrisant</p> ",
+dateCreated: "2015-03-19T11:02:22Z",
+lastUpdated: "2015-03-24T15:08:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762942928,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2650,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Le d&eacute;sherbage manuel de l&#39;esp&egrave;ce n&#39;est pas recommand&eacute; en raison de ses effets allerg&egrave;nes. Les herbicides peuvent &ecirc;tre utilis&eacute;s dans les cultures en pr&eacute;-lev&eacute;e et/ou en post lev&eacute;e dirig&eacute;e.</p> <h6> Lutte Locale</h6> <p> <strong>Afrique du Sud :</strong> Au KNP il est contr&ocirc;l&eacute; par arrachage manuel.<br /> <strong>Madagascar :</strong> On utilise le sarclage &agrave; l&rsquo;angady ou l&rsquo;arrachage &agrave; la main pour lutter contre cette adventice dans les cultures mara&icirc;ch&egrave;res, cultures de manioc ou patate, cultures p&eacute;rennes et culture de riz sur d&eacute;friche br&ucirc;lis. L&rsquo;humidit&eacute; du sol peut limiter l&rsquo;efficacit&eacute; du sarclage manuel ; l&rsquo;arrachage manuel peut provoquer un ph&eacute;nom&egrave;ne d&rsquo;allergie.<br /> <strong>Maurice :</strong> Mauvaise herbe pouvant &ecirc;tre control&eacute;e mannuellement par arrachage ou par application d&#39;herbicide.<br /> <strong>La R&eacute;union :</strong> Absente.</p> ",
+dateCreated: "2015-03-19T11:02:22Z",
+lastUpdated: "2015-03-24T15:08:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762942145,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2634,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-31T06:52:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Invasive Species South Africa"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941399,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2633,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-31T06:52:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Flora of Zimbabwe"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941399,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2631,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-31T06:52:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941399,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2630,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-31T06:52:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B.W. A revised list of alien plants for the Kruger National Park. Koedoe"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941398,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2637,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-24T14:56:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941400,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2629,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-04-01T10:28:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=158660"
+},
+{
+title: "Bromilow, C. (2001), Problem plants of South Africa. Published by Briza Plublications CC , p. 212"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941398,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2638,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-31T06:52:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.invasives.org.za/item/219-mexican-ageratum|ageratum-houstonianum.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941400,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6629,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-04-17T15:00:04Z",
+lastUpdated: "2015-04-17T15:00:04Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [
+{
+title: "ANTOINE R., BOSSER J. & FERGUSON I.K. 1993 Flore des Mascareignes. La Réunion, Maurice, Rodrigues. 109 COMPOSEES p. 232-235"
+},
+{
+url: "http://www.prota4u.info"
+}
+],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1429282804249,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2639,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-31T06:52:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Ageratum_houstonianum_%28Blue_Billygoat_Weed%29.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941400,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2640,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-31T06:52:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.hear.org/pier/species/ageratum_houstonianum.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941400,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2632,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-04-17T15:00:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941399,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2636,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-31T06:52:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Pacific Island Ecosystems at Risk (PIER)"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941400,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2635,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:02:21Z",
+lastUpdated: "2015-03-31T06:52:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "BioNet-EAFRINET"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426762941399,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [ ],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

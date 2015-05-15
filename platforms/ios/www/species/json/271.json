@@ -1,0 +1,2792 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 271,
+title: "<i>Rhamphicarpa fistulosa (</i>Hochst.<i>) </i>Benth. ",
+taxonConcept: {
+id: 520,
+name: "Rhamphicarpa fistulosa (Hochst.) Benth.",
+canonicalForm: "Rhamphicarpa fistulosa",
+italicisedForm: "<i>Rhamphicarpa fistulosa (</i>Hochst.<i>) </i>Benth. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 518,
+name: "Orobanchaceae",
+canonicalForm: "Orobanchaceae",
+italicisedForm: "<i>Orobanchaceae</i>",
+rank: "Family"
+},
+{
+id: 519,
+name: "Rhamphicarpa",
+canonicalForm: "Rhamphicarpa",
+italicisedForm: "<i>Rhamphicarpa</i>",
+rank: "Genus"
+},
+{
+id: 520,
+name: "Rhamphicarpa fistulosa (Hochst.) Benth.",
+canonicalForm: "Rhamphicarpa fistulosa",
+italicisedForm: "<i>Rhamphicarpa fistulosa (</i>Hochst.<i>) </i>Benth. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 5759,
+name: "Buchnera longiflora Arn.",
+canonicalForm: "Buchnera longiflora",
+italicisedForm: "<i>Buchnera longiflora </i>Arn. ",
+taxonConcept: {
+id: 520
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5760,
+name: "Macrosiphon elongatus Hochst.",
+canonicalForm: "Macrosiphon elongatus",
+italicisedForm: "<i>Macrosiphon elongatus </i>Hochst. ",
+taxonConcept: {
+id: 520
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5761,
+name: "Macrosiphon fistulosus Hochst.",
+canonicalForm: "Macrosiphon fistulosus",
+italicisedForm: "<i>Macrosiphon fistulosus </i>Hochst. ",
+taxonConcept: {
+id: 520
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5762,
+name: "Rhamphicarpa australiensis Steenis",
+canonicalForm: "Rhamphicarpa australiensis",
+italicisedForm: "<i>Rhamphicarpa australiensis </i>Steenis ",
+taxonConcept: {
+id: 520
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5763,
+name: "Rhamphicarpa elongata (Hochst.) O.J.Hansen",
+canonicalForm: "Rhamphicarpa elongata",
+italicisedForm: "<i>Rhamphicarpa elongata (</i>Hochst.<i>) </i>O.J.Hansen ",
+taxonConcept: {
+id: 520
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5764,
+name: "Rhamphicarpa longiflora Benth.",
+canonicalForm: "Rhamphicarpa longiflora",
+italicisedForm: "<i>Rhamphicarpa longiflora </i>Benth. ",
+taxonConcept: {
+id: 520
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1285,
+name: "Afoandoha",
+taxonConcept: {
+id: 520
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1283,
+name: "Angamaibe",
+taxonConcept: {
+id: 520
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1284,
+name: "Angamay",
+taxonConcept: {
+id: 520
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:24:37Z",
+lastRevised: "2015-03-19T12:02:04Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131116_th1.jpg",
+notes: "<h6>Biological Type</h6><p>parasitic</p><h6>Code</h6><p>RPCLO</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>parasitic</p><h6>Code</h6><p>RPCLO</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1937,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>parasitic</p><h6>Code</h6><p>RPCLO</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216164,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1923,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>10-60 mm long, reduced pinnatisect (very fine) green leaves (Hansen, 1975; Philcox, 1990)</p><h6>General Habit</h6><p>Annual, facultative hemi-parasitic forb, 5-60 cm, but locally (e.g. southern Tanzania) up to 80 cm</p><h6>Underground System</h6><p>Fibrous root system: branched, white and often connected to grass (Poaceae) host plant roots.</p><h6>Flower</h6><p>Solitary in axils of, or just above, bracts. Pedicels 9-20 mm long. Bracteoles 1-5 mm long, inserted near midway on pedicel. Calyx 3.5-9 mm long; tube 0.5-2 mm long, 1-4 mm in diameter; lobes ovate at base with revolute margins, 2-5 mm long, filiform. Corolla white, cream, pale pink or pale blue (white form most common in Africa), externally stipitate-glandular; tube 25-30 mm long, 1 mm broad below, 1.5-2 mm broad above, straight or slightly curved; lobes 6-9 x 5-8 mm, circular to spathilate, rounded; corolla long persisting around the maturing capsule. Stamens inserted. Anthers 2-3.5 mm long. Ovary 3-4 x 1.5-2 mm. Style 17-30 mm long slightly exerted. Capsule 7-10 mm long to apex of beak, 4-7 mm broad, winged along sutures.</p><h6>Fruit</h6><p>Fruit is an asymmetrical, neatly beaked capsule about the size of a small pea with 100-250 small brown seeds.</p><h6>Seed</h6><p>Seeds are oval shaped, broader at the chalazal and the outer seed coat forms a reticulate network covered by prominent ridges and devoid of any protuberances; seed size: 200-550 ?m (Ou?draogo et al., 1999) 1000-seed weight: 11.3 mg (Rodenburg et al., 2011); Seeds have a 6-month dormancy period and require water and daylight for germination (Ou?draogo et al., 1999).</p><h6>Stem</h6><p>Simple or much branched</p>",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216123,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1928,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Rhamphicarpa fistulosa (Hochst.) Benth.",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216130,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1938,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Sexual (seed), presumably pollinated by night moths (Parker and Riches, 1993)<br>",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216165,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1932,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Semi-aquatic, growing in peaty soils over rock substratum, on or between rocks on shallow, slow running streams, but more frequently in grassy swamps, temporary or permanently flooded areas like inland valley swamps and poorly drained rain-fed lowland rice fields (e.g. Rodenburg et al., 2010, 2011; Ou?draogo et al., 1999; Hansen, 1975)<br>",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216152,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1925,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Sub saharan Africa, Botswana, Malawi, Mozambique, Zambia, Zimbabwe, Tanzania, Benin, Burkina Faso, Mali, Senegal, Guinea (Conakry), Madagascar</p><h6>Origin</h6><p>Sub-Saharan Africa, wide spread</p>",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216126,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1939,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>Not yet considered to be a widespread problem, however, it has the potential to become more important in the near future (Raynal-Roques, 1994; Rodenburg et al., 2010). It parasitizes on cereal crops like rice and there are indications that it is increasingly occurring on rain-fed lowland rice (Rodenburg et al., 2011).</p><h6>Local Weediness</h6><p>Tanzania: Rare but abundant when present Uganda:Rare but abundant when present</p>",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216165,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1926,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Genetic variation in resistance and tolerance levels was observed among rice cultivars; fertilizer applications significantly reduced parasite numbers, biomass and negative host effects (Rodenburg et al., 2011). It is also hypothesized that improved water management (flooding) can reduce Rhamphicarpa abundance. Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216127,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1930,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-04-01T13:04:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Rodenburg J, Zossou N, Gbehounou G, Ahanchede A, Touré A., Kyalo G, Kiepe P, 2011. Rhamphicarpa fistulosa, a parasitic weed threatening rain-fed lowland rice production in sub-Saharan Africa - A case study from Benin. Crop Protection 30, 1306-1314"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Kuijt, J., 1969. The biology of parasitic flowering plants. University of California Press, Berkeley"
+},
+{
+title: "Philcox, D. 1990. Scrophulariaceae. Flora Zambesiaca 8, 1-179 (http://plants.jstor.org/flora/fz6298)"
+},
+{
+title: "Cissé, J., Camara, M., Berner, D.K., Musselman, L.J., 1996. Rhamphicarpa fistulosa (Scrophulariaceae) damages rice in Guinea, In: Moreno, M.T., Cubero, J.I., Berner, D.K., Joel, D., Musselman, L.J., Parker, C. (Eds.), Advances in parasitic plant research: 6th Parasitic Weeds Symposium, Cordoba, Spain, pp. 518-520"
+},
+{
+title: "Rodenburg, J., Riches, C.R., Kayeke, J.M., 2010. Addressing current and future problems of parasitic weeds in rice. Crop Prot. 29, 210-221"
+},
+{
+title: "Hansen, O.J., 1975. The genus Rhamphicarpa Benth. emend. Engl. (Scrophulariaceae). A taxonomic revision. Botanisk Tidsskrift 70, 103-125"
+},
+{
+title: "Raynal Roques, A., 1994. Major, minor and potential parasitic weeds in semi-arid tropical Africa: the example of Scrophulariaceae, in: Pieterse, A.H., Verkleij, J.A.C., ter Borg, S.J. (Eds.), Biology and management of Orobanche, Proceedings of the Third International Workshop on Orobanche and related Striga research. Royal Tropical Institute, Amsterdam, pp. 400-405"
+},
+{
+title: "Ouédraogo, O., Neumann, U., Raynal Roques, A., Sallé, G., Tuquet, C., Dembélé, B., 1999. New insights concerning the ecology and the biology of Rhamphicarpa fistulosa (Scrophulariaceae). Weed Res. 39, 159-169"
+},
+{
+title: "Parker C, Riches CR (1993) Parasitic Weeds of the World: Biology and Control. CAB International, Wallingford, UK"
+},
+{
+title: "Neumann, U., Sallé, G., Weber, H.C., 1998. Development and structure of the haustorium of the parasite Rhamphicarpa fistulosa (Scrophulariaceae). Botanica Acta 111, 354-365"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216147,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1931,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-04-01T13:04:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Rodenburg, J., Riches, C.R., Kayeke, J.M., 2010. Addressing current and future problems of parasitic weeds in rice. Crop Prot. 29, 210-221"
+},
+{
+title: "Hansen, O.J., 1975. The genus Rhamphicarpa Benth. emend. Engl. (Scrophulariaceae). A taxonomic revision. Botanisk Tidsskrift 70, 103-125"
+},
+{
+title: "Cissé, J., Camara, M., Berner, D.K., Musselman, L.J., 1996. Rhamphicarpa fistulosa (Scrophulariaceae) damages rice in Guinea, In: Moreno, M.T., Cubero, J.I., Berner, D.K., Joel, D., Musselman, L.J., Parker, C. (Eds.), Advances in parasitic plant research: 6th Parasitic Weeds Symposium, Cordoba, Spain, pp. 518-520"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Kuijt, J., 1969. The biology of parasitic flowering plants. University of California Press, Berkeley"
+},
+{
+title: "Philcox, D. 1990. Scrophulariaceae. Flora Zambesiaca 8, 1-179 (http://plants.jstor.org/flora/fz6298)"
+},
+{
+title: "Parker C, Riches CR (1993) Parasitic Weeds of the World: Biology and Control. CAB International, Wallingford, UK"
+},
+{
+title: "Rodenburg J, Zossou N, Gbehounou G, Ahanchede A, Touré A., Kyalo G, Kiepe P, 2011. Rhamphicarpa fistulosa, a parasitic weed threatening rain-fed lowland rice production in sub-Saharan Africa - A case study from Benin. Crop Protection 30, 1306-1314"
+},
+{
+title: "Neumann, U., Sallé, G., Weber, H.C., 1998. Development and structure of the haustorium of the parasite Rhamphicarpa fistulosa (Scrophulariaceae). Botanica Acta 111, 354-365"
+},
+{
+title: "Raynal Roques, A., 1994. Major, minor and potential parasitic weeds in semi-arid tropical Africa: the example of Scrophulariaceae, in: Pieterse, A.H., Verkleij, J.A.C., ter Borg, S.J. (Eds.), Biology and management of Orobanche, Proceedings of the Third International Workshop on Orobanche and related Striga research. Royal Tropical Institute, Amsterdam, pp. 400-405"
+},
+{
+title: "Ouédraogo, O., Neumann, U., Raynal Roques, A., Sallé, G., Tuquet, C., Dembélé, B., 1999. New insights concerning the ecology and the biology of Rhamphicarpa fistulosa (Scrophulariaceae). Weed Res. 39, 159-169"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216150,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1933,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-04-01T13:04:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Philcox, D. 1990. Scrophulariaceae. Flora Zambesiaca 8, 1-179 (http://plants.jstor.org/flora/fz6298)"
+},
+{
+title: "Rodenburg J, Zossou N, Gbehounou G, Ahanchede A, Touré A., Kyalo G, Kiepe P, 2011. Rhamphicarpa fistulosa, a parasitic weed threatening rain-fed lowland rice production in sub-Saharan Africa - A case study from Benin. Crop Protection 30, 1306-1314"
+},
+{
+title: "Ouédraogo, O., Neumann, U., Raynal Roques, A., Sallé, G., Tuquet, C., Dembélé, B., 1999. New insights concerning the ecology and the biology of Rhamphicarpa fistulosa (Scrophulariaceae). Weed Res. 39, 159-169"
+},
+{
+title: "Raynal Roques, A., 1994. Major, minor and potential parasitic weeds in semi-arid tropical Africa: the example of Scrophulariaceae, in: Pieterse, A.H., Verkleij, J.A.C., ter Borg, S.J. (Eds.), Biology and management of Orobanche, Proceedings of the Third International Workshop on Orobanche and related Striga research. Royal Tropical Institute, Amsterdam, pp. 400-405"
+},
+{
+title: "Hansen, O.J., 1975. The genus Rhamphicarpa Benth. emend. Engl. (Scrophulariaceae). A taxonomic revision. Botanisk Tidsskrift 70, 103-125"
+},
+{
+title: "Neumann, U., Sallé, G., Weber, H.C., 1998. Development and structure of the haustorium of the parasite Rhamphicarpa fistulosa (Scrophulariaceae). Botanica Acta 111, 354-365"
+},
+{
+title: "Kuijt, J., 1969. The biology of parasitic flowering plants. University of California Press, Berkeley"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Cissé, J., Camara, M., Berner, D.K., Musselman, L.J., 1996. Rhamphicarpa fistulosa (Scrophulariaceae) damages rice in Guinea, In: Moreno, M.T., Cubero, J.I., Berner, D.K., Joel, D., Musselman, L.J., Parker, C. (Eds.), Advances in parasitic plant research: 6th Parasitic Weeds Symposium, Cordoba, Spain, pp. 518-520"
+},
+{
+title: "Parker C, Riches CR (1993) Parasitic Weeds of the World: Biology and Control. CAB International, Wallingford, UK"
+},
+{
+title: "Rodenburg, J., Riches, C.R., Kayeke, J.M., 2010. Addressing current and future problems of parasitic weeds in rice. Crop Prot. 29, 210-221"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216154,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1935,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-03-08T03:37:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Cissé, J., Camara, M., Berner, D.K., Musselman, L.J., 1996. Rhamphicarpa fistulosa (Scrophulariaceae) damages rice in Guinea, In: Moreno, M.T., Cubero, J.I., Berner, D.K., Joel, D., Musselman, L.J., Parker, C. (Eds.), Advances in parasitic plant research: 6th Parasitic Weeds Symposium, Cordoba, Spain, pp. 518-520"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Neumann, U., Sallé, G., Weber, H.C., 1998. Development and structure of the haustorium of the parasite Rhamphicarpa fistulosa (Scrophulariaceae). Botanica Acta 111, 354-365"
+},
+{
+title: "Hansen, O.J., 1975. The genus Rhamphicarpa Benth. emend. Engl. (Scrophulariaceae). A taxonomic revision. Botanisk Tidsskrift 70, 103-125"
+},
+{
+title: "Ouédraogo, O., Neumann, U., Raynal Roques, A., Sallé, G., Tuquet, C., Dembélé, B., 1999. New insights concerning the ecology and the biology of Rhamphicarpa fistulosa (Scrophulariaceae). Weed Res. 39, 159-169"
+},
+{
+title: "Raynal Roques, A., 1994. Major, minor and potential parasitic weeds in semi-arid tropical Africa: the example of Scrophulariaceae, in: Pieterse, A.H., Verkleij, J.A.C., ter Borg, S.J. (Eds.), Biology and management of Orobanche, Proceedings of the Third International Workshop on Orobanche and related Striga research. Royal Tropical Institute, Amsterdam, pp. 400-405"
+},
+{
+title: "Rodenburg, J., Riches, C.R., Kayeke, J.M., 2010. Addressing current and future problems of parasitic weeds in rice. Crop Prot. 29, 210-221"
+},
+{
+title: "Parker C, Riches CR (1993) Parasitic Weeds of the World: Biology and Control. CAB International, Wallingford, UK"
+},
+{
+title: "Kuijt, J., 1969. The biology of parasitic flowering plants. University of California Press, Berkeley"
+},
+{
+title: "Rodenburg J, Zossou N, Gbehounou G, Ahanchede A, Touré A., Kyalo G, Kiepe P, 2011. Rhamphicarpa fistulosa, a parasitic weed threatening rain-fed lowland rice production in sub-Saharan Africa - A case study from Benin. Crop Protection 30, 1306-1314"
+},
+{
+title: "Philcox, D. 1990. Scrophulariaceae. Flora Zambesiaca 8, 1-179 (http://plants.jstor.org/flora/fz6298)"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216158,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1922,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-04-01T13:04:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Philcox, D. 1990. Scrophulariaceae. Flora Zambesiaca 8, 1-179 (http://plants.jstor.org/flora/fz6298)"
+},
+{
+title: "Ouédraogo, O., Neumann, U., Raynal Roques, A., Sallé, G., Tuquet, C., Dembélé, B., 1999. New insights concerning the ecology and the biology of Rhamphicarpa fistulosa (Scrophulariaceae). Weed Res. 39, 159-169"
+},
+{
+title: "Parker C, Riches CR (1993) Parasitic Weeds of the World: Biology and Control. CAB International, Wallingford, UK"
+},
+{
+title: "Hansen, O.J., 1975. The genus Rhamphicarpa Benth. emend. Engl. (Scrophulariaceae). A taxonomic revision. Botanisk Tidsskrift 70, 103-125"
+},
+{
+title: "Kuijt, J., 1969. The biology of parasitic flowering plants. University of California Press, Berkeley"
+},
+{
+title: "Neumann, U., Sallé, G., Weber, H.C., 1998. Development and structure of the haustorium of the parasite Rhamphicarpa fistulosa (Scrophulariaceae). Botanica Acta 111, 354-365"
+},
+{
+title: "Raynal Roques, A., 1994. Major, minor and potential parasitic weeds in semi-arid tropical Africa: the example of Scrophulariaceae, in: Pieterse, A.H., Verkleij, J.A.C., ter Borg, S.J. (Eds.), Biology and management of Orobanche, Proceedings of the Third International Workshop on Orobanche and related Striga research. Royal Tropical Institute, Amsterdam, pp. 400-405"
+},
+{
+title: "Rodenburg, J., Riches, C.R., Kayeke, J.M., 2010. Addressing current and future problems of parasitic weeds in rice. Crop Prot. 29, 210-221"
+},
+{
+title: "Rodenburg J, Zossou N, Gbehounou G, Ahanchede A, Touré A., Kyalo G, Kiepe P, 2011. Rhamphicarpa fistulosa, a parasitic weed threatening rain-fed lowland rice production in sub-Saharan Africa - A case study from Benin. Crop Protection 30, 1306-1314"
+},
+{
+title: "Cissé, J., Camara, M., Berner, D.K., Musselman, L.J., 1996. Rhamphicarpa fistulosa (Scrophulariaceae) damages rice in Guinea, In: Moreno, M.T., Cubero, J.I., Berner, D.K., Joel, D., Musselman, L.J., Parker, C. (Eds.), Advances in parasitic plant research: 6th Parasitic Weeds Symposium, Cordoba, Spain, pp. 518-520"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216121,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1924,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-04-01T13:04:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hansen, O.J., 1975. The genus Rhamphicarpa Benth. emend. Engl. (Scrophulariaceae). A taxonomic revision. Botanisk Tidsskrift 70, 103-125"
+},
+{
+title: "Neumann, U., Sallé, G., Weber, H.C., 1998. Development and structure of the haustorium of the parasite Rhamphicarpa fistulosa (Scrophulariaceae). Botanica Acta 111, 354-365"
+},
+{
+title: "Rodenburg J, Zossou N, Gbehounou G, Ahanchede A, Touré A., Kyalo G, Kiepe P, 2011. Rhamphicarpa fistulosa, a parasitic weed threatening rain-fed lowland rice production in sub-Saharan Africa - A case study from Benin. Crop Protection 30, 1306-1314"
+},
+{
+title: "Ouédraogo, O., Neumann, U., Raynal Roques, A., Sallé, G., Tuquet, C., Dembélé, B., 1999. New insights concerning the ecology and the biology of Rhamphicarpa fistulosa (Scrophulariaceae). Weed Res. 39, 159-169"
+},
+{
+title: "Parker C, Riches CR (1993) Parasitic Weeds of the World: Biology and Control. CAB International, Wallingford, UK"
+},
+{
+title: "Kuijt, J., 1969. The biology of parasitic flowering plants. University of California Press, Berkeley"
+},
+{
+title: "Rodenburg, J., Riches, C.R., Kayeke, J.M., 2010. Addressing current and future problems of parasitic weeds in rice. Crop Prot. 29, 210-221"
+},
+{
+title: "Philcox, D. 1990. Scrophulariaceae. Flora Zambesiaca 8, 1-179 (http://plants.jstor.org/flora/fz6298)"
+},
+{
+title: "Cissé, J., Camara, M., Berner, D.K., Musselman, L.J., 1996. Rhamphicarpa fistulosa (Scrophulariaceae) damages rice in Guinea, In: Moreno, M.T., Cubero, J.I., Berner, D.K., Joel, D., Musselman, L.J., Parker, C. (Eds.), Advances in parasitic plant research: 6th Parasitic Weeds Symposium, Cordoba, Spain, pp. 518-520"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Raynal Roques, A., 1994. Major, minor and potential parasitic weeds in semi-arid tropical Africa: the example of Scrophulariaceae, in: Pieterse, A.H., Verkleij, J.A.C., ter Borg, S.J. (Eds.), Biology and management of Orobanche, Proceedings of the Third International Workshop on Orobanche and related Striga research. Royal Tropical Institute, Amsterdam, pp. 400-405"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216124,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1934,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-03-30T00:10:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Kuijt, J., 1969. The biology of parasitic flowering plants. University of California Press, Berkeley"
+},
+{
+title: "Neumann, U., Sallé, G., Weber, H.C., 1998. Development and structure of the haustorium of the parasite Rhamphicarpa fistulosa (Scrophulariaceae). Botanica Acta 111, 354-365"
+},
+{
+title: "Rodenburg J, Zossou N, Gbehounou G, Ahanchede A, Touré A., Kyalo G, Kiepe P, 2011. Rhamphicarpa fistulosa, a parasitic weed threatening rain-fed lowland rice production in sub-Saharan Africa - A case study from Benin. Crop Protection 30, 1306-1314"
+},
+{
+title: "Rodenburg, J., Riches, C.R., Kayeke, J.M., 2010. Addressing current and future problems of parasitic weeds in rice. Crop Prot. 29, 210-221"
+},
+{
+title: "Ouédraogo, O., Neumann, U., Raynal Roques, A., Sallé, G., Tuquet, C., Dembélé, B., 1999. New insights concerning the ecology and the biology of Rhamphicarpa fistulosa (Scrophulariaceae). Weed Res. 39, 159-169"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Cissé, J., Camara, M., Berner, D.K., Musselman, L.J., 1996. Rhamphicarpa fistulosa (Scrophulariaceae) damages rice in Guinea, In: Moreno, M.T., Cubero, J.I., Berner, D.K., Joel, D., Musselman, L.J., Parker, C. (Eds.), Advances in parasitic plant research: 6th Parasitic Weeds Symposium, Cordoba, Spain, pp. 518-520"
+},
+{
+title: "Raynal Roques, A., 1994. Major, minor and potential parasitic weeds in semi-arid tropical Africa: the example of Scrophulariaceae, in: Pieterse, A.H., Verkleij, J.A.C., ter Borg, S.J. (Eds.), Biology and management of Orobanche, Proceedings of the Third International Workshop on Orobanche and related Striga research. Royal Tropical Institute, Amsterdam, pp. 400-405"
+},
+{
+title: "Hansen, O.J., 1975. The genus Rhamphicarpa Benth. emend. Engl. (Scrophulariaceae). A taxonomic revision. Botanisk Tidsskrift 70, 103-125"
+},
+{
+title: "Parker C, Riches CR (1993) Parasitic Weeds of the World: Biology and Control. CAB International, Wallingford, UK"
+},
+{
+title: "Philcox, D. 1990. Scrophulariaceae. Flora Zambesiaca 8, 1-179 (http://plants.jstor.org/flora/fz6298)"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216156,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1936,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-04-01T13:04:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Philcox, D. 1990. Scrophulariaceae. Flora Zambesiaca 8, 1-179 (http://plants.jstor.org/flora/fz6298)"
+},
+{
+title: "Rodenburg J, Zossou N, Gbehounou G, Ahanchede A, Touré A., Kyalo G, Kiepe P, 2011. Rhamphicarpa fistulosa, a parasitic weed threatening rain-fed lowland rice production in sub-Saharan Africa - A case study from Benin. Crop Protection 30, 1306-1314"
+},
+{
+title: "Ouédraogo, O., Neumann, U., Raynal Roques, A., Sallé, G., Tuquet, C., Dembélé, B., 1999. New insights concerning the ecology and the biology of Rhamphicarpa fistulosa (Scrophulariaceae). Weed Res. 39, 159-169"
+},
+{
+title: "Raynal Roques, A., 1994. Major, minor and potential parasitic weeds in semi-arid tropical Africa: the example of Scrophulariaceae, in: Pieterse, A.H., Verkleij, J.A.C., ter Borg, S.J. (Eds.), Biology and management of Orobanche, Proceedings of the Third International Workshop on Orobanche and related Striga research. Royal Tropical Institute, Amsterdam, pp. 400-405"
+},
+{
+title: "Neumann, U., Sallé, G., Weber, H.C., 1998. Development and structure of the haustorium of the parasite Rhamphicarpa fistulosa (Scrophulariaceae). Botanica Acta 111, 354-365"
+},
+{
+title: "Hansen, O.J., 1975. The genus Rhamphicarpa Benth. emend. Engl. (Scrophulariaceae). A taxonomic revision. Botanisk Tidsskrift 70, 103-125"
+},
+{
+title: "Parker C, Riches CR (1993) Parasitic Weeds of the World: Biology and Control. CAB International, Wallingford, UK"
+},
+{
+title: "Rodenburg, J., Riches, C.R., Kayeke, J.M., 2010. Addressing current and future problems of parasitic weeds in rice. Crop Prot. 29, 210-221"
+},
+{
+title: "Kuijt, J., 1969. The biology of parasitic flowering plants. University of California Press, Berkeley"
+},
+{
+title: "Cissé, J., Camara, M., Berner, D.K., Musselman, L.J., 1996. Rhamphicarpa fistulosa (Scrophulariaceae) damages rice in Guinea, In: Moreno, M.T., Cubero, J.I., Berner, D.K., Joel, D., Musselman, L.J., Parker, C. (Eds.), Advances in parasitic plant research: 6th Parasitic Weeds Symposium, Cordoba, Spain, pp. 518-520"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216161,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1940,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-04-01T13:04:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Kuijt, J., 1969. The biology of parasitic flowering plants. University of California Press, Berkeley"
+},
+{
+title: "Neumann, U., Sallé, G., Weber, H.C., 1998. Development and structure of the haustorium of the parasite Rhamphicarpa fistulosa (Scrophulariaceae). Botanica Acta 111, 354-365"
+},
+{
+title: "Raynal Roques, A., 1994. Major, minor and potential parasitic weeds in semi-arid tropical Africa: the example of Scrophulariaceae, in: Pieterse, A.H., Verkleij, J.A.C., ter Borg, S.J. (Eds.), Biology and management of Orobanche, Proceedings of the Third International Workshop on Orobanche and related Striga research. Royal Tropical Institute, Amsterdam, pp. 400-405"
+},
+{
+title: "Hansen, O.J., 1975. The genus Rhamphicarpa Benth. emend. Engl. (Scrophulariaceae). A taxonomic revision. Botanisk Tidsskrift 70, 103-125"
+},
+{
+title: "Ouédraogo, O., Neumann, U., Raynal Roques, A., Sallé, G., Tuquet, C., Dembélé, B., 1999. New insights concerning the ecology and the biology of Rhamphicarpa fistulosa (Scrophulariaceae). Weed Res. 39, 159-169"
+},
+{
+title: "Rodenburg, J., Riches, C.R., Kayeke, J.M., 2010. Addressing current and future problems of parasitic weeds in rice. Crop Prot. 29, 210-221"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Parker C, Riches CR (1993) Parasitic Weeds of the World: Biology and Control. CAB International, Wallingford, UK"
+},
+{
+title: "Philcox, D. 1990. Scrophulariaceae. Flora Zambesiaca 8, 1-179 (http://plants.jstor.org/flora/fz6298)"
+},
+{
+title: "Rodenburg J, Zossou N, Gbehounou G, Ahanchede A, Touré A., Kyalo G, Kiepe P, 2011. Rhamphicarpa fistulosa, a parasitic weed threatening rain-fed lowland rice production in sub-Saharan Africa - A case study from Benin. Crop Protection 30, 1306-1314"
+},
+{
+title: "Cissé, J., Camara, M., Berner, D.K., Musselman, L.J., 1996. Rhamphicarpa fistulosa (Scrophulariaceae) damages rice in Guinea, In: Moreno, M.T., Cubero, J.I., Berner, D.K., Joel, D., Musselman, L.J., Parker, C. (Eds.), Advances in parasitic plant research: 6th Parasitic Weeds Symposium, Cordoba, Spain, pp. 518-520"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216166,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1927,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-04-01T13:04:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Kuijt, J., 1969. The biology of parasitic flowering plants. University of California Press, Berkeley"
+},
+{
+title: "Hansen, O.J., 1975. The genus Rhamphicarpa Benth. emend. Engl. (Scrophulariaceae). A taxonomic revision. Botanisk Tidsskrift 70, 103-125"
+},
+{
+title: "Rodenburg J, Zossou N, Gbehounou G, Ahanchede A, Touré A., Kyalo G, Kiepe P, 2011. Rhamphicarpa fistulosa, a parasitic weed threatening rain-fed lowland rice production in sub-Saharan Africa - A case study from Benin. Crop Protection 30, 1306-1314"
+},
+{
+title: "Raynal Roques, A., 1994. Major, minor and potential parasitic weeds in semi-arid tropical Africa: the example of Scrophulariaceae, in: Pieterse, A.H., Verkleij, J.A.C., ter Borg, S.J. (Eds.), Biology and management of Orobanche, Proceedings of the Third International Workshop on Orobanche and related Striga research. Royal Tropical Institute, Amsterdam, pp. 400-405"
+},
+{
+title: "Ouédraogo, O., Neumann, U., Raynal Roques, A., Sallé, G., Tuquet, C., Dembélé, B., 1999. New insights concerning the ecology and the biology of Rhamphicarpa fistulosa (Scrophulariaceae). Weed Res. 39, 159-169"
+},
+{
+title: "Cissé, J., Camara, M., Berner, D.K., Musselman, L.J., 1996. Rhamphicarpa fistulosa (Scrophulariaceae) damages rice in Guinea, In: Moreno, M.T., Cubero, J.I., Berner, D.K., Joel, D., Musselman, L.J., Parker, C. (Eds.), Advances in parasitic plant research: 6th Parasitic Weeds Symposium, Cordoba, Spain, pp. 518-520"
+},
+{
+title: "Neumann, U., Sallé, G., Weber, H.C., 1998. Development and structure of the haustorium of the parasite Rhamphicarpa fistulosa (Scrophulariaceae). Botanica Acta 111, 354-365"
+},
+{
+title: "Rodenburg, J., Riches, C.R., Kayeke, J.M., 2010. Addressing current and future problems of parasitic weeds in rice. Crop Prot. 29, 210-221"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Parker C, Riches CR (1993) Parasitic Weeds of the World: Biology and Control. CAB International, Wallingford, UK"
+},
+{
+title: "Philcox, D. 1990. Scrophulariaceae. Flora Zambesiaca 8, 1-179 (http://plants.jstor.org/flora/fz6298)"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216127,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1929,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-04-01T13:04:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Parker C, Riches CR (1993) Parasitic Weeds of the World: Biology and Control. CAB International, Wallingford, UK"
+},
+{
+title: "Kuijt, J., 1969. The biology of parasitic flowering plants. University of California Press, Berkeley"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Rodenburg, J., Riches, C.R., Kayeke, J.M., 2010. Addressing current and future problems of parasitic weeds in rice. Crop Prot. 29, 210-221"
+},
+{
+title: "Raynal Roques, A., 1994. Major, minor and potential parasitic weeds in semi-arid tropical Africa: the example of Scrophulariaceae, in: Pieterse, A.H., Verkleij, J.A.C., ter Borg, S.J. (Eds.), Biology and management of Orobanche, Proceedings of the Third International Workshop on Orobanche and related Striga research. Royal Tropical Institute, Amsterdam, pp. 400-405"
+},
+{
+title: "Ouédraogo, O., Neumann, U., Raynal Roques, A., Sallé, G., Tuquet, C., Dembélé, B., 1999. New insights concerning the ecology and the biology of Rhamphicarpa fistulosa (Scrophulariaceae). Weed Res. 39, 159-169"
+},
+{
+title: "Philcox, D. 1990. Scrophulariaceae. Flora Zambesiaca 8, 1-179 (http://plants.jstor.org/flora/fz6298)"
+},
+{
+title: "Neumann, U., Sallé, G., Weber, H.C., 1998. Development and structure of the haustorium of the parasite Rhamphicarpa fistulosa (Scrophulariaceae). Botanica Acta 111, 354-365"
+},
+{
+title: "Hansen, O.J., 1975. The genus Rhamphicarpa Benth. emend. Engl. (Scrophulariaceae). A taxonomic revision. Botanisk Tidsskrift 70, 103-125"
+},
+{
+title: "Rodenburg J, Zossou N, Gbehounou G, Ahanchede A, Touré A., Kyalo G, Kiepe P, 2011. Rhamphicarpa fistulosa, a parasitic weed threatening rain-fed lowland rice production in sub-Saharan Africa - A case study from Benin. Crop Protection 30, 1306-1314"
+},
+{
+title: "Cissé, J., Camara, M., Berner, D.K., Musselman, L.J., 1996. Rhamphicarpa fistulosa (Scrophulariaceae) damages rice in Guinea, In: Moreno, M.T., Cubero, J.I., Berner, D.K., Joel, D., Musselman, L.J., Parker, C. (Eds.), Advances in parasitic plant research: 6th Parasitic Weeds Symposium, Cordoba, Spain, pp. 518-520"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216145,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5683,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Rhamphicarpa fistulosa est une herbe parasite annuelle à tige grêle simple à très ramifiée, atteignant 40 cm de hauteur, à port souvent courbé. Elle devient noire en se desséchant. Les feuilles sont opposées, subopposées, filiformes, simples ou profondément divisées en 1 à 3 paires de segments filiformes et un segment terminal, généralement de 1 à plus de 4 cm de long. Les fleurs sont solitaires, à la base des feuilles ou terminales, en tube étroit s'évasant à l'extrémité, long de 2 à 4 cm, de couleur blanche, crème ou rose pâle. Le fruit est une capsule de 7 à 10 mm de long surmonté d'un bec recourbé.</p>",
+dateCreated: "2015-03-19T12:02:04Z",
+lastUpdated: "2015-03-19T12:02:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766524744,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5674,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>RPCLO</p><h6>Type Biologique</h6><p>parasite</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>bas-fond humide</p>",
+dateCreated: "2015-03-19T12:02:02Z",
+lastUpdated: "2015-03-19T12:02:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766522413,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5677,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Rhamphicarpa fistulosa</em> est une herbe parasite annuelle &agrave; tige gr&ecirc;le simple &agrave; tr&egrave;s ramifi&eacute;e, atteignant 40 cm de hauteur, &agrave; port souvent courb&eacute;. Elle devient noire en se dess&eacute;chant. Les feuilles sont oppos&eacute;es, suboppos&eacute;es, filiformes, simples ou profond&eacute;ment divis&eacute;es en 1 &agrave; 3 paires de segments filiformes et un segment terminal, g&eacute;n&eacute;ralement de 1 &agrave; plus de 4 cm de long. Les fleurs sont solitaires, &agrave; la base des feuilles ou terminales, en tube &eacute;troit s&#39;&eacute;vasant &agrave; l&#39;extr&eacute;mit&eacute;, long de 2 &agrave; 4 cm, de couleur blanche, cr&egrave;me ou rose p&acirc;le. Le fruit est une capsule de 7 &agrave; 10 mm de long surmont&eacute; d&#39;un bec recourb&eacute;.</p> <h6> Cotyl&eacute;dons</h6> <p> Cotyl&eacute;dons filiformes, tr&egrave;s minces.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Premi&egrave;res feuilles oppos&eacute;es, simples, filiformes, de 2 &agrave; 4 mm de long. Elles deviennent rapidement profond&eacute;ment divis&eacute;es en segments filiformes. Teinte vert sombre noircissant tr&egrave;s rapidement quand on la coupe.</p> <h6> Port</h6> <p> Herbe &agrave; port dress&eacute; ou plus ou moins courb&eacute;, &agrave; tige gr&ecirc;le simple &agrave; tr&egrave;s ramifi&eacute;e, atteignant 40 cm de hauteur.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Racines fibreuses tr&egrave;s nombreuses. Base de la plante fix&eacute;e par un haustorium &agrave; une racine de la Poaceae parasit&eacute;e.</p> <h6> Tige</h6> <p> Tige gr&ecirc;le, quadrangulaire, pleine, glabre, souvent ramifi&eacute;e, de 20 &agrave; 40 cm de hauteur.</p> <h6> Feuille</h6> <p> Feuilles oppos&eacute;es ou suboppos&eacute;es, rarement alternes, simples. Elles sont port&eacute;es par un p&eacute;tiole filiforme de 3 &agrave; 10 mm de long. Le limbe est entier ou profond&eacute;ment divis&eacute; avec 1 &agrave; 3 paires de segments filiformes de moins de 1 mm de large et un segment terminal filiforme. Le limbe est de longueur tr&egrave;s variable de 1 &agrave; plus de 5 cm de long, les segments mesurent 2 &agrave; 20 mm de long. Les deux faces sont glabres. La marge est enti&egrave;re.</p> <h6> Fleur</h6> <p> Fleurs solitaires, axillaires ou terminales, en tube &eacute;troit long de 2 &agrave; 5 cm, de couleur blanche, cr&egrave;me ou rose p&acirc;le. Elles sont port&eacute;es par un p&eacute;doncule de 9 &agrave; 20 mm de long. Deux bract&eacute;oles de 1 &agrave; 5 mm de long, filiformes, sont situ&eacute;es &agrave; mi-hauteur du p&eacute;doncule. Le calice comporte 5 s&eacute;pales soud&eacute;s en tube &agrave; la base, longs de 6 mm, avec des lobes &agrave; sommet en coin et longuement acumin&eacute;s. La corolle est form&eacute;e d&#39;un tube de 20 &agrave; 40 mm de long et de 10 &agrave; 15 mm de diam&egrave;tre &agrave; l&#39;extr&eacute;mit&eacute;, termin&eacute;e par des lobes arrondis &agrave; spatul&eacute;s, ne s&#39;ouvrant que pendant la nuit.</p> <h6> Fruit</h6> <p> Le fruit est une capsule ovo&iuml;de &agrave; 2 loges, l&eacute;g&egrave;rement aplatie longitudinalement, d&#39;environ 1 cm de long, au sommet se terminant en bec pointu de 4 &agrave; 7 mm de long, pench&eacute; d&#39;un c&ocirc;t&eacute;. Les sutures de la capsule sont finement ail&eacute;es. La capsule est d&eacute;hiscente sur un seul c&ocirc;t&eacute;, et contient de tr&egrave;s nombreuses graines formant une poudre pulv&eacute;rulente.</p> <h6> Graine</h6> <p> Graine ovale, de tr&egrave;s petite taille, de couleur brun fonc&eacute; &agrave; noire.</p> ",
+dateCreated: "2015-03-19T12:02:02Z",
+lastUpdated: "2015-04-29T08:39:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766522964,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5678,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Rhamphicarpa fistulosa (Hochst.) Benth.",
+dateCreated: "2015-03-19T12:02:03Z",
+lastUpdated: "2015-03-19T12:02:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766523185,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5680,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Rhamphicarpa fistulosa </em>est une plante annuelle h&eacute;miparasite du riz et des Poaceae, qui se multiplie rapidement par ses graines tr&egrave;s nombreuses. La plante fructifie tr&egrave;s rapidement et lib&egrave;re, par d&eacute;hiscence de la capsule, ses tr&egrave;s nombreuses graines pulv&eacute;rulentes.<br /> ",
+dateCreated: "2015-03-19T12:02:03Z",
+lastUpdated: "2015-04-29T08:39:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766523642,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5679,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: Absente.<br /> <strong>Madagascar </strong>: <em>Rhamphicarpa fistulosa</em> est une esp&egrave;ce de savane, commune dans les zones mar&eacute;cageuses, les bords de mares et les bas-fonds rizicoles. Esp&egrave;ce parasite des Poaceae, elle infeste les rizi&egrave;res &agrave; irrigation insuffisante, surtout en zone rizicole de moyenne et basse altitude. Les plantes adultes r&eacute;sistent &agrave; une certaine lame d&rsquo;eau. Elle parasite &eacute;galement le mil, le sorgho et d&rsquo;autres Poaceae spontan&eacute;es.<br /> <strong>Maurice </strong>: Absente.<br /> <strong>La R&eacute;union</strong> : Absente.<br /> <strong>Seychelles </strong>: Absente.<br /> ",
+dateCreated: "2015-03-19T12:02:03Z",
+lastUpdated: "2015-04-29T08:40:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766523485,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5681,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>B&eacute;nin </strong>: Rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>Burkina Faso</strong> : Rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>Comores </strong>: Absente.<br /> <strong>Madagascar </strong>: <em>Rhamphicarpa fistulosa</em> est une mauvaise herbe assez fr&eacute;quente et localement abondante dans les rizi&egrave;res &agrave; irrigation d&eacute;ficiente. Elle affaiblit ou tue compl&egrave;tement le riz en taches d&rsquo;&eacute;tendue variable, en donnant une impression de br&ucirc;lure (d&#39;o&ugrave; son nom malgache &laquo; Angamay &raquo;).<br /> <strong>Mali </strong>: Rare et peu abondante.<br /> <strong>Maurice </strong>: Absente.<br /> <strong>Nigeria </strong>: Fr&eacute;quente et peu abondante.<br /> <strong>Ouganda </strong>: Rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>La R&eacute;union</strong> : Absente.<br /> <strong>S&eacute;n&eacute;gal </strong>: Rare et peu abondante.<br /> <strong>Seychelles </strong>: Absente.<br /> <strong>Tanzanie </strong>: Rare mais abondante quand elle est pr&eacute;sente.</p> ",
+dateCreated: "2015-03-19T12:02:03Z",
+lastUpdated: "2015-04-29T08:42:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766523798,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5682,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Pour des conseils de d&eacute;sherbage des adventices parasites du riz irrigu&eacute; et de bas-fond en Afrique consulter : http://portal.wikwio.org/document/show/23</p> ",
+dateCreated: "2015-03-19T12:02:04Z",
+lastUpdated: "2015-04-29T08:42:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766524014,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5675,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:02Z",
+lastUpdated: "2015-03-31T06:53:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766522680,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5676,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:02Z",
+lastUpdated: "2015-03-31T06:53:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766522681,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 5732,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131116.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131116_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:01Z",
+rating: 0
+},
+{
+id: 5733,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_120056.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_120056_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:01Z",
+rating: 0
+},
+{
+id: 5734,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115648.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115648_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:01Z",
+rating: 0
+},
+{
+id: 5735,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120112.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120112_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:01Z",
+rating: 0
+},
+{
+id: 5736,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20101026_164212.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20101026_164212_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:01Z",
+rating: 0
+},
+{
+id: 5737,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115954.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115954_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:01Z",
+rating: 0
+},
+{
+id: 5738,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115926.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115926_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:02Z",
+rating: 0
+},
+{
+id: 5739,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_120206.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_120206_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:02Z",
+rating: 0
+},
+{
+id: 5740,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120002.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120002_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:02Z",
+rating: 0
+},
+{
+id: 5741,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_120154.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_120154_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:02Z",
+rating: 0
+},
+{
+id: 5742,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_120310.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_120310_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:02Z",
+rating: 0
+},
+{
+id: 5743,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_120126.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_120126_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:03Z",
+rating: 0
+},
+{
+id: 5744,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_114556.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_114556_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:03Z",
+rating: 0
+},
+{
+id: 5745,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115946.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115946_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:03Z",
+rating: 0
+},
+{
+id: 5746,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131010.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131010_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:03Z",
+rating: 0
+},
+{
+id: 5747,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100916_105136.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100916_105136_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:03Z",
+rating: 0
+},
+{
+id: 5748,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120048.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120048_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:04Z",
+rating: 0
+},
+{
+id: 5749,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_114736.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_114736_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:04Z",
+rating: 0
+},
+{
+id: 5750,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131040.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131040_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:04Z",
+rating: 0
+},
+{
+id: 5751,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_114156.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_114156_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:04Z",
+rating: 0
+},
+{
+id: 5752,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120028.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120028_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:04Z",
+rating: 0
+},
+{
+id: 5753,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20110624_1010849.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20110624_1010849_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:04Z",
+rating: 0
+},
+{
+id: 5754,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20101026_164058.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20101026_164058_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:05Z",
+rating: 0
+},
+{
+id: 5755,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131150.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131150_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:05Z",
+rating: 0
+},
+{
+id: 5756,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115920.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115920_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:05Z",
+rating: 0
+},
+{
+id: 5757,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131234.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131234_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:05Z",
+rating: 0
+},
+{
+id: 5758,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131932.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131932_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:05Z",
+rating: 0
+},
+{
+id: 5759,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120122.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120122_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:06Z",
+rating: 0
+},
+{
+id: 5760,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20101026_163838.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20101026_163838_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:06Z",
+rating: 0
+},
+{
+id: 5761,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_114530.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_114530_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:06Z",
+rating: 0
+},
+{
+id: 5762,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_120238.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_120238_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:06Z",
+rating: 0
+},
+{
+id: 5763,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_114402.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_114402_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:06Z",
+rating: 0
+},
+{
+id: 5764,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20080609_101214_1.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20080609_101214_1_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:06Z",
+rating: 0
+},
+{
+id: 5765,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20101026_163938.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20101026_163938_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:07Z",
+rating: 0
+},
+{
+id: 5766,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131056.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131056_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:07Z",
+rating: 0
+},
+{
+id: 5767,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_114730.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100818_114730_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:07Z",
+rating: 0
+},
+{
+id: 5768,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131230.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131230_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:07Z",
+rating: 0
+},
+{
+id: 5769,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131022.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131022_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:07Z",
+rating: 0
+},
+{
+id: 5770,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131830.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131830_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:08Z",
+rating: 0
+},
+{
+id: 5771,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120118.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120118_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:08Z",
+rating: 0
+},
+{
+id: 5772,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20110421_091700.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20110421_091700_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:08Z",
+rating: 0
+},
+{
+id: 5773,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131836.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131836_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:08Z",
+rating: 0
+},
+{
+id: 5774,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131926.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131926_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:08Z",
+rating: 0
+},
+{
+id: 5775,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115932.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115932_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:08Z",
+rating: 0
+},
+{
+id: 5776,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120056.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120056_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:09Z",
+rating: 0
+},
+{
+id: 5777,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131914.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20100529_131914_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:09Z",
+rating: 0
+},
+{
+id: 5778,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20101026_165002.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20101026_165002_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:09Z",
+rating: 0
+},
+{
+id: 5779,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120022.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_120022_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:09Z",
+rating: 0
+},
+{
+id: 5780,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115912.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115912_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:09Z",
+rating: 0
+},
+{
+id: 5781,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20110301_170742.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20110301_170742_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:10Z",
+rating: 0
+},
+{
+id: 5782,
+url: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115658.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Rhamphicarpa fistulosa/rpclo_20120327_115658_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:25:10Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

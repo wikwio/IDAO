@@ -1,0 +1,1344 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 113,
+title: "<i>Digitaria radicosa (</i>C.Presl<i>) </i>Miq. ",
+taxonConcept: {
+id: 239,
+name: "Digitaria radicosa (C.Presl) Miq.",
+canonicalForm: "Digitaria radicosa",
+italicisedForm: "<i>Digitaria radicosa (</i>C.Presl<i>) </i>Miq. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 234,
+name: "Digitaria",
+canonicalForm: "Digitaria",
+italicisedForm: "<i>Digitaria</i>",
+rank: "Genus"
+},
+{
+id: 239,
+name: "Digitaria radicosa (C.Presl) Miq.",
+canonicalForm: "Digitaria radicosa",
+italicisedForm: "<i>Digitaria radicosa (</i>C.Presl<i>) </i>Miq. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 2541,
+name: "Digitaria chinensis var. hirsuta Ohwi",
+canonicalForm: "Digitaria chinensis hirsuta",
+italicisedForm: "<i>Digitaria chinensis </i>var.<i> hirsuta </i>Ohwi ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2542,
+name: "Digitaria formosana Rendle",
+canonicalForm: "Digitaria formosana",
+italicisedForm: "<i>Digitaria formosana </i>Rendle ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2543,
+name: "Digitaria formosana var. hirsuta (Honda) Henrard",
+canonicalForm: "Digitaria formosana hirsuta",
+italicisedForm: "<i>Digitaria formosana </i>var.<i> hirsuta (</i>Honda<i>) </i>Henrard ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2544,
+name: "Digitaria propinqua Gaudich. [Illegitimate]",
+canonicalForm: "Digitaria propinqua",
+italicisedForm: "<i>Digitaria propinqua </i>Gaudich.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2545,
+name: "Digitaria radicosa var. hirsuta (Honda) C.C.Hsu",
+canonicalForm: "Digitaria radicosa hirsuta",
+italicisedForm: "<i>Digitaria radicosa </i>var.<i> hirsuta (</i>Honda<i>) </i>C.C.Hsu ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2546,
+name: "Digitaria sanguinalis var. multinervis (Honda) Kitag.",
+canonicalForm: "Digitaria sanguinalis multinervis",
+italicisedForm: "<i>Digitaria sanguinalis </i>var.<i> multinervis (</i>Honda<i>) </i>Kitag. ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2547,
+name: "Digitaria sanguinalis var. timorensis (Kunth) Hayata",
+canonicalForm: "Digitaria sanguinalis timorensis",
+italicisedForm: "<i>Digitaria sanguinalis </i>var.<i> timorensis (</i>Kunth<i>) </i>Hayata ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2548,
+name: "Digitaria tenuispica Rendle",
+canonicalForm: "Digitaria tenuispica",
+italicisedForm: "<i>Digitaria tenuispica </i>Rendle ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2549,
+name: "Digitaria timorensis (Kunth) Balansa",
+canonicalForm: "Digitaria timorensis",
+italicisedForm: "<i>Digitaria timorensis (</i>Kunth<i>) </i>Balansa ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2550,
+name: "Digitaria timorensis var. hirsuta (Ohwi) Henrard",
+canonicalForm: "Digitaria timorensis hirsuta",
+italicisedForm: "<i>Digitaria timorensis </i>var.<i> hirsuta (</i>Ohwi<i>) </i>Henrard ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2551,
+name: "Digitaria timorensis var. timorensis",
+canonicalForm: "Digitaria timorensis timorensis",
+italicisedForm: "<i>Digitaria timorensis </i>var.<i> timorensis</i>",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2552,
+name: "Panicum formosanum (Rendle) Makino & Nemoto",
+canonicalForm: "Panicum formosanum",
+italicisedForm: "<i>Panicum formosanum (</i>Rendle<i>) </i>Makino<i> & </i>Nemoto ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2553,
+name: "Panicum formosanum var. hirsuta (Honda) Makino & Nemoto",
+canonicalForm: "Panicum formosanum hirsuta",
+italicisedForm: "<i>Panicum formosanum </i>var.<i> hirsuta (</i>Honda<i>) </i>Makino<i> & </i>Nemoto ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2554,
+name: "Panicum formosanum var. hirsutum (Honda) Makino & Nemoto",
+canonicalForm: "Panicum formosanum hirsutum",
+italicisedForm: "<i>Panicum formosanum </i>var.<i> hirsutum (</i>Honda<i>) </i>Makino<i> & </i>Nemoto ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2555,
+name: "Panicum radicosum J.Presl",
+canonicalForm: "Panicum radicosum",
+italicisedForm: "<i>Panicum radicosum </i>J.Presl ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2556,
+name: "Panicum radicosum var. procerior Fern.-Vill.",
+canonicalForm: "Panicum radicosum procerior",
+italicisedForm: "<i>Panicum radicosum </i>var.<i> procerior </i>Fern.-Vill. ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2557,
+name: "Panicum sanguinale var. multinerve (Honda) Makino & Nemoto",
+canonicalForm: "Panicum sanguinale multinerve",
+italicisedForm: "<i>Panicum sanguinale </i>var.<i> multinerve (</i>Honda<i>) </i>Makino<i> & </i>Nemoto ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2558,
+name: "Panicum sanguinale var. timorense (Kunth) Hack.",
+canonicalForm: "Panicum sanguinale timorense",
+italicisedForm: "<i>Panicum sanguinale </i>var.<i> timorense (</i>Kunth<i>) </i>Hack. ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2559,
+name: "Panicum timorense Kunth",
+canonicalForm: "Panicum timorense",
+italicisedForm: "<i>Panicum timorense </i>Kunth ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2560,
+name: "Paspalum sanguinale var. timorense (Kunth) A.Camus",
+canonicalForm: "Paspalum sanguinale timorense",
+italicisedForm: "<i>Paspalum sanguinale </i>var.<i> timorense (</i>Kunth<i>) </i>A.Camus ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2561,
+name: "Spartina glabriuscula Hassk. [Invalid]",
+canonicalForm: "Spartina glabriuscula",
+italicisedForm: "<i>Spartina glabriuscula </i>Hassk.<i> [Invalid]</i>",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2562,
+name: "Syntherisma formosana (Rendle) Honda",
+canonicalForm: "Syntherisma formosana",
+italicisedForm: "<i>Syntherisma formosana (</i>Rendle<i>) </i>Honda ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2563,
+name: "Syntherisma formosana subsp. hirsuta (Honda) Masamura & Yanagih.",
+canonicalForm: "Syntherisma formosana hirsuta",
+italicisedForm: "<i>Syntherisma formosana </i>subsp.<i> hirsuta (</i>Honda<i>) </i>Masamura<i> & </i>Yanagih. ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2564,
+name: "Syntherisma formosanum var. hirsutum Honda",
+canonicalForm: "Syntherisma formosanum hirsutum",
+italicisedForm: "<i>Syntherisma formosanum </i>var.<i> hirsutum </i>Honda ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2565,
+name: "Syntherisma multinerve (Honda) Honda",
+canonicalForm: "Syntherisma multinerve",
+italicisedForm: "<i>Syntherisma multinerve (</i>Honda<i>) </i>Honda ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2566,
+name: "Syntherisma multinervis (Honda) Honda",
+canonicalForm: "Syntherisma multinervis",
+italicisedForm: "<i>Syntherisma multinervis (</i>Honda<i>) </i>Honda ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2567,
+name: "Syntherisma sanguinale var. multinerve Honda",
+canonicalForm: "Syntherisma sanguinale multinerve",
+italicisedForm: "<i>Syntherisma sanguinale </i>var.<i> multinerve </i>Honda ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2568,
+name: "Syntherisma sanguinalis var. multinervis Honda",
+canonicalForm: "Syntherisma sanguinalis multinervis",
+italicisedForm: "<i>Syntherisma sanguinalis </i>var.<i> multinervis </i>Honda ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2569,
+name: "Syntherisma tenuispica (Rendle) Keng",
+canonicalForm: "Syntherisma tenuispica",
+italicisedForm: "<i>Syntherisma tenuispica (</i>Rendle<i>) </i>Keng ",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 646,
+name: "Chiendent caille",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 647,
+name: "Chiendent caille blanc",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 645,
+name: "Herbe caille",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 648,
+name: "Petit meinki",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 644,
+name: "Trailing crabgrass",
+taxonConcept: {
+id: 239
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:22:36Z",
+lastRevised: "2015-03-19T11:25:48Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20080609_1012180_03_th1.jpg",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>DIGTI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>DIGTI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 924,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>DIGTI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:27:05Z",
+lastUpdated: "2014-09-24T17:27:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579625345,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 925,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Digitaria radicosa (C.Presl) Miq.",
+dateCreated: "2014-09-24T17:27:05Z",
+lastUpdated: "2014-09-24T17:27:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579625346,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3856,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Digitaria radicosa est une herbe rampante à tiges grêles. Elle émet des tiges traînant sur le sol et capables de s'enraciner aux noeuds pour donner de nouvelles tiges. Puis, celles-ci se redressent. Elles sont dépourvues de poils. Les feuilles sont étroites. La gaine est recouverte de poils fins. La ligule est membraneuse. Le limbe est court, souvent couvert de poils fins sur les deux faces. L'inflorescence est formée de 2 à 4 épis grêles et longs, dressés obliquement. Ils sont disposés au sommet de la tige principale comme les doigts d'une main.</p>",
+dateCreated: "2015-03-19T11:25:48Z",
+lastUpdated: "2015-03-19T11:25:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764348140,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3847,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>DIGTI</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:25:31Z",
+lastUpdated: "2015-03-19T11:25:31Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764331931,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3851,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Digitaria radicosa est une herbe rampante à tiges grêles. Elle émet des tiges traînant sur le sol et capables de s'enraciner aux noeuds pour donner de nouvelles tiges. Puis, celles-ci se redressent. Elles sont dépourvues de poils. Les feuilles sont étroites. La gaine est recouverte de poils fins. La ligule est membraneuse. Le limbe est court, souvent couvert de poils fins sur les deux faces. L'inflorescence est formée de 2 à 4 épis grêles et longs, dressés obliquement. Ils sont disposés au sommet de la tige principale comme les doigts d'une main.</p><h6>Premières Feuilles</h6><p>La préfoliaison est enroulée. Limbe large et court, lancéolé se terminant brusquement en coin aigu. Faces et marge glabres. Ligule membraneuse courte, 1 mm.</p><h6>Port</h6><p>Herbe annuelle, dressée, ou plus ou moins couchée à la base, atteignant 15 à 60 cm de hauteur.</p><h6>Système Souterrain</h6><p>Les racines sont fasciculées fibreuses à la base et peuvent se développer à partir des noeuds en contact avec le sol.</p><h6>Tige</h6><p>Le chaume est cylindrique, grêle, glabre, de 1 à 2 mm de diamètre. Genouillé, ramifié et s'enracinant aux noeuds, qui sont poilus, de couleur foncée. Hauteur de 30 à 40 cm.</p><h6>Feuille</h6><p>Les feuilles sont alternes, de couleur verte. Gaine pubescente non carénée. Ligule membraneuse, tronquée, longue de 1 à 2 mm. Limbe généralement oblique, de forme linéaire à lancéolée, à sommet en coin aigu. Large de 2 à 8 mm dans le tiers inférieur et long de 3 à 10 cm. Nervure centrale peu marquée. Marge ondulée, légèrement scabre. Faces inférieure et supérieure glabres à pubescentes.</p><h6>Inflorescence</h6><p>L’inflorescence est composée de 2 à 5 racèmes digités et dressés obliquement, longs de 4 à 10 cm et larges de 0,6 mm. Epillets étroits groupés par paires, un épillet subsessile et un épillet pédicellé se chevauchant sur la moitié de leur longueur.</p><h6>Fleur</h6><p>Les épillets sont longs de 2,5 à 3 mm et larges de 0,6 à 0,7 mm. Glume inférieure petite ou absente, glume supérieure 1/3 à 1/2 de la longueur de l’épillet. Fleur inférieure stérile à lemma paraissant trinervée, pileuse sur la marge, parfois hirsute à maturité. Fleur supérieure fertile à lemma lancéolée, aiguë, jaune.</p><h6>Fruit</h6><p>Le grain est fusiforme, long de 2,5 mm.</p>",
+dateCreated: "2015-03-19T11:25:34Z",
+lastUpdated: "2015-03-19T11:25:34Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764334002,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3852,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Digitaria radicosa (C.Presl) Miq.",
+dateCreated: "2015-03-19T11:25:34Z",
+lastUpdated: "2015-03-19T11:25:34Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764334726,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3854,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "D. radicosa est une Graminée annuelle. Elle se reproduit principalement par ses graines nombreuses, qui peuvent germer immédiatement. Elle peut aussi se multiplier par bouturage à partir de fragments de tiges qui s'enracinent au niveau des noeuds.<br>",
+dateCreated: "2015-03-19T11:25:36Z",
+lastUpdated: "2015-03-19T11:25:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764336203,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3850,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Digitaria radicosa se distingue de D. ciliaris par la glume supérieure courte (1/3 à 1/2 de la longueur de l'épillet).<br>",
+dateCreated: "2015-03-19T11:25:33Z",
+lastUpdated: "2015-03-19T11:25:33Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764333475,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3853,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Madagascar : D. radicosa est une espèce de la zone forestière humide de moyenne altitude (800 à 1300 m d'altitude). Elle est rudérale ou adventice. Maurice : Espèce assez commune en zone humide. La Réunion : L'espèce est très commune à La Réunion dans les zones humides du Nord-Est et de l'Est. Elle croît sur presque tous les types de sols. Seychelles : Espèce très commune, en particulier dans les zones élevées les plus humides.<br>",
+dateCreated: "2015-03-19T11:25:35Z",
+lastUpdated: "2015-03-19T11:25:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764335675,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3855,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Madagascar : D. radicosa est une adventice fréquente des cultures pluviales et sur les jachères après les "tavy". Maurice : Adventice commune de la canne à sucre. La Réunion : D. radicosa infeste notamment les champs de canne à sucre. Cette espèce peut y former des peuplements assez denses. En revanche, c’est une mauvaise herbe peu fréquente dans les cultures maraîchères. Seychelles : A forte densité, l'espèce peut devenir une adventice sérieuse des vergers, cultures maraîchères et souterraines et des plantations telles que le thé.</p>",
+dateCreated: "2015-03-19T11:25:36Z",
+lastUpdated: "2015-03-19T11:25:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764336731,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3849,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:25:32Z",
+lastUpdated: "2015-03-30T02:25:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/d/digti/digti_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764332748,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3848,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:25:32Z",
+lastUpdated: "2015-03-26T15:52:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764332747,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 2328,
+url: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20080609_1012180_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20080609_1012180_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:22:43Z",
+rating: 0
+},
+{
+id: 2329,
+url: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20080609_1012180.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20080609_1012180_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:22:43Z",
+rating: 0
+},
+{
+id: 2330,
+url: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20090219_191018.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20090219_191018_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:22:43Z",
+rating: 0
+},
+{
+id: 2331,
+url: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20090219_190927.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20090219_190927_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:22:43Z",
+rating: 0
+},
+{
+id: 2332,
+url: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20090219_190852.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20090219_190852_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:22:43Z",
+rating: 0
+},
+{
+id: 2333,
+url: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20090219_190654.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20090219_190654_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:22:43Z",
+rating: 0
+},
+{
+id: 2334,
+url: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20090219_190757.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20090219_190757_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:22:43Z",
+rating: 0
+},
+{
+id: 2335,
+url: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20080609_1012180_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20080609_1012180_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:22:43Z",
+rating: 0
+},
+{
+id: 2336,
+url: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20080609_1012180_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20080609_1012180_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:22:43Z",
+rating: 0
+},
+{
+id: 2337,
+url: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20020726_145830.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20020726_145830_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:22:44Z",
+rating: 0
+},
+{
+id: 2338,
+url: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20080609_1012180_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20080609_1012180_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:22:44Z",
+rating: 0
+},
+{
+id: 2339,
+url: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20080609_1012180_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20080609_1012180_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:22:44Z",
+rating: 0
+},
+{
+id: 2340,
+url: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20090219_191222.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Digitaria radicosa/digti_20090219_191222_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:22:44Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

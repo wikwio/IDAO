@@ -1,0 +1,2032 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 101,
+title: "<i>Datura innoxia </i>Mill. ",
+taxonConcept: {
+id: 224,
+name: "Datura innoxia Mill.",
+canonicalForm: "Datura innoxia",
+italicisedForm: "<i>Datura innoxia </i>Mill. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 222,
+name: "Solanaceae",
+canonicalForm: "Solanaceae",
+italicisedForm: "<i>Solanaceae</i>",
+rank: "Family"
+},
+{
+id: 223,
+name: "Datura",
+canonicalForm: "Datura",
+italicisedForm: "<i>Datura</i>",
+rank: "Genus"
+},
+{
+id: 224,
+name: "Datura innoxia Mill.",
+canonicalForm: "Datura innoxia",
+italicisedForm: "<i>Datura innoxia </i>Mill. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 2306,
+name: "Datura guayaquilensis Kunth",
+canonicalForm: "Datura guayaquilensis",
+italicisedForm: "<i>Datura guayaquilensis </i>Kunth ",
+taxonConcept: {
+id: 224
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2307,
+name: "Datura meteloides DC. ex Dunal",
+canonicalForm: "Datura meteloides",
+italicisedForm: "<i>Datura meteloides </i>DC.<i> ex </i>Dunal ",
+taxonConcept: {
+id: 224
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 602,
+name: "Harige stinkblaar",
+taxonConcept: {
+id: 224
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 603,
+name: "Malpit",
+taxonConcept: {
+id: 224
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 601,
+name: "Downy thorn apple",
+taxonConcept: {
+id: 224
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 604,
+name: "Hairy thorn-apple",
+taxonConcept: {
+id: 224
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:20:08Z",
+lastRevised: "2015-03-19T11:21:58Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20090219_175948_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>DATIN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>DATIN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 849,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>DATIN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322146,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 854,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Leaves are simple, alternate, carried by a long stalk. Blade is oval, 5-16 cm long and 4 to 9 cm wide. Apex is sharp and base is asymmetric truncated, sinuous margin, more or less toothed. Both sides are green ash and finely pubescent.</p><h6>General Habit</h6><p>It is an annual, upright weed. Crushed leaves have unpleasant smell.</p><h6>Underground System</h6><p>Taproot system.</p><h6>Flower</h6><p>Flower are losse tubullar supported by a short penducle. Flowers are erect. Corolla is white green, 15 to 16 cm long and wider at the top with 10 small pointed lobes.</p><h6>Fruit</h6><p>Fruit is a capsule hanging under the stem bent, ~ 4 to 5 cm in diameter, bristling with spines slender and long. It is divided into 4 boxes. Each box contains numerous seeds.</p><h6>Seed</h6><p>Seeds are small, ~ 3 to 6 mm in diameter and black in colour.</p><h6>Global Description</h6><p>D. innoxia is an erect, bushy herb, little branched. It grows up to 1.5 m height. Leaves are simple, alternate supported by a long stalk. Crushed leaves have unpleasent smell. Stem is smooth, hairy and purplish. Flowers are tubular, white and erect. Fruit is a capsule hanging from the branche with long and slender spines, contains numerous small black seeds.</p><h6>Inflorescence</h6><p>Inflorescences are termimal and solitary.</p><h6>Cotyledons</h6><p>Cotyledons are linear lanceolate from 5 to 30 mm long and 4-5 mm wide. Supported by a medium stalk. The lamina is smooth, green on the upper surface and pale green on the lower surface.</p><h6>Stem</h6><p>Stem is cylindrical, smooth and full. It is covered with dense short hairs.</p>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322151,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 847,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Datura innoxia Mill.",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322143,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 858,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "D. innoxia is an annual weed, reproduces by seeds. The seeds can be dormant for several decades. Seeds germinates in summer. It is a fast growing weed, up to 2 cm per day. Datura are poisonous plants.<br>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322167,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 852,
+field: {
+concept: "Natural History",
+category: "Look Alikes",
+description: "Other taxa that this taxon may be confused with, and characters useful for their differentiation. Useful for identification and comparison. Common in invasive species communities.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "D. innoxia can be confused with D. stramonium. D. innoxia is a large bushy herb subwoody, it is distinguished by its stem, its branches and leaves completely pubescent in simple glandular hairs and leaves usually entire, rarely toothed. The branches are usually purple. The fruit is over, pubescent and covered with soft spines.<br>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322149,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 856,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "It occurs on riverine, disturbed eareas. It can survive to dry conditions. It requires few mm of rain. Prefers rich land and warm region.<br>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322166,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 845,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Distributed throughout South Africa, except on the Eastern Cape and Free State province.</p><h6>Origin</h6><p>Native to Central Europe and South America.</p>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322141,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 857,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>It is a major weed of field crops, especially at low altitude, in the rich lands, and recently worked on the river banks.</p><h6>Local Weediness</h6><p>South Africa: Distributed throughout South Africa, except on the Eastern Cape and Free State province. Declared as category 1 weed, prohibited weed, because of their aggressive growth habit. This weed contaminates the grain and it is not easy to control.</p>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322167,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 850,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Cultivated as a garden ornamental and for medicinal purposes. It is a poisonous plants and deemed dangerous to human and animals. They can cause nausea and skin diseases by simple contact.<br>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322147,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 853,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Hand pulling is applicable as a control method, but should be done with caution because of the toxicity of this species. Destruction before germination can be achieved by a pre-emergence herbicide treatment (2,4-D). Adults are more tolerant, a necessary grinding or slashing followed by herbicide treatment of regrowth (2,4-D, 2,4-D + triclopyr). The plant is sensitive to certain insects introduced in Queensland (Lema trilineata) and natural enemies in Northern America (weevil Trichobaris bridwelli ) that could be used as biological control agents.</p>",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2014-09-24T17:22:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322150,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 855,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2015-03-31T14:33:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., and Grard, P. (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=advenpac/especes/d/datin/datin_fr.html"
+},
+{
+title: "Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B.W. A revised list of alien plants for the Kruger National Park.Koedoe"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Bromilow, C. (2001), Problem plants of South Africa Published by Briza Publications CC."
+},
+{
+title: "Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B.W. A revised list of alien plants for the Kruger National Park.Koedoe"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322151,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 844,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2015-03-31T14:33:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=advenpac/especes/d/datin/datin_fr.html"
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=advenpac/especes/d/datin/datin_fr.html"
+},
+{
+title: "Bromilow, C. (2001), Problem plants of South Africa Published by Briza Publications CC."
+},
+{
+title: "Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B.W. A revised list of alien plants for the Kruger National Park.Koedoe"
+},
+{
+title: "Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., and Grard, P. (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322139,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 851,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2015-03-11T07:45:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B.W. A revised list of alien plants for the Kruger National Park.Koedoe"
+},
+{
+title: "Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., and Grard, P. (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=advenpac/especes/d/datin/datin_fr.html"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Bromilow, C. (2001), Problem plants of South Africa Published by Briza Publications CC."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322147,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 846,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2015-03-31T14:33:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., and Grard, P. (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+title: "Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., and Grard, P. (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=advenpac/especes/d/datin/datin_fr.html"
+},
+{
+title: "Bromilow, C. (2001), Problem plants of South Africa Published by Briza Publications CC."
+},
+{
+title: "Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B.W. A revised list of alien plants for the Kruger National Park.Koedoe"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322142,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 848,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:22:02Z",
+lastUpdated: "2015-03-31T14:33:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Foxcroft, L.C., Henderson, L., Nichols, G.R., Martin, B.W. A revised list of alien plants for the Kruger National Park.Koedoe"
+},
+{
+title: "Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., and Grard, P. (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=advenpac/especes/d/datin/datin_fr.html"
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Bromilow, C. (2001), Problem plants of South Africa Published by Briza Publications CC."
+},
+{
+title: "Bromilow, C. (2001), Problem plants of South Africa Published by Briza Publications CC."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579322144,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3728,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>D. innoxia est une grande herbe subligneuse buissonnante. Ses tiges, ses rameaux et ses feuilles sont entièrement pubescents, à poils simples glanduleux et ses feuilles le plus souvent entières, rarement dentées. Les rameaux sont généralement de couleur pourpre. Le fruit est pendant, pubescent et couvert d’épines molles.</p>",
+dateCreated: "2015-03-19T11:21:58Z",
+lastUpdated: "2015-03-19T11:21:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764118102,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3716,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>DATIN</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:21:51Z",
+lastUpdated: "2015-03-19T11:21:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764111550,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3720,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>D. innoxia est une grande herbe subligneuse buissonnante. Ses tiges, ses rameaux et ses feuilles sont entièrement pubescents, à poils simples glanduleux et ses feuilles le plus souvent entières, rarement dentées. Les rameaux sont généralement de couleur pourpre. Le fruit est pendant, pubescent et couvert d’épines molles.</p><h6>Port</h6><p>Plante herbacée robuste au port dressé, peu ou courtement ramifiée de 0,3 à 1,5 m de hauteur.</p><h6>Système Souterrain</h6><p>La racine est pivotante.</p><h6>Tige</h6><p>La tige est cylindrique, robuste, de couleur pourpre à pilosité courte, dense et violacée blanche (glabre chez les autres Datura ou poils épars chez D. stramonium).</p><h6>Feuille</h6><p>Les feuilles sont simples, alternes, longuement pétiolées. Limbe entier, largement ovale, de 5 à 16 cm de long et 4 à 9 cm de large. Sommet en coin et base asymétrique tronquée, marge sinueuse plus ou moins dentée. Les deux faces sont vert-cendré, finement pubescentes.</p><h6>Inflorescence</h6><p>Les fleurs sont solitaires.</p><h6>Fleur</h6><p>Les grandes fleurs solitaires sont tubulaires et dressées. Corolle blanche à lignes vertes, longue de 15 à 16 cm, élargie au sommet présentant 10 petits lobes pointus.</p><h6>Fruit</h6><p>Le fruit est une capsule pendante sous le pédoncule recourbé (érigé chez D. stramonium), de 4 à 5 cm de diamètre, hérissée d’aiguillons grêles et longs, comprenant 4 loges. Chaque loge contient un très grand nombre (jusqu’à 200 par fruit) de petites graines de 3 à 6 mm de diamètre, noires.</p>",
+dateCreated: "2015-03-19T11:21:53Z",
+lastUpdated: "2015-03-19T11:21:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764113482,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3722,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Datura innoxia Mill.",
+dateCreated: "2015-03-19T11:21:54Z",
+lastUpdated: "2015-03-19T11:21:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764114424,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3721,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "D. innoxia peut être pluriannuel grâce à un système racinaire développé survivant en saison sèche et qui émet de nouveaux bourgeons caulinaires en cas de destruction par un outil. La germination a lieu en saison chaude, quelques mm de pluies sont suffisants pour faire émerger les nombreuse plantules. Leur croissance peut être très rapide (jusqu’à 2 cm par jour) et les fleurs peuvent s’observer chez des individus de 2 à 5 semaines. La floraison et la fructification continuent toute la saison des pluies.<br>",
+dateCreated: "2015-03-19T11:21:53Z",
+lastUpdated: "2015-03-19T11:21:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764113968,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3725,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "D. innoxia est une plante annuelle dont la multiplication est assurée par ses nombreuses graines à longue dormance (plusieurs dizaines d’années). Elles sont notamment disséminées dans les semences agricoles.<br>",
+dateCreated: "2015-03-19T11:21:56Z",
+lastUpdated: "2015-03-19T11:21:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764116061,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3723,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>D. innoxia est une espèce cosmopolite originaire des zones tropicales d’Amérique.</p><h6>Distribution Mondiale</h6><p>D. innoxia se rencontre dans la plupart des zones tempérées à tropicales.</p>",
+dateCreated: "2015-03-19T11:21:54Z",
+lastUpdated: "2015-03-19T11:21:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764114911,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3719,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "D. innoxia est une grande herbe subligneuse buissonnante, de morphologie et de comportement semblables à D. stramonium. D. innoxia se distingue par ses tiges, ses rameaux et ses feuilles entièrement pubescents, à poils simples glanduleux et ses feuilles le plus souvent entières, rarement dentées. Les rameaux sont généralement de couleur pourpre. Le fruit est pendant, pubescent et couvert d’épines molles. Alors que D. stramonium est une plante glabre avec une tige plutôt verte et un fruit dressé, couvert d’épines coniques dures.<br>",
+dateCreated: "2015-03-19T11:21:52Z",
+lastUpdated: "2015-03-19T11:21:52Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764112995,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3724,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>D. innoxia est une espèce cosmopolite originaire des zones tropicales d’Amérique.</p><h6>Distribution Mondiale</h6><p>D. innoxia se rencontre dans la plupart des zones tempérées à tropicales.</p>",
+dateCreated: "2015-03-19T11:21:55Z",
+lastUpdated: "2015-03-19T11:21:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764115398,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3726,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Globale</h6><p>Plusieurs espèces de Datura sont des mauvaises herbes majeures des grandes cultures, qui constituent également des peuplements dans les pâturages surexploités.</p><h6>Nuisibilité Locale</h6><p>Nouvelle-Calédonie : Relevée pour la première fois en 1865, on rencontre D. innoxia sur l’ensemble de la Nouvelle-Calédonie, surtout à basse altitude, dans les terres riches, fraîchement travaillées et sur les berges des rivières.</p>",
+dateCreated: "2015-03-19T11:21:56Z",
+lastUpdated: "2015-03-19T11:21:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764116547,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3729,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Les Datura sont des plantes toxiques (et médicinales) réputées et dangereuses pour l’homme et les animaux à une certaine dose. Elles peuvent entraîner des nausées et des dermatoses par simple contact.<br>",
+dateCreated: "2015-03-19T11:21:58Z",
+lastUpdated: "2015-03-19T11:21:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764118477,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3727,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Il est souhaitable de se débarrasser des petites colonies de D. innoxia, mais l’arrachage manuel doit se faire avec précaution du fait de la toxicité de cette espèce. Pour des colonies plus importantes, la destruction avant germination peut se faire par un traitement de pré-levée (2,4-D). Les adultes sont plus résistants, un gyrobroyage préalable est nécessaire suivi d’un traitement sur repousses (2,4-D, 2,4-D + triclopyr). L’implantation d’un nouveau pâturage avec travail du sol doit être suivi d’une surveillance des repousses issues de morceaux de racines. La plante serait sensible à certains insectes introduits au Queensland (Lema trilineata) et à des ennemis naturels en Amérique du Nord (le charançon Trichobaris bridwelli) qui pourraient être utilisés comme agents de lutte biologique.</p>",
+dateCreated: "2015-03-19T11:21:57Z",
+lastUpdated: "2015-03-19T11:21:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764117128,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3717,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:21:52Z",
+lastUpdated: "2015-03-31T07:08:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Blanfort, V., F. Desmoulins, J. Prosperi, T. Le Bourgeois, R. Guiglion and P. Grard (2010). AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. Montpellier, France, IAC, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764112327,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3718,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:21:52Z",
+lastUpdated: "2015-03-31T07:08:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=advenpac/especes/d/datin/datin_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764112327,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 2195,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20090219_175948.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20090219_175948_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2196,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20090219_175404.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20090219_175404_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2197,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20090219_175507.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20090219_175507_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2198,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20090219_175421.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20090219_175421_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2199,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145242.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145242_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2200,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130617_102311.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130617_102311_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2201,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145530.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145530_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2202,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145310.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145310_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2203,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145900.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145900_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2204,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145858.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145858_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2205,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145531.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145531_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2206,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145323.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145323_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2207,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145322.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145322_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2208,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145932.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145932_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:16Z",
+rating: 0
+},
+{
+id: 2209,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145252.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145252_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:17Z",
+rating: 0
+},
+{
+id: 2210,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145948.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145948_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:17Z",
+rating: 0
+},
+{
+id: 2211,
+url: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145944.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Datura innoxia/datin_20130615_145944_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:20:17Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

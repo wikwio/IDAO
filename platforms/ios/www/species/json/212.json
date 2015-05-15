@@ -1,0 +1,3057 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 212,
+title: "<i>Mimosa pudica </i>L. ",
+taxonConcept: {
+id: 410,
+name: "Mimosa pudica L.",
+canonicalForm: "Mimosa pudica",
+italicisedForm: "<i>Mimosa pudica </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 5,
+name: "Fabaceae",
+canonicalForm: "Fabaceae",
+italicisedForm: "<i>Fabaceae</i>",
+rank: "Family"
+},
+{
+id: 408,
+name: "Mimosa",
+canonicalForm: "Mimosa",
+italicisedForm: "<i>Mimosa</i>",
+rank: "Genus"
+},
+{
+id: 410,
+name: "Mimosa pudica L.",
+canonicalForm: "Mimosa pudica",
+italicisedForm: "<i>Mimosa pudica </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 4606,
+name: "Mimosa hispidula Kunth",
+canonicalForm: "Mimosa hispidula",
+italicisedForm: "<i>Mimosa hispidula </i>Kunth ",
+taxonConcept: {
+id: 410
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4607,
+name: "Mimosa pudica var. pudica",
+canonicalForm: "Mimosa pudica pudica",
+italicisedForm: "<i>Mimosa pudica </i>var.<i> pudica</i>",
+taxonConcept: {
+id: 410
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1014,
+name: "Rohitra",
+taxonConcept: {
+id: 410
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1015,
+name: "Sensitive",
+taxonConcept: {
+id: 410
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1016,
+name: "Roimena",
+taxonConcept: {
+id: 410
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1017,
+name: "Sensitive",
+taxonConcept: {
+id: 410
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 1018,
+name: "Touch me not",
+taxonConcept: {
+id: 410
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1019,
+name: "Herbe sensible",
+taxonConcept: {
+id: 410
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1020,
+name: "Sensitive",
+taxonConcept: {
+id: 410
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1021,
+name: "Trompe la mort",
+taxonConcept: {
+id: 410
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1022,
+name: "Ramirena",
+taxonConcept: {
+id: 410
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1023,
+name: "Sensitive plant",
+taxonConcept: {
+id: 410
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1024,
+name: "Sansib",
+taxonConcept: {
+id: 410
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1662,
+name: "Eng: sensitive plant",
+taxonConcept: {
+id: 410
+},
+isContributor: false
+},
+{
+id: 1663,
+name: "Touch me not.",
+taxonConcept: {
+id: 410
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:58:16Z",
+lastRevised: "2015-05-07T06:07:57Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20090212_120527_th1.jpg",
+notes: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>MIMPU</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>perennial</p>",
+summary: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>MIMPU</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>perennial</p>",
+fields: [
+{
+id: 1578,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>MIMPU</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>perennial</p>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706041,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1581,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>First Leaves</h6><p>First leaf solitary, with 3 pairs of leaflets.</p><h6>Seed</h6><p>Seeds sub orbicular to broadly ellipsoidal, flattened, 2.5-3 mm long, pale brown, surface finely granular.</p><h6>Global Description</h6><p>Terrestrial, annual or perennial, erect to prostrate, thorny herb, up to 200 cm long. Roots fibrous, white or brown. Stems rounded, solid, glabrous. Stipules present, spiny. Leaves compound, bipinnate, paripinnate, alternate spiral, stalked, leaflets linear, glabrous on both sides, margin entire, apex acute, base rounded, one-veined. Flowers bisexual, grouped in an axillary, stalked head, sessile, petals 4, pink. Fruits an articulated pod.</p><h6>Cotyledons</h6><p>With epigeal germination, smelling like garlic, cotyledons ovate, sagitate at base, truncate to emarginated at apex, glabrous, hypocotyls up to15 mm long, hairy, epicotyl absent.</p>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706044,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1575,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Mimosa pudica L.",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706023,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1574,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Perennial plant. It reproduces by seeds. Fruits are disseminated by animals. The persistence and spread of sensitive plant is aided by its prolific seed set. There are approximately 110 seeds/g. It can complete its life cycle in 3 month. At nightfall the leaflets fold together and the rachises bend down. Flowers throughout the year. Seed germinate within 2 weeks (scarification helps); after 19 years storage, 2-percent still developed.<br>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706022,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1569,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "A weed of pastures , roadsides, coconut plantations, scrub; in fences on rivers banks; in sunny to rather heavily shaded, usually moist places; from 0-1000 m altitude.<br>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706017,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1573,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Pantropical.</p><h6>Origin</h6><p>Probably originating from South America.</p>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706022,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1580,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>A serious weed in maize, tea and upland rice in Indonesia. Can become a pest in pastures.</p><h6>Local Weediness</h6><p>Uganda:Frequent and usually abundant.</p>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706043,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1570,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Medecine : The infusion of the twigs with leaves possess antipyretic, soothing and sudorifie properties. Apart from the toxicity from mimosine, the plant has shown a significant hypotensive, sedative and anti-inflammatory effect. An alcoholic extract has shown to lower blood glucose concentrations in diabetic rats. The alkaloidal extracts of the roots is antagonistic to both acetylcholine and histamine and histamine. A crude ethanol extract of the leaves was found to have insecticidal activity against one Trilobium species.<br>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706018,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1572,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Manual : Although the thorns make hand pulling unpleasant, the plant can be controlled by hoeing. Cultivation can also held keep the plant under control. Biological : Are often found attacked by a fungus Ramularia mimosae, which grows on the upper surface of the leaflets, forming irregular white spots. Chemical :Foliar treatment ( wetting must be through): 2,4,5-T (1 kg/500 l, spot-spraying, 500 g/ha, Jamaica, grassland, 3 kg/ha, Malaysia, rubber) amitrole (4.5 kg/ha, Ceylon, Tea), picloram ( pasture), ametryne ( cane), fenoprop, ioxynil plus 2,4 D. Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706021,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1571,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2015-03-29T08:36:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta. Waterhouse, D.F. & K.R. Norris. 1987. Biological Control. Pacific Prospects. Inkata Press, Melbourne. 454 pp."
+},
+{
+title: "Galinato M.I., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Galinato M.I., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Henty E.E. and G.S. Pritchard. 1973. Weeds of New Guinea and their control. Botany bulletin No 7."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706019,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1582,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2015-02-20T17:26:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Galinato M.I., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Henty E.E. and G.S. Pritchard. 1973. Weeds of New Guinea and their control. Botany bulletin No 7."
+},
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta. Waterhouse, D.F. & K.R. Norris. 1987. Biological Control. Pacific Prospects. Inkata Press, Melbourne. 454 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706044,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1576,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2015-04-11T16:41:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta. Waterhouse, D.F. & K.R. Norris. 1987. Biological Control. Pacific Prospects. Inkata Press, Melbourne. 454 pp."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Galinato M.I., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Henty E.E. and G.S. Pritchard. 1973. Weeds of New Guinea and their control. Botany bulletin No 7."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706023,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1577,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2015-04-11T16:41:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Galinato M.I., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Henty E.E. and G.S. Pritchard. 1973. Weeds of New Guinea and their control. Botany bulletin No 7."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta. Waterhouse, D.F. & K.R. Norris. 1987. Biological Control. Pacific Prospects. Inkata Press, Melbourne. 454 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706025,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1579,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2015-04-11T16:41:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Henty E.E. and G.S. Pritchard. 1973. Weeds of New Guinea and their control. Botany bulletin No 7."
+},
+{
+title: "Galinato M.I., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta. Waterhouse, D.F. & K.R. Norris. 1987. Biological Control. Pacific Prospects. Inkata Press, Melbourne. 454 pp."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706042,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5006,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Mimosa pudica est une plante herbacée à ligneuse souvent étalée sur le sol, atteignant 20 à 50 cm, parfois jusqu'à 1 m de hauteur. Elle est poilue à glabre, porte des aiguillons recourbés, épars. Les feuilles sont alternes composées, au sommet d'un pétiole de 2 à 6 cm de long. 2 à 4 folioles principales disposées en doigts de gants, elles-mêmes composées de 10 à 28 paires de foliolules linéaires à oblongues. Les feuilles sont sensitives et se referment lorsqu'on les touche. Les fleurs sont groupées en boules roses au bout d'un pédoncule à la base des feuilles. Les fruits sont des gousses plates agglomérées, composées de 3 à 4 articles et à bord armé de longs poils raides.</p>",
+dateCreated: "2015-03-19T11:47:31Z",
+lastUpdated: "2015-03-19T11:47:31Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765651051,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4989,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>MIMPU</p><h6>Type Biologique</h6><p>liane</p><h6>Forme De Vie</h6><p>pérenne</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:47:24Z",
+lastUpdated: "2015-03-19T11:47:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765644913,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4998,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Mimosa pudica</em> est une plante herbac&eacute;e &agrave; ligneuse souvent &eacute;tal&eacute;e sur le sol, atteignant 20 &agrave; 50 cm, parfois jusqu&#39;&agrave; 1 m de hauteur. Elle est poilue &agrave; glabre, porte des aiguillons recourb&eacute;s, &eacute;pars. Les feuilles sont alternes compos&eacute;es, au sommet d&#39;un p&eacute;tiole de 2 &agrave; 6 cm de long. 2 &agrave; 4 folioles principales dispos&eacute;es en doigts de gants, elles-m&ecirc;mes compos&eacute;es de 10 &agrave; 28 paires de foliolules lin&eacute;aires &agrave; oblongues. Les feuilles sont sensitives et se referment lorsqu&#39;on les touche. Les fleurs sont group&eacute;es en boules roses au bout d&#39;un p&eacute;doncule &agrave; la base des feuilles. Les fruits sont des gousses plates agglom&eacute;r&eacute;es, compos&eacute;es de 3 &agrave; 4 articles et &agrave; bord arm&eacute; de longs poils raides.</p> <h6> Cotyl&eacute;dons</h6> <p> Cotyl&eacute;dons courtement p&eacute;tiol&eacute;s, ovales, glabres avec la base et le sommet tronqu&eacute;s.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Premi&egrave;res feuilles alternes, compos&eacute;es. La premi&egrave;re n&#39;a qu&#39;un penne avec un p&eacute;tiole long de 6 &agrave; 14 mm, glabre et 3 paires de foliolules. Les foliolules sont faiblement asym&eacute;triques de 1 &agrave; 2,5 mm de long avec la marge pubescente. La deuxi&egrave;me feuille porte 2 pennes &agrave; 3 ou 4 paires de foliolules.</p> <h6> Port</h6> <p> Plante diffuse, g&eacute;n&eacute;ralement rampante. C&#39;est un petit sous-arbrisseau &agrave; branches &eacute;pineuses avec une hauteur de 20 &agrave; 50 cm mais pouvant atteindre 1 m.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est un pivot, profond et robuste.</p> <h6> Tige</h6> <p> Tige cylindrique, pleine. Elle est rapidement lignifi&eacute;e &agrave; la base, l&acirc;chement hispide et pourvue d&#39;&eacute;pines &eacute;parses faiblement recourb&eacute;es. Elle est bien ramifi&eacute;e avec des rameaux pouvant atteindre 2 m de long, souvent de couleur vermillon ou pourpre.</p> <h6> Feuille</h6> <p> Feuilles alternes, compos&eacute;es, port&eacute;es par un p&eacute;tiole long de 2 &agrave; 6 cm, pubescent, portant quelques &eacute;pines ou inerme. A la base du p&eacute;tiole se trouvent deux stipules lin&eacute;aires de 5 &agrave; 10 mm de long, &agrave; nervation parall&egrave;le. Le limbe est compos&eacute; de 1 &agrave; 2 paires de pennes presque digit&eacute;s, de 4 &agrave; 9 cm de long et 0,8 &agrave; 1,5 cm de large. Chaque penne porte 10 &agrave; 28 paires de folioles lin&eacute;aires oblongues, sessiles, de 6 &agrave; 8 mm de long et de 1,5 &agrave; 2 mm de larges. Les folioles sont asym&eacute;triques &agrave; la base et apicul&eacute;es au sommet, avec une nervure centrale et secondaire visible et des contours virant du vert au pourpre. La marge est bord&eacute;e de poils appliqu&eacute;s et raides. La face sup&eacute;rieure est glabre tandis que la face inf&eacute;rieure porte des poils fins et quelques poils raides. Les feuilles sont sensitives, folioles et p&eacute;tioles se referment la nuit ou lorsqu&#39;on les touche.</p> <h6> Inflorescence</h6> <p> Inflorescence form&eacute;e 1 &agrave; 4 glom&eacute;rules axillaires et terminaux de 1 &agrave; 1,5 cm de diam&egrave;tre, port&eacute;s par un p&eacute;doncule de 12 &agrave; 25 mm de long. Ces inflorescences sont de couleur rose &agrave; pourpre, contenant de nombreuses fleurs.</p> <h6> Fleur</h6> <p> La fleur est constitu&eacute;e d&#39;un calice minuscule et d&#39;une corolle campanul&eacute;e de 2 &agrave; 2,3 mm et de 4 &eacute;tamines de 7 &agrave; 8 mm de long, roses &agrave; anth&egrave;res blanches. Entre les &eacute;tamines se trouve un long style filiforme blanc.</p> <h6> Fruit</h6> <p> Le fruit est une gousse sessile, lin&eacute;aire oblongue, longue de 1 &agrave; 1,5 cm et large de 3 &agrave; 4 mm, aplatie, &agrave; marge arm&eacute;e de longs poils raides. Les gousses sont agglom&eacute;r&eacute;es au sommet du p&eacute;doncule. Il y a en g&eacute;n&eacute;ral 4 articles par gousse, contenant une seule graine. A maturit&eacute;, les articles, ind&eacute;hiscents, se s&eacute;parent.</p> <h6> Graine</h6> <p> Graine ovale &agrave; orbiculaire de 2,5 &agrave; 3 mm de diam&egrave;tre et 1 &agrave; 1,2 mm d&#39;&eacute;paisseur. T&eacute;gument lisse de couleur brune.</p> ",
+dateCreated: "2015-03-19T11:47:27Z",
+lastUpdated: "2015-05-07T06:07:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765647237,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4999,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Mimosa pudica L.",
+dateCreated: "2015-03-19T11:47:27Z",
+lastUpdated: "2015-03-19T11:47:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765647697,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5003,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Mimosa pudica</em> est une plante p&eacute;renne. Elle se propage uniquement par graines. Les fruits sont diss&eacute;min&eacute;s par les animaux.<br /> ",
+dateCreated: "2015-03-19T11:47:29Z",
+lastUpdated: "2015-05-07T06:07:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765649625,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5002,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: <em>M. pudica</em> est une esp&egrave;ce pr&eacute;sente au bord des routes et dans les jach&egrave;res.<br /> <strong>Madagascar </strong>: Adventice commune dans les zones basses humides de faible ou moyenne altitude, essentiellement dans les plaines alluviales et les bas-fonds temporairement inond&eacute;s.<br /> <strong>Maurice </strong>: Esp&egrave;ce assez commune sur l&#39;&icirc;le dans les terrains vagues et incultes, au bord des routes. C&#39;est une mauvaise herbe des cultures &agrave; toutes altitudes.<br /> <strong>La R&eacute;union</strong> : <em>M. pudica</em> se d&eacute;veloppe sur des types de sols tr&egrave;s divers. On trouve cette plante &agrave; La R&eacute;union dans la zone humide : elle se d&eacute;veloppe surtout du c&ocirc;t&eacute; Est ainsi qu&rsquo;au Sud de l&rsquo;&icirc;le.<br /> <strong>Seychelles</strong> : <em>M. pudica</em> se d&eacute;veloppe en toute saison et sur tous types de sol, principalement de 0 &agrave; 300 m d&#39;altitude.<br /> ",
+dateCreated: "2015-03-19T11:47:29Z",
+lastUpdated: "2015-05-07T06:08:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765649274,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5001,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Probablement originaire d'Amérique tropicale.</p><h6>Distribution Mondiale</h6><p>Pantropicale</p>",
+dateCreated: "2015-03-19T11:47:28Z",
+lastUpdated: "2015-03-19T11:47:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765648923,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5004,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Globale</h6> <p> <em>Mimosa pudica</em> est une mauvaise herbe tr&egrave;s ennuyeuse dans les champs de ma&iuml;s, de th&eacute; et les rizi&egrave;res. Peut devenir une v&eacute;ritable peste dans les p&acirc;turages.</p> <h6> Nuisibilit&eacute; Locale</h6> <p> <strong>B&eacute;nin </strong>: Rare et peu abondante.<br /> <strong>Burkina Faso</strong> : Fr&eacute;quente et peu abondante.<br /> <strong>Comores </strong>: Esp&egrave;ce peu fr&eacute;quente mais peut &ecirc;tre abondante localement.<br /> <strong>Ghana </strong>: Rare et peu abondante.<br /> <strong>Madagascar </strong>: <em>Mimosa pudica</em> est une adventice de fr&eacute;quence relativement faible mais peut &ecirc;tre localement abondante et rend difficile (et co&ucirc;teux) les travaux de pr&eacute;paration du sol (en raison de la faiblesse de l&rsquo;&eacute;quipement mat&eacute;riel des agriculteurs) et m&ecirc;me l&rsquo;acc&egrave;s aux champs de culture apr&egrave;s la saison des pluies.<br /> <strong>Maurice </strong>: Adventice occasionnelle dans les cultures, avec une nuisibilit&eacute; faible.<br /> <strong>Nigeria </strong>: Rare et peu abondante.<br /> <strong>Ouganda </strong>: Fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>La R&eacute;union</strong> : Pr&eacute;sente dans 15 % des parcelles cultiv&eacute;es, elle est assez fr&eacute;quente dans les champs de canne &agrave; sucre, mais elle s&rsquo;y d&eacute;veloppe le plus souvent sous forme de petites taches &eacute;parses ou en bordure de parcelle, sauf dans certaines r&eacute;gions de la zone humide o&ugrave; elle peut pr&eacute;senter un caract&egrave;re dominant. Dans ce cas, outre le danger qu&rsquo;elle repr&eacute;sente pour la canne en raison de sa concurrence, elle g&ecirc;ne le travail d&rsquo;entretien des parcelles par ses &eacute;pines tr&egrave;s agressives.<br /> <strong>Seychelles </strong>: Adventice fr&eacute;quente des zones cultiv&eacute;es, notamment en plantations de th&eacute;, en mara&icirc;chage, en cultures de tubercules et ornementales.<br /> <strong>S&eacute;n&eacute;gal </strong>: Rare et peu abondante.</p> ",
+dateCreated: "2015-03-19T11:47:29Z",
+lastUpdated: "2015-05-07T06:09:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765649953,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5007,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Usages</h6> <p> <strong>M&eacute;decine </strong>: Une infusion de rameaux feuill&eacute;s de <em>M. pudica</em> poss&egrave;de des propri&eacute;t&eacute;s antipyr&eacute;tiques, calmantes et sudorifiques. Mise &agrave; part sa toxicit&eacute; due &agrave; la mimosine, la plante poss&egrave;de des effets hypotenseurs, s&eacute;datifs et anti-inflammatoires. On a montr&eacute; qu&#39;un extrait dans l&#39;alcool permet d&#39;abaisser le taux de glucose dans le sang de rats diab&eacute;tiques. Les alcalo&iuml;des extraits des racines sont des antagonistes aussi bien de l&#39;ac&eacute;tylcholine que de l&#39;histamine.<br /> <br /> <strong>Agriculture </strong>: Un extrait brut de feuilles dans de l&#39;&eacute;thanol montre des propri&eacute;t&eacute;s insecticides contre une esp&egrave;ce de <em>Trilobium</em>.</p> ",
+dateCreated: "2015-03-19T11:47:31Z",
+lastUpdated: "2015-05-07T06:09:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765651323,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5005,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> <strong>Manuelle </strong>: Bien que la pr&eacute;sence des piquants rende l&#39;arrachage manuel assez d&eacute;sagr&eacute;able, <em>M. pudica</em> peut &ecirc;tre contr&ocirc;l&eacute;e par binage. La mise en culture peut aussi aider &agrave; s&#39;en d&eacute;barrasser.<br /> <strong>Biologique </strong>: Elle est souvent attaqu&eacute;e par un champignon <em>Ramularia mimosae</em>, qui se d&eacute;veloppe &agrave; la face sup&eacute;rieure des folioles en formant des points blancs, irr&eacute;guliers.<br /> <strong>Chimique </strong>: Un traitement foliaire (avec humidification) de 2,4,5-T (1 kg /500 litres), les prairies de Jama&iuml;que (3 kg/ha dans les plantations d&#39;h&eacute;v&eacute;a en Malaisie), amitrole (4,5 kg / ha, au Sri Lanka dans les plantations de th&eacute;), picloram (pat&ucirc;rages), am&eacute;trine (canne &agrave; sucre), f&eacute;noprop, ioxynil et 2,4 D.<br /> <br /> Pour des conseils de d&eacute;sherbage des adventices vivaces &agrave; feuilles larges du riz irrigu&eacute; et de bas-fond en Afrique consulter : http://portal.wikwio.org/document/show/25</p> <h6> Lutte Locale</h6> <p> <strong>Madagascar </strong>: Les &eacute;pines rendent le contr&ocirc;le manuel tr&egrave;s p&eacute;nible. Plantes vivaces, elles demandent des doses &eacute;lev&eacute;es d&rsquo;herbicide (glyphosate + 2,4-D). Il est donc tr&egrave;s important de les contr&ocirc;ler d&egrave;s leur apparition sur les bordures, pour &eacute;viter leur propagation, d&rsquo;autant plus qu&rsquo;elles sont tr&egrave;s nuisibles.</p> ",
+dateCreated: "2015-03-19T11:47:30Z",
+lastUpdated: "2015-05-07T06:10:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765650374,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4997,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:26Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.issg.org/database/species/ecology.asp?si=1002&fr=1&sts=sss&lang=FR"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765646624,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4993,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:26Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765646623,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4994,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:26Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765646624,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4991,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:26Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765646623,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4990,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:26Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Galinato M.I., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765646622,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4992,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:26Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Henty E.E. and G.S. Pritchard. 1973. Weeds of New Guinea and their control. Botany bulletin No 7."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765646623,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4995,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:26Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta. Waterhouse, D.F. & K.R. Norris. 1987. Biological Control. Pacific Prospects. Inkata Press, Melbourne. 454 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765646624,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4996,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:26Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765646624,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 4487,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20090212_120527.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20090212_120527_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:54Z",
+rating: 0
+},
+{
+id: 4488,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_170603_135020.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_170603_135020_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:54Z",
+rating: 0
+},
+{
+id: 4489,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230003.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230003_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:54Z",
+rating: 0
+},
+{
+id: 4490,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125504.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125504_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:54Z",
+rating: 0
+},
+{
+id: 4491,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20050901_085758.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20050901_085758_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:54Z",
+rating: 0
+},
+{
+id: 4492,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20050901_085316.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20050901_085316_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:55Z",
+rating: 0
+},
+{
+id: 4493,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230010.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230010_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:55Z",
+rating: 0
+},
+{
+id: 4494,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20030617_145548.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20030617_145548_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:55Z",
+rating: 0
+},
+{
+id: 4495,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125634.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125634_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:55Z",
+rating: 0
+},
+{
+id: 4496,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230004.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230004_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:55Z",
+rating: 0
+},
+{
+id: 4497,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_074010.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_074010_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:55Z",
+rating: 0
+},
+{
+id: 4498,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125652.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125652_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:56Z",
+rating: 0
+},
+{
+id: 4499,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230000.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230000_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:56Z",
+rating: 0
+},
+{
+id: 4500,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20040817_150840.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20040817_150840_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:56Z",
+rating: 0
+},
+{
+id: 4501,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20040816_140818.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20040816_140818_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:56Z",
+rating: 0
+},
+{
+id: 4502,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20040817_150836.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20040817_150836_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:56Z",
+rating: 0
+},
+{
+id: 4503,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20110520_071718.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20110520_071718_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:56Z",
+rating: 0
+},
+{
+id: 4504,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20110520_071716.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20110520_071716_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:56Z",
+rating: 0
+},
+{
+id: 4505,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20090213_132444.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20090213_132444_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:57Z",
+rating: 0
+},
+{
+id: 4506,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20051117_192433.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20051117_192433_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:57Z",
+rating: 0
+},
+{
+id: 4507,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20050901_085518.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20050901_085518_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:57Z",
+rating: 0
+},
+{
+id: 4508,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20090213_132646.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20090213_132646_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:57Z",
+rating: 0
+},
+{
+id: 4509,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_170603_135236.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_170603_135236_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:57Z",
+rating: 0
+},
+{
+id: 4510,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230005.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230005_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:57Z",
+rating: 0
+},
+{
+id: 4511,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_100924.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_100924_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:57Z",
+rating: 0
+},
+{
+id: 4512,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20050901_085050.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20050901_085050_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:58Z",
+rating: 0
+},
+{
+id: 4513,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_010905_075026.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_010905_075026_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:58Z",
+rating: 0
+},
+{
+id: 4514,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230007.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230007_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:58Z",
+rating: 0
+},
+{
+id: 4515,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_091105_111326.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_091105_111326_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:58Z",
+rating: 0
+},
+{
+id: 4516,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_141206_094910.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_141206_094910_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:58Z",
+rating: 0
+},
+{
+id: 4517,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20030617_145912.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20030617_145912_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:58Z",
+rating: 0
+},
+{
+id: 4518,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_260405_075732.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_260405_075732_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:58Z",
+rating: 0
+},
+{
+id: 4519,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20030617_145340.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20030617_145340_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:59Z",
+rating: 0
+},
+{
+id: 4520,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20030617_145236.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20030617_145236_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:59Z",
+rating: 0
+},
+{
+id: 4521,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_170603_135912.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_170603_135912_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:59Z",
+rating: 0
+},
+{
+id: 4522,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20030617_145508.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20030617_145508_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:59Z",
+rating: 0
+},
+{
+id: 4523,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101016.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101016_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:59Z",
+rating: 0
+},
+{
+id: 4524,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20080609_101208_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20080609_101208_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:58:59Z",
+rating: 0
+},
+{
+id: 4525,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20080609_101208_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20080609_101208_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:00Z",
+rating: 0
+},
+{
+id: 4526,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20080609_101208.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20080609_101208_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:00Z",
+rating: 0
+},
+{
+id: 4527,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_100554.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_100554_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:00Z",
+rating: 0
+},
+{
+id: 4528,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20080609_101208_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20080609_101208_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:00Z",
+rating: 0
+},
+{
+id: 4529,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230001.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230001_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:00Z",
+rating: 0
+},
+{
+id: 4530,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230002.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230002_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:00Z",
+rating: 0
+},
+{
+id: 4531,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101820.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101820_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:00Z",
+rating: 0
+},
+{
+id: 4532,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_260405_075252.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_260405_075252_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:01Z",
+rating: 0
+},
+{
+id: 4533,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_100803.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_100803_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:01Z",
+rating: 0
+},
+{
+id: 4534,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101716.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101716_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:01Z",
+rating: 0
+},
+{
+id: 4535,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20020729_145612.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20020729_145612_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:01Z",
+rating: 0
+},
+{
+id: 4536,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125437.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125437_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:01Z",
+rating: 0
+},
+{
+id: 4537,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125413.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125413_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:01Z",
+rating: 0
+},
+{
+id: 4538,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_073604.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_073604_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:01Z",
+rating: 0
+},
+{
+id: 4539,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101132.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101132_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:02Z",
+rating: 0
+},
+{
+id: 4540,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101611.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101611_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:02Z",
+rating: 0
+},
+{
+id: 4541,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101920.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101920_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:02Z",
+rating: 0
+},
+{
+id: 4542,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20051117_192436.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20051117_192436_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:02Z",
+rating: 0
+},
+{
+id: 4543,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101246.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101246_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:02Z",
+rating: 0
+},
+{
+id: 4544,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125345.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125345_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:02Z",
+rating: 0
+},
+{
+id: 4545,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125600.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_125600_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:03Z",
+rating: 0
+},
+{
+id: 4546,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101337.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20070718_101337_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:03Z",
+rating: 0
+},
+{
+id: 4547,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230012.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_301199_230012_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:03Z",
+rating: 0
+},
+{
+id: 4548,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20030617_145800.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20030617_145800_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:03Z",
+rating: 0
+},
+{
+id: 4549,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20101118_154018.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20101118_154018_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:03Z",
+rating: 0
+},
+{
+id: 4550,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20090212_115536.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20090212_115536_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:03Z",
+rating: 0
+},
+{
+id: 4551,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20061214_074910.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20061214_074910_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:03Z",
+rating: 0
+},
+{
+id: 4552,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20090213_132622.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20090213_132622_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:04Z",
+rating: 0
+},
+{
+id: 4553,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20101118_154025.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20101118_154025_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:04Z",
+rating: 0
+},
+{
+id: 4554,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20051117_192445.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20051117_192445_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:04Z",
+rating: 0
+},
+{
+id: 4555,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20051117_192420.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20051117_192420_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:04Z",
+rating: 0
+},
+{
+id: 4556,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120509_115555.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120509_115555_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:04Z",
+rating: 0
+},
+{
+id: 4557,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20051117_192338.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20051117_192338_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:04Z",
+rating: 0
+},
+{
+id: 4558,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20051117_192408.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20051117_192408_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:04Z",
+rating: 0
+},
+{
+id: 4559,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20110520_071606.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20110520_071606_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:05Z",
+rating: 0
+},
+{
+id: 4560,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_133448.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20120125_133448_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:05Z",
+rating: 0
+},
+{
+id: 4561,
+url: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20080609_101208_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mimosa pudica/mimpu_20080609_101208_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:05Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

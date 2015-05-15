@@ -1,0 +1,2241 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 79,
+title: "<i>Crassocephalum crepidioides (</i>Benth.<i>) </i>S.Moore ",
+taxonConcept: {
+id: 184,
+name: "Crassocephalum crepidioides (Benth.) S.Moore",
+canonicalForm: "Crassocephalum crepidioides",
+italicisedForm: "<i>Crassocephalum crepidioides (</i>Benth.<i>) </i>S.Moore ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 24,
+name: "Asteraceae",
+canonicalForm: "Asteraceae",
+italicisedForm: "<i>Asteraceae</i>",
+rank: "Family"
+},
+{
+id: 183,
+name: "Crassocephalum",
+canonicalForm: "Crassocephalum",
+italicisedForm: "<i>Crassocephalum</i>",
+rank: "Genus"
+},
+{
+id: 184,
+name: "Crassocephalum crepidioides (Benth.) S.Moore",
+canonicalForm: "Crassocephalum crepidioides",
+italicisedForm: "<i>Crassocephalum crepidioides (</i>Benth.<i>) </i>S.Moore ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 1877,
+name: "Crassocephalum crepidioides f. crepidioides",
+canonicalForm: "Crassocephalum crepidioides crepidioides",
+italicisedForm: "<i>Crassocephalum crepidioides </i>f.<i> crepidioides</i>",
+taxonConcept: {
+id: 184
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1878,
+name: "Crassocephalum crepidioides var. lutea Steen.",
+canonicalForm: "Crassocephalum crepidioides lutea",
+italicisedForm: "<i>Crassocephalum crepidioides </i>var.<i> lutea </i>Steen. ",
+taxonConcept: {
+id: 184
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1879,
+name: "Crassocephalum crepidioides f. luteum (Steen.) Belcher",
+canonicalForm: "Crassocephalum crepidioides luteum",
+italicisedForm: "<i>Crassocephalum crepidioides </i>f.<i> luteum (</i>Steen.<i>) </i>Belcher ",
+taxonConcept: {
+id: 184
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1880,
+name: "Crassocephalum diversifolium Hiern [Illegitimate]",
+canonicalForm: "Crassocephalum diversifolium",
+italicisedForm: "<i>Crassocephalum diversifolium </i>Hiern<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 184
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1881,
+name: "Gynura crepidioides Benth.",
+canonicalForm: "Gynura crepidioides",
+italicisedForm: "<i>Gynura crepidioides </i>Benth. ",
+taxonConcept: {
+id: 184
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1882,
+name: "Gynura crepidioides var. crepidioides",
+canonicalForm: "Gynura crepidioides crepidioides",
+italicisedForm: "<i>Gynura crepidioides </i>var.<i> crepidioides</i>",
+taxonConcept: {
+id: 184
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1883,
+name: "Gynura diversifolia Sch.Bip. ex Asch.",
+canonicalForm: "Gynura diversifolia",
+italicisedForm: "<i>Gynura diversifolia </i>Sch.Bip.<i> ex </i>Asch. ",
+taxonConcept: {
+id: 184
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1884,
+name: "Gynura microcephala Vatke",
+canonicalForm: "Gynura microcephala",
+italicisedForm: "<i>Gynura microcephala </i>Vatke ",
+taxonConcept: {
+id: 184
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1885,
+name: "Gynura polycephala Benth.",
+canonicalForm: "Gynura polycephala",
+italicisedForm: "<i>Gynura polycephala </i>Benth. ",
+taxonConcept: {
+id: 184
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1886,
+name: "Senecio diversifolius A.Rich. [Illegitimate]",
+canonicalForm: "Senecio diversifolius",
+italicisedForm: "<i>Senecio diversifolius </i>A.Rich.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 184
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 475,
+name: "Anandrambo",
+taxonConcept: {
+id: 184
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 476,
+name: "Oldbag weed",
+taxonConcept: {
+id: 184
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1618,
+name: "Eng: oldbag weed",
+taxonConcept: {
+id: 184
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:11:33Z",
+lastRevised: "2015-03-19T11:15:38Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_03_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CRSCR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CRSCR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 647,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CRSCR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718688,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 653,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Description</h6><p>Terrestrial, annual, erect herb, up to 100 cm tall. Taproots white or brown. Stem rounded or grooved, solid, hairy. Stipules absent. Leaves simple, divided, alternate spiral, sessile or stalked, glabrous or hairy on both sides, margin coarsely dentate, apex acute, base acute, pinnately veined. Flowers bisexual, grouped together in a terminal head of tubular flowers only, sessile, red or red-brown. Fruit an achene with pappus.</p>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718697,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 659,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Crassocephalum crepidioides (Benth.) S.Moore",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718703,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 652,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Reproduce by seed and runners fragments, hydrochorous.<br>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718696,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 654,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Arable land, rivers and roadsides, tea and cinchonaplantations, particularly in wet localities; from 250-2500 m alt. Flowers all the year round. Upland rice fields.<br>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718697,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 661,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Pantropical originating from tropical Africa.</p>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718706,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 656,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>Rarely noxious.</p>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718700,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 657,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Eaten raw or steamed as a vegetable; used as a medicine.<br>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718701,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 650,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Post-emergence application of paraquat (older plants must be wetted well) or diuron plus surfactant. 2,4-D at 0.5 to 0.8 kg ha-1 or MCPA at 0.4 kg ha-1 applied within 20-30 days after emergence provides good control.</p>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718693,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 648,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2015-04-09T16:25:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "-Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "-Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/crscr/crscr_fr.html"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/crscr/crscr_fr.html"
+},
+{
+title: "-Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718689,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 649,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2015-03-01T16:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/crscr/crscr_fr.html"
+},
+{
+title: "-Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "-Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718690,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 651,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2015-03-05T00:43:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/crscr/crscr_fr.html"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "-Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "-Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718694,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 660,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2015-04-09T16:25:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/crscr/crscr_fr.html"
+},
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "-Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "-Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718704,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 655,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2015-03-12T08:59:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/crscr/crscr_fr.html"
+},
+{
+title: "-Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+},
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "-Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718697,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 658,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2015-03-25T06:32:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/crscr/crscr_fr.html"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "-Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718701,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3483,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Crassocephalum crepidioides est une herbe terrestre, annuelle, dressée, jusqu’à 100 cm de hauteur. Racines pivotantes blanches ou brunes. Tige à section arrondie ou cannelée, pleine, pubescente. Stipules absentes. Feuilles simples, divisées, alternes spiralées, sessiles ou pétiolées, glabres ou pubescentes sur les deux faces, marge grossièrement dentée, apex pointu, base pointue, nervation pennée. Fleurs hermaphrodites, sessiles, rouges ou brun rouge, regroupées en capitules terminaux à fleurs uniquement tubulaires. Le fruit est un akène avec pappus.</p>",
+dateCreated: "2015-03-19T11:15:38Z",
+lastUpdated: "2015-03-19T11:15:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763738168,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3468,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CRSCR</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:15:30Z",
+lastUpdated: "2015-03-19T11:15:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763730629,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3475,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Crassocephalum crepidioides est une herbe terrestre, annuelle, dressée, jusqu’à 100 cm de hauteur. Racines pivotantes blanches ou brunes. Tige à section arrondie ou cannelée, pleine, pubescente. Stipules absentes. Feuilles simples, divisées, alternes spiralées, sessiles ou pétiolées, glabres ou pubescentes sur les deux faces, marge grossièrement dentée, apex pointu, base pointue, nervation pennée. Fleurs hermaphrodites, sessiles, rouges ou brun rouge, regroupées en capitules terminaux à fleurs uniquement tubulaires. Le fruit est un akène avec pappus.</p><h6>Cotylédons</h6><p>Le pétiole des cotylédons (2-3 mm de long) est glabre, d’une couleur pourpre dans sa partie inférieure. Le limbe est largement ovale, à base obtuse, à extrémité obtuse apiculée, à marge entière. Il mesure 5,5 mm de long et 5 mm de large. Il est entièrement glabre. Sa face supérieure, parcourue par une nervure médiane violette, est d’une couleur vert-bleu.</p><h6>Premières Feuilles</h6><p>La première feuille est subsessile, à limbe ovale à largement ovale, à base obtuse à atténuée, à extrémité pointue, marge crénée à dentée. Elle mesure 5,5 à 9 mm de long et 4 à 6,5 mm de large. La face inférieure est glabre, de couleur vert violet, la face supérieure pubescente, vert bleu, à nervation palmée. Les nervures de la face inférieure portent des poils violets clairsemés.</p><h6>Port</h6><p>Plante herbacée annuelle aromatique faiblement ramifiée, mesurant 40 cm à 1 m de hauteur.</p><h6>Système Souterrain</h6><p>La racine est pivotante.</p><h6>Tige</h6><p>La tige, plutôt solide, est sillonnée, glabrescente dans sa partie inférieure, couverte de poils courts et épais dans sa partie supérieure. Les rameaux sont couverts d’une pubescence dense.</p><h6>Feuille</h6><p>Les feuilles sont simples, alternes, de forme très variable. Les feuilles de la base sont sessiles, portées par un pseudo-pétiole plus ou moins long, correspondant à la base du limbe très atténuée le long de la nervure centrale. Le limbe est de forme générale ovale ou elliptique, de 6 à 18 cm de long et 2 à 5 cm de large, présentant 0 à 4 lobes pennés plus ou moins profonds vers la base. Le sommet est en coin aigu à acuminé. La marge est très irrégulièrement dentée, la nervation alterne est bien visible, les deux faces sont courtement pubescentes. Les feuilles supérieures sont de plus en plus réduites en taille, sessiles, à limbe elliptique de plus en plus étroit. Les feuilles sont de couleur vert sombre.</p><h6>Inflorescence</h6><p>L'inflorescence est formée de nombreux capitules, assemblés par groupes au sommet de longs pédoncules floraux disposés en cymes terminales. Les capitules sont rapidement retombants. Chaque capitule est porté par un pédicelle court inséré à l’aisselle d’une bractée foliacée linéaire lancéolée. Le capitule mesure 4 à 6 mm de diamètre et 11 à 13 mm de hauteur, il est entouré par un involucre de bractées en 2 séries. Les bractées externes sont peu nombreuses (8 à 11) et plus ou moins étalées, linéaires, mesurant 1/4 à 1/3 de la longueur des bractées internes. Les bractées internes, sont nombreuses (13 à 18), dressées, linéaires, longues de 10 à 11 mm, se terminant par une pointe de couleur pourpre noir.</p><h6>Fleur</h6><p>Les fleurs sont bisexuées, toutes tubulaires, de 9 à 11 mm de long et large de 0,5 mm, de couleur jaune, à extrémité rouge orangé sombre, rarement entièrement jaune. Les anthères sont de couleur pourpre. Le style est longuement bifide.</p><h6>Fruit</h6><p>Le fruit est un akène linéaire cylindrique de 2 mm de long, strié longitudinalement, finement pubescent. Il est d’une couleur brun sombre avec une base et une extrémité plus pâle. Le pappus est composé de nombreuses soies blanches, fines, portant des dents minuscules. Ces soies, qui mesurent 9 à 12 mm de long, sont caduques.</p>",
+dateCreated: "2015-03-19T11:15:32Z",
+lastUpdated: "2015-03-19T11:15:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763732613,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3476,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Crassocephalum crepidioides (Benth.) S.Moore",
+dateCreated: "2015-03-19T11:15:33Z",
+lastUpdated: "2015-03-19T11:15:33Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763733103,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3480,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. crepidioides est une plante annuelle ; elle se propage essentiellement par graines transportées à longue distance par le vent.<br>",
+dateCreated: "2015-03-19T11:15:34Z",
+lastUpdated: "2015-03-19T11:15:34Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763734785,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3477,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Afrique tropicale.</p><h6>Distribution Mondiale</h6><p>C. crepidioides est présent dans toute l'Afrique tropicale, depuis le Sénégal jusqu'à l'Ethiopie et l'Afrique du Sud. On le trouve également à Madagascar et à l'île Maurice. Il a été introduit et s'est naturalisé dans toute l'Asie tropicale et subtropicale, l'Australie, les Nouvelles Hébrides, Fiji, Tonga et Samoa, et dans certaines régions des deux Amériques.</p>",
+dateCreated: "2015-03-19T11:15:33Z",
+lastUpdated: "2015-03-19T11:15:33Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763733723,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3479,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. crepidioides est une adventice commune dans les terres agricoles abandonnées, les terrains vagues, les plantations et les jardins familiaux. Dans les parcelles de cultures itinérantes récemment brûlées, il peut s'installer comme espèce pionnière dominante. Son développement nécessite des températures de 23 à 30°C, et une pluviométrie annuelle de 600 à 1500 mm. Il préfère des sols riches et bien drainés et tolère des sols humides, mais pas l'asphyxie racinaire. Il pousse bien à l'ombre dans les plantations, par ex. de cacao ou de thé. Il est présent dans les terres arables, bords des rivières et des routes, plantations de thé et de quinquina, en particulier dans les endroits humides, de 250 à 2500 m d’altitude et dans les rizières d’altitude. Madagascar : Espèce rudérale et adventice commune dans les zones humides et subhumides de Madagascar, du niveau de la mer jusqu’à 1400 m d’altitude. Elle se développe dans les cultures sur les pentes, dans les vallées ou dans les plaines, sur les talus, les bords des champs et des chemins. Maurice : Mauvaise herbe des champs de canne à sucre et des terrains vagues, assez répandue. La Réunion : Espèce commune répartie sur l’ensemble de l’île mais préférentiellement entre 400 et 1300 m d’altitude.<br>",
+dateCreated: "2015-03-19T11:15:34Z",
+lastUpdated: "2015-03-19T11:15:34Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763734428,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3478,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Afrique tropicale.</p><h6>Distribution Mondiale</h6><p>C. crepidioides est présent dans toute l'Afrique tropicale, depuis le Sénégal jusqu'à l'Ethiopie et l'Afrique du Sud. On le trouve également à Madagascar et à l'île Maurice. Il a été introduit et s'est naturalisé dans toute l'Asie tropicale et subtropicale, l'Australie, les Nouvelles Hébrides, Fiji, Tonga et Samoa, et dans certaines régions des deux Amériques.</p>",
+dateCreated: "2015-03-19T11:15:34Z",
+lastUpdated: "2015-03-19T11:15:34Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763734067,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3481,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Globale</h6><p>Rarement nocive.</p><h6>Nuisibilité Locale</h6><p>Comores : C. crepidioides est une adventice des cultures maraîchères et des champs de manioc. Madagascar : Espèce de fréquence faible à moyenne mais rarement abondante dans les cultures. Maurice : Adventice ayant une nuisibilité faible à moyenne en canne à sucre quand elle se développe en grand nombre. La Réunion : Adventice commune, présente dans près de 30 % des parcelles, principalement dans les champs de canne à sucre ou d’ananas au dessus de 400 m d’altitude. Elle peut atteindre un recouvrement de 30 à 50 %.</p>",
+dateCreated: "2015-03-19T11:15:35Z",
+lastUpdated: "2015-03-19T11:15:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763735120,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3484,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Usages</h6><p>Les feuilles de C. crepidioides se consomment comme légume cru ou cuit par ex. en Sierra Leone, au Ghana, au Bénin, au Nigeria, au Cameroun, en R.D. du Congo et en Ouganda, ainsi qu'en Asie. Utilisée comme médicament. Bénin : Valorisation de C. crepidioides, légume feuille traditionnel à travers la production de thés (cf. http://portal.wikwio.org/document/show/36)</p>",
+dateCreated: "2015-03-19T11:15:38Z",
+lastUpdated: "2015-03-19T11:15:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763738440,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3482,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Après apparition de C. crepidioides, application de paraquat (sur des plantes plus âgées, bien humidifier les plantes) ou de diuron additionné de surfactant. Du 2,4-D de 0,5 à 0,8 kg / ha ou du MCPA à 0,4 kg / ha, appliqués dans les 20 à 30 jours après germination, permettent un bon contrôle de cette mauvaise herbe. Conseils de gestion des adventices annuelles à feuilles larges en riz irrigué : http://portal.wikwio.org/document/show/19</p>",
+dateCreated: "2015-03-19T11:15:35Z",
+lastUpdated: "2015-03-19T11:15:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763735547,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3469,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:15:31Z",
+lastUpdated: "2015-03-31T06:52:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763731990,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3474,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:15:31Z",
+lastUpdated: "2015-03-31T06:52:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/crscr/crscr_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763731991,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3473,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:15:31Z",
+lastUpdated: "2015-03-31T06:52:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763731991,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3472,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:15:31Z",
+lastUpdated: "2015-03-31T06:52:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763731991,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3471,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:15:31Z",
+lastUpdated: "2015-03-31T06:52:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763731991,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3470,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:15:31Z",
+lastUpdated: "2015-03-31T06:52:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763731990,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 1490,
+url: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:11:38Z",
+rating: 0
+},
+{
+id: 1491,
+url: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:11:38Z",
+rating: 0
+},
+{
+id: 1492,
+url: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:11:38Z",
+rating: 0
+},
+{
+id: 1493,
+url: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:11:38Z",
+rating: 0
+},
+{
+id: 1494,
+url: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_10.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_10_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:11:38Z",
+rating: 0
+},
+{
+id: 1495,
+url: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_1.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_1_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:11:38Z",
+rating: 0
+},
+{
+id: 1496,
+url: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:11:38Z",
+rating: 0
+},
+{
+id: 1497,
+url: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:11:38Z",
+rating: 0
+},
+{
+id: 1498,
+url: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:11:38Z",
+rating: 0
+},
+{
+id: 1499,
+url: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Crassocephalum crepidioides/crscr_20080609_101206_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:11:38Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

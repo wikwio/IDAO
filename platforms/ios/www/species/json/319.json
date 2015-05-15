@@ -1,0 +1,1338 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 319,
+title: "<i>Striga asiatica (</i>L.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 599,
+name: "Striga asiatica (L.) Kuntze",
+canonicalForm: "Striga asiatica",
+italicisedForm: "<i>Striga asiatica (</i>L.<i>) </i>Kuntze ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 518,
+name: "Orobanchaceae",
+canonicalForm: "Orobanchaceae",
+italicisedForm: "<i>Orobanchaceae</i>",
+rank: "Family"
+},
+{
+id: 598,
+name: "Striga",
+canonicalForm: "Striga",
+italicisedForm: "<i>Striga</i>",
+rank: "Genus"
+},
+{
+id: 599,
+name: "Striga asiatica (L.) Kuntze",
+canonicalForm: "Striga asiatica",
+italicisedForm: "<i>Striga asiatica (</i>L.<i>) </i>Kuntze ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 6488,
+name: "Striga asiatica var. asiatica",
+canonicalForm: "Striga asiatica asiatica",
+italicisedForm: "<i>Striga asiatica </i>var.<i> asiatica</i>",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6489,
+name: "Striga asiatica var. humilis (Benth.) D.Y. Hong",
+canonicalForm: "Striga asiatica humilis",
+italicisedForm: "<i>Striga asiatica </i>var.<i> humilis (</i>Benth.<i>) </i>D.Y. Hong ",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6490,
+name: "Striga hirsuta var. humilis Benth.",
+canonicalForm: "Striga hirsuta humilis",
+italicisedForm: "<i>Striga hirsuta </i>var.<i> humilis </i>Benth. ",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6491,
+name: "Striga lutea Lour.",
+canonicalForm: "Striga lutea",
+italicisedForm: "<i>Striga lutea </i>Lour. ",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6492,
+name: "Striga lutea var. bicolor Kuntze",
+canonicalForm: "Striga lutea bicolor",
+italicisedForm: "<i>Striga lutea </i>var.<i> bicolor </i>Kuntze ",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1506,
+name: "Afoandoha",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1509,
+name: "Ahitramenakely",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1505,
+name: "Angamay",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1500,
+name: "Arema",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1503,
+name: "Herbe du feu",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1502,
+name: "Herbe du riz",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1501,
+name: "Herbe rouge",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1510,
+name: "Lerb dife",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1511,
+name: "Lerb diri",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1504,
+name: "Shani",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 1507,
+name: "Shidadi",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 1508,
+name: "Goutte de sang",
+taxonConcept: {
+id: 599
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:48:21Z",
+lastRevised: "2015-03-19T12:10:00Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20110520_120742_th1.jpg",
+notes: "<h6>Biological Type</h6><p>parasitic</p><h6>Code</h6><p>STRLU</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>parasitic</p><h6>Code</h6><p>STRLU</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 2275,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>parasitic</p><h6>Code</h6><p>STRLU</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:49:09Z",
+lastUpdated: "2014-09-24T18:49:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584549457,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2276,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Striga asiatica (L.) Kuntze",
+dateCreated: "2014-09-24T18:49:09Z",
+lastUpdated: "2014-09-24T18:49:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584549457,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 6261,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Striga asiatica est une petite herbe grêle, ramifiée dès la base. C'est une espèce parasite qui se développe à la base des Graminées, notamment du maïs et de la canne à sucre. La tige et les feuilles sont de couleur vert sombre à brun, couverts de poils courts et raides. Les feuilles sont opposées par paires et étroites, sans pétiole. Les fleurs, disposées à la base des feuilles, à l'extrémité de la tige, sont de couleur rouge vif, formée d'un petit tube vertical, coudé au sommet, qui s'évase en 5 lobes arrondis inégaux. Les graines sont minuscules, de couleur noire.</p>",
+dateCreated: "2015-03-19T12:10:00Z",
+lastUpdated: "2015-03-19T12:10:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426767000666,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6251,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>STRLU</p><h6>Type Biologique</h6><p>parasite</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T12:09:55Z",
+lastUpdated: "2015-03-19T12:09:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766995495,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6254,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Striga asiatica</em> est une petite herbe gr&ecirc;le, ramifi&eacute;e d&egrave;s la base. C&#39;est une esp&egrave;ce parasite qui se d&eacute;veloppe &agrave; la base des Gramin&eacute;es, notamment du ma&iuml;s et de la canne &agrave; sucre. La tige et les feuilles sont de couleur vert sombre &agrave; brun, couverts de poils courts et raides. Les feuilles sont oppos&eacute;es par paires et &eacute;troites, sans p&eacute;tiole. Les fleurs, dispos&eacute;es &agrave; la base des feuilles, &agrave; l&#39;extr&eacute;mit&eacute; de la tige, sont de couleur rouge vif, form&eacute;e d&#39;un petit tube vertical, coud&eacute; au sommet, qui s&#39;&eacute;vase en 5 lobes arrondis in&eacute;gaux. Les graines sont minuscules, de couleur noire.</p> <h6> Port</h6> <p> Plante dress&eacute;e. L&#39;axe est g&eacute;n&eacute;ralement ramifi&eacute;, dispos&eacute; en chandelier, pouvant atteindre 7 &agrave; 30 cm de haut. La plante est fix&eacute;e &agrave; une racine de son h&ocirc;te.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Racines fines, se d&eacute;veloppent le long de la partie souterraine de la tige.</p> <h6> Tige</h6> <p> Tige cylindrique &agrave; anguleuse, pleine, couverte de poils courts et raides donnant un aspect scabre. Elle est de couleur vert sombre &agrave; brun.</p> <h6> Feuille</h6> <p> Feuilles simples, sessiles, oppos&eacute;es &agrave; la base de la plante et devenant alternes au niveau de l&#39;inflorescence. Le limbe est lin&eacute;aire, parfois lanc&eacute;ol&eacute;, long de 6 &agrave; 37 mm et large de 1 &agrave; 4 mm. Le sommet est en coin aigu parfois obtus. La marge est enti&egrave;re. L&#39;ensemble de la feuille est scabre.</p> <h6> Inflorescence</h6> <p> Inflorescence en &eacute;pi terminal, long de 10 &agrave; 15 cm.</p> <h6> Fleur</h6> <p> Les fleurs sont solitaires sessiles, &agrave; l&#39;aisselle d&#39;une bract&eacute;e foliac&eacute;e lin&eacute;aire de 8 mm de long, scabre. Les fleurs sont de couleur rouge vif. La vari&eacute;t&eacute; lutea est de couleur jaune et la vari&eacute;t&eacute; albiflora de couleur blanche. Le calice est tubulaire, long de 5 &agrave; 7 mm &agrave; 5 lobes aigus mais pr&eacute;sentant plus de nervures que de lobes (en g&eacute;n&eacute;ral 10). Les nervures et les dents sont scabres. La corolle est constitu&eacute;e d&#39;un tube de 6 &agrave; 12 mm de long, finement pubescent, coud&eacute; bien au dessus des dents du calice, puis s&#39;ouvrant en 2 l&egrave;vres. La l&egrave;vre sup&eacute;rieure est faiblement bilob&eacute;e ou seulement &eacute;margin&eacute;e, de 2 mm de long, &agrave; lobes arrondis. La l&egrave;vre inf&eacute;rieure est profond&eacute;ment trilob&eacute;e, de 2,3 mm de long, &agrave; lobes oblongs &agrave; obovales. 4 &eacute;tamines et un ovaire sup&egrave;re ovo&iuml;de.</p> <h6> Fruit</h6> <p> Le fruit est une capsule ellipso&iuml;de, de 3,5 mm de long, de couleur noire, s&#39;ouvrant en 2 valves, qui contiennent de tr&egrave;s nombreuses graines.</p> <h6> Graine</h6> <p> Graine ellipso&iuml;de, de 0,3 mm de long, au t&eacute;gument rid&eacute;, de couleur brune.</p> ",
+dateCreated: "2015-03-19T12:09:56Z",
+lastUpdated: "2015-05-05T05:58:25Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766996716,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6256,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Striga asiatica (L.) Kuntze",
+dateCreated: "2015-03-19T12:09:57Z",
+lastUpdated: "2015-03-19T12:09:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766997462,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6255,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Apr&egrave;s une p&eacute;riode de dormance, les graines de <em>Striga asiatica</em> passent par une phase de pr&eacute;-conditionnement (r&eacute;hydratation) avant la germination, qui n&rsquo;est d&eacute;clench&eacute;e qu&rsquo;apr&egrave;s r&eacute;ception d&rsquo;un signal &eacute;mis par les racines des plantes h&ocirc;tes (strigol et autres compos&eacute;s). En l&rsquo;absence de ce signal, les graines redeviennent dormantes et peuvent rester viables plus de 15 ans dans le sol. Apr&egrave;s germination, le striga d&eacute;veloppe un organe t&eacute;nu, qui va rapidement se fixer sur les racines de l&rsquo;h&ocirc;te et les p&eacute;n&eacute;trer pour se brancher sur son syst&egrave;me vasculaire. Il est alors un parasite exclusif (holoparasite), se d&eacute;veloppant enti&egrave;rement aux d&eacute;pens de la plante parasit&eacute;e, pendant toute la phase souterraine, qui dure une cinquantaine de jours. Il se pr&eacute;sente alors sous la forme de ramifications blanch&acirc;tres sur des racines ros&acirc;tres. Apr&egrave;s &eacute;mergence, les feuilles se d&eacute;veloppent et deviennent chlorophylliennes et la plante devient h&eacute;mi-parasite, capable de subvenir &agrave; 25 % de ses besoins.<br /> ",
+dateCreated: "2015-03-19T12:09:57Z",
+lastUpdated: "2015-05-05T05:59:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766997089,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6258,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Striga asiatica</em> est une plante h&eacute;miparasite annuelle, fix&eacute;e aux racines de Gramin&eacute;es sauvages ou cultiv&eacute;es comme le ma&iuml;s et la canne &agrave; sucre. Elle se reproduit par graines, transport&eacute;es par l&#39;eau, le vent, le mat&eacute;riel agricole et les animaux. Une plante peut produire 50 000 &agrave; 500 000 graines.<br /> ",
+dateCreated: "2015-03-19T12:09:58Z",
+lastUpdated: "2015-05-05T05:59:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766998459,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6257,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>S. asiatica</em> est une bonne esp&egrave;ce indicatrice de sols d&eacute;grad&eacute;s &agrave; faible fertilit&eacute;.<br /> <br /> <strong>Comores </strong>: Cette esp&egrave;ce se d&eacute;veloppe sur les sols argileux et pierreux. Elle est pr&eacute;sente dans les trois &icirc;les, dans les zones de basse altitude en particulier dans les prairies de Gramin&eacute;es.<br /> <strong>Madagascar </strong>: Mauvaise herbe parasite des Gramin&eacute;es assez r&eacute;pandue en zone de savane (subhumide et semi-aride : Moyen-Ouest, Ouest, Nord-Ouest et Sud-Ouest).<br /> <strong>Maurice </strong>: Plante parasite peu commune, on la rencontre occasionnellement dans les champs de canne &agrave; sucre.<br /> <strong>La R&eacute;union</strong> : Cette esp&egrave;ce est une plante de savane qui se d&eacute;veloppe sur les sol sableux &agrave; argileux. A La R&eacute;union elle est pr&eacute;sente principalement sur la c&ocirc;te Est et Sud-Est de l&#39;&icirc;le, jusqu&#39;&agrave; Saint Pierre.<br /> <strong>Seychelles </strong>: Pr&eacute;sente en zones cultiv&eacute;es et lieux abandonn&eacute;s.<br /> ",
+dateCreated: "2015-03-19T12:09:58Z",
+lastUpdated: "2015-05-05T06:01:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766998110,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6259,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Globale</h6> <p> <em>Striga asiatica</em> cause de tr&egrave;s forts d&eacute;g&acirc;ts sur les c&eacute;r&eacute;ales, et en particulier le riz et le ma&iuml;s (jusqu&rsquo;&agrave; 100% de perte dans les parcelles les plus touch&eacute;es) et peut entra&icirc;ner l&rsquo;abandon des parcelles voire m&ecirc;me la migration de villages entiers.</p> <h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>: En tant que parasite des Poac&eacute;es, cette esp&egrave;ce n&#39;est pas directement nuisible aux autres cultures, m&ecirc;me si elle se trouve dans la parcelle. Cependant elle n&#39;est pas appr&eacute;ci&eacute;e des agriculteurs, car elle indique une perte de fertilit&eacute; du sol.<br /> <strong>Madagascar </strong>: Adventice fr&eacute;quente et tr&egrave;s nuisible pour le riz pluvial et le ma&iuml;s surtout dans le Moyen-Ouest et le Sud-Ouest.<br /> <strong>Maurice </strong>: La nuisibilit&eacute; de cette esp&egrave;ce est sans importance pour les cultures locales.<br /> <strong>La R&eacute;union</strong> : <em>S. asiatica</em> &eacute;tant une plante parasite des Poac&eacute;es, elle ne se d&eacute;veloppe que dans les champs de ma&iuml;s et de canne &agrave; sucre. Elle est tr&egrave;s peu fr&eacute;quente &agrave; La R&eacute;union. On la retrouve &eacute;galement dans d&#39;autres cultures mais en tant que parasite de Poac&eacute;es adventices, donc sans nuisance directe &agrave; la culture. Cependant, il peut &ecirc;tre important de tenir compte de sa pr&eacute;sence dans le cas de rotations culturales incluant des esp&egrave;ces sensibles. Elle ne repr&eacute;sente pas un gros probl&egrave;me &agrave; La R&eacute;union, bien qu&#39;elle soit ponctuellement abondante dans certaines parcelles.<br /> <strong>Seychelles </strong>: Faible nuisibilit&eacute;.</p> ",
+dateCreated: "2015-03-19T12:09:58Z",
+lastUpdated: "2015-05-05T06:02:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766998832,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6260,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> De par son mode de d&eacute;veloppement particulier, <em>S. asiatica</em> est tr&egrave;s difficile &agrave; contr&ocirc;ler par des m&eacute;thodes classiques. La contamination par les graines ne peut &ecirc;tre &eacute;vit&eacute;e (production de millions de graines facilement transport&eacute;es). Le travail m&eacute;canique du sol avant culture est sans effet, le striga ne germant pas avant que la culture ait commenc&eacute; &agrave; se d&eacute;velopper. Les herbicides classiques sont eux aussi sans effets ou presque, le striga ayant caus&eacute; de tr&egrave;s forts d&eacute;g&acirc;ts avant m&ecirc;me son &eacute;mergence. La fumigation du sol, tr&egrave;s co&ucirc;teuse et difficile &agrave; mettre en oeuvre est &eacute;galement d&rsquo;une efficacit&eacute; limit&eacute;e.</p> <h6> Lutte Locale</h6> <p> <strong>Madagascar </strong>: <em>S. asiatica</em> est rapidement et tr&egrave;s bien contr&ocirc;l&eacute; par des syst&egrave;mes en semis direct sur couverture v&eacute;g&eacute;tale permanente qui associent culture de plantes pi&egrave;ges qui d&eacute;clenchent la germination du striga mais ne sont pas parasit&eacute;es, cr&eacute;ation de conditions peu favorables &agrave; sa germination (baisse de la temp&eacute;rature du sol), enrichissement du sol en mati&egrave;re organique et en azote par les plantes de couverture et cr&eacute;ation de conditions (humidit&eacute;, temp&eacute;rature, nourriture) favorables au d&eacute;veloppement de parasites du striga (insectes, champignons).</p> ",
+dateCreated: "2015-03-19T12:09:59Z",
+lastUpdated: "2015-05-05T06:03:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766999281,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6252,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:09:56Z",
+lastUpdated: "2015-03-23T11:53:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766996068,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6253,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:09:56Z",
+lastUpdated: "2015-03-29T08:36:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766996068,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 6877,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20110520_120742.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20110520_120742_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:42Z",
+rating: 0
+},
+{
+id: 6855,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20111026_190806.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20111026_190806_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:38Z",
+rating: 0
+},
+{
+id: 6864,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20090128_143715.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20090128_143715_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:40Z",
+rating: 0
+},
+{
+id: 6867,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080611_080118.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080611_080118_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:40Z",
+rating: 0
+},
+{
+id: 6856,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20111026_190844.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20111026_190844_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:38Z",
+rating: 0
+},
+{
+id: 6857,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20111026_190906.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20111026_190906_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:38Z",
+rating: 0
+},
+{
+id: 6858,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20090128_143846.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20090128_143846_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:38Z",
+rating: 0
+},
+{
+id: 6859,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080227_101134.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080227_101134_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:39Z",
+rating: 0
+},
+{
+id: 6860,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080609_101240.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080609_101240_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:39Z",
+rating: 0
+},
+{
+id: 6861,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080609_10124003.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080609_10124003_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:39Z",
+rating: 0
+},
+{
+id: 6862,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20090128_143631.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20090128_143631_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:39Z",
+rating: 0
+},
+{
+id: 6863,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20090128_143811.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20090128_143811_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:39Z",
+rating: 0
+},
+{
+id: 6865,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080609_10124004.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080609_10124004_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:40Z",
+rating: 0
+},
+{
+id: 6866,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080609_10124006.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080609_10124006_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:40Z",
+rating: 0
+},
+{
+id: 6868,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080609_10124002.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080609_10124002_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:40Z",
+rating: 0
+},
+{
+id: 6869,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080704_143340.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080704_143340_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:41Z",
+rating: 0
+},
+{
+id: 6870,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20050414_094359.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20050414_094359_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:41Z",
+rating: 0
+},
+{
+id: 6871,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080227_100746.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080227_100746_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:41Z",
+rating: 0
+},
+{
+id: 6872,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080609_10124005.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080609_10124005_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:41Z",
+rating: 0
+},
+{
+id: 6873,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20111026_190714.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20111026_190714_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:42Z",
+rating: 0
+},
+{
+id: 6874,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20110520_120324.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20110520_120324_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:42Z",
+rating: 0
+},
+{
+id: 6875,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20020730_135714.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20020730_135714_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:42Z",
+rating: 0
+},
+{
+id: 6876,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20110520_120724.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20110520_120724_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:42Z",
+rating: 0
+},
+{
+id: 6878,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20110520_120750.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20110520_120750_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:43Z",
+rating: 0
+},
+{
+id: 6879,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080520_115954.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080520_115954_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:43Z",
+rating: 0
+},
+{
+id: 6880,
+url: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080520_120002.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Striga asiatica/strlu_20080520_120002_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:48:43Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

@@ -1,0 +1,916 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 90,
+title: "<i>Cyathula prostrata (</i>L.<i>) </i>Blume ",
+taxonConcept: {
+id: 202,
+name: "Cyathula prostrata (L.) Blume",
+canonicalForm: "Cyathula prostrata",
+italicisedForm: "<i>Cyathula prostrata (</i>L.<i>) </i>Blume ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 29,
+name: "Amaranthaceae",
+canonicalForm: "Amaranthaceae",
+italicisedForm: "<i>Amaranthaceae</i>",
+rank: "Family"
+},
+{
+id: 201,
+name: "Cyathula",
+canonicalForm: "Cyathula",
+italicisedForm: "<i>Cyathula</i>",
+rank: "Genus"
+},
+{
+id: 202,
+name: "Cyathula prostrata (L.) Blume",
+canonicalForm: "Cyathula prostrata",
+italicisedForm: "<i>Cyathula prostrata (</i>L.<i>) </i>Blume ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 1971,
+name: "Achyranthes alternifolia L.f.",
+canonicalForm: "Achyranthes alternifolia",
+italicisedForm: "<i>Achyranthes alternifolia </i>L.f. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1972,
+name: "Achyranthes debilis Poir.",
+canonicalForm: "Achyranthes debilis",
+italicisedForm: "<i>Achyranthes debilis </i>Poir. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1973,
+name: "Achyranthes diffusa Moench",
+canonicalForm: "Achyranthes diffusa",
+italicisedForm: "<i>Achyranthes diffusa </i>Moench ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1974,
+name: "Achyranthes globosa Pers.",
+canonicalForm: "Achyranthes globosa",
+italicisedForm: "<i>Achyranthes globosa </i>Pers. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1975,
+name: "Achyranthes mollis Lepr. ex Seub.",
+canonicalForm: "Achyranthes mollis",
+italicisedForm: "<i>Achyranthes mollis </i>Lepr.<i> ex </i>Seub. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1976,
+name: "Achyranthes prostrata L.",
+canonicalForm: "Achyranthes prostrata",
+italicisedForm: "<i>Achyranthes prostrata </i>L. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1977,
+name: "Achyranthes repens B.Heyne ex Roth [Illegitimate]",
+canonicalForm: "Achyranthes repens",
+italicisedForm: "<i>Achyranthes repens </i>B.Heyne<i> ex </i>Roth<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1978,
+name: "Cyathula alternifolia Druce",
+canonicalForm: "Cyathula alternifolia",
+italicisedForm: "<i>Cyathula alternifolia </i>Druce ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1979,
+name: "Cyathula geniculata Lour.",
+canonicalForm: "Cyathula geniculata",
+italicisedForm: "<i>Cyathula geniculata </i>Lour. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1980,
+name: "Cyathula globosa Moq.",
+canonicalForm: "Cyathula globosa",
+italicisedForm: "<i>Cyathula globosa </i>Moq. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1981,
+name: "Cyathula prostrata var. debilis (Poir.) Miq.",
+canonicalForm: "Cyathula prostrata debilis",
+italicisedForm: "<i>Cyathula prostrata </i>var.<i> debilis (</i>Poir.<i>) </i>Miq. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1982,
+name: "Cyathula prostrata var. prostrata",
+canonicalForm: "Cyathula prostrata prostrata",
+italicisedForm: "<i>Cyathula prostrata </i>var.<i> prostrata</i>",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1983,
+name: "Cyathula repens Moq.",
+canonicalForm: "Cyathula repens",
+italicisedForm: "<i>Cyathula repens </i>Moq. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1984,
+name: "Desmochaeta globosa Schult.",
+canonicalForm: "Desmochaeta globosa",
+italicisedForm: "<i>Desmochaeta globosa </i>Schult. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1985,
+name: "Desmochaeta micrantha DC.",
+canonicalForm: "Desmochaeta micrantha",
+italicisedForm: "<i>Desmochaeta micrantha </i>DC. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1986,
+name: "Desmochaeta prostrata (L.) DC.",
+canonicalForm: "Desmochaeta prostrata",
+italicisedForm: "<i>Desmochaeta prostrata (</i>L.<i>) </i>DC. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1987,
+name: "Desmochaeta repens Schult.",
+canonicalForm: "Desmochaeta repens",
+italicisedForm: "<i>Desmochaeta repens </i>Schult. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1988,
+name: "Pupalia prostrata (L.) Mart.",
+canonicalForm: "Pupalia prostrata",
+italicisedForm: "<i>Pupalia prostrata (</i>L.<i>) </i>Mart. ",
+taxonConcept: {
+id: 202
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:14:25Z",
+lastRevised: "2015-03-19T11:18:18Z",
+thumbnail: "http://portal.wikwio.org/biodiv/group_icons/speciesGroups/plants_th1.png",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CYHPR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CYHPR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 728,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CYHPR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145065,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 727,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Cyathula prostrata (L.) Blume",
+dateCreated: "2014-09-24T17:19:05Z",
+lastUpdated: "2014-09-24T17:19:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579145064,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3591,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Cyathula prostrata est une plante dressée ou retombante, haute de 20 cm à 60 cm, parfois plus. La tige anguleuse, est couverte de poils dressés. Les feuilles opposées, de 4 à 9 cm de long, sont courtement pétiolées, teintées de rouge en dessous et au bord, surtout à l'état jeune. Le limbe est elliptique, au sommet rétréci en pointe. Les fleurs sont petites et verdâtres, ayant moins de 3 mm de long. Elles sont disposées en longs épis terminaux et latéraux. Les fruits cachés dans une boule de petits poils crochus sont dirigés vers le bas à maturité. Ils s'accrochent aux habits et aux poils des animaux.</p>",
+dateCreated: "2015-03-19T11:18:18Z",
+lastUpdated: "2015-03-19T11:18:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763898894,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3583,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CYHPR</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:18:10Z",
+lastUpdated: "2015-03-19T11:18:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763890293,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3586,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Cyathula prostrata est une plante dressée ou retombante, haute de 20 cm à 60 cm, parfois plus. La tige anguleuse, est couverte de poils dressés. Les feuilles opposées, de 4 à 9 cm de long, sont courtement pétiolées, teintées de rouge en dessous et au bord, surtout à l'état jeune. Le limbe est elliptique, au sommet rétréci en pointe. Les fleurs sont petites et verdâtres, ayant moins de 3 mm de long. Elles sont disposées en longs épis terminaux et latéraux. Les fruits cachés dans une boule de petits poils crochus sont dirigés vers le bas à maturité. Ils s'accrochent aux habits et aux poils des animaux.</p><h6>Port</h6><p>Plante herbacée haute de 20 à 60 cm, parfois plus grande. Son port est dressé ou plus ou moins décombant. La plante est ramifiée dès la base.</p><h6>Système Souterrain</h6><p>La racine est pivotante.</p><h6>Tige</h6><p>La tige est quadrangulaire, pleine ; elle est parfois presque cylindrique, et striée longitudinalement. Elle est pubescente à poils dressés ou presque glabre.</p><h6>Feuille</h6><p>Les feuilles sont simples et opposées, parfois teintées de pourpre en dessous et au bord, surtout à l'état jeune. Le pétiole est long de 5 à 15 mm et pubescent. Le limbe est elliptique, obovale, souvent avec une forme de losange pour les grandes feuilles. Il mesure 1,5 à 8 cm de long et 1 à 4,5 cm de large, base en coin large, sommet en coin aigu ou acuminé. La marge est entière. 5 à 6 paires de nervures latérales arquées parallèles. Les deux faces sont pubescentes à subglabre chez les feuilles âgées.</p><h6>Inflorescence</h6><p>L’inflorescence est disposée en épis terminaux atteignant jusqu'à 35 cm de long ou latéraux à l’aisselle des feuilles supérieures, mais de taille plus réduite. Le rachis est pubescent. Les fleurs sont groupées en petits glomérules très denses au sommet, rapidement espacés vers la base. Ces glomérules sont d'abord dressés vers le haut puis se renversent et s’appliquent à l’axe de l’épi après la floraison.</p><h6>Fleur</h6><p>Les glomérules floraux sont subglobuleux, courtement pédonculés, présentant à la base une petite bractée ovale apiculée. Ils sont composées de 2 à 3 fleurs fertiles ovoïdes de 2 à 3 mm, sous-tendues par des bractéoles ovales pubescentes, mucronées au sommet. Les tépales sont longs de 2 à 3 mm, elliptiques oblongs, trinervés. Les fleurs latérales sont placées entre 2 petites fleurs stériles accrescentes qui sont transformées en bractées (7 à 8 par fleurs). Ces fleurs stériles sont réduites à des arêtes crochues réunies à la base sur un pédicelle de 1 mm. Elles sont longuement acuminées, aiguës de 1 à 2 mm, recourbées en crochet. L’ovaire n’a qu’un ovule. Il est plus ou moins obovoïde et long de 0,7 mm. Le style est grêle à stigmate arrondi.</p><h6>Fruit</h6><p>Le fruit est une capsule ovoïde très mince à péricarpe presque membraneux, ne contenant qu'une seule graine. Il est surmonté du style.</p><h6>Graine</h6><p>La graine est ovoïde lenticulaire, longue d'environ 1,5 mm, brune, luisante et lisse.</p>",
+dateCreated: "2015-03-19T11:18:11Z",
+lastUpdated: "2015-03-19T11:18:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763891681,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3587,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Cyathula prostrata (L.) Blume",
+dateCreated: "2015-03-19T11:18:12Z",
+lastUpdated: "2015-03-19T11:18:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763892250,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3589,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. prostrata est une plante annuelle, ou pérenne mais de courte longévité.<br>",
+dateCreated: "2015-03-19T11:18:13Z",
+lastUpdated: "2015-03-19T11:18:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763893394,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3588,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Comores : C. prostrata est présente dans toutes les régions des trois îles. Elle préfère les milieux humides, à basse et moyenne altitude. Madagascar : Espèce rudérale rencontrée dans les régions humides (Hautes Terres, Est et Sambirano). Elle se développe dans les endroits frais et humides près des bas-fonds ou des habitations ou dans les cultures pérennes. Maurice : Espèce qui se développe en sous-bois, en forêt claire, le long des sentiers, dans les clairières, parfois aussi au bord de routes et dans les endroits plus ensoleillés. La Réunion : C. prostrata est une mauvaise herbe commune aux abords des villages, sur les terrains incultes et dans les cultures. Sur l'île, elle est principalement présente dans la région de Saint-André, Bras-Panon et Saint-Benoît. Seychelles : Espèce des clairières et des lieux abandonnés. Elle est rarement abondante.<br>",
+dateCreated: "2015-03-19T11:18:12Z",
+lastUpdated: "2015-03-19T11:18:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763892976,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3590,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Comores : C. prostrata est une adventice de nuisibilité mineure dans les plantations de manioc. Madagascar : Adventice de fréquence faible et peu gênante. Maurice : Cette espèce n'est pas présente dans les cultures. La Réunion : C. prostrata est peu fréquente et peu gênante dans les cultures de l'île. On la trouve essentiellement en culture de canne à sucre, avec une faible abondance ou en bordure de champ ou dans les canaux d'évacuation d'eau. Seychelles : Adventice à faible nuisibilité.</p>",
+dateCreated: "2015-03-19T11:18:13Z",
+lastUpdated: "2015-03-19T11:18:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763893810,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3584,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:18:10Z",
+lastUpdated: "2015-04-08T10:49:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+},
+{
+url: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/cyhpr/cyhpr_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763890934,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3585,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:18:10Z",
+lastUpdated: "2015-03-29T12:31:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763890935,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [ ],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

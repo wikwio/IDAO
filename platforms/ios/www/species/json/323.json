@@ -1,0 +1,1234 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 323,
+title: "<i>Teramnus labialis (</i>L.f.<i>) </i>Spreng. ",
+taxonConcept: {
+id: 606,
+name: "Teramnus labialis (L.f.) Spreng.",
+canonicalForm: "Teramnus labialis",
+italicisedForm: "<i>Teramnus labialis (</i>L.f.<i>) </i>Spreng. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 5,
+name: "Fabaceae",
+canonicalForm: "Fabaceae",
+italicisedForm: "<i>Fabaceae</i>",
+rank: "Family"
+},
+{
+id: 605,
+name: "Teramnus",
+canonicalForm: "Teramnus",
+italicisedForm: "<i>Teramnus</i>",
+rank: "Genus"
+},
+{
+id: 606,
+name: "Teramnus labialis (L.f.) Spreng.",
+canonicalForm: "Teramnus labialis",
+italicisedForm: "<i>Teramnus labialis (</i>L.f.<i>) </i>Spreng. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 6528,
+name: "Bujacia gampsonychia E.Mey.",
+canonicalForm: "Bujacia gampsonychia",
+italicisedForm: "<i>Bujacia gampsonychia </i>E.Mey. ",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6529,
+name: "Glycine abyssinica A.Rich.",
+canonicalForm: "Glycine abyssinica",
+italicisedForm: "<i>Glycine abyssinica </i>A.Rich. ",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6530,
+name: "Glycine debilis Aiton",
+canonicalForm: "Glycine debilis",
+italicisedForm: "<i>Glycine debilis </i>Aiton ",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6531,
+name: "Glycine gampsonychia (E.Mey.) Walp.",
+canonicalForm: "Glycine gampsonychia",
+italicisedForm: "<i>Glycine gampsonychia (</i>E.Mey.<i>) </i>Walp. ",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6532,
+name: "Glycine labialis L.f.",
+canonicalForm: "Glycine labialis",
+italicisedForm: "<i>Glycine labialis </i>L.f. ",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6533,
+name: "Glycine meyeri Benth.",
+canonicalForm: "Glycine meyeri",
+italicisedForm: "<i>Glycine meyeri </i>Benth. ",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6534,
+name: "Glycine parviflora Lam.",
+canonicalForm: "Glycine parviflora",
+italicisedForm: "<i>Glycine parviflora </i>Lam. ",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6535,
+name: "Glycine pentandra Spreng.",
+canonicalForm: "Glycine pentandra",
+italicisedForm: "<i>Glycine pentandra </i>Spreng. ",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6536,
+name: "Glycine subonensis Hayata",
+canonicalForm: "Glycine subonensis",
+italicisedForm: "<i>Glycine subonensis </i>Hayata ",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6537,
+name: "Glycine warreensis Dalzell",
+canonicalForm: "Glycine warreensis",
+italicisedForm: "<i>Glycine warreensis </i>Dalzell ",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6538,
+name: "Kennedya arabica Benth. [Spelling variant]",
+canonicalForm: "Kennedya arabica",
+italicisedForm: "<i>Kennedya arabica </i>Benth.<i> [Spelling variant]</i>",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6539,
+name: "Teramnus angustifolius Merr.",
+canonicalForm: "Teramnus angustifolius",
+italicisedForm: "<i>Teramnus angustifolius </i>Merr. ",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6540,
+name: "Teramnus axilliflorus sensu Hauman",
+canonicalForm: "Teramnus axilliflorus",
+italicisedForm: "<i>Teramnus axilliflorus sensu Hauman</i>",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6541,
+name: "Teramnus debilis (Aiton) Prain",
+canonicalForm: "Teramnus debilis",
+italicisedForm: "<i>Teramnus debilis (</i>Aiton<i>) </i>Prain ",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6542,
+name: "Teramnus labialis "sensu Hauman, p.p."",
+canonicalForm: "Teramnus labialis",
+italicisedForm: "<i>Teramnus labialis "sensu Hauman, </i>p.<i>p."</i>",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6543,
+name: "Teramnus labialis subsp. labialis",
+canonicalForm: "Teramnus labialis labialis",
+italicisedForm: "<i>Teramnus labialis </i>subsp.<i> labialis</i>",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6544,
+name: "Teramnus parviflorus (Lam.) Spreng.",
+canonicalForm: "Teramnus parviflorus",
+italicisedForm: "<i>Teramnus parviflorus (</i>Lam.<i>) </i>Spreng. ",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6545,
+name: "Teramnus repens "sensu Hauman, p.p."",
+canonicalForm: "Teramnus repens",
+italicisedForm: "<i>Teramnus repens "sensu Hauman, </i>p.<i>p."</i>",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1527,
+name: "Teloravy",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1524,
+name: "Horse vine",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1528,
+name: "Tref",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1525,
+name: "Trèfle",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 1526,
+name: "Pistache marrone",
+taxonConcept: {
+id: 606
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:50:17Z",
+lastRevised: "2015-03-19T12:10:41Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20090128_152110_th1.jpg",
+notes: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>TERLA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>TERLA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 2294,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>TERLA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:53:20Z",
+lastUpdated: "2014-09-24T18:53:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584800217,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2293,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Teramnus labialis (L.f.) Spreng.",
+dateCreated: "2014-09-24T18:53:20Z",
+lastUpdated: "2014-09-24T18:53:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584800216,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 6300,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Teramnus labialis est une herbe volubile ou traînante à tiges grêles, s'enracinant parfois aux noeuds, longues de 0,3 à 3 mètres, portant des poils dirigés vers l'arrière. Les feuilles sont composées alternes, à 3 folioles elliptiques. Les fleurs très petites peuvent être de couleur pourpre, blanc crème ou rose, disposées sur un axe de 5 à 12 cm. Le fruit est une gousse pubescente.</p>",
+dateCreated: "2015-03-19T12:10:41Z",
+lastUpdated: "2015-03-19T12:10:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426767041144,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6293,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>TERLA</p><h6>Type Biologique</h6><p>liane</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T12:10:32Z",
+lastUpdated: "2015-03-19T12:10:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426767032442,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6295,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Teramnus labialis</em> est une herbe volubile ou tra&icirc;nante &agrave; tiges gr&ecirc;les, s&#39;enracinant parfois aux noeuds, longues de 0,3 &agrave; 3 m&egrave;tres, portant des poils dirig&eacute;s vers l&#39;arri&egrave;re. Les feuilles sont compos&eacute;es alternes, &agrave; 3 folioles elliptiques. Les fleurs tr&egrave;s petites peuvent &ecirc;tre de couleur pourpre, blanc cr&egrave;me ou rose, dispos&eacute;es sur un axe de 5 &agrave; 12 cm. Le fruit est une gousse pubescente.</p> <h6> Port</h6> <p> Plante lianescente tr&egrave;s gr&ecirc;le, rampante au sol ou volubile d&egrave;s qu&#39;elle rencontre un support autour duquel elle s&#39;enroule. Elle peut mesurer jusqu&#39;&agrave; 3 m&egrave;tres de long.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est un pivot profond et solide.</p> <h6> Tige</h6> <p> Tige cylindrique, gr&ecirc;le et creuse. Elle est h&eacute;riss&eacute;e de poils r&eacute;trorses. Elle s&#39;enracine facilement aux noeuds en contact avec le sol.</p> <h6> Feuille</h6> <p> Feuilles alternes, compos&eacute;es, trifoliol&eacute;es. Le p&eacute;tiole est long de 2 &agrave; 5 cm avant les folioles lat&eacute;rales, les p&eacute;tiolules lat&eacute;raux sont longs de 1,5 mm et le terminal est long de 6 &agrave; 10 mm. Ils sont tous pubescents. Les stipules ovales lanc&eacute;ol&eacute;es sont longues de 3 &agrave; 4 mm. Les stipelles lin&eacute;aires sont tr&egrave;s courtes. Les folioles sont ovales &agrave; elliptiques, &agrave; peu pr&egrave;s &eacute;gales. Les folioles lat&eacute;rales sont un peu dissym&eacute;triques &agrave; la base, longues de 3 &agrave; 8 cm et larges de 15 &agrave; 35 mm. Le sommet est en coin obtus, mucron&eacute;. On peut distinguer 5 &agrave; 6 nervures lat&eacute;rales alternes. La marge est enti&egrave;re la face sup&eacute;rieure est glabre ou &agrave; poils tr&egrave;s clairsem&eacute;s. La face inf&eacute;rieure pr&eacute;sente une pubescence appliqu&eacute;e.</p> <h6> Inflorescence</h6> <p> Inflorescences en rac&egrave;mes axillaires longs de 2 &agrave; 8 cm, portant des fleurs assez petites, isol&eacute;es ou par 2, port&eacute;es par un p&eacute;dicelle de 1 &agrave; 3 mm.</p> <h6> Fleur</h6> <p> Fleurs pourvues d&#39;un calice long de 3 &agrave; 4 mm, &agrave; poils dress&eacute;s et raides, &agrave; 5 dents courtes. La corolle d&#39;un blanc gris&acirc;tre ou teint&eacute;e de rose est longue de 5 &agrave; 7 mm, l&#39;&eacute;tendard seul est bien visible.</p> <h6> Fruit</h6> <p> Le fruit est une gousse lin&eacute;aire &eacute;troite, droite, &agrave; bec terminal incurv&eacute; vers le haut, longue de 4,5 cm et large de 3 &agrave; 4 mm, contenant 5 &agrave; 10 graines.</p> <h6> Graine</h6> <p> Graine oblongue, de 2 &agrave; 3 mm de long et 1,2 &agrave; 2 mm de large, au t&eacute;gument lisse &agrave; granuleux.</p> ",
+dateCreated: "2015-03-19T12:10:33Z",
+lastUpdated: "2015-05-05T06:21:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426767033455,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6296,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Teramnus labialis (L.f.) Spreng.",
+dateCreated: "2015-03-19T12:10:33Z",
+lastUpdated: "2015-03-19T12:10:33Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426767033974,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6298,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Teramnus labialis</em> est une plante annuelle qui se multiplie par graines et s&#39;enracine au niveau des noeuds.<br /> ",
+dateCreated: "2015-03-19T12:10:35Z",
+lastUpdated: "2015-05-05T06:21:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426767035011,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6297,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: <em>Teramnus labialis</em> est une esp&egrave;ce peu commune que l&#39;on rencontre en bordure de champ, dans les jach&egrave;res.<br /> <strong>Madagascar </strong>: Adventice commune sur les Hautes Terres et le versant occidental de l&#39;&icirc;le : Antananarivo, Antsirab&eacute;, le Moyen-Ouest, l&#39;Ouest et le Sud-Ouest.<br /> <strong>Maurice </strong>: Esp&egrave;ce commune &agrave; basse altitude dans les zones plus s&egrave;ches en station ouverte, au bord des routes, en jach&egrave;res, en cultures, dans les terrains vagues.<br /> <strong>La R&eacute;union</strong> : Plante rud&eacute;rale qui pousse de pr&eacute;f&eacute;rence le long des chemins, dans les haies, pr&egrave;s des habitations et dans les jach&egrave;res, durant la saison des pluies. C&#39;est &eacute;galement une mauvaise herbe peu abondante dans les cultures.<br /> <strong>Seychelles </strong>: Pr&eacute;sente dans les clairi&egrave;res et dans les lieux abandonn&eacute;s. Elle est rarement abondante.<br /> ",
+dateCreated: "2015-03-19T12:10:34Z",
+lastUpdated: "2015-05-05T06:24:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426767034632,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6299,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>: <em>Teramnus labialis</em> est une adventice peu fr&eacute;quente.<br /> <strong>Madagascar </strong>: Sa fr&eacute;quence dans les cultures est relativement faible mais elle peut &ecirc;tre tr&egrave;s nuisible (en particulier pour le riz pluvial), g&ecirc;nant les travaux de r&eacute;colte et post r&eacute;colte et occasionnant des pertes importantes de r&eacute;colte si elle n&rsquo;est pas &eacute;limin&eacute;e &agrave; temps.<br /> <strong>Maurice </strong>: Adventice rarement rencontr&eacute;e dans les cultures.<br /> <strong>La R&eacute;union</strong> : <em>T. labialis</em> est pr&eacute;sent dans 10 % des parcelles cultiv&eacute;es, principalement dans les champs de canne &agrave; sucre et, plus ponctuellement, en mara&icirc;chage et en ananas. C&#39;est une esp&egrave;ce grimpante qui a tendance &agrave; s&#39;enrouler dans les cannes en bordure de champs, mais elle n&#39;est jamais abondante.<br /> <strong>Seychelles </strong>: Faible nuisibilit&eacute;.</p> ",
+dateCreated: "2015-03-19T12:10:35Z",
+lastUpdated: "2015-05-05T06:23:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426767035391,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6294,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:10:32Z",
+lastUpdated: "2015-03-22T16:51:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426767032798,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 6925,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20090128_152110.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20090128_152110_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:33Z",
+rating: 0
+},
+{
+id: 6926,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050323_115638.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050323_115638_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:33Z",
+rating: 0
+},
+{
+id: 6927,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20010314_121942.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20010314_121942_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:33Z",
+rating: 0
+},
+{
+id: 6928,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20090128_152009.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20090128_152009_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:33Z",
+rating: 0
+},
+{
+id: 6929,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050323_115854.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050323_115854_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:33Z",
+rating: 0
+},
+{
+id: 6930,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20090128_151844.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20090128_151844_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:34Z",
+rating: 0
+},
+{
+id: 6931,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20090128_152203.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20090128_152203_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:34Z",
+rating: 0
+},
+{
+id: 6932,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122807.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122807_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:34Z",
+rating: 0
+},
+{
+id: 6933,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20020730_141756.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20020730_141756_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:34Z",
+rating: 0
+},
+{
+id: 6934,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122802.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122802_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:35Z",
+rating: 0
+},
+{
+id: 6935,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20090128_151936.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20090128_151936_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:35Z",
+rating: 0
+},
+{
+id: 6936,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050319_212102.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050319_212102_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:35Z",
+rating: 0
+},
+{
+id: 6937,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122803.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122803_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:35Z",
+rating: 0
+},
+{
+id: 6938,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122806.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122806_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:35Z",
+rating: 0
+},
+{
+id: 6939,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122805.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122805_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:36Z",
+rating: 0
+},
+{
+id: 6940,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050323_115600.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050323_115600_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:36Z",
+rating: 0
+},
+{
+id: 6941,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122809.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122809_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:36Z",
+rating: 0
+},
+{
+id: 6942,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122804.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122804_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:36Z",
+rating: 0
+},
+{
+id: 6943,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122808.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20080609_10122808_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:37Z",
+rating: 0
+},
+{
+id: 6944,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050323_115610.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050323_115610_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:37Z",
+rating: 0
+},
+{
+id: 6945,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050323_115846.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050323_115846_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:37Z",
+rating: 0
+},
+{
+id: 6946,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050319_181650.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050319_181650_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:37Z",
+rating: 0
+},
+{
+id: 6947,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050323_115706.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050323_115706_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:37Z",
+rating: 0
+},
+{
+id: 6948,
+url: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050319_212106.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Teramnus labialis/terla_20050319_212106_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:50:38Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

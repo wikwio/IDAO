@@ -1,0 +1,3437 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 33,
+title: "<i>Axonopus compressus (</i>Sw.<i>) </i>P.Beauv. ",
+taxonConcept: {
+id: 88,
+name: "Axonopus compressus (Sw.) P.Beauv.",
+canonicalForm: "Axonopus compressus",
+italicisedForm: "<i>Axonopus compressus (</i>Sw.<i>) </i>P.Beauv. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 87,
+name: "Axonopus",
+canonicalForm: "Axonopus",
+italicisedForm: "<i>Axonopus</i>",
+rank: "Genus"
+},
+{
+id: 88,
+name: "Axonopus compressus (Sw.) P.Beauv.",
+canonicalForm: "Axonopus compressus",
+italicisedForm: "<i>Axonopus compressus (</i>Sw.<i>) </i>P.Beauv. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 575,
+name: "Agrostis compressa (Sw.) Poir. [Illegitimate]",
+canonicalForm: "Agrostis compressa",
+italicisedForm: "<i>Agrostis compressa (</i>Sw.<i>) </i>Poir.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 576,
+name: "Anastrophus compressus (Sw.) Schltdl. [Invalid]",
+canonicalForm: "Anastrophus compressus",
+italicisedForm: "<i>Anastrophus compressus (</i>Sw.<i>) </i>Schltdl.<i> [Invalid]</i>",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 577,
+name: "Anastrophus platycaulis (Poir.) Nash",
+canonicalForm: "Anastrophus platycaulis",
+italicisedForm: "<i>Anastrophus platycaulis (</i>Poir.<i>) </i>Nash ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 578,
+name: "Anastrophus platycaulmis Schltdl. ex B.D.Jacks. [Invalid]",
+canonicalForm: "Anastrophus platycaulmis",
+italicisedForm: "<i>Anastrophus platycaulmis </i>Schltdl.<i> ex </i>B.D.Jacks.<i> [Invalid]</i>",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 579,
+name: "Anastrophus platyculmis Schltdl.",
+canonicalForm: "Anastrophus platyculmis",
+italicisedForm: "<i>Anastrophus platyculmis </i>Schltdl. ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 580,
+name: "Anastrophus platyculmus (Nees) Schltdl. ex B.D.Jacks.",
+canonicalForm: "Anastrophus platyculmus",
+italicisedForm: "<i>Anastrophus platyculmus (</i>Nees<i>) </i>Schltdl.<i> ex </i>B.D.Jacks. ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 581,
+name: "Axonopus amplifolius Chase ex C.E.Hubb. [Invalid]",
+canonicalForm: "Axonopus amplifolius",
+italicisedForm: "<i>Axonopus amplifolius </i>Chase<i> ex </i>C.E.Hubb.<i> [Invalid]</i>",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 582,
+name: "Axonopus brevipedunculatus (Gledhill) Gledhill",
+canonicalForm: "Axonopus brevipedunculatus",
+italicisedForm: "<i>Axonopus brevipedunculatus (</i>Gledhill<i>) </i>Gledhill ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 583,
+name: "Axonopus compressus var. australis G.A.Black",
+canonicalForm: "Axonopus compressus australis",
+italicisedForm: "<i>Axonopus compressus </i>var.<i> australis </i>G.A.Black ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 584,
+name: "Axonopus compressus subsp. brevipedunculatus Gledhill",
+canonicalForm: "Axonopus compressus brevipedunculatus",
+italicisedForm: "<i>Axonopus compressus </i>subsp.<i> brevipedunculatus </i>Gledhill ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 585,
+name: "Axonopus compressus var. compressus",
+canonicalForm: "Axonopus compressus compressus",
+italicisedForm: "<i>Axonopus compressus </i>var.<i> compressus</i>",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 586,
+name: "Axonopus compressus var. itirapinensis G.A.Black",
+canonicalForm: "Axonopus compressus itirapinensis",
+italicisedForm: "<i>Axonopus compressus </i>var.<i> itirapinensis </i>G.A.Black ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 587,
+name: "Axonopus compressus var. macropodius (Steud.) G.A.Black",
+canonicalForm: "Axonopus compressus macropodius",
+italicisedForm: "<i>Axonopus compressus </i>var.<i> macropodius (</i>Steud.<i>) </i>G.A.Black ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 588,
+name: "Axonopus kisantuensis Vanderyst",
+canonicalForm: "Axonopus kisantuensis",
+italicisedForm: "<i>Axonopus kisantuensis </i>Vanderyst ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 589,
+name: "Axonopus multipes Swallen",
+canonicalForm: "Axonopus multipes",
+italicisedForm: "<i>Axonopus multipes </i>Swallen ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 590,
+name: "Digitaria domingensis Desv. ex Kunth [Invalid]",
+canonicalForm: "Digitaria domingensis",
+italicisedForm: "<i>Digitaria domingensis </i>Desv.<i> ex </i>Kunth<i> [Invalid]</i>",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 591,
+name: "Digitaria platicaulis (Poir.) Desv.",
+canonicalForm: "Digitaria platicaulis",
+italicisedForm: "<i>Digitaria platicaulis (</i>Poir.<i>) </i>Desv. ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 592,
+name: "Digitaria uniflora Salzm. ex Steud. [Invalid]",
+canonicalForm: "Digitaria uniflora",
+italicisedForm: "<i>Digitaria uniflora </i>Salzm.<i> ex </i>Steud.<i> [Invalid]</i>",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 593,
+name: "Echinochloa compressa (P.Beauv.) Roberty",
+canonicalForm: "Echinochloa compressa",
+italicisedForm: "<i>Echinochloa compressa (</i>P.Beauv.<i>) </i>Roberty ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 594,
+name: "Milium compressum Sw.",
+canonicalForm: "Milium compressum",
+italicisedForm: "<i>Milium compressum </i>Sw. ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 595,
+name: "Panicum platycaulon (Poir.) Kuntze",
+canonicalForm: "Panicum platycaulon",
+italicisedForm: "<i>Panicum platycaulon (</i>Poir.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 596,
+name: "Paspalum compressum (Sw.) Raspail [Illegitimate]",
+canonicalForm: "Paspalum compressum",
+italicisedForm: "<i>Paspalum compressum (</i>Sw.<i>) </i>Raspail<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 597,
+name: "Paspalum conjugatum var. subcordatum Griseb.",
+canonicalForm: "Paspalum conjugatum subcordatum",
+italicisedForm: "<i>Paspalum conjugatum </i>var.<i> subcordatum </i>Griseb. ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 598,
+name: "Paspalum depressum Steud.",
+canonicalForm: "Paspalum depressum",
+italicisedForm: "<i>Paspalum depressum </i>Steud. ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 599,
+name: "Paspalum filostachyum Rich. ex Steud.",
+canonicalForm: "Paspalum filostachyum",
+italicisedForm: "<i>Paspalum filostachyum </i>Rich.<i> ex </i>Steud. ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 600,
+name: "Paspalum furcatum var. parviflorum Döll",
+canonicalForm: "Paspalum furcatum parviflorum",
+italicisedForm: "<i>Paspalum furcatum </i>var.<i> parviflorum </i>Döll ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 601,
+name: "Paspalum guadaloupense Steud.",
+canonicalForm: "Paspalum guadaloupense",
+italicisedForm: "<i>Paspalum guadaloupense </i>Steud. ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 602,
+name: "Paspalum kisantuense Vanderyst [Invalid]",
+canonicalForm: "Paspalum kisantuense",
+italicisedForm: "<i>Paspalum kisantuense </i>Vanderyst<i> [Invalid]</i>",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 603,
+name: "Paspalum laticulmum Spreng. [Illegitimate]",
+canonicalForm: "Paspalum laticulmum",
+italicisedForm: "<i>Paspalum laticulmum </i>Spreng.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 604,
+name: "Paspalum macropodium Steud.",
+canonicalForm: "Paspalum macropodium",
+italicisedForm: "<i>Paspalum macropodium </i>Steud. ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 605,
+name: "Paspalum platycaulon Poir.",
+canonicalForm: "Paspalum platycaulon",
+italicisedForm: "<i>Paspalum platycaulon </i>Poir. ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 606,
+name: "Paspalum platyculmum Thouars ex Nees",
+canonicalForm: "Paspalum platyculmum",
+italicisedForm: "<i>Paspalum platyculmum </i>Thouars<i> ex </i>Nees ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 607,
+name: "Paspalum raunkiaeri Mez",
+canonicalForm: "Paspalum raunkiaeri",
+italicisedForm: "<i>Paspalum raunkiaeri </i>Mez ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 608,
+name: "Paspalum tenue Willd. ex Steud. [Invalid]",
+canonicalForm: "Paspalum tenue",
+italicisedForm: "<i>Paspalum tenue </i>Willd.<i> ex </i>Steud.<i> [Invalid]</i>",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 609,
+name: "Paspalum tristachyum Lam.",
+canonicalForm: "Paspalum tristachyum",
+italicisedForm: "<i>Paspalum tristachyum </i>Lam. ",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 610,
+name: "Paspalum uniflorum Steud. [Invalid]",
+canonicalForm: "Paspalum uniflorum",
+italicisedForm: "<i>Paspalum uniflorum </i>Steud.<i> [Invalid]</i>",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 234,
+name: "Ahipisaka",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 229,
+name: "Carpet grass",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 231,
+name: "Lawn grass",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 230,
+name: "Kunu",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 233,
+name: "Carpet grass",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 232,
+name: "Broadleaved carpet grass",
+taxonConcept: {
+id: 88
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1608,
+name: "Eng: broadleaved carpet grass.",
+taxonConcept: {
+id: 88
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:00:41Z",
+lastRevised: "2015-05-07T08:42:37Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20080609_101230_03_th1.jpg",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>AXOCO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>AXOCO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 337,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>AXOCO</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159295,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 342,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Leaf sheaths are somewhat flattened, either hairy or hairless. Ligules consist of a hairy rim. The leaf blades are rather broad for a grass, linear to narrowly egg-shaped (linear ovate), 2-16 x 0.3-2 cm in size, with a blunt tip and hairy margins.</p><h6>General Habit</h6><p>Perennial creeping (stoloniferous) grass forming low mats, with erect seed heads up to 60 cm tall (although usually much shorter).</p><h6>Underground System</h6><p>Adventitious roots.</p><h6>Flower</h6><p>Spikelets appressed; solitary. Fertile spikelets sessile, comprising 1 basal sterile florets; 1 fertile florets; without rhachilla extension. Spikelets lanceolate; dorsally compressed; obtuse; 2-2.5 mm long; falling entire.Glumes one the lower absent or obscure; reaching apex of florets; thinner than fertile lemma. Upper glume elliptic; 1.2-1.3 length of adjacent fertile lemma; 1 length of spikelet; membranous; without keels; 4-5 -veined. Upper glume surface glabrous, or pubescent; hairy between veins. Upper glume apex acute. Basal sterile florets barren; without significant palea. Lemma of lower sterile floret similar to upper glume; elliptic; 1.2-1.3 length of fertile lemma; 1 length of spikelet; 4-5 -veined; pubescent; hairy between veins; acute. Fertile lemma obovate; 1.5-2 mm long; indurate; pallid; without keel; 4 -veined. Lemma margins involute. Lemma apex obtuse; pubescent. Palea involute; indurate.</p><h6>Seed</h6><p>Seeds are enclosed in bracts (i.e. lemma and palea).</p><h6>Global Description</h6><p>Terrestrial, annual, prostrate herb, rooting at nodes. Roots fibrous, white or brown. Stems flat, hairy nodes. Stipules absent. Leaves alternate spiral, sessile, lanceolate or elliptic, base clasping, parallel-veined. Leaf sheath present, compressed. Ligule membrano-ciliate. Flowers bisexual, grouped together in a terminal panicle, sessile, green or brown, petals not visible. Fruit a nut.</p><h6>Inflorescence</h6><p>Inflorescences usually have 2-3 (sometimes there are up to 5) slender racemes (2-10 cm long) at the top of an erect or inclined stalk up to 60 cm long. They are digitately or almost digitately (sub-digitately) arranged.</p><h6>Stem</h6><p>Have hairy nodes and produce runners (stolons) which readily produce roots.</p>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159300,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 340,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Axonopus compressus (Sw.) P.Beauv.",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159297,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 351,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Reproduction by seeds and vegetatively.<br>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159341,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 338,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "A. compressus forms dense plant communities in the alluvial lowlands.<br>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159296,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 335,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Widely naturalised in the humid tropics and subtropics, especially west tropical Africa, South Africa, India, the Philippines, Indonesia, Australia and the Pacific Islands. Africa: west tropical, west-central tropical, east tropical, southern tropical, and western Indian ocean. Asia-temperate: China and eastern Asia. Asia-tropical: India, Indo-China, Malesia, and Papuasia. Australasia: Australia. Pacific: southwestern, south-central, northwestern, and north-central. North America: southeast USA and Mexico. South America: Mesoamericana, Caribbean, northern South America, western South America, Brazil, and southern South America.</p><h6>Origin</h6><p>Native of tropical America.</p>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159291,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 339,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "In Fiji a common pasture & lawn grass (Parham 1972). One of the best grasses in trop. W Africa for making pastures & for ground cover. Used as turf for lawns, golf courses, roadsides, etc (Dalziel 1948: 521). In Malaysia improved growth, yield, protein content & nutritive quality when grown under Samanea saman [Leguminosae], prob. from increased N (Allen & Allen 1981). Valid species; synonym listed as 'not verified' (GRIN 2006)<br>",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2014-09-24T17:02:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159296,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 345,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-03-05T00:49:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+},
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+},
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+},
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+},
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+},
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+},
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159307,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 333,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-07T06:28:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+},
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+},
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+},
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+},
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+},
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159268,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 334,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-07T06:28:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+},
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+},
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+},
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+},
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+},
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159287,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 336,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-07T06:28:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+},
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+},
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+},
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159292,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 341,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-07T06:28:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+},
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+},
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+},
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+},
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159297,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 343,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-07T06:28:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+},
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+},
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+},
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+},
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+},
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159301,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 344,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-07T06:28:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+},
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+},
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+},
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+},
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159304,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 346,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-07T06:28:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+},
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+},
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+},
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+},
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159325,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 347,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-07T06:28:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+},
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+},
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+},
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+},
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+},
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159327,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 352,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-03-23T09:17:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+},
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+},
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+},
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+},
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+},
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+},
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159343,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 348,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-07T06:28:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+},
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+},
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+},
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+},
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+},
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+},
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159330,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 349,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-07T06:28:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+},
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+},
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+},
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+},
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+},
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+},
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159335,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 350,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-07T06:28:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+},
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+},
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+},
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159338,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 332,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:02:39Z",
+lastUpdated: "2015-04-07T06:28:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Auld, B.A. and Medd, R.W. (1996). Weeds: An Illustrated Botanical Guide to Weeds of Australia. Inkata Press, Sydney."
+},
+{
+title: "Schery, R. W. 1972. Plants for Man., 2nd ed. Prentice-Hall, Engelwood Cliffs NJ."
+},
+{
+title: "JSTOR PLANT SCIENCE: http://plants.jstor.org/flora/fwta9302 TROPICAL FORAGE: http://www.tropicalforages.info/key/Forages/Media/Html/Axonopus_compressus.htm"
+},
+{
+title: "Kleinschmidt, H.E., Holland, A. and Simpson, P. (1996). Suburban Weeds. 3rd Edition. Department of Primary Industries, Brisbane."
+},
+{
+title: "Hortus Third. 1976. Hortus Third: A Concise Dictionary of Plants Cultivated in the United States and Canada. Macmillan Publishing Co., Inc., New York NY."
+},
+{
+title: "Allen, O. and Allen, E. K. 1981. The Leguminosae: A Source Book of Characteristics, Uses and Nodulation. University of Wisconsin Press, Madison WI."
+},
+{
+title: "Encyclopedia Americana. 1954. Americana Corp., New York NY."
+},
+{
+title: "Berlin, B., D. E. Breedlove, and P. H. Raven. 1974. Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas. Academic Press, New York NY."
+},
+{
+title: "GRIN. 2006. USDA, ARS, National Genetic Resources Program. http://www.ars-grin.gov/cgi-bin/npgs/html/paper.pl (28 July 2006)."
+},
+{
+title: "Parham, J. 1972. Plants of the Fiji Islands., 2nd ed. Government Printer, Suva, Fiji."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds. Dalziel, J. 1948. The Useful Plants of West Tropical Africa. Crown Agents, London U.K."
+},
+{
+title: "Burkill, I. 1966. A Dictionary of the Economic Products of the Malay Peninsula., 2nd ed. Ministry of Agriculture and Co-Operatives, Kuala Lumpur, Malaysia. Clayton, W.D., Vorontsova, M.S., Harman, K.T. and Williamson, H. (2006 onwards). GrassBase - The Online World Grass Flora. http://www.kew.org/data/grasses-db.html. [accessed 08 November 2006; 15:30 GMT]* http://www.kew.org/data/grasses-db/www/imp01143.htm"
+},
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+},
+{
+title: "Mabberley, D. 1998. The Plant-Book., 2nd edition. Cambridge University Press, Cambridge, Gt. Britain."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578159265,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2944,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Axonopus compressus est une graminée vivace, gazonnante, à rhizomes et stolons enracinés aux noeuds. Les chaumes sont dressés, grêles, glabres, comprimés, de 15 à 60 cm de haut. Les feuilles sont à gaines comprimées carénées, glabres mais à marge ciliée. Le limbe est linéaire oblong, à marge fortement ciliée pectinée. L'inflorescence est formée de 2 à 5 racèmes, grêles, plus ou moins étalés, de 3 à 9 cm de long, insérés sur un axe court. Les épillets ovales, aigus sont solitaires, sessiles, de 2,5 à 3 mm de long</p>",
+dateCreated: "2015-03-19T11:05:51Z",
+lastUpdated: "2015-03-19T11:05:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763151296,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2932,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>AXOCO</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:05:45Z",
+lastUpdated: "2015-03-19T11:05:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763145108,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2936,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Axonopus compressus</em> est une gramin&eacute;e vivace, gazonnante, &agrave; rhizomes et stolons enracin&eacute;s aux noeuds. Les chaumes sont dress&eacute;s, gr&ecirc;les, glabres, comprim&eacute;s, de 15 &agrave; 60 cm de haut. Les feuilles sont &agrave; gaines comprim&eacute;es car&eacute;n&eacute;es, glabres mais &agrave; marge cili&eacute;e. Le limbe est lin&eacute;aire oblong, &agrave; marge fortement cili&eacute;e pectin&eacute;e. L&#39;inflorescence est form&eacute;e de 2 &agrave; 5 rac&egrave;mes, gr&ecirc;les, plus ou moins &eacute;tal&eacute;s, de 3 &agrave; 9 cm de long, ins&eacute;r&eacute;s sur un axe court. Les &eacute;pillets ovales, aigus sont solitaires, sessiles, de 2,5 &agrave; 3 mm de long</p> <h6> Premi&egrave;res Feuilles</h6> <p> A la reprise, les jeunes pousses pr&eacute;sentent des feuilles group&eacute;es &agrave; la base, dispos&eacute;es de fa&ccedil;on distique, &agrave; pr&eacute;foliaison pli&eacute;e, ayant des gaines imbriqu&eacute;es les unes dans les autres. Le limbe est lin&eacute;aire, &agrave; sommet obtus, &agrave; marge fortement cili&eacute;e pectin&eacute;e. La ligule est membraneuse, tronqu&eacute;e, denticul&eacute;e.</p> <h6> Port</h6> <p> Herbe vivace gazonnante, &agrave; chaumes dress&eacute;s, formant un tapis dense ferm&eacute; de 15 &agrave; plus de 60 cm de haut.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La plante &eacute;met des rhizomes et des stolons ; des racines fascicul&eacute;es denses se d&eacute;veloppent au niveau des noeuds de la tige.</p> <h6> Tige</h6> <p> Le chaume est dress&eacute;, gr&ecirc;le, comprim&eacute; et glabre, aux noeuds pileux.</p> <h6> Feuille</h6> <p> Les feuilles sont simples, alternes, en disposition distique. La gaine est comprim&eacute;e, car&eacute;n&eacute;e, glabre &agrave; marge cili&eacute;e. Le limbe est lin&eacute;aire oblong, obtus au sommet, plan ou pli&eacute;, de 4 &agrave; 12 cm de long et 4 &agrave; 12 mm de large, glabre sur les deux faces, parfois cili&eacute; pectin&eacute; sur la marge plus ou moins ondul&eacute;e. La ligule r&eacute;duite &agrave; une courte membrane tronqu&eacute;e denticul&eacute;e.</p> <h6> Inflorescence</h6> <p> L&#39;inflorescence est subdigit&eacute;e, form&eacute;e de 2 &agrave; 5 rac&egrave;mes sessiles, gr&ecirc;les, comprim&eacute;s lat&eacute;ralement, obliquement dress&eacute;s ou &eacute;tal&eacute;s, de 3 &agrave; 9 cm de long et 1 mm de large, ins&eacute;r&eacute;s sur un axe court.</p> <h6> Fleur</h6> <p> Les &eacute;pillets sont solitaires, sessiles, lanc&eacute;ol&eacute;s, aigus, de 2 &agrave; 3 mm de long. Ils sont dispos&eacute;s alternativement en deux rang&eacute;es le long de l&#39;axe du rac&egrave;me. La glume inf&eacute;rieure est absente. La glume sup&eacute;rieure est de la taille et de la forme de l&#39;&eacute;pillet, &agrave; 5 nervures, &agrave; pilosit&eacute; fine et l&acirc;che. La fleur inf&eacute;rieure, st&eacute;rile, est r&eacute;duite &agrave; une lemma semblable &agrave; la glume sup&eacute;rieure mais &agrave; 4 nervures (la nervure m&eacute;diane &eacute;tant supprim&eacute;e). La fleur sup&eacute;rieure, fertile, est nettement plus courte que l&#39;&eacute;pillet (4/5), elliptique, obtuse, finement pubescente au sommet, d&#39;un jaune p&acirc;le. La lemma et la pal&eacute;a sont finement cartilagineuses, la pal&eacute;a est obtuse, recouverte par la lemma sur les c&ocirc;t&eacute;s.</p> <h6> Fruit</h6> <p> Le grain est elliptique, obtus, d&#39;environ 1, 5 mm de long, de couleur brun jaune.</p> ",
+dateCreated: "2015-03-19T11:05:45Z",
+lastUpdated: "2015-05-07T08:42:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763145790,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2937,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Axonopus compressus (Sw.) P.Beauv.",
+dateCreated: "2015-03-19T11:05:46Z",
+lastUpdated: "2015-03-19T11:05:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763146052,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2941,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>A. compressus</em> est une herbe vivace qui se propage essentiellement par voie v&eacute;g&eacute;tative, par rhizomes et fragments de stolons. Elle peut se multiplier &eacute;galement par graines.<br /> ",
+dateCreated: "2015-03-19T11:05:46Z",
+lastUpdated: "2015-05-07T08:42:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763146873,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2940,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Axonopus compressus</em> constitue de grandes formations denses sur les alluvions en basse altitude.<br /> <strong>Comores </strong>: Esp&egrave;ce prairiale de basse et moyenne altitude.<br /> <strong>Madagascar</strong> : Esp&egrave;ce commune dans les domaines chauds et humides de Madagascar (versant oriental et le Sambirano). Elle est pr&eacute;sente mais peu fr&eacute;quente sur les Hautes Terres et en zone subhumide de l&rsquo;Ouest. Elle se d&eacute;veloppe surtout sur les terrains en bas de pente, les bas-fonds et les terres alluviales le long des cours d&rsquo;eau. Elle appr&eacute;cie les sols assez fertiles et humides.<br /> <strong>Maurice </strong>: Plante fr&eacute;quemment rencontr&eacute;e dans les stations humides de la partie haute de l&#39;&icirc;le.<br /> <strong>La R&eacute;union</strong> : absente.<br /> <strong>Seychelles </strong>: Esp&egrave;ce pr&eacute;sente, utilis&eacute;e comme gazon.<br /> ",
+dateCreated: "2015-03-19T11:05:46Z",
+lastUpdated: "2015-05-07T08:43:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763146708,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2939,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>Originaire d’Amérique tropicale, elle est maintenant pantropicale et subtropicale.</p>",
+dateCreated: "2015-03-19T11:05:46Z",
+lastUpdated: "2015-03-19T11:05:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763146542,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2942,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>B&eacute;nin </strong>: fr&eacute;quente et peu abondante.<br /> <strong>Burkina Faso</strong> : rare et peu abondante.<br /> <strong>Comores </strong>: Adventice pr&eacute;sente dans les vieilles cultures et prairies abandonn&eacute;es.<br /> <strong>C&ocirc;te d&#39;Ivoire : </strong>fr&eacute;quente et peu abondante.<br /> <strong>Madagascar </strong>: Adventice fr&eacute;quente et abondante des cultures pluviales et p&eacute;rennes dans les domaines chauds et humide de l&rsquo;Est et du Sambirano. C&rsquo;est une des principales mauvaises herbes des cultures arbustives (caf&eacute;iers, bananiers, girofliers, poivriers...) formant souvent un gazon &eacute;pais et ferm&eacute;.<br /> <strong>Maurice </strong>: Adventice quasiment absente des cultures, mais peut &ecirc;tre g&ecirc;nante pour le d&eacute;veloppement du gazon.<br /> <strong>Nigeria </strong>: fr&eacute;quente et peu abondante.<br /> <strong>La R&eacute;union</strong> : absente.<br /> <strong>Seychelles </strong>: Faible nuisibilit&eacute; car peu pr&eacute;sente en culture.<br /> </p> ",
+dateCreated: "2015-03-19T11:05:47Z",
+lastUpdated: "2015-05-07T08:44:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763147070,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2943,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Conseils de gestion des graminées vivaces en riz irrigué : http://portal.wikwio.org/document/show/33</p>",
+dateCreated: "2015-03-19T11:05:47Z",
+lastUpdated: "2015-03-19T11:05:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763147277,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2935,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:05:45Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763145494,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2934,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:05:45Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763145494,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2933,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:05:45Z",
+lastUpdated: "2015-03-31T06:52:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763145493,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 613,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20080609_101230_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20080609_101230_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 614,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20060920_104606.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20060920_104606_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 615,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20080609_101230.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20080609_101230_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 616,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20080516_100651.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20080516_100651_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 617,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20110125_160158.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20110125_160158_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 618,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20110125_160152.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20110125_160152_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 619,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20110707_135211.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20110707_135211_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 620,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20050311_153154.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20050311_153154_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 621,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20080516_110702.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20080516_110702_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 622,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_163157.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_163157_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 623,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20050311_153138.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20050311_153138_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 624,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_163003.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_163003_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 625,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_160438.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_160438_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 626,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_162944.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_162944_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 627,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_162720.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_162720_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 628,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_163046.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_163046_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 629,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20120504_145809.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20120504_145809_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 630,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20080609_101230_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20080609_101230_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 631,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_160511.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_160511_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 632,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_162805.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_162805_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 633,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_160552.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_160552_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 634,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20080516_100700.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20080516_100700_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 635,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20090127_191429.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20090127_191429_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 636,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20050311_152816.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20050311_152816_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 637,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20050311_153122.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20050311_153122_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 638,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20050311_153050.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20050311_153050_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 639,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20050311_152800.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20050311_152800_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 640,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20090127_191510.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20090127_191510_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 641,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20060920_104550.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20060920_104550_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:54Z",
+rating: 0
+},
+{
+id: 642,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20060920_104116.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20060920_104116_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:55Z",
+rating: 0
+},
+{
+id: 643,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20090127_191151.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20090127_191151_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:55Z",
+rating: 0
+},
+{
+id: 644,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20060920_104458.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20060920_104458_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:55Z",
+rating: 0
+},
+{
+id: 645,
+url: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_163225.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Axonopus compressus/axoco_20070717_163225_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:00:55Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

@@ -1,0 +1,2227 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 276,
+title: "<i>Rottboellia cochinchinensis (</i>Lour.<i>) </i>W.Clayton ",
+taxonConcept: {
+id: 528,
+name: "Rottboellia cochinchinensis (Lour.) W.Clayton",
+canonicalForm: "Rottboellia cochinchinensis",
+italicisedForm: "<i>Rottboellia cochinchinensis (</i>Lour.<i>) </i>W.Clayton ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 527,
+name: "Rottboellia",
+canonicalForm: "Rottboellia",
+italicisedForm: "<i>Rottboellia</i>",
+rank: "Genus"
+},
+{
+id: 528,
+name: "Rottboellia cochinchinensis (Lour.) W.Clayton",
+canonicalForm: "Rottboellia cochinchinensis",
+italicisedForm: "<i>Rottboellia cochinchinensis (</i>Lour.<i>) </i>W.Clayton ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 5805,
+name: "Aegilops fluviatilis Blanco",
+canonicalForm: "Aegilops fluviatilis",
+italicisedForm: "<i>Aegilops fluviatilis </i>Blanco ",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5806,
+name: "Manisuris exaltata Kuntze",
+canonicalForm: "Manisuris exaltata",
+italicisedForm: "<i>Manisuris exaltata </i>Kuntze ",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5807,
+name: "Manisuris exaltata var. appendiculata (Steud.) Honda",
+canonicalForm: "Manisuris exaltata appendiculata",
+italicisedForm: "<i>Manisuris exaltata </i>var.<i> appendiculata (</i>Steud.<i>) </i>Honda ",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5808,
+name: "Ophiuros appendiculatus Steud.",
+canonicalForm: "Ophiuros appendiculatus",
+italicisedForm: "<i>Ophiuros appendiculatus </i>Steud. ",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5809,
+name: "Rottboellia arundinacea Hochst. ex A.Rich.",
+canonicalForm: "Rottboellia arundinacea",
+italicisedForm: "<i>Rottboellia arundinacea </i>Hochst.<i> ex </i>A.Rich. ",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5810,
+name: "Rottboellia denudata Steud.",
+canonicalForm: "Rottboellia denudata",
+italicisedForm: "<i>Rottboellia denudata </i>Steud. ",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5811,
+name: "Rottboellia exaltata var. appendiculata (Steud.) Hack.",
+canonicalForm: "Rottboellia exaltata appendiculata",
+italicisedForm: "<i>Rottboellia exaltata </i>var.<i> appendiculata (</i>Steud.<i>) </i>Hack. ",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5812,
+name: "Rottboellia exaltata f. arundinacea (Hochst. ex A.Rich.) Hack.",
+canonicalForm: "Rottboellia exaltata arundinacea",
+italicisedForm: "<i>Rottboellia exaltata </i>f.<i> arundinacea (</i>Hochst.<i> ex </i>A.Rich.<i>) </i>Hack. ",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5813,
+name: "Rottboellia exaltata f. glaberrima Chiov.",
+canonicalForm: "Rottboellia exaltata glaberrima",
+italicisedForm: "<i>Rottboellia exaltata </i>f.<i> glaberrima </i>Chiov. ",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5814,
+name: "Rottboellia exaltata var. robusta Hook.f.",
+canonicalForm: "Rottboellia exaltata robusta",
+italicisedForm: "<i>Rottboellia exaltata </i>var.<i> robusta </i>Hook.f. ",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5815,
+name: "Rottboellia hispida Roxb. ex Hook.f. [Invalid]",
+canonicalForm: "Rottboellia hispida",
+italicisedForm: "<i>Rottboellia hispida </i>Roxb.<i> ex </i>Hook.f.<i> [Invalid]</i>",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5816,
+name: "Rottboellia setosa J.Presl",
+canonicalForm: "Rottboellia setosa",
+italicisedForm: "<i>Rottboellia setosa </i>J.Presl ",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5817,
+name: "Stegosia cochinchinensis Lour.",
+canonicalForm: "Stegosia cochinchinensis",
+italicisedForm: "<i>Stegosia cochinchinensis </i>Lour. ",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5818,
+name: "Stegosia exaltata (Kuntze) Nash",
+canonicalForm: "Stegosia exaltata",
+italicisedForm: "<i>Stegosia exaltata (</i>Kuntze<i>) </i>Nash ",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1734,
+name: "Kalay, Tsanganday, Paipaikatianomby",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+language: {
+id: 283,
+name: "Malagasy"
+}
+},
+{
+id: 1738,
+name: "Sandzemadji",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 1733,
+name: "Herbe fataque duvet, Fataque duvet, Herbe de riz, Herbe à poils, Herbe duvet",
+taxonConcept: {
+id: 528
+},
+isContributor: false,
+language: {
+id: 501,
+name: "Creoles and pidgins, French-based"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:26:00Z",
+lastRevised: "2015-03-19T12:02:26Z",
+thumbnail: "http://portal.wikwio.org/biodiv/group_icons/speciesGroups/plants_th1.png",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ROOEX</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ROOEX</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1950,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ROOEX</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216398,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1953,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Blades broadly linear, flat, upto 50cm long and 2.5cm wide, acuminate; lower leaf sheaths coarsely hispid with stiff irritant hairs.</p><h6>Global Description</h6><p>A robust, bristly-hairy annual grass about 4 m high that reproduces from seeds. It has a stout, erect and airy stem often has prop roots at the base.</p><h6>Inflorescence</h6><p>Axillary racemes, from the upper leaf sheaths, 6-15cm long, stiff, pallid except for the green pedicelled spikelets, green and herbaceous with reduced spikelets towards the tip. Sessile spikelet 4-5.5mm long; lower glume oblong, obtuse or emarginated. Stalked spikelet 4-6mm long; lower glume keels scabrid and obscurely winged upwards, tip obtuse and emarginated or shortly bifid.</p><h6>Stem</h6><p>Erect, stout, branching above.</p>",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216402,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1957,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Rottboellia cochinchinensis (Lour.) W.Clayton",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216405,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1955,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Often in swamps and disturbed areas. This is a weed of field crops in cleaned forest and savanna zones. It is widespread in West Africa and is particularly troublesome in maize and upland rice.<br>",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216404,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1951,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Widespread in East AFRICA</p>",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216399,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1956,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Local Weediness</h6><p>Kenya: Rare but abondant when present Tanzania: Frequent and usually abundant. Uganda: Frequent and usually abundant.</p>",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2014-09-24T18:26:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216405,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1949,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-03-31T10:30:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu O. & Agyakwa C.W.: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 522p."
+},
+{
+title: "Johnson, D.E. 1997. Weeds of rice in West Africa. ADRAO/WARDA, Bouaké, Côte-d'Ivoire. 196p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Philips,S.,Namaganda, M., Lye, K.A.2003.Makerere University handbook no. 1.115 Ugandan Grasses. Department of Botany, Makerere University, Kampala.262p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216397,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1952,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-03-31T10:30:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Philips,S.,Namaganda, M., Lye, K.A.2003.Makerere University handbook no. 1.115 Ugandan Grasses. Department of Botany, Makerere University, Kampala.262p."
+},
+{
+title: "Johnson, D.E. 1997. Weeds of rice in West Africa. ADRAO/WARDA, Bouaké, Côte-d'Ivoire. 196p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Akobundu O. & Agyakwa C.W.: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 522p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216400,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1958,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-03-05T00:47:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Philips,S.,Namaganda, M., Lye, K.A.2003.Makerere University handbook no. 1.115 Ugandan Grasses. Department of Botany, Makerere University, Kampala.262p."
+},
+{
+title: "Akobundu O. & Agyakwa C.W.: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 522p."
+},
+{
+title: "Johnson, D.E. 1997. Weeds of rice in West Africa. ADRAO/WARDA, Bouaké, Côte-d'Ivoire. 196p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216406,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1954,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:26:56Z",
+lastUpdated: "2015-03-31T10:30:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Philips,S.,Namaganda, M., Lye, K.A.2003.Makerere University handbook no. 1.115 Ugandan Grasses. Department of Botany, Makerere University, Kampala.262p."
+},
+{
+title: "Akobundu O. & Agyakwa C.W.: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 522p."
+},
+{
+title: "Johnson, D.E. 1997. Weeds of rice in West Africa. ADRAO/WARDA, Bouaké, Côte-d'Ivoire. 196p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583216402,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5741,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Rottboellia cochinchinensis est une Graminée en touffe mesurant jusqu'à 4 m de hauteur. La base des tiges est hérissée de poils raides et présente des racines en échasse très dures. Les chaumes sont robustes, portant des racines adventives aux noeuds inférieurs. Les feuilles ont une gaine aux poils dressés, raides et piquants. Le limbe est long, linéaire et pileux sur la face supérieure. Il présente une nervure centrale blanche très marquée. L'inflorescence est un faux épi cylindrique terminal, composé d'articles se détachant facilement.</p>",
+dateCreated: "2015-03-19T12:02:26Z",
+lastUpdated: "2015-03-19T12:02:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766546074,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5718,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>ROOEX</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T12:02:21Z",
+lastUpdated: "2015-03-19T12:02:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766541434,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5734,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Rottboellia cochinchinensis</em> est une Gramin&eacute;e en touffe mesurant jusqu&#39;&agrave; 4 m de hauteur. La base des tiges est h&eacute;riss&eacute;e de poils raides et pr&eacute;sente des racines en &eacute;chasse tr&egrave;s dures. Les chaumes sont robustes, portant des racines adventives aux noeuds inf&eacute;rieurs. Les feuilles ont une gaine aux poils dress&eacute;s, raides et piquants. Le limbe est long, lin&eacute;aire et pileux sur la face sup&eacute;rieure. Il pr&eacute;sente une nervure centrale blanche tr&egrave;s marqu&eacute;e. L&#39;inflorescence est un faux &eacute;pi cylindrique terminal, compos&eacute; d&#39;articles se d&eacute;tachant facilement.</p> <h6> Premi&egrave;res Feuilles</h6> <p> La semence est un caract&egrave;re d&eacute;terminant puisqu&#39;elle reste longtemps accroch&eacute;e &agrave; la plantule par un axe de 1 &agrave; 2 cm de long. La premi&egrave;re feuille est caract&eacute;ristique. Le limbe est elliptique, long de 2 &agrave; 3 cm et large de 5 &agrave; 6 mm au sommet en coin large ou arrondi. Ce limbe est rapidement &eacute;tal&eacute; horizontalement. Les feuilles suivantes sont dress&eacute;es obliquement. La pr&eacute;foliaison est enroul&eacute;e. La gaine devient pubescente, voire hispide jusqu&#39;&agrave; &ecirc;tre couverte de poils raides perpendiculaires &agrave; la surface d&#39;implantation et tr&egrave;s piquants. La ligule est membraneuse. Le limbe est dress&eacute; obliquement. Il est lin&eacute;aire au sommet en pointe aigu&euml;. Quelques longs poils s&#39;&eacute;chelonnent dans la partie inf&eacute;rieure. Certains &eacute;cotypes sont totalement glabres.</p> <h6> Port</h6> <p> Plante en touffe &eacute;paisse, fort tallage et axes abondamment ramifi&eacute;s. Elle mesure jusqu&#39;&agrave; 4 m de haut.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Racines fascicul&eacute;es, d&#39;autres, tr&egrave;s dures, en &eacute;chasse se d&eacute;veloppant &agrave; partir des noeuds inf&eacute;rieurs de la plante.</p> <h6> Tige</h6> <p> Chaume cylindrique, parsem&eacute; de poils raides et aux noeuds glabres et de couleur fonc&eacute;e. Il est robuste &agrave; la base, d&#39;un diam&egrave;tre pouvant atteindre jusqu&#39;&agrave; 1 cm.</p> <h6> Feuille</h6> <p> Feuilles simples, alternes. La gaine est cylindrique, peu car&eacute;n&eacute;e et hispide sur toute sa longueur. Elle porte des poils blancs, raides (tubercul&eacute;s et perpendiculaires &agrave; la surface d&#39;implantation). La ligule est membraneuse, haute de 1 mm, &agrave; peine ciliol&eacute;e au sommet. Le limbe est lin&eacute;aire, plat, dress&eacute; obliquement, au sommet aigu, long jusqu&#39;&agrave; 1,5 m et large de 1 &agrave; 2,5 cm, &agrave; nervure centrale en forme de goutti&egrave;re blanche. La marge est scabre. La face sup&eacute;rieure est parsem&eacute;e de longs poils tubercul&eacute;s, la face inf&eacute;rieure est glabre.</p> <h6> Inflorescence</h6> <p> Inflorescence constitu&eacute;e de nombreux &eacute;pis cylindriques de 5 &agrave; 15 cm de long, d&eacute;gag&eacute;s d&#39;une spathe foliac&eacute;e et compos&eacute;s d&#39;articles se d&eacute;sarticulant tr&egrave;s facilement. Chacun est constitu&eacute; d&#39;un entre-noeud de 5 mm de long, au rachis aplati en une cavit&eacute; dans laquelle se trouve l&#39;&eacute;pillet sessile. Le p&eacute;dicelle de l&#39;&eacute;pillet p&eacute;dicell&eacute; est accol&eacute; au rachis sur toute sa longueur. L&#39;&eacute;pillet sessile est muni &agrave; la base d&#39;une rotule corn&eacute;e qui s&#39;articule sur l&#39;article pr&eacute;c&eacute;dent.</p> <h6> Fleur</h6> <p> L&#39;&eacute;pillet sessile comprend 2 fleurs, l&#39;inf&eacute;rieure est m&acirc;le ou st&eacute;rile et la sup&eacute;rieure fertile. La glume inf&eacute;rieure est tr&egrave;s convexe, au sommet acumin&eacute;, incluse dans l&#39;alv&eacute;ole du rachis. La glume sup&eacute;rieure est ovale au sommet en coin large ; les deux sont &eacute;paisses, coriaces et glabres. Lemma et pal&eacute;a sont papyrac&eacute;es et translucides. L&#39;&eacute;pillet p&eacute;dicell&eacute; comprend une glume inf&eacute;rieure ovale et une glume sup&eacute;rieure aplatie et bicar&eacute;n&eacute;e. Toutes deux sont membraneuses et vertes.</p> <h6> Fruit</h6> <p> Grain oblong, long de 2 &agrave; 2,5 mm et surmont&eacute; d&#39;une courte pointe. Il reste inclus dans l&#39;&eacute;pillet, lui-m&ecirc;me restant solidaire de l&#39;article de l&#39;&eacute;pi qui se d&eacute;sarticule &agrave; maturit&eacute;.</p> ",
+dateCreated: "2015-03-19T12:02:23Z",
+lastUpdated: "2015-04-29T08:44:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766543260,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5736,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Rottboellia cochinchinensis (Lour.) W.Clayton",
+dateCreated: "2015-03-19T12:02:23Z",
+lastUpdated: "2015-03-19T12:02:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766543590,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5735,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Nord-Cameroun</strong> : La p&eacute;riode de germination de <em>R. cochinchinensis</em> commence en avril d&egrave;s les premi&egrave;res pluies et se prolonge jusqu&#39;&agrave; fin mai. Toute op&eacute;ration culturale (labour, sarclage, buttage) est suivie d&#39;une nouvelle p&eacute;riode de germination. Ces nouvelles lev&eacute;es peuvent se produire jusqu&#39;&agrave; fin septembre. La floraison commence en ao&ucirc;t mais peut &ecirc;tre retard&eacute;e jusqu&#39;en octobre lorsqu&#39;il s&#39;agit de plantes lev&eacute;es tardivement. La fructification et la diss&eacute;mination se d&eacute;roulent de septembre &agrave; novembre jusqu&#39;au dess&egrave;chement de la plante. Dans les r&eacute;gions sans saison s&egrave;che marqu&eacute;e, l&#39;esp&egrave;ce peut se d&eacute;velopper &agrave; n&#39;importe quelle p&eacute;riode de l&#39;ann&eacute;e.<br /> ",
+dateCreated: "2015-03-19T12:02:23Z",
+lastUpdated: "2015-04-29T08:44:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766543424,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5738,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Rottboellia cochinchinensis</em> est une esp&egrave;ce annuelle. Elle se multiplie uniquement par graines pouvant rester viables dans le sol pendant 2 &agrave; 3 ans. La diss&eacute;mination est r&eacute;alis&eacute;e par l&#39;eau, les outils agricoles, les semences de plantes cultiv&eacute;es et les animaux.<br /> ",
+dateCreated: "2015-03-19T12:02:24Z",
+lastUpdated: "2015-04-29T08:45:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766544070,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5737,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Nord-Cameroun</strong> : <em>Rottboellia cochinchinensis</em> est une esp&egrave;ce nitrophile, caract&eacute;ristique des sols profonds argilo-limoneux et tr&egrave;s humides. Elle cro&icirc;t particuli&egrave;rement sur les sols alluviaux en bordure de cours d&#39;eau, les vertisols, les planosols, dans les bas-fonds et sur les sols ferrugineux bien structur&eacute;s.<br /> <strong>Comores </strong>: Esp&egrave;ce de moyenne &agrave; haute altitude, &agrave; partir de 400 m. Elle est fr&eacute;quente dans les zones ombrag&eacute;es &agrave; semi &eacute;clair&eacute;es.<br /> <strong>Madagascar </strong>: Esp&egrave;ce r&eacute;pandue dans toutes les zones subhumides et semi-arides de faible ou moyenne altitude de l&rsquo;&icirc;le (Nord-Ouest, Ouest, Moyen Ouest et Sud-Ouest). Elle infeste les jach&egrave;res r&eacute;centes et les cultures pluviales dans les plaines alluviales, les d&eacute;pressions et bas-fonds o&ugrave; les sols (vertisols, sols alluviaux, sols ferrugineux hydromorphes) sont relativement riches.<br /> <strong>Maurice </strong>: Esp&egrave;ce pr&eacute;sente surtout dans la partie basse de l&#39;&icirc;le, elle se d&eacute;veloppe dans les terrains abandonn&eacute;s et les champs de canne &agrave; sucre.<br /> <strong>La R&eacute;union</strong> : Cette plante est fr&eacute;quente dans les r&eacute;gions humides, subhumides et chaudes. Elle appr&eacute;cie les sols profonds argilo-limoneux et tr&egrave;s humides. Elle a maintenant envahi toutes les r&eacute;gions de l&rsquo;&icirc;le situ&eacute;es en dessous de 1000 m, hormis les zones arides.<br /> <strong>Seychelles </strong>: Absente.<br /> ",
+dateCreated: "2015-03-19T12:02:23Z",
+lastUpdated: "2015-04-29T08:45:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766543903,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5739,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>B&eacute;nin </strong>: <em>Rottboellia cochinchinensis</em> est rare mais abondant quand il est pr&eacute;sent.<br /> <strong>Burkina Faso</strong> : Esp&egrave;ce rare et peu abondante.<br /> <strong>Nord-Cameroun</strong> : Cette esp&egrave;ce provoque d&#39;importants d&eacute;g&acirc;ts dans les cultures de ma&iuml;s, de cotonnier et surtout de riz pluvial. Sa croissance rapide lui permet de concurrencer gravement les cultures d&egrave;s le d&eacute;but du cycle cultural. Elle est peu sensible aux herbicides de pr&eacute;lev&eacute;e utilis&eacute;s couramment pour le d&eacute;sherbage du cotonnier. Le sarclage manuel ou m&eacute;canique doit &ecirc;tre effectu&eacute; tr&egrave;s t&ocirc;t car, lorsque les racines en &eacute;chasse se d&eacute;veloppent, l&#39;extraction devient tr&egrave;s difficile, d&#39;autant que les poils raides de la base sont vuln&eacute;rants. Cette esp&egrave;ce peut envahir une parcelle en 2 &agrave; 5 ans si son d&eacute;veloppement n&#39;est pas suffisamment ma&icirc;tris&eacute; par un herbicide sp&eacute;cifique et par des sarclages pr&eacute;coces et r&eacute;p&eacute;t&eacute;s. En revanche, une bonne ma&icirc;trise de cette esp&egrave;ce durant 2 ou 3 ans permet une &eacute;radication presque parfaite car la viabilit&eacute; des graines dans le sol est faible.<br /> <strong>Comores </strong>: Adventice majeure des cultures de bananier et des jach&egrave;res.<br /> <strong>C&ocirc;te d&#39;Ivoire</strong> : Fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>Ghana</strong> : Fr&eacute;quente et peu abondante.<br /> <strong>Kenya</strong> : Rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>Madagascar </strong>: Esp&egrave;ce fr&eacute;quente (43 % des parcelles dans le Moyen Ouest et 60 % dans le Sud-Ouest) &agrave; croissance rapide formant souvent un peuplement dense, elle est particuli&egrave;rement nuisible en culture cotonni&egrave;re, de ma&iuml;s et de riz pluvial ou d&rsquo;arachide. Le sarclage est extr&ecirc;mement difficile en p&eacute;riode pluvieuse ou apr&egrave;s quelques jours de retard en raison de ses poils raides vuln&eacute;rants et de son enracinement fort. Elle peut &eacute;touffer rapidement les cultures entra&icirc;nant ainsi l&rsquo;abandon partiel ou total des parcelles fortement infest&eacute;es par suite du retard de l&rsquo;intervention.<br /> <strong>Mali </strong>: Fr&eacute;quente et peu abondante.<br /> <strong>Maurice </strong>: Adventice &agrave; nuisibilit&eacute; faible &agrave; moyenne, difficile &agrave; ma&icirc;triser.<br /> <strong>La R&eacute;union</strong> : Cette esp&egrave;ce est pr&eacute;sente dans 25 % des parcelles cultiv&eacute;es de l&#39;&icirc;le. Elle est actuellement en train de se multiplier au point de former de v&eacute;ritables peuplements en culture de canne &agrave; sucre avec des recouvrement sup&eacute;rieurs &agrave; 30 %. Elle provoque &eacute;galement d&rsquo;importants d&eacute;g&acirc;ts dans les cultures de ma&iuml;s.<br /> <strong>S&eacute;n&eacute;gal </strong>: Fr&eacute;quente et peu abondante.<br /> <strong>Seychelles </strong>: Absente.<br /> <strong>Tanzanie </strong>: Fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>Tchad </strong>: Rare et peu abondante.</p> ",
+dateCreated: "2015-03-19T12:02:24Z",
+lastUpdated: "2015-04-29T08:46:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766544235,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5740,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Pour des conseils de d&eacute;sherbage des gramin&eacute;es annuelles du riz irrigu&eacute; et de bas-fond en Afrique consulter : http://portal.wikwio.org/document/show/31</p> <h6> Lutte Locale</h6> <p> <strong>Madagascar </strong>: Le travail du sol d&eacute;clenche la germination de <em>Rottboellia cochinchinensis</em>. L&rsquo;arrachage ou le sarclage doivent se faire tr&egrave;s t&ocirc;t, avant que le d&eacute;veloppement du syst&egrave;me racinaire les rende difficiles.<br /> En pr&eacute;-lev&eacute;e, le pendim&eacute;thaline (ou l&#39;oxadiazon) sont tr&egrave;s int&eacute;ressants dans les parcelles infest&eacute;es. En post-lev&eacute;e, le roettboellia jeune est sensible au fluazifop-p butyl. Seul le glyphosate d&eacute;truit les plants &acirc;g&eacute;s.<br /> Capable de se d&eacute;velopper &agrave; travers un paillage. Une couverture tr&egrave;s &eacute;paisse de stylosanthes permet cependant de le contr&ocirc;ler et de l&rsquo;&eacute;liminer en quelques ann&eacute;es.</p> ",
+dateCreated: "2015-03-19T12:02:24Z",
+lastUpdated: "2015-04-29T08:47:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766544460,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5726,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., Moody K. & Egunjobi J. K., 1978. West African Weeds. Oxford University Press, Ibadan, Nigeria, 255p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542929,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5727,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Koch W., 1981. Mauvaises herbes des cultures tropicales. In Kranz J., Schmutterer H. & Koch W. : Maladies, ravageurs et mauvaises herbes des cultures tropicales. Verlag Paul Parey, Berlin, Hambourg : 587-665."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542929,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5728,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois Th., 1993. Les mauvaises herbes dans la rotation cotonnière au Nord-Cameroun (Afrique) - Amplitude d'habitat et degré d'infestation - Cycle de développement. Thèse USTL Montpellier II, Montpellier, France, 241p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542929,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5729,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom.Merlier H. & Montégut J., 1982. Adventices tropicales.ORSTOM-GERDAT-ENSH éd., Montpellier, France, 490p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542929,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5730,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Stanfield D.P., 1970. The flora of Nigeria, Grasses. Stanfield and Lowe ed., Ibadan University Press, Ibadan, Nigeria, 118p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542929,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5731,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Vanden Berghen C., 1983. Matériaux pour une flore de la végétation herbacée de la Casamance occidentale, Sénégal, Fascicule 2, Gramineae. Jardin Botanique National de Belgique, 66p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542930,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5732,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Zon van der A.P.M., 1992. Graminées du Cameroun, Vol. II, Flore."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542930,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5733,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Wageningen Agric. Univ. Papers 92 - 1, Wageningen, 57p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542930,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5724,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542928,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5723,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V. & Herberger J. P., 1977. The World's Worst Weeds : Distribution and Biologie. East-West Center, University Press of Hawaii, Honolulu, 609p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542928,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5722,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542928,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5721,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois and H. Merlier (2010). Adventrop V.1.5 Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542927,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5720,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542927,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5725,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., 1989. East African Weeds and Their Control. Oxford University Press, Nairobi, Kenya, 289p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542928,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5719,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:02:22Z",
+lastUpdated: "2015-03-31T06:53:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I.O. & Agyakwa C.W., 1989. Guide des adventices d'Afrique de l'Ouest. Institut international d'agriculture tropicale. Ibadan, Nigeria, 521p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766542927,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [ ],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

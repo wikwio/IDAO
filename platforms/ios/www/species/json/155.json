@@ -1,0 +1,2064 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 155,
+title: "<i>Heliotropium indicum </i>L. ",
+taxonConcept: {
+id: 309,
+name: "Heliotropium indicum L.",
+canonicalForm: "Heliotropium indicum",
+italicisedForm: "<i>Heliotropium indicum </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 102,
+name: "Boraginaceae",
+canonicalForm: "Boraginaceae",
+italicisedForm: "<i>Boraginaceae</i>",
+rank: "Family"
+},
+{
+id: 307,
+name: "Heliotropium",
+canonicalForm: "Heliotropium",
+italicisedForm: "<i>Heliotropium</i>",
+rank: "Genus"
+},
+{
+id: 309,
+name: "Heliotropium indicum L.",
+canonicalForm: "Heliotropium indicum",
+italicisedForm: "<i>Heliotropium indicum </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 3723,
+name: "Eliopia riparia Raf.",
+canonicalForm: "Eliopia riparia",
+italicisedForm: "<i>Eliopia riparia </i>Raf. ",
+taxonConcept: {
+id: 309
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3724,
+name: "Eliopia serrata Raf.",
+canonicalForm: "Eliopia serrata",
+italicisedForm: "<i>Eliopia serrata </i>Raf. ",
+taxonConcept: {
+id: 309
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3725,
+name: "Heliophytum indicum (L.) DC.",
+canonicalForm: "Heliophytum indicum",
+italicisedForm: "<i>Heliophytum indicum (</i>L.<i>) </i>DC. ",
+taxonConcept: {
+id: 309
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3726,
+name: "Heliotropium africanum Schumach. & Thonn.",
+canonicalForm: "Heliotropium africanum",
+italicisedForm: "<i>Heliotropium africanum </i>Schumach.<i> & </i>Thonn. ",
+taxonConcept: {
+id: 309
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3727,
+name: "Heliotropium cordifolium Moench",
+canonicalForm: "Heliotropium cordifolium",
+italicisedForm: "<i>Heliotropium cordifolium </i>Moench ",
+taxonConcept: {
+id: 309
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3728,
+name: "Heliotropium foetidum Salisb.",
+canonicalForm: "Heliotropium foetidum",
+italicisedForm: "<i>Heliotropium foetidum </i>Salisb. ",
+taxonConcept: {
+id: 309
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3729,
+name: "Heliotropium horminifolium Mill.",
+canonicalForm: "Heliotropium horminifolium",
+italicisedForm: "<i>Heliotropium horminifolium </i>Mill. ",
+taxonConcept: {
+id: 309
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3730,
+name: "Tiaridium indicum (L.) Lehm.",
+canonicalForm: "Tiaridium indicum",
+italicisedForm: "<i>Tiaridium indicum (</i>L.<i>) </i>Lehm. ",
+taxonConcept: {
+id: 309
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 832,
+name: "Indian heliotrope",
+taxonConcept: {
+id: 309
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1654,
+name: "Eng: Indian heliotrope",
+taxonConcept: {
+id: 309
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:39:05Z",
+lastRevised: "2015-03-19T11:38:41Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20040813_170802_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>HEOIN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>HEOIN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1278,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>HEOIN</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2014-09-24T17:40:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412837,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1281,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Description</h6><p>Terrestrial, annual, erect herb, up to 75 cm tall. Taproot white or brown. Stems erect, grooved, hollow, hairy. Stipules absent. Leaves simple, not lobed or divided, alternate, spiral, or sometimes basal ones opposite, stalked, ovate, more than 2 cm long/wide, hairy, scabrous, margin entire, apex acute, base obtuse or rounded, pinnately veined. Flowers bisexual, grouped together in a many-flowered, terminal, elongated cyme, blue with a orange throat, petals 5, fused. Fruit nut-like.</p>",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2014-09-24T17:40:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412840,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1274,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Heliotropium indicum L.",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2014-09-24T17:40:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412833,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1284,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Reproduction by seeds.<br>",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2014-09-24T17:40:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412843,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1285,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "On sunny, periodically moist, or marshy and desiccating sites; waste places, ditch borders, dried-up pools and ditches, on spread mud, along roads, often very common. In Java from 0-800 m alt., especially above 400 m. Flowering season extended, the first-formed seeds already dropping while there are still unopened buds. Rainfed, upland and rice fields.<br>",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2014-09-24T17:40:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412843,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1279,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Probably a native of tropical America, now widespread in all tropical region of the world. It is a common weed throughout Malaysia.</p>",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2014-09-24T17:40:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412838,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1275,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>A weed of minor importance.</p>",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2014-09-24T17:40:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412834,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1276,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Medicinal use: In fusion of the leaves and young shoots are used to treat nettle rash. Infusion of the flowers taken in small doses regulates menstruation, where large doses are abortive. Decoction of the leaves are used as a vermifuge. Juice of the leaves is antiseptic and anti-inflammation and applied to wounds, sores, boils, gum-boils and pimples on the face. Boiled with castor oil, it is applied to scorption bites. It is also employed locally in nophthalmia, when the cornea is inflamed or excoriated.<br>",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2014-09-24T17:40:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412834,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1283,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Cultural control : Manual. Chemical control : It is moderately sussceptible to 2,4-D and MPCA, effective when applied in the seedling stage.</p>",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2014-09-24T17:40:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412842,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1273,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2015-03-09T05:23:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "-Tavatchai Radanachaless, J.F.Maxwell. 1994. Weeds of soybean fields in Thailand. Multiple Cropping, Center Publications. Thailand."
+},
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "-Lavit Kham. 2004. Medicinal plants of Cambodia."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412831,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1277,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2015-04-09T15:54:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "-Tavatchai Radanachaless, J.F.Maxwell. 1994. Weeds of soybean fields in Thailand. Multiple Cropping, Center Publications. Thailand."
+},
+{
+title: "-Lavit Kham. 2004. Medicinal plants of Cambodia."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412835,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1280,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2015-04-09T15:54:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Tavatchai Radanachaless, J.F.Maxwell. 1994. Weeds of soybean fields in Thailand. Multiple Cropping, Center Publications. Thailand."
+},
+{
+title: "-Lavit Kham. 2004. Medicinal plants of Cambodia."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412838,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1282,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2015-04-09T15:54:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "-Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+},
+{
+title: "-Lavit Kham. 2004. Medicinal plants of Cambodia."
+},
+{
+title: "-Tavatchai Radanachaless, J.F.Maxwell. 1994. Weeds of soybean fields in Thailand. Multiple Cropping, Center Publications. Thailand."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412841,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4382,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Heliotropium indicum est une plante herbacée terrestre, annuelle, dressée, jusqu'à 75 cm de hauteur. Racine pivotante blanche ou brune. Tiges dressées, cannelée, creuse et pubescente. Stipules absentes. Feuilles simples, non lobées ni divisées, alternes spiralées, les basales parfois opposées, pétiolées, ovales, de plus de 2 cm de long/large, d’aspect très gaufré, pubescentes, scabres, à marge entière, à apex pointu, à base obtuse ou arrondie, à nervation pennée. Fleurs hermaphrodites, bleue à gorge orangée, à 5 pétales soudés, regroupées en cymes très denses, terminales, allongées. Fruit en nucule.</p>",
+dateCreated: "2015-03-19T11:38:40Z",
+lastUpdated: "2015-03-19T11:38:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765120977,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4368,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>HEOIN</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:38:38Z",
+lastUpdated: "2015-03-19T11:38:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765118077,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4374,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Heliotropium indicum est une plante herbacée terrestre, annuelle, dressée, jusqu'à 75 cm de hauteur. Racine pivotante blanche ou brune. Tiges dressées, cannelée, creuse et pubescente. Stipules absentes. Feuilles simples, non lobées ni divisées, alternes spiralées, les basales parfois opposées, pétiolées, ovales, de plus de 2 cm de long/large, d’aspect très gaufré, pubescentes, scabres, à marge entière, à apex pointu, à base obtuse ou arrondie, à nervation pennée. Fleurs hermaphrodites, bleue à gorge orangée, à 5 pétales soudés, regroupées en cymes très denses, terminales, allongées. Fruit en nucule.</p><h6>Cotylédons</h6><p>Le pétiole des cotylédons (2 à 4 mm de long) est d’une couleur verte à violet brunâtre et est parsemé de poils blancs. Le limbe (6 à 7 mm de long et 4 à 5 mm de large) est elliptique à ovale, à base obtuse, extrémité arrondie, marge entière. Il est glabre, d’une couleur verte à violet brunâtre. La nervure médiane est distincte.</p><h6>Premières Feuilles</h6><p>Le pétiole des premières feuilles (1 à 4 mm de long), densément couvert de longs poils blancs, est d’une couleur verte à vert violacé. Le limbe ovale (9 à 16 mm de long et 6 à 7,5 mm de large), à base obtuse, extrémité pointue, marge ondulée est pubescent sur les 2 faces, à nervation réticulée sur la face supérieure.</p><h6>Port</h6><p>Plante herbacée dressée, peu ramifiée, mesurant de 7 cm à 1 m de haut.</p><h6>Système Souterrain</h6><p>Le système souterrain est une solide racine pivotante de couleur blanchâtre.</p><h6>Tige</h6><p>La tige, un peu succulente, est de section cylindrique à tétragone, creuse dans sa partie inférieure. Sa surface, pubescente, est sillonnée ou non.</p><h6>Feuille</h6><p>Les feuilles, simples, sont disposées en hélice. Les plus hautes sont alternes ; les plus basses sont alternes, mais rapprochées par paires. Elles sont longuement pétiolées. Le pétiole de 2 à 10 cm est cannelé hispide. Le limbe est ovale, de 2,5 à 18 cm de long et 1,5 à 12 cm de large, brusquement rétréci et se prolongeant sur le pétiole, à base tronquée ou obtuse à éléments inégaux, à extrémité pointue à obtuse. Il est d’aspect très gaufré à nervures fines et réticulées, à marge irrégulièrement ondulée, Les 2 faces couvertes d’une pubescence dense.</p><h6>Inflorescence</h6><p>Les fleurs sont disposées en 3 à 4 rangées dans une inflorescence de type cyme scorpioïde, habituellement à une branche, souvent courbe ou sinueuse, terminale ou opposée à une feuille. Cette inflorescence mesure 3 à 30 cm de long ; son pédoncule est pubescent.</p><h6>Fleur</h6><p>La fleur est bisexuée, sessile. Le calice à 5 lobes linéaires lancéolés (2 à 3 mm de long) augmente de taille après la fécondation. Sa surface présente des longs poils blancs raides, clairsemés. La corolle (3,5 à 7 mm de long ; 2,5 à 6 mm de diamètre) croît également en dimension après la fécondation. Elle est en forme d’entonnoir terminé par 5 lobes arrondis. Elle est d’une couleur violet clair, bleue, mauve, très rarement blanche, jaune orangé à la gorge. Les 5 étamines (anthère libre, filament court) sont insérées sur la moitié inférieure du tube. L’ovaire à 4 loges se prolonge par un court style terminé par un large stigmate plus ou moins lobé à l’extrémité. Etamines et style sont inclus dans la corolle.</p><h6>Fruit</h6><p>Le fruit est profondément divisé en 2 valves prolongées par un bec. Il est glabre, de couleur verte et mesure 4 mm de long. Chacune des valves contient une graine.</p>",
+dateCreated: "2015-03-19T11:38:38Z",
+lastUpdated: "2015-03-19T11:38:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765118835,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4375,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Heliotropium indicum L.",
+dateCreated: "2015-03-19T11:38:39Z",
+lastUpdated: "2015-03-19T11:38:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765119040,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4379,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "H. indicum est une herbe annuelle qui se dissémine par graines.<br>",
+dateCreated: "2015-03-19T11:38:39Z",
+lastUpdated: "2015-03-19T11:38:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765119774,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4376,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>Probablement originaire d’Amérique tropicale, aujourd’hui largement répandue dans toutes les zones tropicales du monde. C’est une mauvaise herbe commune répandue en Malaisie.</p>",
+dateCreated: "2015-03-19T11:38:39Z",
+lastUpdated: "2015-03-19T11:38:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765119317,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4378,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "H. indicum se rencontrent sur des sites ensoleillés, périodiquement humides ou marécageux puis se desséchant ; étendues désertes, bords de fossés, fossés ou flaques secs, dans de la boue étalée, le long des routes, souvent très commune. A Java, de 0 à 800 m d’altitude, surtout au-dessus de 400 m. La période de floraison se prolonge alors que les premières graines, arrivées à maturité, sont tombées, et il y a même encore des bourgeons floraux fermés.<br>",
+dateCreated: "2015-03-19T11:38:39Z",
+lastUpdated: "2015-03-19T11:38:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765119608,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4377,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>Probablement originaire d’Amérique tropicale, aujourd’hui largement répandue dans toutes les zones tropicales du monde. C’est une mauvaise herbe commune répandue en Malaisie.</p>",
+dateCreated: "2015-03-19T11:38:39Z",
+lastUpdated: "2015-03-19T11:38:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765119462,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4380,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Globale</h6><p>Mauvaise herbe d’importance mineure.</p><h6>Nuisibilité Locale</h6><p>Madagascar : H. indicum est une plante en général peu abondante dans les cultures.</p>",
+dateCreated: "2015-03-19T11:38:39Z",
+lastUpdated: "2015-03-19T11:38:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765119921,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4383,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Usages</h6><p>Usage médicinal : Une infusion de feuilles et de jeunes pousses d'H. indicum est utilisée pour traiter les éruptions dues aux orties. Une infusion de fleurs prise en doses réduites régule les menstrues, à forte dose est abortive. Une décoction de feuilles est vermifuge. Le jus des feuilles est antiseptique et anti-inflammatoire, il est appliqué sur les blessures, les plaies, les brûlures, les furoncles et les boutons du visage. Bouillie avec de l’huile de ricin, elle est appliquée sur les piqûres de scorpions. Elle est également employée localement en cas d’anophtolmia, lorsque la cornée est enflammée ou excoriée. Madagascar : H. indicum n’est pas appétée par les animaux. Utilisée en pharmacopée : anti-inflammatoire, etc.</p>",
+dateCreated: "2015-03-19T11:38:41Z",
+lastUpdated: "2015-03-19T11:38:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765121100,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4381,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Pratiques culturales : H. indicum est facilement jugulée manuellement, par le binage ou la mise en culture. Lutte chimique : Peu sensible au 2,4-D et au MPCA, mais efficaces quand ils sont appliqués au stade de la levée. Conseils de gestion des adventices annuelles à feuilles larges en riz irrigué : http://portal.wikwio.org/document/show/19</p><h6>Lutte Locale</h6><p>Madagascar : Le contrôle manuel d’H. indicum peut se faire par arrachage. Chimiquement, elle est contrôlée au 2,4-D (et à l’oxyfluorfen, non disponible à Madagascar).</p>",
+dateCreated: "2015-03-19T11:38:40Z",
+lastUpdated: "2015-03-19T11:38:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765120102,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4371,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:38:38Z",
+lastUpdated: "2015-03-31T06:53:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765118569,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4372,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:38:38Z",
+lastUpdated: "2015-03-31T06:53:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Tavatchai Radanachaless, J.F.Maxwell. 1994. Weeds of soybean fields in Thailand. Multiple Cropping, Center Publications. Thailand."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765118569,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4373,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:38:38Z",
+lastUpdated: "2015-03-31T06:53:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765118569,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4370,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:38:38Z",
+lastUpdated: "2015-03-31T06:53:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Lavit Kham. 2004. Medicinal plants of Cambodia."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765118568,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4369,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:38:38Z",
+lastUpdated: "2015-03-31T06:53:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765118568,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3387,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20040813_170802.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20040813_170802_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:15Z",
+rating: 0
+},
+{
+id: 3388,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20050204_183858.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20050204_183858_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:15Z",
+rating: 0
+},
+{
+id: 3389,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145157.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145157_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:15Z",
+rating: 0
+},
+{
+id: 3390,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20041120_173512.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20041120_173512_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:15Z",
+rating: 0
+},
+{
+id: 3391,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20090213_171400.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20090213_171400_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:15Z",
+rating: 0
+},
+{
+id: 3392,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20041120_174018.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20041120_174018_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:15Z",
+rating: 0
+},
+{
+id: 3393,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20090213_171608.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20090213_171608_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:16Z",
+rating: 0
+},
+{
+id: 3394,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20090213_171658.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20090213_171658_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:16Z",
+rating: 0
+},
+{
+id: 3395,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145049.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145049_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:16Z",
+rating: 0
+},
+{
+id: 3396,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145129.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145129_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:16Z",
+rating: 0
+},
+{
+id: 3397,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145108.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145108_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:16Z",
+rating: 0
+},
+{
+id: 3398,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145151.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145151_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:16Z",
+rating: 0
+},
+{
+id: 3399,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145205.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145205_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:16Z",
+rating: 0
+},
+{
+id: 3400,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20090213_171505.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20090213_171505_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:16Z",
+rating: 0
+},
+{
+id: 3401,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145044.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145044_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:17Z",
+rating: 0
+},
+{
+id: 3402,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20090213_171801.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20090213_171801_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:17Z",
+rating: 0
+},
+{
+id: 3403,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145055.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20110701_145055_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:17Z",
+rating: 0
+},
+{
+id: 3404,
+url: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20041120_173632.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Heliotropium indicum/heoin_20041120_173632_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:17Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}
