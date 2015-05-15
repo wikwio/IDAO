@@ -1,0 +1,15 @@
+ <g id="simple.marge_theo">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Marge_limbe" onclick=" showquest('Marge_limbe')" onmousemove=" showrobotip('Marge_limbe','Marge du limbe')" onmouseout=" hidetooltip('Marge_limbe')" cursor="pointer">
+   <g>
+    <path fill="white" fill-opacity="0.149020" d="M20700 2100c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+    <path id="1" fill="none" stroke="gray" stroke-width="7.62" d="M20700 2100c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+   </g>
+   <rect id="Cadre_Margin" fill="white" stroke="gray" stroke-width="7.62" x="16300" y="200" width="1800" height="2700">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Cadre_Margin" type="0"/>
+    </metadata>
+   </rect>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M18933 2741c-268,-150 -357,-225 -586,-406 373,193 443,96 604,94 -66,40 -53,64 -83,114 394,104 602,-29 822,-150 -127,63 -161,231 52,344 -207,-52 -463,-25 -869,-145 -20,26 47,115 61,149z"/>
+ </g>

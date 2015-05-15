@@ -1,0 +1,14 @@
+ <g id="penta_theo_sed">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="A_Tige">
+   <path fill="none" stroke="#9D9E9E" stroke-width="7.62" d="M11598 5108c-7,309 -34,1105 -33,1500"/>
+   <g>
+    <path fill="#E5E5E5" stroke="#7F7F7F" stroke-width="7.62" d="M11610 4994c395,-153 905,-353 1028,-562 -141,-145 -268,-276 -401,-414 -359,0 -683,0 -1024,0 -108,138 -205,263 -308,394 172,310 454,413 706,583z"/>
+    <path fill="#CCCCCC" stroke="#7F7F7F" stroke-width="7.62" d="M11617 4908c336,-126 769,-290 877,-462 -113,-120 -215,-227 -322,-341 -318,0 -605,0 -908,0 -87,113 -165,215 -248,323 150,254 387,340 600,480z"/>
+   </g>
+  </g>
+  <g>
+   <polygon id="Plc" onclick=" showquest('Plc')" onmousemove=" showrobotip('Plc','Tige creuse ou pleine')" onmouseout=" hidetooltip('Plc')" cursor="pointer" fill="white" fill-opacity="0.149020" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+   <polygon id="Plc1" fill="none" stroke="#4D4D4D" stroke-width="7.62" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+  </g>
+ </g>

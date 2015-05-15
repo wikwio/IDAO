@@ -1,0 +1,24 @@
+
+ <g id="simple.apex_acuminate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Apex_limbe" onclick=" showquest('Apex_limbe')" onmousemove=" showrobotip('Apex_limbe','Sommet du limbe')" onmouseout=" hidetooltip('Apex_limbe')" cursor="pointer">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Marge_limbe" type="0"/>
+    </metadata>
+   <g>
+    <path fill="white" fill-opacity="0.149020" d="M21500 1057c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+    <path id="1" fill="none" stroke="black" stroke-width="7.62" d="M21500 1057c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+   </g>
+   <rect id="Cadre_apex" fill="white" stroke="black" stroke-width="7.62" x="18500" y="200" width="2000" height="1800">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="Cadre_apex" type="0"/>
+    </metadata>
+   </rect>
+   <path fill="#78B43C" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20177 1999c-8,-250 -98,-428 -112,-469 -72,-206 -323,-395 -345,-424 -50,-19 -130,-216 -153,-278 -20,-59 -78,-356 -87,-429 -1,75 -45,371 -67,429 -23,59 -102,241 -158,294 -31,43 -269,236 -331,438 -16,39 -92,235 -102,439 -5,1 -10,0 1354,0z"/>
+   <polygon fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="19486,791 19492,1947 "/>
+   <path fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M19796 1317c-42,209 -138,433 -287,490"/>
+   <path fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M19249 1288c39,116 102,190 229,241"/>
+   <path fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M19055 1792c33,44 43,104 99,138"/>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20973 580c-167,-45 -232,-46 -395,-57 227,71 221,155 287,230 -13,-52 1,-59 7,-99 203,128 241,295 289,461 -30,-92 17,-197 148,-158 -106,-68 -203,-202 -417,-327 1,-23 62,-39 80,-51z"/>
+ </g>

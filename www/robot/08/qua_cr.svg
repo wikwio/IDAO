@@ -1,0 +1,19 @@
+ <g id="qua_cr">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="A_Tige">
+   <polygon fill="white" points="11487,4224 13061,4127 13064,4836 "/>
+   <polygon fill="white" points="12153,4363 12671,4363 12671,4696 "/>
+   <g id="section">
+     <metadata id="CorelCorpID_1">
+      <odm name="Name" value="section" type="0"/>
+     </metadata>
+    <path fill="#E8B999" stroke="#7F7F7F" stroke-width="7.62" d="M12065 4264l666 373c131,73 83,167 -108,208l-564 121c-115,25 -274,9 -353,-36l-760 -426c-131,-73 -83,-167 108,-208l427 -92c191,-41 454,-14 585,59z"/>
+    <path fill="#BA7648" stroke="#7F7F7F" stroke-width="7.62" d="M11931 4285l600 336c73,41 46,93 -60,115l-463 100c-106,23 -252,8 -325,-33l-600 -336c-73,-41 -46,-93 60,-115l463 -100c106,-23 252,-8 325,33z"/>
+   </g>
+   <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M11762 5038c20,459 -26,658 -36,1571"/>
+  </g>
+  <g>
+   <polygon id="Plc" onclick=" showquest('Plc')" onmousemove=" showrobotip('Plc','Tige creuse ou pleine')" onmouseout=" hidetooltip('Plc')" cursor="pointer" fill="white" fill-opacity="0.149020" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+   <polygon id="Plc1" fill="none" stroke="black" stroke-width="7.62" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+  </g>
+ </g>

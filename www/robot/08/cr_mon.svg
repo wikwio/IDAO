@@ -1,0 +1,12 @@
+ <g id="cr_mon">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="A_Tige">
+   <path fill="#E5E5E5" stroke="#7F7F7F" stroke-width="7.62" d="M10947 4281l1727 6 -17 248c-8,71 -31,240 -207,515l-1499 0 -4 -769z"/>
+   <ellipse fill="#E8B999" stroke="black" stroke-width="7.62" cx="11811" cy="4255" rx="867" ry="435"/>
+   <ellipse fill="#BA7648" stroke="black" stroke-width="7.62" cx="11834" cy="4264" rx="673" ry="293"/>
+  </g>
+  <g>
+   <polygon id="Plc" onclick=" showquest('Plc')" onmousemove=" showrobotip('Plc','Tige creuse ou pleine')" onmouseout=" hidetooltip('Plc')" cursor="pointer" fill="white" fill-opacity="0.149020" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+   <polygon id="Plc1" fill="none" stroke="black" stroke-width="7.62" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+  </g>
+ </g>

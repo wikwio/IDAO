@@ -1,0 +1,48 @@
+ <g id="Sol_axil">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Inflo" onclick=" showquest('Inflo')" onmousemove=" showrobotip('Inflo','Inflorescence')" onmouseout=" hidetooltip('Inflo')" cursor="pointer">
+   <g id="terminale">
+     <metadata id="CorelCorpID_1">
+      <odm name="Name" value="terminale" type="0"/>
+     </metadata>
+    <line fill="none" stroke="black" stroke-width="7.62" x1="9896" y1="699" x2="9896" y2= "2800" />
+    <g id="feuille">
+      <metadata id="CorelCorpID_2">
+       <odm name="Name" value="feuille" type="0"/>
+      </metadata>
+     <path fill="#00C800" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M10476 1781c292,-182 558,-1 874,-50 -77,122 -243,472 -546,671 -302,198 -382,27 -671,-30 241,-618 270,-517 343,-591z"/>
+     <polygon fill="none" stroke="black" stroke-width="7.62" points="11229,1799 9900,2492 "/>
+    </g>
+    <g id="feuille_0">
+      <metadata id="CorelCorpID_3">
+       <odm name="Name" value="feuille" type="0"/>
+      </metadata>
+     <path fill="#00C800" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M9323 1022c-267,-217 -553,-72 -860,-163 60,130 187,493 454,735 273,256 374,79 666,61 -156,-643 -197,-548 -259,-633z"/>
+     <polygon id="feuille_1" fill="none" stroke="black" stroke-width="7.62" points="8666,1016 9893,1881 ">
+      <metadata id="CorelCorpID_4">
+       <odm name="Name" value="feuille" type="0"/>
+      </metadata>
+     </polygon>
+    </g>
+   </g>
+   <g id="fleur">
+     <metadata id="CorelCorpID_5">
+      <odm name="Name" value="fleur" type="0"/>
+     </metadata>
+    <polygon fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="10267,1610 9901,2482 "/>
+    <path fill="red" stroke="black" stroke-width="7.62" d="M10342 1648c-113,0 -203,-85 -203,-184 0,-99 90,-182 203,-182 104,0 196,83 196,182 0,99 -92,184 -196,184z"/>
+   </g>
+   <g id="fleur_2">
+     <metadata id="CorelCorpID_6">
+      <odm name="Name" value="fleur" type="0"/>
+     </metadata>
+    <polygon fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="9518,980 9889,1864 "/>
+    <path fill="red" stroke="black" stroke-width="7.62" d="M9443 1019c113,0 203,-85 203,-184 0,-99 -90,-182 -203,-182 -104,0 -196,83 -196,182 0,99 92,184 196,184z"/>
+   </g>
+   <g>
+    <polygon fill="white" fill-opacity="0.149020" points="11700,2800 11700,400 8100,400 8100,2800 "/>
+    <polygon id="1" fill="none" stroke="black" stroke-width="7.62" points="11700,2800 11700,400 8100,400 8100,2800 "/>
+   </g>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M8690 4025c153,-288 183,-407 271,-701 -226,387 -376,340 -544,430 101,-2 107,26 178,54 -320,319 -643,319 -967,338 182,-17 354,115 228,338 170,-166 456,-288 775,-628 42,12 46,130 60,169z"/>
+ </g>

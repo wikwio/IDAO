@@ -1,0 +1,22 @@
+
+ <g id="Fru_baie_g">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Fruit" onclick=" showquest('Fruit')" onmousemove=" showrobotip('Fruit','Type de fruit')" onmouseout=" hidetooltip('Fruit')" cursor="pointer" >
+   <rect fill="white" stroke="black" stroke-width="7.62" x="400" y="400" width="2400" height="3600"/>
+   <g id="berry">
+     <metadata id="CorelCorpID_1">
+      <odm name="Name" value="berry" type="0"/>
+     </metadata>
+    <path fill="#AAAA00" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M610 2366c0,-566 425,-1146 987,-1146 566,0 1009,563 1009,1130 0,566 -1997,583 -1997,16z"/>
+    <path fill="#FFFA89" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1587 3423c-563,0 -978,-448 -978,-1013 0,-505 390,-827 988,-827 566,0 1011,259 1011,827 0,564 -454,1013 -1022,1013z"/>
+    <path fill="#00C800" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1546 898c4,135 19,491 5,568 -12,79 -40,56 -84,86 -83,56 294,53 244,0 -19,-25 -76,-14 -90,-83 -16,-70 -2,-454 -5,-587l-70 16z"/>
+    <path fill="red" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1026 1900c129,-189 512,301 487,336 -34,56 -648,-122 -487,-336z"/>
+    <path fill="red" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1042 2964c-154,-192 418,-413 478,-346 2,4 -324,549 -478,346z"/>
+    <path fill="red" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M903 2414c4,-286 577,-17 577,14 -3,40 -585,269 -577,-14z"/>
+    <path fill="red" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M2172 1934c-134,-188 -513,300 -487,336 43,59 641,-124 487,-336z"/>
+    <path fill="red" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M2172 2984c165,-182 -386,-435 -461,-368 -14,18 300,555 461,368z"/>
+    <path fill="red" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M2296 2447c0,-284 -575,-17 -575,11 0,26 579,281 575,-11z"/>
+   </g>
+  </g>
+  <path id="A_Arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M3344 1967c-321,95 -429,155 -706,295 447,-114 526,15 715,63 -77,-64 -61,-87 -94,-152 468,-7 709,202 965,400 -148,-106 -182,-307 73,-375 -246,1 -547,-102 -1030,-80 -22,-35 60,-117 77,-152z"/>
+ </g>

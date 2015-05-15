@@ -1,0 +1,27 @@
+
+ <defs>
+     <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="1760.05" y1="866.08" x2="1760.05" y2="1159.39">
+      <stop offset="0" stop-color="#CC9933"/>
+      <stop offset="1" stop-color="#434242"/>
+     </linearGradient>
+     <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="1498.78" y1="854.2" x2="1498.78" y2="1147.51">
+      <stop offset="0" stop-color="#CC9933"/>
+      <stop offset="1" stop-color="#434242"/>
+     </linearGradient>
+ </defs>
+ <g id="Fru_cap">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path id="A_Arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M2448 6052c-189,-478 -215,-670 -301,-1145 285,646 530,599 777,770 -158,-20 -172,23 -289,54 446,556 951,613 1457,699 -282,-58 -576,118 -416,490 -237,-290 -664,-531 -1104,-1121 -68,12 -94,196 -123,254z"/>
+  <g id="Fruit" onclick=" showquest('Fruit')" onmousemove=" showrobotip('Fruit','Type de fruit')" onmouseout=" hidetooltip('Fruit')" cursor="pointer" >
+   <rect fill="white" stroke="black" stroke-width="7.62" x="400" y="400" width="2400" height="3600"/>
+   <g id="capsule_x0020_indehis">
+     <metadata id="CorelCorpID_1">
+      <odm name="Name" value="capsule indehis" type="0"/>
+     </metadata>
+    <rect fill="#4EB148" stroke="#0A0A0A" stroke-width="7.62" x="1558" y="3365" width="125" height="385"/>
+    <path fill="url(#id0)" stroke="#0A0A0A" stroke-width="7.62" d="M1867 1159l-207 -8c0,0 -8,-186 44,-222 52,-36 64,-63 62,-59l39 40c16,16 64,36 64,101 0,65 -1,149 -1,149z"/>
+    <path fill="url(#id1)" stroke="#0A0A0A" stroke-width="7.62" d="M1606 1148l-207 -8c0,0 -8,-186 44,-222 52,-36 64,-63 62,-59l38 40c16,16 64,36 64,101 0,65 -1,149 -1,149z"/>
+    <path fill="#AAAA00" stroke="#0A0A0A" stroke-width="7.62" d="M2057 1352c90,261 254,513 241,1052 -17,680 -301,1008 -671,1008 -371,0 -647,-329 -671,-1008 -20,-538 154,-787 257,-1053 25,-65 62,-170 84,-216 -1,-17 -2,-154 41,-192 43,-37 57,-86 57,-86l35 68c15,24 60,42 58,137l5 71c0,0 1,0 1,0 0,-35 6,-128 53,-158 57,-35 82,-112 82,-112l57 82c25,24 60,35 75,102 9,40 11,63 11,76 2,0 2,2 3,1 -1,-24 -1,-135 41,-172 42,-37 60,-84 60,-84l49 80c48,80 47,90 50,182 32,94 43,137 81,222z"/>
+   </g>
+  </g>
+ </g>

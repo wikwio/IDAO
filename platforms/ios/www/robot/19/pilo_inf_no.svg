@@ -1,0 +1,28 @@
+ <g id="pilo_inf_no">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Pilo_inf" onclick=" showquest('Pilo_inf')" onmousemove=" showrobotip('Pilo_inf','Pilosit&#233; de la face inf&#233;rieure du limbe')" onmouseout=" hidetooltip('Pilo_inf')" cursor="pointer">
+   <rect id="Reponse_cadre" fill="white" stroke="black" stroke-width="7.62" x="15700" y="12800" width="2000" height="1800">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Reponse pilo sup" type="0"/>
+    </metadata>
+   </rect>
+   <polygon id="sans" fill="#74BE5A" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="16156,13907 15705,14598 17702,14598 17251,13907 ">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="sans" type="0"/>
+    </metadata>
+   </polygon>
+   <g>
+    <polygon id="Pilo_inf_cdr" fill="white" fill-opacity="0.149020" points="15850,10650 16750,10650 16750,11350 15850,11350 ">
+     <metadata id="CorelCorpID_3">
+      <odm name="Name" value="pilo inf" type="0"/>
+     </metadata>
+    </polygon>
+    <polygon id="Pilo_inf_cdr1" fill="none" stroke="black" stroke-width="7.62" points="15850,10650 16750,10650 16750,11350 15850,11350 ">
+     <metadata id="CorelCorpID_4">
+      <odm name="Name" value="pilo inf" type="0"/>
+     </metadata>
+    </polygon>
+   </g>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M15612 12129c79,192 125,256 233,418 -98,-268 -13,-323 10,-442 -40,50 -57,42 -99,65 -26,-287 105,-445 229,-612 -66,96 -201,127 -259,-26 12,151 -45,341 -7,636 -23,15 -83,-31 -107,-39z"/>
+ </g>

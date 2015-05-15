@@ -1,0 +1,20 @@
+ <g id="pilo_inf_glande">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Pilo_inf_dtl" onclick=" showquest('Pilo_inf_dtl')" onmousemove=" showrobotip('Pilo_inf_dtl','Type de pilosit&#233; de la face inf&#233;rieure du limbe')" onmouseout=" hidetooltip('Pilo_inf_dtl')" cursor="pointer">
+   <rect id="Pilo_inf_cdr" fill="white" stroke="black" stroke-width="7.62" x="15700" y="15000" width="2000" height="1800">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Reponse pilo inf" type="0"/>
+    </metadata>
+   </rect>
+   <g id="dots">
+     <metadata id="CorelCorpID_2">
+      <odm name="Name" value="dots" type="0"/>
+     </metadata>
+    <polygon fill="#74BE5A" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="16157,16117 15708,16802 17692,16802 17244,16117 "/>
+    <path fill="white" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M16428 16414c-72,0 -130,11 -130,-59 0,-70 59,-125 132,-125 72,0 132,55 132,125 0,70 -61,59 -133,59z"/>
+    <path fill="white" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M16717 16689c-74,0 -130,11 -130,-58 0,-70 58,-126 130,-126 74,0 132,57 132,126 0,68 -59,58 -132,58z"/>
+    <path fill="white" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M16987 16397c-74,0 -130,11 -130,-58 0,-70 58,-126 132,-126 72,0 132,57 132,126 0,68 -61,58 -133,58z"/>
+   </g>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M17650 14899c-97,201 -151,266 -277,434 123,-282 35,-346 17,-475 40,56 58,48 102,76 46,-306 -84,-485 -206,-671 64,107 207,149 279,-11 -23,161 26,369 -33,683 24,18 91,-28 117,-35z"/>
+ </g>

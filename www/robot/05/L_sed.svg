@@ -1,0 +1,22 @@
+ <g id="L_sed">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Limbe_M" onclick=" showquest('Limbe_M')" onmousemove=" showrobotip('Limbe_M','Type de feuille')" onmouseout=" hidetooltip('Limbe_M')" cursor="pointer">
+   <path id="extremite_x0020_feuille" fill="#BED250" stroke="black" stroke-width="7.62" d="M8662 9703c57,0 866,362 1015,-54 36,-101 71,2929 71,5332 0,1022 -890,-3216 -1085,-5278z"/>
+   <path id="feuille_derriere" fill="#BED250" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M9529 9181c720,713 2429,1097 3303,2780 -491,423 -643,368 -1115,630 -965,-296 -2324,-2317 -3062,-2892 818,2 976,373 874,-518z"/>
+   <path id="feuille_devant" fill="#BED250" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M16858 3997c-669,-371 301,-1241 -1290,-583 -1100,731 -2864,993 -3755,1958 -346,1477 -1092,971 -900,4461l708 -900c408,-637 610,-1702 1018,-2338 959,-888 1450,-1662 2517,-2417 958,-678 370,-482 1703,-181z"/>
+  </g>
+  <path id="A_Tige" fill="#E5E5E5" stroke="#2A2A29" stroke-width="7.62" d="M10863 4404l1790 -11 -150 3316 -1665 9c2,-1695 18,-1280 24,-3314z">
+   <metadata id="CorelCorpID_1">
+    <odm name="Name" value="tige" type="0"/>
+   </metadata>
+  </path>
+  <path id="Pilo_tige" onclick=" showquest('Pilo_tige')" onmousemove=" showrobotip('Pilo_tige','Pilosit&#233; de la tige')" onmouseout=" hidetooltip('Pilo_tige')" cursor="pointer" fill="#BED250" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M12539 6816c-2,1576 85,3131 139,4706l154 3271 -1025 551c-252,-140 -652,-313 -905,-452 -27,-877 -199,-6479 -58,-7356 1305,175 1274,-689 1695,-720z"/>
+  <path id="Limbe_M" onclick=" showquest('Limbe_M')" onmousemove=" showrobotip('Limbe_M','Type de feuille')" onmouseout=" hidetooltip('Limbe_M')" cursor="pointer" fill="#BED250" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M18092 12302c-489,-1225 -1002,-7392 -1629,-8224 -369,-147 -964,144 -1807,686 -749,691 -1368,1361 -2117,2052 -461,333 -441,1036 -1695,720 661,-12 702,-346 1523,-1760 815,-797 1894,-1141 2911,-1845 786,-453 1249,-572 1559,-488 604,1745 1055,7285 1255,8860z"/>
+  <polygon id="A_Courbe_x0020_" fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="9565,9784 10644,10706 "/>
+  <path id="A_Courbe_x0020__1" fill="none" stroke="#2A2A29" stroke-width="7.62" d="M12008 12480c197,-179 273,-59 698,-412"/>
+  <path id="A_Courbe_x0020__2" fill="none" stroke="#2A2A29" stroke-width="7.62" d="M10818 11989c139,198 491,317 690,472"/>
+  <g>
+   <polygon id="Section" onclick=" showquest('Section')" onmousemove=" showrobotip('Section','Section de la tige')" onmouseout=" hidetooltip('Section')" cursor="pointer" fill="white" fill-opacity="0.149020" points="10150,12200 11450,12200 11450,14800 10150,14800 "/>
+   <polygon id="Section1" fill="none" stroke="black" stroke-width="7.62" points="10150,12200 11450,12200 11450,14800 10150,14800 "/>
+  </g>
+ </g>

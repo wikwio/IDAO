@@ -1,0 +1,20 @@
+ <g id="qua_theo_mon">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="A_Tige">
+   <polygon fill="#E5E5E5" points="10855,5998 11797,4893 10864,4362 "/>
+   <polygon fill="white" points="11149,4065 12723,3968 12725,4678 "/>
+   <g id="sectiondf">
+     <metadata id="CorelCorpID_1">
+      <odm name="Name" value="section" type="0"/>
+     </metadata>
+    <path fill="#E5E5E5" stroke="#7F7F7F" stroke-width="7.62" d="M12011 4211l642 359c126,71 80,161 -104,201l-544 117c-111,24 -264,8 -340,-34l-733 -410c-126,-71 -80,-161 104,-201l411 -88c184,-40 437,-14 564,57z"/>
+    <path fill="#CCCCCC" stroke="#7F7F7F" stroke-width="7.62" d="M11881 4232l578 324c70,39 44,89 -58,111l-446 96c-102,22 -243,8 -313,-32l-578 -324c-70,-39 -44,-89 58,-111l446 -96c102,-22 243,-8 313,32z"/>
+   </g>
+   <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M11762 5038c20,459 -26,658 -36,1571"/>
+   <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M10864 4362c8,469 -2,1238 -9,1635"/>
+  </g>
+  <g>
+   <polygon id="Plc" onclick=" showquest('Plc')" onmousemove=" showrobotip('Plc','Tige creuse ou pleine')" onmouseout=" hidetooltip('Plc')" cursor="pointer" fill="white" fill-opacity="0.149020" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+   <polygon id="Plc1" fill="none" stroke="#4D4D4D" stroke-width="7.62" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+  </g>
+ </g>

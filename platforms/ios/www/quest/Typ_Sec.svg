@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 24000 18000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<a>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Sec_penta" onclick="parent.replacechar('Sec_penta')" onmousemove="parent.showtooltip('Sec_penta','Tige &#224; section pentagonale')" onmouseout="parent.hidetooltip('Sec_penta')" cursor="pointer">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="pentagone" type="0"/>
+    </metadata>
+   <polygon fill="#C0C001" stroke="black" stroke-width="7.62" points="19994,10268 21036,11083 20638,12402 19350,12402 18952,11083 "/>
+   <polygon fill="#C0C001" stroke="black" stroke-width="7.62" points="20000,13833 21125,13419 20695,12749 19305,12749 18875,13419 "/>
+   <polygon fill="#808001" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="18878,13414 18878,16631 20012,17082 21116,16613 21125,13419 20003,13831 "/>
+   <path fill="none" stroke="black" stroke-width="7.62" d="M20004 13843c0,3238 8,3238 8,3238"/>
+  </g>
+  <g id="Sec_quadran" onclick="parent.replacechar('Sec_quadran')" onmousemove="parent.showtooltip('Sec_quadran','Tige &#224; section carr&#233;e')" onmouseout="parent.hidetooltip('Sec_quadran')" cursor="pointer">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="quadrang" type="0"/>
+    </metadata>
+   <polygon fill="#C0C001" stroke="black" stroke-width="6.65" points="10822,13098 11995,12552 13178,13118 11995,13644 "/>
+   <g>
+    <polygon fill="#808001" points="10822,13108 10822,16600 12005,17082 13178,16442 13178,13108 11995,13629 "/>
+    <polygon id="1" fill="none" fill-rule="nonzero" stroke="black" stroke-width="7.62" points="10822,13108 10822,16600 12005,17082 13178,16442 13178,13108 11995,13629 "/>
+   </g>
+   <g>
+    <line fill="none" fill-rule="nonzero" stroke="black" stroke-width="7.62" x1="11995" y1="13644" x2="11995" y2= "17057" />
+   </g>
+   <polygon fill="#C0C001" stroke="black" stroke-width="6.65" points="10782,11092 11995,9878 13218,11102 11995,12305 "/>
+  </g>
+  <g id="Sec_triangulaire" onclick="parent.replacechar('Sec_triangulaire')" onmousemove="parent.showtooltip('Sec_triangulaire','Tige &#224; section triangulaire')" onmouseout="parent.hidetooltip('Sec_triangulaire')" cursor="pointer">
+    <metadata id="CorelCorpID_3">
+     <odm name="Name" value="triang" type="0"/>
+    </metadata>
+   <polygon fill="#C0C001" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="2742,10813 5258,10813 4046,12483 "/>
+   <polygon fill="#808001" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="2903,13366 2903,16631 4037,17082 5141,16613 5145,13363 4039,13835 "/>
+   <path fill="#C0C001" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M2901 13366l2243 -4c-372,162 -743,316 -1115,478 -376,-160 -767,-332 -1128,-475z"/>
+   <path fill="none" stroke="black" stroke-width="7.62" d="M4031 13841c0,3238 8,3238 8,3238"/>
+  </g>
+  <g id="Sec_cannelle" onclick="parent.replacechar('Sec_cannelle')" onmousemove="parent.showtooltip('Sec_cannelle','Tige &#224; section cannel&#233;e')" onmouseout="parent.hidetooltip('Sec_cannelle')" cursor="pointer">
+    <metadata id="CorelCorpID_4">
+     <odm name="Name" value="angled" type="0"/>
+    </metadata>
+   <path fill="#808001" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M18844 7507l0 -3387 2311 0 0 3387c-57,64 -111,113 -338,100 -95,67 -111,208 -248,263 -195,101 -447,-27 -642,-84 -312,139 -361,138 -514,89 -141,-45 -244,-118 -302,-255 -100,-66 -195,-13 -268,-114z"/>
+   <path fill="none" stroke="black" stroke-width="7.62" d="M20544 4560c-4,3321 -4,3321 -4,3321"/>
+   <path fill="none" stroke="black" stroke-width="7.62" d="M19462 4553c-10,3331 -10,3331 -10,3331"/>
+   <path fill="none" stroke="black" stroke-width="7.62" d="M21161 4116c-2322,6 -2322,6 -2322,6"/>
+   <path fill="#C0C001" stroke="black" stroke-width="7.62" d="M20589 1318c133,68 106,369 198,604 70,178 374,157 379,422 5,285 -180,286 -368,390 -230,127 -104,482 -269,602 -248,66 -463,-113 -558,-134 -231,13 -149,232 -573,115 -230,-207 -17,-356 -155,-559 -146,-216 -410,-90 -408,-398 1,-153 240,-218 407,-427 95,-118 -62,-523 185,-633 195,-26 468,192 636,161 203,-36 354,-246 527,-143z"/>
+   <path fill="#C0C001" stroke="black" stroke-width="7.62" d="M20485 3689c82,2 244,132 315,209 75,80 305,-21 356,226 -50,70 -37,80 -361,156 -256,60 -106,174 -271,294 -248,66 -467,-57 -563,-77 -231,13 -239,199 -585,94 -238,-92 -109,-199 -194,-272 -75,-64 -267,99 -338,-203 44,-188 217,-66 345,-219 97,-116 89,-180 259,-218 192,-43 323,235 491,205 203,-36 276,-199 546,-194z"/>
+  </g>
+  <g id="Sec_ronde" onclick="parent.replacechar('Sec_ronde')" onmousemove="parent.showtooltip('Sec_ronde','Tige &#224; section ronde')" onmouseout="parent.hidetooltip('Sec_ronde')" cursor="pointer">
+   <path fill="#808001" stroke="black" stroke-width="7.62" d="M10843 4120l2315 0 0 3388c-461,537 -1735,562 -2315,0l0 -3388z"/>
+   <ellipse fill="#C0C001" stroke="black" stroke-width="7.62" cx="12000" cy="4127" rx="1158" ry="393"/>
+   <circle fill="#C0C001" stroke="black" stroke-width="7.62" cx="12000" cy="2249" r="1158"/>
+  </g>
+  <g id="Sec_app" onclick="parent.replacechar('Sec_app')" onmousemove="parent.showtooltip('Sec_app','Tige &#224; section aplatie')" onmouseout="parent.hidetooltip('Sec_app')" cursor="pointer">
+   <ellipse fill="#C0C001" stroke="black" stroke-width="7.62" cx="4000" cy="2053" rx="1158" ry="400"/>
+   <path fill="#808001" stroke="black" stroke-width="7.62" d="M2843 4094l2315 0 0 3388c-427,315 -1775,430 -2315,0l0 -3388z"/>
+   <ellipse fill="#C0C001" stroke="black" stroke-width="7.62" cx="4000" cy="4101" rx="1158" ry="170"/>
+  </g>
+ </g>
+<image xlink:href="tick.gif" id="imgtick" x="-10000" y="-10000" width="1500" height="1500"/>
+<rect id="recttooltip" x="-10000" y="-10000" width="5500" height="600" fill-opacity="0.85" pointer-events="none"/>
+<text id="textboxid" x="-10000" y="-10000" pointer-events="none"> </text>
+</a></svg>

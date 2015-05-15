@@ -1,0 +1,222 @@
+ <g id="MON_O_R">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Fruit" onclick=" showquest('Fruit')" onmousemove=" showrobotip('Fruit','Type de fruit')" onmouseout=" hidetooltip('Fruit')" cursor="pointer" >
+   <g id="fruit1">
+    <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4779" y1="6699" x2="5002" y2= "6066" />
+    <path fill="#E31E24" stroke="#2A2A29" stroke-width="7.62" d="M5070 5773c111,9 194,106 186,217 -9,111 -106,194 -217,186 -111,-9 -194,-106 -186,-217 9,-111 106,-194 217,-186z"/>
+   </g>
+   <g id="fruit2">
+    <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4673" y1="6827" x2="4436" y2= "6199" />
+    <path fill="#E31E24" stroke="#2A2A29" stroke-width="7.62" d="M4422 5967c111,0 202,91 202,202 0,111 -91,202 -202,202 -111,0 -202,-91 -202,-202 0,-111 91,-202 202,-202z"/>
+   </g>
+   <g id="fruit1_0">
+    <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4834" y1="8052" x2="5007" y2= "7404" />
+    <path fill="#E31E24" stroke="#2A2A29" stroke-width="7.62" d="M5053 7107c111,0 202,91 202,202 0,111 -91,202 -202,202 -111,0 -202,-91 -202,-202 0,-111 91,-202 202,-202z"/>
+   </g>
+  </g>
+  <g id="Fl_Color" onclick=" showquest('Fl_Color')" onmousemove=" showrobotip('Fl_Color','Couleur des fleurs')" onmouseout=" hidetooltip('Fl_Color')" cursor="pointer" >
+   <g id="fleur2">
+    <g>
+     <g>
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4503" y1="3953" x2="4437" y2= "4584" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4758" y1="4298" x2="4127" y2= "4232" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4248" y1="4002" x2="4668" y2= "4504" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4697" y1="4072" x2="4221" y2= "4452" />
+     </g>
+     <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4656" y1="4803" x2="4469" y2= "4263" />
+    </g>
+    <ellipse fill="#FFED00" stroke="#2A2A29" stroke-width="7.62" transform="matrix(-0.902513 -0.0942899 -0.0942899 0.902513 4450.29 4259.22)" rx="205" ry="221"/>
+   </g>
+   <g id="fleur1">
+    <g>
+     <g>
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4961" y1="4627" x2="5034" y2= "5322" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4680" y1="5008" x2="5376" y2= "4935" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="5242" y1="4681" x2="4780" y2= "5234" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4748" y1="4758" x2="5273" y2= "5177" />
+     </g>
+     <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4793" y1="5564" x2="4999" y2= "4969" />
+    </g>
+    <ellipse fill="#FFED00" stroke="#2A2A29" stroke-width="7.62" transform="matrix(0.994587 -0.103909 0.103909 0.994587 5019.65 4964.61)" rx="205" ry="221"/>
+   </g>
+   <g id="fleur1_1">
+    <g>
+     <g>
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4457" y1="4551" x2="4385" y2= "5246" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4739" y1="4932" x2="4043" y2= "4859" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4176" y1="4605" x2="4639" y2= "5158" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4671" y1="4682" x2="4146" y2= "5101" />
+     </g>
+     <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4625" y1="5488" x2="4420" y2= "4893" />
+    </g>
+    <ellipse fill="#FFED00" stroke="#2A2A29" stroke-width="7.62" transform="matrix(-0.994587 -0.103909 -0.103909 0.994587 4399.19 4888.61)" rx="205" ry="221"/>
+   </g>
+  </g>
+  <g id="Feuille" onclick=" showquest('Feuille')" onmousemove=" showrobotip('Feuille','Feuilles larges, de gramin&#233;es, compos&#233;es ou absentes ?')" onmouseout=" hidetooltip('Feuille')" cursor="pointer" >
+   <path id="tige" fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4755 14523c-11,-1379 -226,-8276 -93,-10300 212,377 314,8656 394,10300 -85,0 -185,-3 -300,0z"/>
+   <g id="feuille1">
+    <path id="limbe" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4679 5720c48,-12 66,-15 98,-7 90,-207 -740,-795 -965,-971 346,312 646,817 867,978z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3845 4770c291,239 779,727 877,909"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3875 4794c291,239 700,596 805,771"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3856 4777c294,236 826,625 902,884"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3865 4786c276,271 765,911 806,876"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3861 4783c325,276 740,843 782,821"/>
+   </g>
+   <g id="feuille1_2">
+    <path id="limbe_3" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4726 8257c51,-13 70,-16 104,-7 96,-220 -787,-846 -1026,-1033 368,331 687,869 922,1040z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3839 7246c309,254 828,773 932,967"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3871 7272c309,254 745,634 856,820"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3850 7255c313,251 878,665 959,940"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3860 7264c293,288 813,969 857,931"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3855 7260c346,294 787,896 831,873"/>
+   </g>
+   <g id="feuille1_4">
+    <path id="limbe_5" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4867 9971c-80,-8 -110,-9 -159,12 -193,-312 1007,-1454 1329,-1790 -486,583 -851,1468 -1170,1778z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5990 8244c-413,453 -1086,1353 -1201,1670"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5946 8290c-413,453 -989,1124 -1118,1431"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5975 8260c-419,450 -1185,1201 -1248,1636"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5961 8276c-381,501 -1020,1648 -1095,1600"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5968 8269c-459,521 -996,1532 -1069,1506"/>
+   </g>
+   <g id="feuille1_6">
+    <path id="limbe_7" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4753 11413c80,-8 110,-9 159,12 193,-312 -1007,-1454 -1329,-1790 486,583 851,1468 1170,1778z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3630 9686c413,453 1086,1353 1201,1670"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3673 9731c413,453 989,1124 1118,1431"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3645 9701c419,450 1185,1201 1248,1636"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3659 9717c381,501 1020,1648 1095,1600"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3652 9711c459,521 996,1532 1069,1506"/>
+   </g>
+   <g id="feuille1_8">
+    <path id="limbe_9" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M5007 14072c-78,20 -106,29 -145,66 -289,-227 445,-1712 630,-2139 -255,715 -293,1671 -485,2073z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5467 12064c-232,567 -553,1645 -552,1982"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5441 12122c-232,567 -541,1396 -556,1728"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5457 12084c-238,567 -699,1536 -607,1966"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5450 12104c-185,602 -390,1898 -477,1879"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5454 12095c-252,647 -407,1781 -484,1782"/>
+   </g>
+   <g id="feuille1_10">
+    <path id="limbe_11" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4828 14082c92,19 126,28 174,68 324,-283 -627,-1977 -870,-2464 343,821 446,1938 696,2396z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M4166 11760c306,650 750,1891 769,2286"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M4199 11826c306,650 720,1601 758,1989"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M4178 11782c314,648 913,1755 833,2263"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M4188 11805c254,693 574,2198 675,2170"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M4182 11796c335,742 587,2060 677,2056"/>
+   </g>
+   <g id="feuille1_12">
+    <path id="limbe_13" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4716 14487c130,-57 240,-84 334,-76 155,-630 -2525,-1930 -3248,-2320 1134,716 2208,2047 2914,2396z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M1908 12152c941,536 2563,1683 2929,2153"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M2006 12205c941,536 2276,1350 2658,1796"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M1942 12169c949,527 2647,1373 2988,2070"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M1974 12189c914,634 2612,2214 2712,2092"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M1959 12182c1056,626 2509,2032 2617,1949"/>
+   </g>
+   <g id="feuille1_14">
+    <path id="limbe_15" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M5077 14500c-135,-43 -179,-22 -345,-20 -219,-611 2347,-2193 3025,-2655 -1054,829 -2015,2256 -2681,2676z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M7658 11897c-880,630 -2376,1938 -2691,2443"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M7566 11959c-880,630 -2124,1578 -2459,2060"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M7626 11917c-890,623 -2491,1639 -2759,2367"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M7596 11940c-843,725 -2370,2471 -2482,2361"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M7610 11931c-986,731 -2286,2279 -2402,2209"/>
+   </g>
+   <g id="feuille1_16">
+    <path id="limbe_17" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4710 14477c141,-10 217,-33 303,6 356,-543 -1739,-2646 -2290,-3254 830,1053 1438,2684 1987,3248z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M2803 11322c708,819 1855,2441 2043,3007"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M2878 11405c708,819 1695,2032 1907,2580"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M2829 11350c719,814 2037,2177 2126,2948"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M2853 11379c650,903 1724,2958 1859,2877"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M2841 11367c787,942 1688,2752 1816,2711"/>
+   </g>
+   <g id="feuille1_18">
+    <path id="limbe_19" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M5037 14489c-98,-113 -202,-173 -295,-208 138,-670 3223,-681 4087,-725 -1403,169 -2963,920 -3792,933z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M8701 13567c-1138,85 -3200,443 -3761,725"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M8583 13572c-1138,85 -2776,257 -3342,508"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M8661 13567c-1142,73 -3140,110 -3780,619"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M8621 13572c-1156,191 -3487,926 -3527,765"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M8639 13572c-1288,118 -3307,799 -3372,673"/>
+   </g>
+   <g id="feuille1_20">
+    <path id="limbe_21" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4770 14460c98,-113 137,-152 230,-187 -138,-670 -3223,-681 -4087,-725 1403,169 3028,899 3857,912z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M1042 13559c1138,85 3200,443 3761,725"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M1160 13565c1138,85 2776,257 3342,508"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M1082 13560c1142,73 3140,110 3780,619"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M1122 13564c1156,191 3487,926 3527,765"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M1104 13564c1288,118 3307,799 3372,673"/>
+   </g>
+   <g id="feuille1_22">
+    <path id="limbe_23" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4997 14466c-141,-14 -194,-16 -281,21 -342,-552 1780,-2570 2347,-3163 -858,1031 -1503,2593 -2066,3142z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M6981 11415c-730,800 -1919,2391 -2122,2951"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M6904 11495c-730,800 -1748,1986 -1975,2528"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M6954 11441c-740,794 -2094,2122 -2204,2890"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M6930 11470c-673,885 -1802,2911 -1935,2827"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M6942 11458c-811,921 -1760,2706 -1888,2661"/>
+   </g>
+   <g id="feuille1_24">
+    <path id="limbe_25" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4897 11419c-80,-8 -110,-9 -159,12 -193,-312 1007,-1454 1329,-1790 -486,583 -851,1468 -1170,1778z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M6020 9692c-413,453 -1086,1353 -1201,1670"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5977 9738c-413,453 -989,1124 -1118,1431"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M6005 9707c-419,450 -1185,1201 -1248,1636"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5991 9724c-381,501 -1020,1648 -1095,1600"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5998 9717c-459,521 -996,1532 -1069,1506"/>
+   </g>
+   <g id="feuille1_26">
+    <path id="limbe_27" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4707 10006c80,-8 110,-9 159,12 193,-312 -1007,-1454 -1329,-1790 486,583 851,1468 1170,1778z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3584 8279c413,453 1086,1353 1201,1670"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3628 8324c413,453 989,1124 1118,1431"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3600 8294c419,450 1185,1201 1248,1636"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3613 8310c381,501 1020,1648 1095,1600"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3607 8304c459,521 996,1532 1069,1506"/>
+   </g>
+   <g id="feuille1_28">
+    <path id="limbe_29" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4829 8239c-57,-6 -78,-6 -113,9 -138,-223 718,-1037 947,-1276 -346,416 -606,1046 -834,1268z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5629 7008c-294,323 -774,965 -856,1191"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5598 7040c-294,323 -705,801 -797,1020"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5618 7019c-299,321 -845,856 -889,1166"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5608 7030c-272,357 -727,1174 -781,1140"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5613 7026c-327,371 -710,1092 -762,1074"/>
+   </g>
+   <g id="feuille1_30">
+    <path id="limbe_31" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4641 6937c48,-12 66,-15 98,-7 90,-207 -740,-795 -965,-971 346,312 646,817 867,978z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3807 5986c291,239 779,727 877,909"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3837 6010c291,239 700,596 805,771"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3818 5994c294,236 826,625 902,884"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3827 6003c276,271 765,911 806,876"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3823 6000c325,276 740,843 782,821"/>
+   </g>
+   <g id="feuille1_32">
+    <path id="limbe_33" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4777 5736c-48,-12 -66,-15 -98,-7 -90,-207 740,-795 965,-971 -346,312 -646,817 -867,978z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5611 4786c-291,239 -779,727 -877,909"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5581 4810c-291,239 -700,596 -805,771"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5601 4793c-294,236 -826,625 -902,884"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5591 4802c-276,271 -765,911 -806,876"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5596 4799c-325,276 -740,843 -782,821"/>
+   </g>
+   <g id="feuille1_34">
+    <path id="limbe_35" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4633 4976c42,-11 58,-13 87,-6 80,-184 -657,-706 -857,-862 308,277 573,725 770,868z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3893 4132c258,212 692,645 779,807"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3920 4153c258,212 622,529 715,685"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3902 4139c261,210 733,555 801,785"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3911 4147c245,241 679,809 716,778"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M3907 4144c288,245 657,748 694,729"/>
+   </g>
+   <g id="feuille1_36">
+    <path id="limbe_37" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4813 6946c-57,-6 -78,-6 -113,9 -138,-223 718,-1037 947,-1276 -346,416 -606,1046 -834,1268z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5614 5715c-294,323 -774,965 -856,1191"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5583 5748c-294,323 -705,801 -797,1020"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5603 5726c-299,321 -845,856 -889,1166"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5593 5737c-272,357 -727,1174 -781,1140"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5598 5733c-327,371 -710,1092 -762,1074"/>
+   </g>
+   <g id="feuille1_38">
+    <path id="limbe_39" fill="#009848" stroke="#2A2A29" stroke-width="7.62" stroke-linejoin="bevel" d="M4715 4997c-44,-11 -60,-14 -90,-6 -82,-190 679,-729 885,-890 -318,286 -592,749 -795,896z"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5480 4126c-267,219 -714,666 -804,834"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5452 4147c-267,219 -642,546 -738,707"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5470 4133c-270,217 -757,573 -827,811"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5461 4141c-253,248 -701,836 -739,803"/>
+    <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M5466 4138c-298,253 -679,773 -717,753"/>
+   </g>
+  </g>
+  <g>
+   <polygon id="Port" onclick=" showquest('Port')" onmousemove=" showrobotip('Port','Port de la plante')" onmouseout=" hidetooltip('Port')" cursor="pointer"  fill="white" fill-opacity="0.149020" points="4418,9100 5419,9100 5419,10969 4418,10969 "/>
+   <polygon id="Port1" fill="none" stroke="black" stroke-width="7.62" points="4418,9100 5419,9100 5419,10969 4418,10969 "/>
+  </g>
+ </g>

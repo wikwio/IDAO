@@ -1,0 +1,16 @@
+ <g id="penta_cr_mon">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="A_Tige">
+   <polygon fill="#E5E5E5" points="10855,5998 11797,4816 10864,4263 "/>
+   <polygon fill="#E5E5E5" points="12627,4536 12218,4551 12626,4285 "/>
+   <path fill="none" stroke="#9D9E9E" stroke-width="7.62" d="M12626 4285c0,0 1,154 1,249"/>
+   <path fill="none" stroke="#9D9E9E" stroke-width="7.62" d="M11598 5108c-7,309 -53,891 -53,1286"/>
+   <path fill="none" stroke="#9D9E9E" stroke-width="7.62" d="M10864 4263c8,498 -2,1313 -9,1735"/>
+   <path fill="#E8B999" stroke="#7F7F7F" stroke-width="7.62" d="M11572 4925c407,-175 935,-405 1054,-640 -126,-155 -239,-296 -359,-443 -384,0 -732,0 -1098,0 -107,147 -204,281 -306,421 163,350 454,469 708,663z"/>
+   <path fill="#BA7648" stroke="#7F7F7F" stroke-width="7.62" d="M11602 4832c337,-145 775,-335 873,-531 -104,-129 -198,-245 -297,-367 -319,0 -606,0 -909,0 -89,122 -169,233 -254,349 135,290 376,388 587,549z"/>
+  </g>
+  <g>
+   <polygon id="Plc" onclick=" showquest('Plc')" onmousemove=" showrobotip('Plc','Tige creuse ou pleine')" onmouseout=" hidetooltip('Plc')" cursor="pointer" fill="white" fill-opacity="0.149020" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+   <polygon id="Plc1" fill="none" stroke="black" stroke-width="7.62" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+  </g>
+ </g>
