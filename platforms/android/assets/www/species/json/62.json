@@ -1,0 +1,3886 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 62,
+title: "<i>Chromolaena odorata (</i>L.<i>) </i>R.M.King<i> & </i>H.Rob. ",
+taxonConcept: {
+id: 148,
+name: "Chromolaena odorata (L.) R.M.King & H.Rob.",
+canonicalForm: "Chromolaena odorata",
+italicisedForm: "<i>Chromolaena odorata (</i>L.<i>) </i>R.M.King<i> & </i>H.Rob. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 24,
+name: "Asteraceae",
+canonicalForm: "Asteraceae",
+italicisedForm: "<i>Asteraceae</i>",
+rank: "Family"
+},
+{
+id: 147,
+name: "Chromolaena",
+canonicalForm: "Chromolaena",
+italicisedForm: "<i>Chromolaena</i>",
+rank: "Genus"
+},
+{
+id: 148,
+name: "Chromolaena odorata (L.) R.M.King & H.Rob.",
+canonicalForm: "Chromolaena odorata",
+italicisedForm: "<i>Chromolaena odorata (</i>L.<i>) </i>R.M.King<i> & </i>H.Rob. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 1584,
+name: "Chromolaena odorata f. odorata",
+canonicalForm: "Chromolaena odorata odorata",
+italicisedForm: "<i>Chromolaena odorata </i>f.<i> odorata</i>",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1585,
+name: "Chrysocoma maculata Vell.",
+canonicalForm: "Chrysocoma maculata",
+italicisedForm: "<i>Chrysocoma maculata </i>Vell. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1586,
+name: "Chrysocoma volubilis Vell. Conc.",
+canonicalForm: "Chrysocoma volubilis",
+italicisedForm: "<i>Chrysocoma volubilis </i>Vell. Conc. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1587,
+name: "Eupatorium affine Hook. & Arn. [Illegitimate]",
+canonicalForm: "Eupatorium affine",
+italicisedForm: "<i>Eupatorium affine </i>Hook.<i> & </i>Arn.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1588,
+name: "Eupatorium atriplicifolium Vahl [Illegitimate]",
+canonicalForm: "Eupatorium atriplicifolium",
+italicisedForm: "<i>Eupatorium atriplicifolium </i>Vahl<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1589,
+name: "Eupatorium brachiatum Sw. ex Wikstr.",
+canonicalForm: "Eupatorium brachiatum",
+italicisedForm: "<i>Eupatorium brachiatum </i>Sw.<i> ex </i>Wikstr. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1590,
+name: "Eupatorium clematitis DC.",
+canonicalForm: "Eupatorium clematitis",
+italicisedForm: "<i>Eupatorium clematitis </i>DC. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1591,
+name: "Eupatorium conyzoides Vahl [Illegitimate]",
+canonicalForm: "Eupatorium conyzoides",
+italicisedForm: "<i>Eupatorium conyzoides </i>Vahl<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1592,
+name: "Eupatorium dichotomum Sch.Bip.",
+canonicalForm: "Eupatorium dichotomum",
+italicisedForm: "<i>Eupatorium dichotomum </i>Sch.Bip. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1593,
+name: "Eupatorium divergens Less.",
+canonicalForm: "Eupatorium divergens",
+italicisedForm: "<i>Eupatorium divergens </i>Less. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1594,
+name: "Eupatorium floribundum Kunth",
+canonicalForm: "Eupatorium floribundum",
+italicisedForm: "<i>Eupatorium floribundum </i>Kunth ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1595,
+name: "Eupatorium graciliflorum DC.",
+canonicalForm: "Eupatorium graciliflorum",
+italicisedForm: "<i>Eupatorium graciliflorum </i>DC. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1596,
+name: "Eupatorium klattii Millsp.",
+canonicalForm: "Eupatorium klattii",
+italicisedForm: "<i>Eupatorium klattii </i>Millsp. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1597,
+name: "Eupatorium odoratum L.",
+canonicalForm: "Eupatorium odoratum",
+italicisedForm: "<i>Eupatorium odoratum </i>L. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1598,
+name: "Eupatorium sabeanum Buckley",
+canonicalForm: "Eupatorium sabeanum",
+italicisedForm: "<i>Eupatorium sabeanum </i>Buckley ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1599,
+name: "Eupatorium stigmatosum Meyen & Walp.",
+canonicalForm: "Eupatorium stigmatosum",
+italicisedForm: "<i>Eupatorium stigmatosum </i>Meyen<i> & </i>Walp. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1600,
+name: "Osmia atriplicifolia (Vahl) Sch.Bip.",
+canonicalForm: "Osmia atriplicifolia",
+italicisedForm: "<i>Osmia atriplicifolia (</i>Vahl<i>) </i>Sch.Bip. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1601,
+name: "Osmia clematitis (DC.) Sch.Bip.",
+canonicalForm: "Osmia clematitis",
+italicisedForm: "<i>Osmia clematitis (</i>DC.<i>) </i>Sch.Bip. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1602,
+name: "Osmia conyzoides (Vahl) Small [Illegitimate]",
+canonicalForm: "Osmia conyzoides",
+italicisedForm: "<i>Osmia conyzoides (</i>Vahl<i>) </i>Small<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1603,
+name: "Osmia divergens (Less.) Sch.Bip.",
+canonicalForm: "Osmia divergens",
+italicisedForm: "<i>Osmia divergens (</i>Less.<i>) </i>Sch.Bip. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1604,
+name: "Osmia floribunda (Kunth) Sch.Bip.",
+canonicalForm: "Osmia floribunda",
+italicisedForm: "<i>Osmia floribunda (</i>Kunth<i>) </i>Sch.Bip. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1605,
+name: "Osmia graciliflora (DC.) Sch.Bip.",
+canonicalForm: "Osmia graciliflora",
+italicisedForm: "<i>Osmia graciliflora (</i>DC.<i>) </i>Sch.Bip. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1606,
+name: "Osmia graciliflorum (DC.) Sch.Bip.",
+canonicalForm: "Osmia graciliflorum",
+italicisedForm: "<i>Osmia graciliflorum (</i>DC.<i>) </i>Sch.Bip. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1607,
+name: "Osmia odorata (L.) Sch.Bip.",
+canonicalForm: "Osmia odorata",
+italicisedForm: "<i>Osmia odorata (</i>L.<i>) </i>Sch.Bip. ",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 372,
+name: "Siam weed",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 373,
+name: "Herbe du Laos",
+taxonConcept: {
+id: 148
+},
+isContributor: false,
+language: {
+id: 493,
+name: "Français / French"
+}
+},
+{
+id: 1613,
+name: "Eng: Siam weed",
+taxonConcept: {
+id: 148
+},
+isContributor: false
+},
+{
+id: 1614,
+name: "Fre: Herbe du Laos",
+taxonConcept: {
+id: 148
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:06:56Z",
+lastRevised: "2015-03-25T14:14:24Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20070720_112345_th1.jpg",
+notes: "<h6>Biological Type</h6><p>shrub</p><h6>Code</h6><p>EUPOD</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>shrub</p><h6>Code</h6><p>EUPOD</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 520,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>shrub</p><h6>Code</h6><p>EUPOD</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541169,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 527,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Leaves are opposite, ovate to triangular-ovate. Immature leaves are often purplish but mature leaf blades are greenish, up to 12 cm long and 5 cm across with and acute apex. The blade may be hairless or sparingly hairy. However, they generally have glandular dots that emit a strong smell.</p><h6>General Habit</h6><p>Herbaceous perennial that forms dense tangled bushes, 1.5-2.0m in height. It occasionally reaches its maximum height of 6m (as a climber on other plants).</p><h6>Underground System</h6><p>The root system is fibrous and does not penetrate beyond 20-30cm in most soils.</p><h6>Flower</h6><p>Terminal flat-topped clusters of white to pale lilac heads of flowers. The flower heads are borne in terminal corymbs of 20 to 60 heads on all stems and branches. The flowers are white or pale bluish-lilac, and form masses covering the whole surface of the bush (Cruttwell and Mc Fadyen, 1989). Flowers winter.</p><h6>Stem</h6><p>Its stems branch freely, with lateral branches developing in pairs from the axillary buds. The older stems are brown and woody near the base; tips and young shoots are green and succulent.</p>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541196,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 521,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Chromolaena odorata (L.) R.M.King & H.Rob.",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541181,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 535,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Reproduces from seeds and vegetatively from cut basal shoots.<br>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541211,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 534,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "It occurs in agricultural areas, natural forests, planted forests, range/grasslands, riparian zones, disturbed, scrub/shrub lands.<br>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541209,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 518,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>It is widespread in West Africa from the coastal fringes of the rainforest to the southern edge of the Guinea Savanna.</p><h6>Origin</h6><p>Native to tropical South America north to Mexico and to the Caribbean Islands.</p>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541165,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 531,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>It is a common and dominant species in the upland fields and fallow vegetation of the forest zone and reported by many as a troublesome weed (Johnson, 1997; Becker and Johnson, 2001; Kent et al., 2001; Anthofer and Kroschel, 2007). C. odorata gradually replaces indigenous species in fallow vegetation (Weise, 1995) and this in turn has consequences for the weed community in subsequent crops as it causes a predominance of broad-leaved species such as Ageratum conyzoides, Tridax procumbens and Phyllanthus amarus (Ikuenobe and Anoliefo, 2003).</p><h6>Local Weediness</h6><p>South Africa: Distributed from Eastern Cape to Northern province. It is category 1 weed, vigourous invader weed.</p>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541204,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 532,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Chromolaena odorata is an ornamental plant that is sometimes encouraged for use in shifting slash-and-burn agriculture to compete with Imperata cylindrica (alang alang or cogon grass), which is harder to control. Biological control: Introduced to Ivory Coast in 1952 to control Imperata spp. following a recommendation by a famous botanist, Auguste Chevalier.<br>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541207,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 529,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Preventative measures: A Risk assessment of Chromolaena odorata for the Pacific region was prepared by Pacific Island Ecosystems at Risk (PIER) using the Australian risk assessment system (Pheloung, 1995). The result is a score of 34 and a recommendation of: reject the plant for import (Australia) or species likely to be of high risk (Pacific). Using a revised climate model (Kriticos et al. 2005) of the estimated potential distribution of C. odorata it was predicted that Mediterranean, semi-arid and temperate climates are unsuitable for its establishment. Much of tropical Africa, the north-eastern coast of Australia and most Pacific islands are at risk of invasion. The distribution of C. odorata in South Africa extends further south than predicted by the model based on Asian and American distribution records, supporting the claim that the South African variety of C. odorata has different climatic requirements to the varieties elsewhere (EPPO 2005). Physical: Manual slashing and use of bush-cutter or tractor-drawn implements are commonly used methods of control. Slashing causes regeneration unless followed by other control methods. Manual weeding is labour intensive. The use of tractor drawn equipment is limited to areas that are accessible (Ecoport). Chemical: Chemical control using herbicides applied at the seedling stage or on regrowth has given encouraging results. Triclopyr has proven to be the most effective. However, problems in herbicide use include the high cost of the chemicals and their application, ecological concerns and, non-compatibility in many cropping and other environmental situations (Ecoport). Removing seed and flower heads and spraying with 2,4-D Amine plus Picloram (Tordon in Australia) kills top growth and (picloram kills the root system is recommended (Rod Randall, pers. comm. 2000). Biological: The biological control agent Pareuchaetes pseudoinsulata has been introduced into Guam, where it effectively defoliates pure stands. It is less successful in scattered plants and patches. It has also been introduced into Palau, Kosrae, Pohnpei, Yap and Saipan Island (Mariner Islands) where it has been effective in reducing C. odorata. It has also been released on Sumatra, Indonesia, where it is effective in reducing densities of the weed. Releases into other parts of Indonesia appear to have failed. Another species, the stem gall fly Cecidochares connexa (originally collected from C. odorata in Mexico, Brazil and Bolivia Cruttwell 1974) is a suitable biological control agent for C. odorata (Cruttwell McFadyen Chenon and Sipayung 2003). Most gall-forming species of the tephritid generaCecidochares Bezzi are highly host specific, sometimes attacking only a single plant species (Foote et al. 1993, in Cruttwell McFadyen Chenon and Sipayung 2003). Based on the results of host testing of C. connexa was granted Indonesian Government allowance for field release in 1995 and is now established on most of the larger Indonesian islands (Tijitrosemito 2002, Wilson and Widayanto 2002, in Cruttwell McFadyen Chenon and Sipayung 2003). Since then it has been released in Palau, Papau New Guinea and the Philippines (Esguerra 2002, Orapa et al. 2002, in Cruttwell McFadyen Chenon and Sipayung 2003; Dr. Muniappan, pers. comm.). Die-back and death of plants have been recorded at many sites within 3 to 5 years of release, especially in low altitude sites (less than 300m) with a short dry season (Cruttwell McFadyen Chenon and Sipayung 2003). At higher altitude sites (over 600m) or where cloudy conditions, cold temperatures or long dry seasons limit the number and activity of flies control is slower and less adequate (Cruttwell McFadyen Chenon and Sipayung 2003). Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2014-09-24T17:09:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541200,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 523,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-03-04T20:43:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "TT Struhsaker, PJ Struhsaker, KS Siex (May 2005). Conserving Africa's rain forests: problems in protected areas and possible solutions. Biological Conservation 123 (1): 45-54."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W (1998): a Handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria. 170p."
+},
+{
+title: "Kent, R.J., Johnson, D.E., Becker, M., 2001. The influences of cropping system on weed communities of rice in Côte d'Ivoire, West Africa. Agriculture, Ecosystems and Environment 87, 299-307."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Anthofer, J., Kroschel, J., 2007. Effect of Mucuna fallow on weed dry matter and composition in succeeding maize. Biological Agriculture and Horticulture 24, 397-414."
+},
+{
+title: "Ikuenobe, C.E., Anoliefo, G.O., 2003. Influence of Chromolaena odorata and Mucuna pruriens fallow duration on weed infestation. Weed Res. 43, 199-207."
+},
+{
+title: "Becker, M., Johnson, D.E., 2001. Cropping intensity effects on upland rice yield and sustainability in West Africa. Nutrient Cycling in Agroecosystems 59, 107-117."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541184,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 536,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-04-09T22:15:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Anthofer, J., Kroschel, J., 2007. Effect of Mucuna fallow on weed dry matter and composition in succeeding maize. Biological Agriculture and Horticulture 24, 397-414."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "TT Struhsaker, PJ Struhsaker, KS Siex (May 2005). Conserving Africa's rain forests: problems in protected areas and possible solutions. Biological Conservation 123 (1): 45-54."
+},
+{
+title: "Ikuenobe, C.E., Anoliefo, G.O., 2003. Influence of Chromolaena odorata and Mucuna pruriens fallow duration on weed infestation. Weed Res. 43, 199-207."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W (1998): a Handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria. 170p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Becker, M., Johnson, D.E., 2001. Cropping intensity effects on upland rice yield and sustainability in West Africa. Nutrient Cycling in Agroecosystems 59, 107-117."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké."
+},
+{
+title: "Kent, R.J., Johnson, D.E., Becker, M., 2001. The influences of cropping system on weed communities of rice in Côte d'Ivoire, West Africa. Agriculture, Ecosystems and Environment 87, 299-307."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541211,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 522,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-04-09T22:15:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Kent, R.J., Johnson, D.E., Becker, M., 2001. The influences of cropping system on weed communities of rice in Côte d'Ivoire, West Africa. Agriculture, Ecosystems and Environment 87, 299-307."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W (1998): a Handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria. 170p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "TT Struhsaker, PJ Struhsaker, KS Siex (May 2005). Conserving Africa's rain forests: problems in protected areas and possible solutions. Biological Conservation 123 (1): 45-54."
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Ikuenobe, C.E., Anoliefo, G.O., 2003. Influence of Chromolaena odorata and Mucuna pruriens fallow duration on weed infestation. Weed Res. 43, 199-207."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Anthofer, J., Kroschel, J., 2007. Effect of Mucuna fallow on weed dry matter and composition in succeeding maize. Biological Agriculture and Horticulture 24, 397-414."
+},
+{
+title: "Becker, M., Johnson, D.E., 2001. Cropping intensity effects on upland rice yield and sustainability in West Africa. Nutrient Cycling in Agroecosystems 59, 107-117."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541182,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 533,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-03-11T07:44:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Becker, M., Johnson, D.E., 2001. Cropping intensity effects on upland rice yield and sustainability in West Africa. Nutrient Cycling in Agroecosystems 59, 107-117."
+},
+{
+title: "TT Struhsaker, PJ Struhsaker, KS Siex (May 2005). Conserving Africa's rain forests: problems in protected areas and possible solutions. Biological Conservation 123 (1): 45-54."
+},
+{
+title: "Kent, R.J., Johnson, D.E., Becker, M., 2001. The influences of cropping system on weed communities of rice in Côte d'Ivoire, West Africa. Agriculture, Ecosystems and Environment 87, 299-307."
+},
+{
+title: "Ikuenobe, C.E., Anoliefo, G.O., 2003. Influence of Chromolaena odorata and Mucuna pruriens fallow duration on weed infestation. Weed Res. 43, 199-207."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W (1998): a Handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria. 170p."
+},
+{
+title: "Anthofer, J., Kroschel, J., 2007. Effect of Mucuna fallow on weed dry matter and composition in succeeding maize. Biological Agriculture and Horticulture 24, 397-414."
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541207,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 519,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-04-09T22:15:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I.O. and Agyakwa C.W (1998): a Handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria. 170p."
+},
+{
+title: "Anthofer, J., Kroschel, J., 2007. Effect of Mucuna fallow on weed dry matter and composition in succeeding maize. Biological Agriculture and Horticulture 24, 397-414."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "TT Struhsaker, PJ Struhsaker, KS Siex (May 2005). Conserving Africa's rain forests: problems in protected areas and possible solutions. Biological Conservation 123 (1): 45-54."
+},
+{
+title: "Becker, M., Johnson, D.E., 2001. Cropping intensity effects on upland rice yield and sustainability in West Africa. Nutrient Cycling in Agroecosystems 59, 107-117."
+},
+{
+title: "Ikuenobe, C.E., Anoliefo, G.O., 2003. Influence of Chromolaena odorata and Mucuna pruriens fallow duration on weed infestation. Weed Res. 43, 199-207."
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké."
+},
+{
+title: "Kent, R.J., Johnson, D.E., Becker, M., 2001. The influences of cropping system on weed communities of rice in Côte d'Ivoire, West Africa. Agriculture, Ecosystems and Environment 87, 299-307."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541167,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 524,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-04-09T22:15:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I.O. and Agyakwa C.W (1998): a Handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria. 170p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Becker, M., Johnson, D.E., 2001. Cropping intensity effects on upland rice yield and sustainability in West Africa. Nutrient Cycling in Agroecosystems 59, 107-117."
+},
+{
+title: "Kent, R.J., Johnson, D.E., Becker, M., 2001. The influences of cropping system on weed communities of rice in Côte d'Ivoire, West Africa. Agriculture, Ecosystems and Environment 87, 299-307."
+},
+{
+title: "Anthofer, J., Kroschel, J., 2007. Effect of Mucuna fallow on weed dry matter and composition in succeeding maize. Biological Agriculture and Horticulture 24, 397-414."
+},
+{
+title: "TT Struhsaker, PJ Struhsaker, KS Siex (May 2005). Conserving Africa's rain forests: problems in protected areas and possible solutions. Biological Conservation 123 (1): 45-54."
+},
+{
+title: "Ikuenobe, C.E., Anoliefo, G.O., 2003. Influence of Chromolaena odorata and Mucuna pruriens fallow duration on weed infestation. Weed Res. 43, 199-207."
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541187,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 525,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-04-09T22:15:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "TT Struhsaker, PJ Struhsaker, KS Siex (May 2005). Conserving Africa's rain forests: problems in protected areas and possible solutions. Biological Conservation 123 (1): 45-54."
+},
+{
+title: "Anthofer, J., Kroschel, J., 2007. Effect of Mucuna fallow on weed dry matter and composition in succeeding maize. Biological Agriculture and Horticulture 24, 397-414."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W (1998): a Handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria. 170p."
+},
+{
+title: "Ikuenobe, C.E., Anoliefo, G.O., 2003. Influence of Chromolaena odorata and Mucuna pruriens fallow duration on weed infestation. Weed Res. 43, 199-207."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Becker, M., Johnson, D.E., 2001. Cropping intensity effects on upland rice yield and sustainability in West Africa. Nutrient Cycling in Agroecosystems 59, 107-117."
+},
+{
+title: "Kent, R.J., Johnson, D.E., Becker, M., 2001. The influences of cropping system on weed communities of rice in Côte d'Ivoire, West Africa. Agriculture, Ecosystems and Environment 87, 299-307."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541190,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 526,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-04-09T22:15:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Becker, M., Johnson, D.E., 2001. Cropping intensity effects on upland rice yield and sustainability in West Africa. Nutrient Cycling in Agroecosystems 59, 107-117."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W (1998): a Handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria. 170p."
+},
+{
+title: "Anthofer, J., Kroschel, J., 2007. Effect of Mucuna fallow on weed dry matter and composition in succeeding maize. Biological Agriculture and Horticulture 24, 397-414."
+},
+{
+title: "TT Struhsaker, PJ Struhsaker, KS Siex (May 2005). Conserving Africa's rain forests: problems in protected areas and possible solutions. Biological Conservation 123 (1): 45-54."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Ikuenobe, C.E., Anoliefo, G.O., 2003. Influence of Chromolaena odorata and Mucuna pruriens fallow duration on weed infestation. Weed Res. 43, 199-207."
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Kent, R.J., Johnson, D.E., Becker, M., 2001. The influences of cropping system on weed communities of rice in Côte d'Ivoire, West Africa. Agriculture, Ecosystems and Environment 87, 299-307."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541193,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 528,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-04-09T22:15:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Becker, M., Johnson, D.E., 2001. Cropping intensity effects on upland rice yield and sustainability in West Africa. Nutrient Cycling in Agroecosystems 59, 107-117."
+},
+{
+title: "Kent, R.J., Johnson, D.E., Becker, M., 2001. The influences of cropping system on weed communities of rice in Côte d'Ivoire, West Africa. Agriculture, Ecosystems and Environment 87, 299-307."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W (1998): a Handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria. 170p."
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké."
+},
+{
+title: "TT Struhsaker, PJ Struhsaker, KS Siex (May 2005). Conserving Africa's rain forests: problems in protected areas and possible solutions. Biological Conservation 123 (1): 45-54."
+},
+{
+title: "Anthofer, J., Kroschel, J., 2007. Effect of Mucuna fallow on weed dry matter and composition in succeeding maize. Biological Agriculture and Horticulture 24, 397-414."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Ikuenobe, C.E., Anoliefo, G.O., 2003. Influence of Chromolaena odorata and Mucuna pruriens fallow duration on weed infestation. Weed Res. 43, 199-207."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541198,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 530,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:09:01Z",
+lastUpdated: "2015-04-09T22:15:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ikuenobe, C.E., Anoliefo, G.O., 2003. Influence of Chromolaena odorata and Mucuna pruriens fallow duration on weed infestation. Weed Res. 43, 199-207."
+},
+{
+title: "Becker, M., Johnson, D.E., 2001. Cropping intensity effects on upland rice yield and sustainability in West Africa. Nutrient Cycling in Agroecosystems 59, 107-117."
+},
+{
+title: "Johnson, D.E., 1997. Weeds of rice in West Africa. WARDA, Bouaké."
+},
+{
+title: "Kent, R.J., Johnson, D.E., Becker, M., 2001. The influences of cropping system on weed communities of rice in Côte d'Ivoire, West Africa. Agriculture, Ecosystems and Environment 87, 299-307."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Akobundu I.O. and Agyakwa C.W (1998): a Handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria. 170p."
+},
+{
+title: "Anthofer, J., Kroschel, J., 2007. Effect of Mucuna fallow on weed dry matter and composition in succeeding maize. Biological Agriculture and Horticulture 24, 397-414."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "TT Struhsaker, PJ Struhsaker, KS Siex (May 2005). Conserving Africa's rain forests: problems in protected areas and possible solutions. Biological Conservation 123 (1): 45-54."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578541201,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3293,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Chromolaena odorata est une plante buissonnante à tige lignifiée, étalée et très ramifiée, qui constitue des massifs denses. Elle peut atteindre jusqu'à 7 m de hauteur. Elle est entièrement couverte d'une pubescence rase. Les feuilles simples et opposées sont caractéristiques par leur forme sub-losangique et leur nervation, 3 nervures partant de la base ou presque. Comme l'indique, le nom de cette espèce, ses feuilles dégagent une forte odeur lorsqu'on les froisse. L'inflorescence terminale et diffuse est composée de petits capitules cylindriques et étroits à fleurons blancs à bleu-pâle. C'set une plante pérenne qui se reproduit par graines. Dans les cultures, elle se comporte comme une annuelle.</p>",
+dateCreated: "2015-03-19T11:12:24Z",
+lastUpdated: "2015-03-19T11:12:24Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763544217,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3275,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>EUPOD</p><h6>Type Biologique</h6><p>shrub</p><h6>Forme De Vie</h6><p>pérenne</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:12:14Z",
+lastUpdated: "2015-03-19T11:12:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763534538,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3287,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Chromolaena odorata est une plante buissonnante à tige lignifiée, étalée et très ramifiée, qui constitue des massifs denses. Elle peut atteindre jusqu'à 7 m de hauteur. Elle est entièrement couverte d'une pubescence rase. Les feuilles simples et opposées sont caractéristiques par leur forme sub-losangique et leur nervation, 3 nervures partant de la base ou presque. Comme l'indique, le nom de cette espèce, ses feuilles dégagent une forte odeur lorsqu'on les froisse. L'inflorescence terminale et diffuse est composée de petits capitules cylindriques et étroits à fleurons blancs à bleu-pâle. C'set une plante pérenne qui se reproduit par graines. Dans les cultures, elle se comporte comme une annuelle.</p><h6>Port</h6><p>Plante herbacée ou buissonnante, à port dressé, qui peut être grimpante, de 2 à 7 m de haut formant des massifs denses. De 0,30 à 1,50 m quand elle se comporte en annuelle dans les cultures.</p><h6>Système Souterrain</h6><p>La racine est un pivot profond et massif, abondamment ramifié.</p><h6>Tige</h6><p>La tige est cylindrique, de couleur jaunâtre ; elle est finement striée et couverte d'une pubescence rase, surtout les parties jeunes. Elle est ramifiée de branches horizontales opposées décussées qui s'étalent dans tous les sens. De type herbacé quand elle est jeune, elle devient sub-ligneuse quand elle est âgée.</p><h6>Feuille</h6><p>Les feuilles sont simples, opposées, décussées, portée par un pétiole de 1 à 3 cm. Elles dégagent une forte odeur lorsqu'on les froisse. Limbe ovale-triangulaire à losangique, plus large près de la base, de 3 à 12 cm de long, de 2 à 7 cm de large. Base brusquement rétrécie, sommet acuminé, marge dentée, quelquefois entière. La nervation trinervée à la base proéminente, à nervures latérales partant au dessus de la base, est caractéristique. Les feuilles présentent sur les 2 faces une pubescence courte et hispide, plus fournie sur la face inférieure. Points glanduleux jaunes à la face inférieure.</p><h6>Inflorescence</h6><p>L'inflorescence est formée de capitules groupés par 20 à 35 en corymbes pédonculées axillaires et terminaux dont l'ensemble forme une inflorescence étalée horizontalement. Les capitules sont étroitement cylindriques, de 1 cm de long sur 3 mm de diamètre. L'involucre se compose de bractées oblancéolées, obtuses, pubescentes à l'apex, jaune-verdâtres, disposées sur 5 à 6 rangs.</p><h6>Fleur</h6><p>Les fleurons, tous tubulés et hermaphrodites, sont mauve-pâle, bleu-pâle ou blanchâtres. Ils dépassent l'involucre. La corolle est un tube de 10 mm de long qui se termine par 5 lobes. De ce tube dépassent 2 stigmates divergents. Les 5 étamines à anthères soudées entre elles sont incluses dans le tube.</p><h6>Fruit</h6><p>Le fruit est un akène étroit et allongé, de 5 mm de long, à 4-5 angles longitudinaux portant une ligne de poils blancs, courts et rigides. Il est brun ou noir. Il est surmonté d'un pappus constitué d'une rangée unique de soies blanchâtres libres, faiblement barbelées, longues de 5 mm.</p>",
+dateCreated: "2015-03-19T11:12:17Z",
+lastUpdated: "2015-03-19T11:12:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763537078,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3288,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Chromolaena odorata (L.) R.M.King & H.Rob.",
+dateCreated: "2015-03-19T11:12:17Z",
+lastUpdated: "2015-03-19T11:12:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763537475,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3290,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. odorata est une plante pérenne. Dans les cultures au sol travaillé, elle se comporte en annuelle. Reproduction par graines.<br>",
+dateCreated: "2015-03-19T11:12:18Z",
+lastUpdated: "2015-03-19T11:12:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763538806,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3289,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. odorata se rencontre sur les bords des routes, les champs abandonn&eacute;s et les jach&egrave;res, dans les plantations et les cultures p&eacute;rennes.<br /> <strong>Madagascar :</strong> C. odorata est un bon indicateur de sol relativement riche.<br /> <strong>Maurice :</strong> L&#39;esp&egrave;ce est abondante au bord des routes, envahissant les terrains vagues et les clairi&egrave;res foresti&egrave;res dans les zone les plus s&egrave;ches de Maurice.<br /> <strong>La R&eacute;union :</strong> Absente.",
+dateCreated: "2015-03-19T11:12:18Z",
+lastUpdated: "2015-03-25T14:13:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763538499,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6558,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Origine</strong><br /> Elle est originaire des r&eacute;gions tropicales sud-am&eacute;ricaines.<br /> <br /> <strong>R&eacute;partition mondiale</strong><br /> Elle est maintenant largement naturalis&eacute;e en Afrique et en Asie devenant une mauvaise herbe pantropicale.",
+dateCreated: "2015-03-25T14:14:24Z",
+lastUpdated: "2015-03-25T14:14:24Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427292864382,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3291,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>B&eacute;nin :</strong> C. odorata est rare et peu abondante.<br /> <strong>Ghana :</strong> Rare et peu abondante.<br /> <strong>Mali : </strong>Rare et peu abondante.<br /> <strong>Nigeria :</strong> Rare et peu abondante.<br /> <strong>Madagascar : </strong>Rare &agrave; Madagascar, C. odorata recolonise les jach&egrave;res et est souvent consid&eacute;r&eacute;e comme une plante invasive.<br /> <strong>Maurice :</strong> En raison de sa fr&eacute;quence-abondance tr&egrave;s faible dans les cultures, cette plante n&#39;est pas consid&eacute;r&eacute;e comme nuisible. Toutefois elle d&eacute;montre des capacit&eacute;s envahissante tr&egrave;s forte &agrave; cause de sa grande production de graines qui sont facilement diss&eacute;min&eacute;es par le vent.<br /> <strong>La R&eacute;union : </strong>Absente.</p> ",
+dateCreated: "2015-03-19T11:12:19Z",
+lastUpdated: "2015-03-25T14:15:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763539089,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3294,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Usages</h6> <p> <strong>Madagascar :</strong> Les jach&egrave;res &agrave; Chromolaena sont de bons pr&eacute;c&eacute;dents, facilement utilisables comme couvertures en SCV. Pour remettre en culture des jach&egrave;res &agrave; Chromolaena, le plus efficace est de le faucher puis d&rsquo;appliquer du 2,4-D apr&egrave;s repousse (environ trois semaines). On dispose ainsi directement d&rsquo;une couverture permettant un semis direct dans de bonnes conditions.</p> ",
+dateCreated: "2015-03-19T11:12:24Z",
+lastUpdated: "2015-03-25T14:16:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763544450,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3292,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Conseils de gestion des adventices vivaces &agrave; feuilles larges en riz irrigu&eacute; : http://portal.wikwio.org/document/show/25</p> <h6> Lutte Locale</h6> <p> <strong>Madagascar :</strong> Le contr&ocirc;le manuel de C. odorata est p&eacute;nible. Chimiquement, il est contr&ocirc;l&eacute; en pr&eacute;-lev&eacute;e par le diuron, et en post-lev&eacute;e par le 2,4-D ou le glyphosate.<br /> <strong>Maurice :</strong> Cette plante peut &ecirc;tre enlev&eacute;e manuellement ou trait&eacute;e avec du fluroxypyr.<br /> <strong>La R&eacute;union :</strong> Absente.</p> ",
+dateCreated: "2015-03-19T11:12:19Z",
+lastUpdated: "2015-03-25T14:17:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763539458,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3276,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:16Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Fournet, J. 2002. Flore illustrée des phanérogames de Guadeloupe et de Martinique. Cirad, Gondwana éditions, Montpellier, France."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763536538,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3277,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:16Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763536538,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3279,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:16Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Holm, L.G., Plucknett, D., L., Pancho, J.V., Herberger, J.P. 1977. The World's Worst Weeds. University Press of Hawaii, Honolulu, Hawaii."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763536539,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3280,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:16Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hutchinson, J., Dalziel, J.M., Keay, R.W.J., Hepper, F.N. 1963. Flora of west tropical africa. The Whitefriars Press, London & Tonbridge, Great Britain."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763536539,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3281,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:16Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E. 1997. Les adventices en riziculture en Afrique de l'Ouest. ADRAO/WARDA, Bouaké, Côte-d'Ivoire."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763536539,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3282,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:16Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Pancho, J.V., Obien, S.R. 1995. Manual of Ricefield Weeds in the Philippines. Philippine Rice Research Institute, Munoz, Nueva Ecija, Philippines."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763536539,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3283,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:16Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Radanachaless, T., Maxwell, J.F. 1994. Weeds of soybean fields in Thailand. Multiple Cropping Center ed., Chiang Mai Univ., Chiang Mai, Thailand."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763536540,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3284,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:16Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Soerjani, M., Kostermans, A.J.G.H., Tjitrosemito, G. 1987. Weeds of rice in Indonesia. Balai Puskata, Jakarta, Indonesia."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763536540,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3285,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:16Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763536540,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3286,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:16Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763536540,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3278,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:12:16Z",
+lastUpdated: "2015-03-31T06:52:54Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hind, D. J. N., Jeffrey, C. & Scott, A. J., 1993. Flore des Mascareignes, Vol. 109 Composées. in Antoine, R., Bosser J., Fergusson, I.K. Soopramanien C. ed. Flore des Mascareignes, La Réunion, Maurice, Rodrigues. MSIRI, Maurice, IRD, France, RBG, UK."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763536539,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 1066,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20070720_112345.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20070720_112345_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1067,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20070720_112634.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20070720_112634_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1068,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041126_191120.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041126_191120_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1069,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_115058.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_115058_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1070,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_120252.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_120252_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1071,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20110611_130042.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20110611_130042_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1072,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000000.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000000_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1073,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000000_04.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000000_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1074,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20120504_100627.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20120504_100627_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1075,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000002.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000002_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1076,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000000_05.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000000_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1077,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000000_03.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000000_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1078,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000002_02.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000002_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1079,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000000_02.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000000_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1080,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000004.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20020101_000004_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:27Z",
+rating: 0
+},
+{
+id: 1081,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_165905.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_165905_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1082,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_121125.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_121125_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1083,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_115040.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_115040_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1084,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_113601.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_113601_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1085,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_113529.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_113529_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1086,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_113509.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_113509_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1087,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170722.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170722_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1088,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170640.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170640_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1089,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130619_091138.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130619_091138_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1090,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130619_094958.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130619_094958_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1091,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130619_091524.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130619_091524_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1092,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20101208_161246.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20101208_161246_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1093,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_115922.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_115922_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1094,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_120727.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_120727_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1095,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041125_171120.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041125_171120_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1096,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170049.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170049_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1097,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_172020.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_172020_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1098,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170305.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170305_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1099,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20101208_161213.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20101208_161213_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1100,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041121_161106.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041121_161106_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:28Z",
+rating: 0
+},
+{
+id: 1101,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130613_153113.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130613_153113_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1102,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041125_171138.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041125_171138_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1103,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_171807.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_171807_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1104,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041125_171156.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041125_171156_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1105,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041125_171138_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041125_171138_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1106,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130613_153054.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130613_153054_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1107,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_121044.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_121044_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1108,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_165831.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_165831_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1109,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041121_161114.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041121_161114_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1110,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_171331.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_171331_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1111,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130613_125514.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130613_125514_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1112,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041121_161154.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041121_161154_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1113,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_171933.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_171933_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1114,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170014.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170014_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1115,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130619_044330.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130619_044330_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1116,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130619_044314.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130619_044314_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1117,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_113624.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_113624_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1118,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170616.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170616_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1119,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_115740.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_115740_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1120,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20110521_094734.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20110521_094734_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1121,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20110521_094801.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20110521_094801_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:29Z",
+rating: 0
+},
+{
+id: 1122,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20110515_074220.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20110515_074220_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1123,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20110521_094825.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20110521_094825_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1124,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_121343.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_121343_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1125,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_113451.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_113451_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1126,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_115023.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_115023_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1127,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_115009.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_115009_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1128,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_114937.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20130620_114937_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1129,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_120352.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_120352_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1130,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20101208_161251.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20101208_161251_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1131,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_165937.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_165937_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1132,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170200.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170200_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1133,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_120948.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_120948_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1134,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170558.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20090217_170558_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1135,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041125_171134.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041125_171134_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1136,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041120_181144.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20041120_181144_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1137,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20070720_112508.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20070720_112508_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1138,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20070720_112800.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20070720_112800_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+},
+{
+id: 1139,
+url: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20070720_112228.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Chromolaena odorata/eupod_20070720_112228_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:07:30Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

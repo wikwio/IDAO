@@ -1,0 +1,512 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 189,
+title: "<i>Leonotis nepetifolia (</i>L.<i>) </i>W.T.Aiton ",
+taxonConcept: {
+id: 366,
+name: "Leonotis nepetifolia (L.) W.T.Aiton",
+canonicalForm: "Leonotis nepetifolia",
+italicisedForm: "<i>Leonotis nepetifolia (</i>L.<i>) </i>W.T.Aiton ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 322,
+name: "Lamiaceae",
+canonicalForm: "Lamiaceae",
+italicisedForm: "<i>Lamiaceae</i>",
+rank: "Family"
+},
+{
+id: 365,
+name: "Leonotis",
+canonicalForm: "Leonotis",
+italicisedForm: "<i>Leonotis</i>",
+rank: "Genus"
+},
+{
+id: 366,
+name: "Leonotis nepetifolia (L.) W.T.Aiton",
+canonicalForm: "Leonotis nepetifolia",
+italicisedForm: "<i>Leonotis nepetifolia (</i>L.<i>) </i>W.T.Aiton ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 4261,
+name: "Leonotis kwebensis N.E.Br.",
+canonicalForm: "Leonotis kwebensis",
+italicisedForm: "<i>Leonotis kwebensis </i>N.E.Br. ",
+taxonConcept: {
+id: 366
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4262,
+name: "Leonotis nepetifolia var. nepetifolia",
+canonicalForm: "Leonotis nepetifolia nepetifolia",
+italicisedForm: "<i>Leonotis nepetifolia </i>var.<i> nepetifolia</i>",
+taxonConcept: {
+id: 366
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4263,
+name: "Leonotis ovata Bojer",
+canonicalForm: "Leonotis ovata",
+italicisedForm: "<i>Leonotis ovata </i>Bojer ",
+taxonConcept: {
+id: 366
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4264,
+name: "Leonurus globosus Moench [Illegitimate]",
+canonicalForm: "Leonurus globosus",
+italicisedForm: "<i>Leonurus globosus </i>Moench<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 366
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4265,
+name: "Leonurus marrubiastrum Lour.",
+canonicalForm: "Leonurus marrubiastrum",
+italicisedForm: "<i>Leonurus marrubiastrum </i>Lour. ",
+taxonConcept: {
+id: 366
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4266,
+name: "Leonurus nepetifolius (L.) Mill.",
+canonicalForm: "Leonurus nepetifolius",
+italicisedForm: "<i>Leonurus nepetifolius (</i>L.<i>) </i>Mill. ",
+taxonConcept: {
+id: 366
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4267,
+name: "Phlomis nepetifolia L.",
+canonicalForm: "Phlomis nepetifolia",
+italicisedForm: "<i>Phlomis nepetifolia </i>L. ",
+taxonConcept: {
+id: 366
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4268,
+name: "Stachys mediterranea Vell.",
+canonicalForm: "Stachys mediterranea",
+italicisedForm: "<i>Stachys mediterranea </i>Vell. ",
+taxonConcept: {
+id: 366
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:50:22Z",
+lastRevised: "2015-03-19T11:43:29Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20051114_183417_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>LEONE</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>LEONE</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1456,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>LEONE</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2014-09-24T17:50:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047569,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1455,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Leonotis nepetifolia (L.) W.T.Aiton",
+dateCreated: "2014-09-24T17:50:47Z",
+lastUpdated: "2014-09-24T17:50:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581047568,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4738,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>LEONE</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:43:28Z",
+lastUpdated: "2015-03-19T11:43:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765408656,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4739,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Leonotis nepetifolia (L.) W.T.Aiton",
+dateCreated: "2015-03-19T11:43:29Z",
+lastUpdated: "2015-03-19T11:43:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765409446,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 4056,
+url: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20051114_183417.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20051114_183417_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:27Z",
+rating: 0
+},
+{
+id: 4057,
+url: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20051114_183325.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20051114_183325_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:27Z",
+rating: 0
+},
+{
+id: 4058,
+url: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20051114_183425.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20051114_183425_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:27Z",
+rating: 0
+},
+{
+id: 4059,
+url: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20050319_174212.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20050319_174212_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:27Z",
+rating: 0
+},
+{
+id: 4060,
+url: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20051114_183318.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20051114_183318_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:27Z",
+rating: 0
+},
+{
+id: 4061,
+url: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20050319_174152.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20050319_174152_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:27Z",
+rating: 0
+},
+{
+id: 4062,
+url: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20051114_183335.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20051114_183335_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:27Z",
+rating: 0
+},
+{
+id: 4063,
+url: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20050319_174230.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Leonotis nepetifolia/leone_20050319_174230_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:50:28Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

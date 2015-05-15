@@ -1,0 +1,1619 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 136,
+title: "<i>Euphorbia cyathophora </i>Murrill ",
+taxonConcept: {
+id: 275,
+name: "Euphorbia cyathophora Murrill",
+canonicalForm: "Euphorbia cyathophora",
+italicisedForm: "<i>Euphorbia cyathophora </i>Murrill ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 20,
+name: "Euphorbiaceae",
+canonicalForm: "Euphorbiaceae",
+italicisedForm: "<i>Euphorbiaceae</i>",
+rank: "Family"
+},
+{
+id: 274,
+name: "Euphorbia",
+canonicalForm: "Euphorbia",
+italicisedForm: "<i>Euphorbia</i>",
+rank: "Genus"
+},
+{
+id: 275,
+name: "Euphorbia cyathophora Murrill",
+canonicalForm: "Euphorbia cyathophora",
+italicisedForm: "<i>Euphorbia cyathophora </i>Murrill ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 3222,
+name: "Euphorbia barbellata Engelm.",
+canonicalForm: "Euphorbia barbellata",
+italicisedForm: "<i>Euphorbia barbellata </i>Engelm. ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3223,
+name: "Euphorbia cyathophora var. graminifolia Chapm.",
+canonicalForm: "Euphorbia cyathophora graminifolia",
+italicisedForm: "<i>Euphorbia cyathophora </i>var.<i> graminifolia </i>Chapm. ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3224,
+name: "Euphorbia graminifolia Michx. [Illegitimate]",
+canonicalForm: "Euphorbia graminifolia",
+italicisedForm: "<i>Euphorbia graminifolia </i>Michx.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3225,
+name: "Euphorbia heterophylla var. barbellata (Engelm.) Holz.",
+canonicalForm: "Euphorbia heterophylla barbellata",
+italicisedForm: "<i>Euphorbia heterophylla </i>var.<i> barbellata (</i>Engelm.<i>) </i>Holz. ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3226,
+name: "Euphorbia heterophylla f. cyathophora (Murray) Voss",
+canonicalForm: "Euphorbia heterophylla cyathophora",
+italicisedForm: "<i>Euphorbia heterophylla </i>f.<i> cyathophora (</i>Murray<i>) </i>Voss ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3227,
+name: "Euphorbia heterophylla var. graminifolia Engelm.",
+canonicalForm: "Euphorbia heterophylla graminifolia",
+italicisedForm: "<i>Euphorbia heterophylla </i>var.<i> graminifolia </i>Engelm. ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3228,
+name: "Euphorbia heterophylla var. minor Boiss.",
+canonicalForm: "Euphorbia heterophylla minor",
+italicisedForm: "<i>Euphorbia heterophylla </i>var.<i> minor </i>Boiss. ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3229,
+name: "Euphorbia pandurifolia Roth",
+canonicalForm: "Euphorbia pandurifolia",
+italicisedForm: "<i>Euphorbia pandurifolia </i>Roth ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3230,
+name: "Poinsettia barbellata (Engelm.) Small",
+canonicalForm: "Poinsettia barbellata",
+italicisedForm: "<i>Poinsettia barbellata (</i>Engelm.<i>) </i>Small ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3231,
+name: "Poinsettia cyathophora (Murray) Klotzsch & Garcke",
+canonicalForm: "Poinsettia cyathophora",
+italicisedForm: "<i>Poinsettia cyathophora (</i>Murray<i>) </i>Klotzsch<i> & </i>Garcke ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3232,
+name: "Poinsettia cyathophora var. graminifolia (Chapm.) Mohlenbr.",
+canonicalForm: "Poinsettia cyathophora graminifolia",
+italicisedForm: "<i>Poinsettia cyathophora </i>var.<i> graminifolia (</i>Chapm.<i>) </i>Mohlenbr. ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3233,
+name: "Poinsettia edwardsii Klotzsch & Garcke",
+canonicalForm: "Poinsettia edwardsii",
+italicisedForm: "<i>Poinsettia edwardsii </i>Klotzsch<i> & </i>Garcke ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3234,
+name: "Poinsettia graminifolia (Chapm.) Millsp.",
+canonicalForm: "Poinsettia graminifolia",
+italicisedForm: "<i>Poinsettia graminifolia (</i>Chapm.<i>) </i>Millsp. ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3235,
+name: "Poinsettia pinetorum Small",
+canonicalForm: "Poinsettia pinetorum",
+italicisedForm: "<i>Poinsettia pinetorum </i>Small ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3236,
+name: "Tithymalus cyatophorus (Murray) Moench",
+canonicalForm: "Tithymalus cyatophorus",
+italicisedForm: "<i>Tithymalus cyatophorus (</i>Murray<i>) </i>Moench ",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 766,
+name: "Fes poul",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 767,
+name: "Petit poinsettia",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 765,
+name: "Wild poinsettia",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 764,
+name: "Wild poinsettia weed",
+taxonConcept: {
+id: 275
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:32:32Z",
+lastRevised: "2015-03-19T11:36:23Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20090223_183301_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>EPHCT</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>EPHCT</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1131,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>EPHCT</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093313,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1130,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>First Leaves</h6><p>First leaves are simple, alternate, petiolate with lamina elliptic, 2-4 cm and 1-2 cm wide. At this stage it is difficult to distinguish this species from E. heterophylla.</p><h6>Leaf</h6><p>Leaves are simple, alternate, short petiolate. The stipules are very small and glandular, quickly falling down. The blade shape is variable, narrow, oval linear , oval- elliptical or panduriforme (violin-shaped), 3 to 10 cm long and 1-4 cm wide. The margin is entire or toothed. The venation is pinnate. The upper leaves near the inflorescence are colored with a stain orange, red or white at the base, or may be completely stained.</p><h6>General Habit</h6><p>Herbaceous plant, erect, with ascending branches. Grows up to 1.50 m high.</p><h6>Underground System</h6><p>A taproot.</p><h6>Flower</h6><p>Flowers consist of multiple cyathiums yellowish-green, glabrous or bearing short hair, scattered. Involucre campanulate, 3 - 4 mm in height and diameter lined by small teeth and 1-2 glands sessile bilobed.</p><h6>Fruit</h6><p>Fruits are capsules, globular, lobed, 4 to 5 mm in diameter, smooth, hairless. Since its formation it goes out and hangs outside the involucre, the opposite of the gland. Each capsule contains three seeds.</p><h6>Seed</h6><p>Seeds are truncated ellipsoid, up to 3 mm long, dark brown, not angular, covered with small tubercles sharp whitish more or less sharp.</p><h6>Global Description</h6><p>E. cyathophora is a herbaceous to shrubby annual plant, erect to ascending, grows up to 1.50 m high, glabrous or loosely hairy, with multicellular hairs. The stem is hollow, cylindrical with ribbed older, hollow, glabrous or sparsely pubescent, more or less yellow, containing a white latex. It bears leaves along its entire length or only at the apex in older plants. The leaves are simple, stalked, the lower leaves alternate, while the upper leaves are opposite. The blade shape is variable. The terminal leaves are fully red or white colored. Flowers are small and greenish-yellow, they are contained in small cups bearing on the edge, a small gland flattened bi-lobed . The fruit is globose to three quarters out of the cup.</p><h6>Inflorescence</h6><p>Inflorescence are dense terminal corymbs .</p><h6>Cotyledons</h6><p>Cotyledons with short petioles, narrowly elliptic, 1.5 cm long and 0.6 cm wide at midrib well marked.</p><h6>Stem</h6><p>Stem is hollow, cylindrical, becoming ridged with age, glabrous to slightly pubescent. Exudes a white latex when cut.</p>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093312,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1134,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Euphorbia cyathophora Murrill",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093314,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1133,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "E. cyathophora reproduces by seeds. It is a fast growing weed and the absence of dormant seeds allow it to produce several generations per year.<br>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093314,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1127,
+field: {
+concept: "Natural History",
+category: "Look Alikes",
+description: "Other taxa that this taxon may be confused with, and characters useful for their differentiation. Useful for identification and comparison. Common in invasive species communities.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "E. cyathophora at seedling stage can be confused with E. heterophylla L., when the leaves are elliptic and not colored, is difficult to distinguish from E. heterophylla L., whose populations are mainly elliptical leaves (in La Reunion Island).<br>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093309,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1136,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "It grows in village,roadsides, river banks, disturbed areas. Prefers well structured and fertile soil.<br>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093317,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1128,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Wide spread to the subtropical parts.</p><h6>Origin</h6><p>Native of South America.</p>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093310,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1132,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Local Weediness</h6><p>South Africa: It is distributed to the North East of South Africa. It is a resilient weed in crops like sugar cane.</p>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093313,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1137,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Used as an ornamental plant in the gardens.<br>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093317,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1135,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-02-27T22:05:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "-(AdventOI) Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093314,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1129,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2015-03-29T08:37:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "-(AdventOI) Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo A.P., and Théveny, F. (2008). Advent-OI: Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093310,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4170,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Euphorbia cyathophora est une plante dressée à ascendante, atteignant 1,50 m de hauteur, glabre ou lâchement pubescente, à poils multicellulaires. La tige est grosse, cylindrique à côtelée en vieillissant, creuse, glabre ou faiblement pubescente, plus ou moins glauque, contenant un latex laiteux. Elle porte des feuilles sur toute sa longueur ou seulement à l'apex chez les plantes âgées. Les feuilles sont simples, pétiolées, les inférieures sont alternes tandis que les supérieures sont opposées. Le limbe est de forme variable. A la base et au sommet il est elliptique tandis que les autres feuilles ont un limbe en forme de violon. Les feuilles terminales sont marquées d'une tache orange, rouge ou blanche à la base du limbe. Les feuilles terminales peuvent être entièrement colorées. Les fleurs s'épanouissent par groupes serrés à l'extrémité des tiges. Petites et de couleur jaune verdâtre, elles sont contenues dans des petites coupes portant, sur le bord, une petite glande aplatie bilobée. Le fruit est globuleux à 3 quartiers, sortant de la coupe.</p>",
+dateCreated: "2015-03-19T11:36:23Z",
+lastUpdated: "2015-03-19T11:36:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764983916,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4162,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>EPHCT</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:36:22Z",
+lastUpdated: "2015-03-19T11:36:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764982230,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4165,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Euphorbia cyathophora est une plante dressée à ascendante, atteignant 1,50 m de hauteur, glabre ou lâchement pubescente, à poils multicellulaires. La tige est grosse, cylindrique à côtelée en vieillissant, creuse, glabre ou faiblement pubescente, plus ou moins glauque, contenant un latex laiteux. Elle porte des feuilles sur toute sa longueur ou seulement à l'apex chez les plantes âgées. Les feuilles sont simples, pétiolées, les inférieures sont alternes tandis que les supérieures sont opposées. Le limbe est de forme variable. A la base et au sommet il est elliptique tandis que les autres feuilles ont un limbe en forme de violon. Les feuilles terminales sont marquées d'une tache orange, rouge ou blanche à la base du limbe. Les feuilles terminales peuvent être entièrement colorées. Les fleurs s'épanouissent par groupes serrés à l'extrémité des tiges. Petites et de couleur jaune verdâtre, elles sont contenues dans des petites coupes portant, sur le bord, une petite glande aplatie bilobée. Le fruit est globuleux à 3 quartiers, sortant de la coupe.</p><h6>Cotylédons</h6><p>Les cotylédons sont courtement pétiolés, étroitement elliptiques, longs de 1,5 cm et larges de 0,6 cm à nervure centrale bien marquée.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont simples, alternes, pétiolées à limbe elliptique de 2 à 4 cm de long et 1 à 2 cm de large. A ce stade difficile à distinguer d'E. heterophylla.</p><h6>Port</h6><p>Plante herbacée, érigée, à branches ascendantes.</p><h6>Système Souterrain</h6><p>La racine est pivotante.</p><h6>Tige</h6><p>La tige est creuse, cylindrique, devenant côtelée en vieillissant, glabre à faiblement pubescente. Exsude un latex blanc quand on la coupe.</p><h6>Feuille</h6><p>Les feuilles sont simples, alternes, courtement pétiolées. Les stipules, très petites et glanduleuses sont rapidement caduques. Le limbe est de forme très variable, étroitement ovale linéaire, ovale elliptique ou panduriforme (en forme de violon), de 3 à 10 cm de long et 1 à 4 cm de large. Le sommet est aigu ou subaigu, la base est en coin. La marge est entière ou dentée. La nervation est pennée. Les feuilles supérieures, près de l'inflorescence, sont colorées d'une tache orange, rouge ou blanche à la base, ou peuvent être entièrement colorées.</p><h6>Inflorescence</h6><p>L’inflorescence est formée de corymbes terminaux denses, formés de multiples cyathiums de couleur vert jaunâtre, glabres ou portant des poils courts, épars. Involucre campanulé de 3 à 4 mm de haut et de diamètre bordé par de petites dents et 1 à 2 glandes sessiles bilobées.</p><h6>Fleur</h6><p>Les fleurs qui s’épanouissent par groupes serrés à l’extrémité des tiges sont petites et de couleur jaune verdâtre.</p><h6>Fruit</h6><p>Le fruit est une capsule globuleuse, trilobée, de 4 à 5 mm de diamètre, lisse, glabre. Dès sa formation, elle sort et pend à l'extérieur de l'involucre, à l'opposé de la glande. Chaque capsule contient 3 graines.</p><h6>Graine</h6><p>La graine est tronquée ellipsoïde, atteignant 3 mm de longueur, brun foncé, non anguleuse, couvertes de petits tubercules blanchâtres plus ou moins pointus.</p>",
+dateCreated: "2015-03-19T11:36:22Z",
+lastUpdated: "2015-03-19T11:36:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764982482,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4166,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Euphorbia cyathophora Murrill",
+dateCreated: "2015-03-19T11:36:22Z",
+lastUpdated: "2015-03-19T11:36:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764982608,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4168,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "E. cyathophora est une plante annuelle ou courtement pérenne. Elle se reproduit par graines. Sa croissance rapide et l'absence de dormance des graines lui permettent de produire plusieurs générations par an.<br>",
+dateCreated: "2015-03-19T11:36:22Z",
+lastUpdated: "2015-03-19T11:36:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764982812,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4167,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Comores : absente. Maurice : E. cyathophora est une espèce naturalisée, présente dans les terrains vagues, sur les berges des torrents, à basse altitude. La Réunion : Espèce de basse altitude. Elle affectionne les sols riches et humides. Seychelles : Espèce présente dans les parcelles abandonnées.<br>",
+dateCreated: "2015-03-19T11:36:22Z",
+lastUpdated: "2015-03-19T11:36:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764982737,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4169,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Comores : absente. Maurice : E. cyathophora n'est pas présente dans les cultures. La Réunion : Adventice de la canne à sucre et des cultures maraîchères, notamment dans la plaine du Gol où elle peut se développer en fortes populations. Seychelles : Espèce non présente en culture.</p>",
+dateCreated: "2015-03-19T11:36:22Z",
+lastUpdated: "2015-03-19T11:36:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764982887,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4164,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:22Z",
+lastUpdated: "2015-03-31T06:52:52Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/e/ephct/ephct_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764982344,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4163,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:22Z",
+lastUpdated: "2015-03-31T06:52:52Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764982344,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3048,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20090223_183301.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20090223_183301_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:41Z",
+rating: 0
+},
+{
+id: 3049,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:41Z",
+rating: 0
+},
+{
+id: 3050,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20090223_183349.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20090223_183349_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:41Z",
+rating: 0
+},
+{
+id: 3051,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20090223_183128.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20090223_183128_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:41Z",
+rating: 0
+},
+{
+id: 3052,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20090223_183231.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20090223_183231_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:41Z",
+rating: 0
+},
+{
+id: 3053,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20090223_183200.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20090223_183200_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:41Z",
+rating: 0
+},
+{
+id: 3054,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:41Z",
+rating: 0
+},
+{
+id: 3055,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:41Z",
+rating: 0
+},
+{
+id: 3056,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:42Z",
+rating: 0
+},
+{
+id: 3057,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:42Z",
+rating: 0
+},
+{
+id: 3058,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20110712_120343.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20110712_120343_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:42Z",
+rating: 0
+},
+{
+id: 3059,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:42Z",
+rating: 0
+},
+{
+id: 3060,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:42Z",
+rating: 0
+},
+{
+id: 3061,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:42Z",
+rating: 0
+},
+{
+id: 3062,
+url: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Euphorbia cyathophora/ephct_20080609_101224_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:42Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

@@ -1,0 +1,2360 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 178,
+title: "<i>Ischaemum rugosum </i>Salisb. ",
+taxonConcept: {
+id: 344,
+name: "Ischaemum rugosum Salisb.",
+canonicalForm: "Ischaemum rugosum",
+italicisedForm: "<i>Ischaemum rugosum </i>Salisb. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 342,
+name: "Ischaemum",
+canonicalForm: "Ischaemum",
+italicisedForm: "<i>Ischaemum</i>",
+rank: "Genus"
+},
+{
+id: 344,
+name: "Ischaemum rugosum Salisb.",
+canonicalForm: "Ischaemum rugosum",
+italicisedForm: "<i>Ischaemum rugosum </i>Salisb. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 4036,
+name: "Andropogon arnottianus Steud.",
+canonicalForm: "Andropogon arnottianus",
+italicisedForm: "<i>Andropogon arnottianus </i>Steud. ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4037,
+name: "Andropogon griffithsiae Steud.",
+canonicalForm: "Andropogon griffithsiae",
+italicisedForm: "<i>Andropogon griffithsiae </i>Steud. ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4038,
+name: "Andropogon monostachyus Steud. [Illegitimate]",
+canonicalForm: "Andropogon monostachyus",
+italicisedForm: "<i>Andropogon monostachyus </i>Steud.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4039,
+name: "Andropogon rugosus Steud.",
+canonicalForm: "Andropogon rugosus",
+italicisedForm: "<i>Andropogon rugosus </i>Steud. ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4040,
+name: "Andropogon segetus (Trin.) Steud.",
+canonicalForm: "Andropogon segetus",
+italicisedForm: "<i>Andropogon segetus (</i>Trin.<i>) </i>Steud. ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4041,
+name: "Andropogon tong-dong Steud.",
+canonicalForm: "Andropogon tong-dong",
+italicisedForm: "<i>Andropogon tong-dong </i>Steud. ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4042,
+name: "Apluda rugosa Russell ex Wall. [Invalid]",
+canonicalForm: "Apluda rugosa",
+italicisedForm: "<i>Apluda rugosa </i>Russell<i> ex </i>Wall.<i> [Invalid]</i>",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4043,
+name: "Colladoa distachya Cav.",
+canonicalForm: "Colladoa distachya",
+italicisedForm: "<i>Colladoa distachya </i>Cav. ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4044,
+name: "Ischaemum colladoa Spreng.",
+canonicalForm: "Ischaemum colladoa",
+italicisedForm: "<i>Ischaemum colladoa </i>Spreng. ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4045,
+name: "Ischaemum royleanum Miq.",
+canonicalForm: "Ischaemum royleanum",
+italicisedForm: "<i>Ischaemum royleanum </i>Miq. ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4046,
+name: "Ischaemum rugosum var. distachyum (Cav.) Merr.",
+canonicalForm: "Ischaemum rugosum distachyum",
+italicisedForm: "<i>Ischaemum rugosum </i>var.<i> distachyum (</i>Cav.<i>) </i>Merr. ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4047,
+name: "Ischaemum rugosum var. nanum A.Camus",
+canonicalForm: "Ischaemum rugosum nanum",
+italicisedForm: "<i>Ischaemum rugosum </i>var.<i> nanum </i>A.Camus ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4048,
+name: "Ischaemum rugosum var. rugosum",
+canonicalForm: "Ischaemum rugosum rugosum",
+italicisedForm: "<i>Ischaemum rugosum </i>var.<i> rugosum</i>",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4049,
+name: "Ischaemum rugosum var. segetum (Trin.) Hack.",
+canonicalForm: "Ischaemum rugosum segetum",
+italicisedForm: "<i>Ischaemum rugosum </i>var.<i> segetum (</i>Trin.<i>) </i>Hack. ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4050,
+name: "Ischaemum segetum Trin.",
+canonicalForm: "Ischaemum segetum",
+italicisedForm: "<i>Ischaemum segetum </i>Trin. ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4051,
+name: "Ischaemum tashiroi Honda",
+canonicalForm: "Ischaemum tashiroi",
+italicisedForm: "<i>Ischaemum tashiroi </i>Honda ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4052,
+name: "Meoschium arnottianum Nees",
+canonicalForm: "Meoschium arnottianum",
+italicisedForm: "<i>Meoschium arnottianum </i>Nees ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4053,
+name: "Meoschium griffithii Nees & Arn.",
+canonicalForm: "Meoschium griffithii",
+italicisedForm: "<i>Meoschium griffithii </i>Nees<i> & </i>Arn. ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4054,
+name: "Meoschium royleanum Nees ex Steud. [Invalid]",
+canonicalForm: "Meoschium royleanum",
+italicisedForm: "<i>Meoschium royleanum </i>Nees<i> ex </i>Steud.<i> [Invalid]</i>",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4055,
+name: "Meoschium rugosum (Salisb.) Nees",
+canonicalForm: "Meoschium rugosum",
+italicisedForm: "<i>Meoschium rugosum (</i>Salisb.<i>) </i>Nees ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4056,
+name: "Meoschium wightii Nees [Invalid]",
+canonicalForm: "Meoschium wightii",
+italicisedForm: "<i>Meoschium wightii </i>Nees<i> [Invalid]</i>",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4057,
+name: "Rottboellia glabrata Benth. ex Hemsl. [Invalid]",
+canonicalForm: "Rottboellia glabrata",
+italicisedForm: "<i>Rottboellia glabrata </i>Benth.<i> ex </i>Hemsl.<i> [Invalid]</i>",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4058,
+name: "Tripsacum distachyum (Cav.) Poir.",
+canonicalForm: "Tripsacum distachyum",
+italicisedForm: "<i>Tripsacum distachyum (</i>Cav.<i>) </i>Poir. ",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4059,
+name: "Tripsacum distichum Raspail [Illegitimate]",
+canonicalForm: "Tripsacum distichum",
+italicisedForm: "<i>Tripsacum distichum </i>Raspail<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 903,
+name: "Mahabanky",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 901,
+name: "Remanotaky",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 904,
+name: "Taimboriky",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 905,
+name: "Tsikalabana",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 902,
+name: "Mbuha",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 906,
+name: "Moerijna",
+taxonConcept: {
+id: 344
+},
+isContributor: false,
+language: {
+id: 499,
+name: "Créole Guyane"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:46:20Z",
+lastRevised: "2015-03-19T11:41:23Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20120710_220242_th1.jpg",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ISCRU</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ISCRU</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1395,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>ISCRU</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2014-09-24T17:47:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841488,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1389,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>The leaves have linear lanceolate blades, 10-30 cm long and 5-12 mm across. They have a few scattered strands of hairy on the surface, pointed tips, rounded or narrow bases with sharp and cutting margins. The ligule is pinkish, truncate and hairy, the sheath is sometimes hairy but only towards the apex.</p><h6>General Habit</h6><p>Erect, tufted, climbing and much-branched grass.</p><h6>Underground System</h6><p>Root at the lower nodes.</p><h6>Flower</h6><p>Spikelets are about 4-6 mm long, yellow-green and in pairs (one stalked and one sessile). They are ridged and have awns, about 1.5-2 cm long, that are rather twisted at the base, Pedicelled spikelet dorsally compressed, variable in size, often much reduced especially toward raceme apex, awnless; pedicel elongate when spikelet rudimentary.</p><h6>Fruit</h6><p>Caryopsis ovoid, brown.</p><h6>Seed</h6><p>Seed 2.5 to 3 mm long, 1 mm wide, triangular in cross section, oblong, small tip (mucro), slightly concave near point of attachment.</p><h6>Global Description</h6><p>A usually climbing, tufted grass, sometimes erect, branched annual grass growing up about 1 m high, rooting at the lower nodes, reproduces from seeds.</p><h6>Inflorescence</h6><p>Consist of the two slender terminal racemes about 5-10 cm long, that are appressed tightly when young but are separate at maturity.</p><h6>Stem</h6><p>The stems are round and have short white hairs at the nodes.</p>",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2014-09-24T17:47:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841483,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1392,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Ischaemum rugosum Salisb.",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2014-09-24T17:47:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841485,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1391,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "A common weed of wetland areas, difficult to distinguish from rice when young.<br>",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2014-09-24T17:47:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841484,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1390,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Now widespread as a weed in tropical parts of the world, especially as a weed of rice fields.</p><h6>Origin</h6><p>Native of tropical Asia.</p>",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2014-09-24T17:47:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841484,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1393,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Local Weediness</h6><p>Kenya: Frequent but not abundant. Tanzania: Frequent but not abundant. Uganda:Frequent but not abundant.</p>",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2014-09-24T17:47:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841485,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1386,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2015-04-06T17:34:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 171p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Holm, Leroy G., Plucknett, D. L., Pancho, J. V., Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 295p."
+},
+{
+title: "I. O. Akobundu and C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 14p"
+},
+{
+title: "Caton BP, Mortimer M, Hillje & Johnson DE (2010). A practical field guide to weeds of rice in Asia. Second Edition. Los Baños (Philippines): International Rice Research Institute. 69p."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841463,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1397,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2015-02-26T14:37:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Caton BP, Mortimer M, Hillje & Johnson DE (2010). A practical field guide to weeds of rice in Asia. Second Edition. Los Baños (Philippines): International Rice Research Institute. 69p."
+},
+{
+title: "Holm, Leroy G., Plucknett, D. L., Pancho, J. V., Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 295p."
+},
+{
+title: "I. O. Akobundu and C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 14p"
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 171p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841491,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1387,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2015-04-06T17:34:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Caton BP, Mortimer M, Hillje & Johnson DE (2010). A practical field guide to weeds of rice in Asia. Second Edition. Los Baños (Philippines): International Rice Research Institute. 69p."
+},
+{
+title: "Holm, Leroy G., Plucknett, D. L., Pancho, J. V., Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 295p."
+},
+{
+title: "I. O. Akobundu and C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 14p"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 171p."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841466,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1388,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2015-04-06T17:34:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 171p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Holm, Leroy G., Plucknett, D. L., Pancho, J. V., Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 295p."
+},
+{
+title: "I. O. Akobundu and C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 14p"
+},
+{
+title: "Caton BP, Mortimer M, Hillje & Johnson DE (2010). A practical field guide to weeds of rice in Asia. Second Edition. Los Baños (Philippines): International Rice Research Institute. 69p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841481,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1394,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2015-04-06T17:34:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Holm, Leroy G., Plucknett, D. L., Pancho, J. V., Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 295p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "I. O. Akobundu and C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 14p"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 171p."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Caton BP, Mortimer M, Hillje & Johnson DE (2010). A practical field guide to weeds of rice in Asia. Second Edition. Los Baños (Philippines): International Rice Research Institute. 69p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841485,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1396,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2015-04-06T17:34:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Holm, Leroy G., Plucknett, D. L., Pancho, J. V., Herberger, J. P. 1977. The world's worst weeds: distribution and biology. East-West Center/University Press of Hawaii. 295p."
+},
+{
+title: "Caton BP, Mortimer M, Hillje & Johnson DE (2010). A practical field guide to weeds of rice in Asia. Second Edition. Los Baños (Philippines): International Rice Research Institute. 69p."
+},
+{
+title: "I. O. Akobundu and C.W. Agyakwa (1998). A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria 14p"
+},
+{
+title: "D.E. Johnson (1997). Les adventices en riziculture en Afrique de l'Ouest /Weeds of rice in West Africa. West Africa Rice Development Association, Bouaké, Côte d'ivoire. 171p."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841489,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4635,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Ischaemum rugosum est une Graminée annuelle cespiteuse à chaumes dressés ou genouillés et couchés à la base, ramifiés et enracinés aux noeuds inférieurs puis érigés, de 20 cm à 1 m de hauteur. Les feuilles sont dressées ou étalées, plus larges vers le milieu. Le limbe est linéaire plan et se termine en pointe fine, de taille assez variable de 5 à 25 cm de long. L'inflorescence terminale est d'abord incluse dans la dernière feuille puis complètement sortie. Elle est composée de deux racèmes, jaune doré, étroitement accolés de 3 à 8 cm de long, puis séparés et obliquement dressés à maturité. Les racèmes sont des faux épis, à axe très fragile, formés d'articles épais qui se désarticulent facilement à sec. Chaque article se compose de deux épillets dont l'un est sessile, de 4 à 6 mm de long, et l'autre est pédicellé. La glume inférieure est fortement ondulée transversalement, avec 3 à 5 crêtes transversales convexes.</p>",
+dateCreated: "2015-03-19T11:41:22Z",
+lastUpdated: "2015-03-19T11:41:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765282930,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4624,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>ISCRU</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>bas-fond humide</p>",
+dateCreated: "2015-03-19T11:41:17Z",
+lastUpdated: "2015-03-19T11:41:17Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765277243,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4629,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Ischaemum rugosum</em> est une Gramin&eacute;e annuelle cespiteuse &agrave; chaumes dress&eacute;s ou genouill&eacute;s et couch&eacute;s &agrave; la base, ramifi&eacute;s et enracin&eacute;s aux noeuds inf&eacute;rieurs puis &eacute;rig&eacute;s, de 20 cm &agrave; 1 m de hauteur. Les feuilles sont dress&eacute;es ou &eacute;tal&eacute;es, plus larges vers le milieu. Le limbe est lin&eacute;aire plan et se termine en pointe fine, de taille assez variable de 5 &agrave; 25 cm de long. L&#39;inflorescence terminale est d&#39;abord incluse dans la derni&egrave;re feuille puis compl&egrave;tement sortie. Elle est compos&eacute;e de deux rac&egrave;mes, jaune dor&eacute;, &eacute;troitement accol&eacute;s de 3 &agrave; 8 cm de long, puis s&eacute;par&eacute;s et obliquement dress&eacute;s &agrave; maturit&eacute;. Les rac&egrave;mes sont des faux &eacute;pis, &agrave; axe tr&egrave;s fragile, form&eacute;s d&#39;articles &eacute;pais qui se d&eacute;sarticulent facilement &agrave; sec. Chaque article se compose de deux &eacute;pillets dont l&#39;un est sessile, de 4 &agrave; 6 mm de long, et l&#39;autre est p&eacute;dicell&eacute;. La glume inf&eacute;rieure est fortement ondul&eacute;e transversalement, avec 3 &agrave; 5 cr&ecirc;tes transversales convexes.</p> <h6> Premi&egrave;res Feuilles</h6> <p> A la lev&eacute;e, Ischaemum rugosum est reconnaissable d&#39;abord par le reste de la semence v&ecirc;tue dans ses enveloppes, ellipso&iuml;de de 3 &agrave; 5 mm de long, fortement marqu&eacute;e par 3 &agrave; 5 cr&ecirc;tes transversales. Les 2 ou 3 premi&egrave;res feuilles ont une gaine courte et un limbe court &agrave; pr&eacute;foliaison enroul&eacute;e. Les feuilles suivantes s&#39;allongent rapidement ; le limbe de 15 &agrave; 25 cm de longueur, glabre, est port&eacute; par une gaine aplatie, longue de 10 &agrave; 15 cm. Les gaines successives sont plus ou moins imbriqu&eacute;es les unes dans les autres.</p> <h6> Port</h6> <p> Plante cespiteuse &agrave; touffes denses, &agrave; chaumes dress&eacute;s ou couch&eacute;s &agrave; la base puis redress&eacute;s, atteignant 1 m de hauteur.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Les racines sont fascicul&eacute;es denses. Pr&eacute;sence de racines adventives &agrave; partir des noeuds inf&eacute;rieurs des chaumes.</p> <h6> Tige</h6> <p> Le chaume cylindrique glabre, aux noeuds fonc&eacute;s pileux, ramifi&eacute; et enracin&eacute; aux noeuds inf&eacute;rieurs puis &eacute;rig&eacute;, genouill&eacute;.</p> <h6> Feuille</h6> <p> Les feuilles sont simples, alternes. La gaine a une pubescence l&acirc;che surtout pr&egrave;s de la marge. Ligule papyrac&eacute;e membraneuse mesurant 3 &agrave; 5 mm de long. Le limbe est lin&eacute;aire plan, dress&eacute; &agrave; &eacute;tal&eacute;, plus large vers le milieu, de taille tr&egrave;s variable, de 5 &agrave; 25 cm de long et 4 &agrave; 8 mm de large, termin&eacute; en pointe fine, d&#39;un vert clair ou fr&eacute;quemment pigment&eacute; de pourpre. Les deux faces sont glabres sauf quelques longs poils le long des nervures principales. La marge est fortement pectin&eacute;e.</p> <h6> Inflorescence</h6> <p> L&#39;inflorescence est d&#39;abord incluse dans la derni&egrave;re gaine foliaire puis finalement nettement ext&eacute;rioris&eacute;e, form&eacute;e de deux rac&egrave;mes g&eacute;min&eacute;s, d&#39;abord &eacute;troitement accol&eacute;s prenant l&#39;aspect d&#39;un &eacute;pi cylindrique &eacute;rig&eacute; de 3 &agrave; 10 cm de long, puis s&eacute;par&eacute;s et obliquement dress&eacute;s. Les rac&egrave;mes sont form&eacute;s d&#39;articles &eacute;pais portant une ligne de poils sur le dos, se d&eacute;sarticulant facilement &agrave; sec.</p> <h6> Fleur</h6> <p> Chaque article est form&eacute; de deux sortes d&#39;&eacute;pillets de morphologie semblable : l&#39;un sessile de 4 &agrave; 6 mm de long, oblong, apprim&eacute; contre le rachis, jaune &agrave; la base et brun rouge vers le sommet, et l&#39;autre p&eacute;dicell&eacute; &agrave; p&eacute;dicelle robuste, court et trapu, presque aussi long que l&#39;&eacute;pillet sessile. Pour chaque &eacute;pillet, la glume inf&eacute;rieure, de la taille de l&#39;&eacute;pillet, est fortement rid&eacute;e transversalement, mutique ou arist&eacute;e et scabre sur les c&ocirc;t&eacute;s. La glume sup&eacute;rieure est aussi longue mais plus &eacute;troite, comprim&eacute;e lat&eacute;ralement et car&eacute;n&eacute;e sur le dos. La lemma de la fleur fertile, plus courte que les glumes et profond&eacute;ment bifide jusqu&#39;&agrave; la moiti&eacute;, porte dans le sinus une ar&ecirc;te brune, coud&eacute;e vers le milieu, d&#39;environ 2 cm de long.</p> <h6> Fruit</h6> <p> Le grain est ellipso&iuml;de, de 2 mm de long et 1 mm de large, v&ecirc;tu.</p> ",
+dateCreated: "2015-03-19T11:41:18Z",
+lastUpdated: "2015-05-06T07:19:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765278204,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4630,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Ischaemum rugosum Salisb.",
+dateCreated: "2015-03-19T11:41:18Z",
+lastUpdated: "2015-03-19T11:41:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765278515,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4632,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>I. rugosum</em> est une herbe annuelle des stations humides qui se multiplie essentiellement par graines. Les graines v&ecirc;tues et flottantes sont facilement propag&eacute;es par le vent et l&#39;eau. La germination commence d&egrave;s les premi&egrave;res pluies ou &agrave; la suite de la mise en eau des rizi&egrave;res.<br /> ",
+dateCreated: "2015-03-19T11:41:19Z",
+lastUpdated: "2015-05-06T07:19:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765279117,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4631,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>:<em> I. rugosum</em> est une plante rud&eacute;rale de milieu humide, observ&eacute;e dans toutes les r&eacute;gions de la Grande Comore, &agrave; basse et &agrave; moyenne altitude.<br /> <strong>Madagascar</strong> : Esp&egrave;ce originaire d&#39;Asie, introduite &agrave; Madagascar vers le d&eacute;but du XXe si&egrave;cle, d&#39;abord dans la r&eacute;gion du Nord ou du Nord-Ouest puis r&eacute;pandue un peu partout dans les r&eacute;gions rizicoles de basse et de moyenne altitude, jusqu&rsquo;&agrave; environ 1000 m. Naturalis&eacute;e dans la plupart des r&eacute;gions rizicoles, en particulier dans la r&eacute;gion du lac Alaotra, elle est devenue une v&eacute;ritable peste v&eacute;g&eacute;tale en riziculture. C&#39;est une plante des stations humides ou subaquatiques qui infeste les rizi&egrave;res assez mal irrigu&eacute;es, les bords de parcelles et les canaux. Elle supporte bien la submersion.<br /> <strong>Maurice </strong>: absente.<br /> <strong>La R&eacute;union</strong> : absente.<br /> <strong>Seychelles </strong>: absente.<br /> ",
+dateCreated: "2015-03-19T11:41:18Z",
+lastUpdated: "2015-05-06T07:20:09Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765278887,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4633,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>: <em>I. rugosum</em> est une esp&egrave;ce fr&eacute;quente en bordure de champ et dans les vieilles cultures ouvertes, surtout les cultures de manioc.<br /> <strong>Madagascar </strong>: Adventice importante de la riziculture de moyenne altitude &agrave; Madagascar. Elle est particuli&egrave;rement envahissante dans la plaine du lac Alaotra o&ugrave; elle constitue la principale esp&egrave;ce dominante dans les p&eacute;rim&egrave;tres souffrant d&rsquo;une irrigation insuffisante au moment de l&rsquo;installation des cultures ou d&rsquo;un nivellement imparfait de la parcelle (d&rsquo;o&ugrave; son nom &laquo; mahabanky &raquo; litt. qui fait faillite).<br /> Maurice : absente.<br /> <strong>La R&eacute;union</strong> : absente.<br /> <strong>Seychelles </strong>: absente.<br /> <strong>B&eacute;nin </strong>: rare et peu abondante.<br /> <strong>Burkina Faso</strong> : rare et peu abondante.<br /> <strong>Ghana </strong>: fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>Kenya </strong>: fr&eacute;quente et peu abondante.<br /> <strong>Mali </strong>: fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>S&eacute;n&eacute;gal </strong>: rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>Ouganda </strong>: fr&eacute;quente et peu abondante.<br /> <strong>Tanzanie </strong>: fr&eacute;quente et peu abondante.<br /> <strong>Tchad </strong>: rare et peu abondante.</p> ",
+dateCreated: "2015-03-19T11:41:19Z",
+lastUpdated: "2015-05-06T07:20:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765279324,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4628,
+field: {
+concept: "Démographie et Conservation",
+category: "Menaces",
+description: "Les menaces que subit le taxon",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Madagascar </strong>:<em> I. rugosum </em>est h&ocirc;te de nombreux pathog&egrave;nes, dont le virus du tungro, et de <em>Melo&iuml;dogyne </em>spp.<br /> ",
+dateCreated: "2015-03-19T11:41:17Z",
+lastUpdated: "2015-05-06T07:21:11Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765277915,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4636,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Usages</h6> <p> <strong>Madagascar </strong>: Jeune, <em>I. rugosum</em> est un bon fourrage mais qui supporte mal le surp&acirc;turage.</p> ",
+dateCreated: "2015-03-19T11:41:23Z",
+lastUpdated: "2015-05-06T07:21:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765283105,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4634,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Pour des conseils de d&eacute;sherbage des gramin&eacute;es annuelles du riz irrigu&eacute; et de bas-fond en Afrique consulter : http://portal.wikwio.org/document/show/31</p> <h6> Lutte Locale</h6> <p> <strong>Madagascar </strong>: Le contr&ocirc;le manuel d&rsquo;<em>I. rugosum</em> est extr&ecirc;mement exigeant en temps et difficile. La submersion prolong&eacute;e dans les rizi&egrave;res bien irrigu&eacute;es permet de le contr&ocirc;ler correctement. Chimiquement, il est relativement bien contr&ocirc;l&eacute; par le pendim&eacute;thaline et l&rsquo;oxadiazon en pr&eacute;-lev&eacute;e, et par le cyhalofop-butyl (non disponible &agrave; Madagascar) ou le fenoxaprop-ethyl en post-lev&eacute;e. R&eacute;sistant aux herbicides de type bipyridiliums.</p> ",
+dateCreated: "2015-03-19T11:41:19Z",
+lastUpdated: "2015-05-06T07:21:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765279598,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4626,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:41:17Z",
+lastUpdated: "2015-03-31T06:53:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765277684,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4625,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:41:17Z",
+lastUpdated: "2015-03-31T06:53:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765277684,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4627,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:41:17Z",
+lastUpdated: "2015-03-31T06:53:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765277684,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3846,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20120710_220242.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20120710_220242_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:36Z",
+rating: 0
+},
+{
+id: 3847,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20090213_114909.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20090213_114909_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:36Z",
+rating: 0
+},
+{
+id: 3848,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20120710_220724.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20120710_220724_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:36Z",
+rating: 0
+},
+{
+id: 3849,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20120710_220244.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20120710_220244_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:37Z",
+rating: 0
+},
+{
+id: 3850,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20120710_220239.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20120710_220239_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:37Z",
+rating: 0
+},
+{
+id: 3851,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20111108_140439.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20111108_140439_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:37Z",
+rating: 0
+},
+{
+id: 3852,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20101207_164926.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20101207_164926_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:37Z",
+rating: 0
+},
+{
+id: 3853,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20101203_102924.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20101203_102924_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:37Z",
+rating: 0
+},
+{
+id: 3854,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20060925_075231.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20060925_075231_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:37Z",
+rating: 0
+},
+{
+id: 3855,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20060922_074657.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20060922_074657_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:37Z",
+rating: 0
+},
+{
+id: 3856,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20090213_114520.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20090213_114520_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:37Z",
+rating: 0
+},
+{
+id: 3857,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20060911_130614.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20060911_130614_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:38Z",
+rating: 0
+},
+{
+id: 3858,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20060911_125127.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20060911_125127_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:38Z",
+rating: 0
+},
+{
+id: 3859,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20090213_114626.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20090213_114626_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:38Z",
+rating: 0
+},
+{
+id: 3860,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20080519_153103.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20080519_153103_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:38Z",
+rating: 0
+},
+{
+id: 3861,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20050217_170256.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20050217_170256_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:38Z",
+rating: 0
+},
+{
+id: 3862,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20050217_170242.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20050217_170242_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:38Z",
+rating: 0
+},
+{
+id: 3863,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20041005_161044.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20041005_161044_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:38Z",
+rating: 0
+},
+{
+id: 3864,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20020101_070100_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20020101_070100_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:38Z",
+rating: 0
+},
+{
+id: 3865,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20041006_171040.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20041006_171040_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:39Z",
+rating: 0
+},
+{
+id: 3866,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20060911_124914.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20060911_124914_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:39Z",
+rating: 0
+},
+{
+id: 3867,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20090213_181336.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20090213_181336_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:39Z",
+rating: 0
+},
+{
+id: 3868,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20050217_170248.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20050217_170248_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:39Z",
+rating: 0
+},
+{
+id: 3869,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20020101_070100.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20020101_070100_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:39Z",
+rating: 0
+},
+{
+id: 3870,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20120509_100055.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20120509_100055_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:39Z",
+rating: 0
+},
+{
+id: 3871,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20110713_135011.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20110713_135011_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:39Z",
+rating: 0
+},
+{
+id: 3872,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20080519_153046.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20080519_153046_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:39Z",
+rating: 0
+},
+{
+id: 3873,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20080519_153054.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20080519_153054_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:40Z",
+rating: 0
+},
+{
+id: 3874,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20080519_153038.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20080519_153038_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:40Z",
+rating: 0
+},
+{
+id: 3875,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20070422_143634.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20070422_143634_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:40Z",
+rating: 0
+},
+{
+id: 3876,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20060922_085755.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20060922_085755_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:40Z",
+rating: 0
+},
+{
+id: 3877,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20070422_143611.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20070422_143611_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:40Z",
+rating: 0
+},
+{
+id: 3878,
+url: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20070512_112855.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ischaemum rugosum/iscru_20070512_112855_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:46:40Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

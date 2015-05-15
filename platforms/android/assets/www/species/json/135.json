@@ -1,0 +1,997 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 135,
+title: "<i>Erigeron karvinskianus </i>DC. ",
+taxonConcept: {
+id: 273,
+name: "Erigeron karvinskianus DC.",
+canonicalForm: "Erigeron karvinskianus",
+italicisedForm: "<i>Erigeron karvinskianus </i>DC. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 24,
+name: "Asteraceae",
+canonicalForm: "Asteraceae",
+italicisedForm: "<i>Asteraceae</i>",
+rank: "Family"
+},
+{
+id: 271,
+name: "Erigeron",
+canonicalForm: "Erigeron",
+italicisedForm: "<i>Erigeron</i>",
+rank: "Genus"
+},
+{
+id: 273,
+name: "Erigeron karvinskianus DC.",
+canonicalForm: "Erigeron karvinskianus",
+italicisedForm: "<i>Erigeron karvinskianus </i>DC. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 3211,
+name: "Aster erigeroides (DC.) Harv. [Illegitimate]",
+canonicalForm: "Aster erigeroides",
+italicisedForm: "<i>Aster erigeroides (</i>DC.<i>) </i>Harv.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3212,
+name: "Aster erigeroides var. schultesii Harv.",
+canonicalForm: "Aster erigeroides schultesii",
+italicisedForm: "<i>Aster erigeroides </i>var.<i> schultesii </i>Harv. ",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3213,
+name: "Aster erigeroides var. trinervius (Turcz.) Harv.",
+canonicalForm: "Aster erigeroides trinervius",
+italicisedForm: "<i>Aster erigeroides </i>var.<i> trinervius (</i>Turcz.<i>) </i>Harv. ",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3214,
+name: "Erigeron karvinskianus var. karvinskianus",
+canonicalForm: "Erigeron karvinskianus karvinskianus",
+italicisedForm: "<i>Erigeron karvinskianus </i>var.<i> karvinskianus</i>",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3215,
+name: "Erigeron karvinskianus var. mucronatum DC.",
+canonicalForm: "Erigeron karvinskianus mucronatum",
+italicisedForm: "<i>Erigeron karvinskianus </i>var.<i> mucronatum </i>DC. ",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3216,
+name: "Erigeron karvinskianus var. mucronatus (DC.) Hieron.",
+canonicalForm: "Erigeron karvinskianus mucronatus",
+italicisedForm: "<i>Erigeron karvinskianus </i>var.<i> mucronatus (</i>DC.<i>) </i>Hieron. ",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3217,
+name: "Erigeron mucronatus DC.",
+canonicalForm: "Erigeron mucronatus",
+italicisedForm: "<i>Erigeron mucronatus </i>DC. ",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3218,
+name: "Erigeron trilobus Sond.",
+canonicalForm: "Erigeron trilobus",
+italicisedForm: "<i>Erigeron trilobus </i>Sond. ",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3219,
+name: "Felicia erigeroides DC.",
+canonicalForm: "Felicia erigeroides",
+italicisedForm: "<i>Felicia erigeroides </i>DC. ",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3220,
+name: "Felicia natalensis Sch.Bip. ex Walp.",
+canonicalForm: "Felicia natalensis",
+italicisedForm: "<i>Felicia natalensis </i>Sch.Bip.<i> ex </i>Walp. ",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3221,
+name: "Felicia trinervia Turcz.",
+canonicalForm: "Felicia trinervia",
+italicisedForm: "<i>Felicia trinervia </i>Turcz. ",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 762,
+name: "Marguerite folle",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 760,
+name: "Mère de famille nombreuse",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 763,
+name: "Pâquerette",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 759,
+name: "Petit lastron",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 761,
+name: "Marguerite marron",
+taxonConcept: {
+id: 273
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:32:25Z",
+lastRevised: "2015-04-09T11:34:46Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Erigeron karvinskianus/erika_010404_083954_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>ERIKA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>ERIKA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 1126,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>ERIKA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093260,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1125,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Erigeron karvinskianus DC.",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093259,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4161,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Erigeron karvinskianus est une plante herbacée vivace basse, très ramifiée, qui ne dépasse pas 30 cm de haut. Ses tiges grêles sont soit prostrées, stolonifères et radicantes, soit dressées et florifères. Les feuilles simples et alternes, subsessiles, sont elliptiques. Les supérieures sont larges, découpées en 3 à 5 lobes ; les supérieures sont étroites, entières ou bidentées. L’inflorescence est un capitule à fleurs centrales tubulées jaunes et à fleurs du pourtour ligulées, à ligule étroites, roses puis blanches. Le fruit est un akène ellipsoïde comprimé, de couleur brun pâle, surmonté d’un pappus formé de 2 rangées de soies.</p>",
+dateCreated: "2015-03-19T11:36:21Z",
+lastUpdated: "2015-03-19T11:36:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764981661,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4152,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>ERIKA</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:36:20Z",
+lastUpdated: "2015-03-19T11:36:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764980298,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4156,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Erigeron karvinskianus est une plante herbacée vivace basse, très ramifiée, qui ne dépasse pas 30 cm de haut. Ses tiges grêles sont soit prostrées, stolonifères et radicantes, soit dressées et florifères. Les feuilles simples et alternes, subsessiles, sont elliptiques. Les supérieures sont larges, découpées en 3 à 5 lobes ; les supérieures sont étroites, entières ou bidentées. L’inflorescence est un capitule à fleurs centrales tubulées jaunes et à fleurs du pourtour ligulées, à ligule étroites, roses puis blanches. Le fruit est un akène ellipsoïde comprimé, de couleur brun pâle, surmonté d’un pappus formé de 2 rangées de soies.</p><h6>Port</h6><p>Plante herbacée vivace basse, de 20 à 30 cm de haut, très ramifiée, formant des tapis.</p><h6>Système Souterrain</h6><p>La racine est pivotante.</p><h6>Tige</h6><p>Les tiges, grêles, sont de 2 types : prostrées, stolonifères, s’enracinant aux nœuds ou dressées florifères. Elles sont faiblement pubescentes (pubescence clairsemée).</p><h6>Feuille</h6><p>Les feuilles sont simples et alternes, presque sessiles, elliptiques, de 0,5 à 5 cm de long et 0,1 à 2 cm de large, rétrécies aux 2 extrémités. Les feuilles inférieures sont larges, découpées en 3 à 5 lobes obtus mucronés. Les feuilles supérieures sont entières ou bidentées, pourvues d’une pubescence clairsemée.</p><h6>Inflorescence</h6><p>Les capitules, en général solitaires, sont portés par de longs pédoncules terminaux, atteignant 9 cm de long, généralement sans bractées. Le capitule, hémisphérique, mesure 1,5 cm de diamètre. Les bractées de l’involucre (50 à 80) sont disposées sur plus ou moins 2 rangs, les externes un peu plus courtes que les internes. Elles sont linéaires, terminées en pointe, de 3 à 4 mm de long, couvertes d’une pubescence clairsemée, à marge scarieuse. Le réceptacle (2,5 à 4 mm de diamètre) est convexe.</p><h6>Fleur</h6><p>Les fleurs externes ligulées (6,5 à 8,5 mm de long et 0,5 à 1 mm de large), sont d’abord de couleur rose, puis deviennent blanches. Les fleurs internes tubulaires (3 mm de long), courtement lobées, sont de couleur jaune. L’ovaire est surmonté d’un style étroit terminé par un stigmate bifide.</p><h6>Fruit</h6><p>Le fruit est un akène ellipsoïde comprimé, de 1 à 1,5 mm de long, de couleur brun pâle, à surface parcourue par 2 nervures, couverte de courts poils dressés. Il porte un pappus formé de 2 rangées de soies scabres de 2 à 3 mm de long et quelques-unes plus courtes.</p>",
+dateCreated: "2015-03-19T11:36:20Z",
+lastUpdated: "2015-03-19T11:36:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764980584,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4157,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Erigeron karvinskianus DC.",
+dateCreated: "2015-03-19T11:36:20Z",
+lastUpdated: "2015-03-19T11:36:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764980687,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4158,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Amérique Centrale et Amérique du Sud (Mexique au Venezuela, Chili et Antilles).</p><h6>Distribution Mondiale</h6><p>La Réunion, Nouvelle-Zélande, Hawaii, Europe.</p>",
+dateCreated: "2015-03-19T11:36:20Z",
+lastUpdated: "2015-03-19T11:36:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764980777,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4160,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Erigeron karvinskianus croît dans les fissures de rochers, et les milieux perturbés modérément humides. Présent en milieu agricole, forêts naturelles, bord de rivières, bords de routes, milieu urbain et zones humides.<br>",
+dateCreated: "2015-03-19T11:36:20Z",
+lastUpdated: "2015-03-19T11:36:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764980922,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4159,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Amérique Centrale et Amérique du Sud (Mexique au Venezuela, Chili et Antilles).</p><h6>Distribution Mondiale</h6><p>La Réunion, Nouvelle-Zélande, Hawaii, Europe.</p>",
+dateCreated: "2015-03-19T11:36:20Z",
+lastUpdated: "2015-03-19T11:36:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764980850,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4155,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:20Z",
+lastUpdated: "2015-03-29T08:47:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764980448,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4154,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:20Z",
+lastUpdated: "2015-03-30T04:26:44Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.issg.org/database/species/ecology.asp?si=1278&fr=1&sts=sss&lang=FR"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764980448,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4153,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:36:20Z",
+lastUpdated: "2015-04-03T02:17:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.hear.org/pier/species/erigeron_karvinskianus.htm"
+},
+{
+title: "Bosser J. , Guéno J. , Jeffrey C., 1993. Flore des Mascareignes, Vol. 109 Composées. in Antoine R , Bosser J. & Ferguson I.K. ed. Flore des Mascareignes, La Réunion, Maurice, Rodrigues. MSIRI, Maurice, IRD, France, RBG, UK."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764980447,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3044,
+url: "http://portal.wikwio.org/biodiv/img//Erigeron karvinskianus/erika_010404_083954.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Erigeron karvinskianus/erika_010404_083954_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:28Z",
+rating: 0
+},
+{
+id: 3045,
+url: "http://portal.wikwio.org/biodiv/img//Erigeron karvinskianus/erika_010404_083726.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Erigeron karvinskianus/erika_010404_083726_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:28Z",
+rating: 0
+},
+{
+id: 3046,
+url: "http://portal.wikwio.org/biodiv/img//Erigeron karvinskianus/erika_010404_071014.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Erigeron karvinskianus/erika_010404_071014_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:28Z",
+rating: 0
+},
+{
+id: 3047,
+url: "http://portal.wikwio.org/biodiv/img//Erigeron karvinskianus/erika_20090609_200424.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Erigeron karvinskianus/erika_20090609_200424_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:28Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

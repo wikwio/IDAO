@@ -1,0 +1,2021 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 76,
+title: "<i>Corchorus olitorius </i>L. ",
+taxonConcept: {
+id: 179,
+name: "Corchorus olitorius L.",
+canonicalForm: "Corchorus olitorius",
+italicisedForm: "<i>Corchorus olitorius </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 14,
+name: "Malvaceae",
+canonicalForm: "Malvaceae",
+italicisedForm: "<i>Malvaceae</i>",
+rank: "Family"
+},
+{
+id: 177,
+name: "Corchorus",
+canonicalForm: "Corchorus",
+italicisedForm: "<i>Corchorus</i>",
+rank: "Genus"
+},
+{
+id: 179,
+name: "Corchorus olitorius L.",
+canonicalForm: "Corchorus olitorius",
+italicisedForm: "<i>Corchorus olitorius </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 1837,
+name: "Corchorus catharticus Blanco",
+canonicalForm: "Corchorus catharticus",
+italicisedForm: "<i>Corchorus catharticus </i>Blanco ",
+taxonConcept: {
+id: 179
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1838,
+name: "Corchorus decemangularis Roxb. ex G.Don",
+canonicalForm: "Corchorus decemangularis",
+italicisedForm: "<i>Corchorus decemangularis </i>Roxb.<i> ex </i>G.Don ",
+taxonConcept: {
+id: 179
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1839,
+name: "Corchorus longicarpus G.Don",
+canonicalForm: "Corchorus longicarpus",
+italicisedForm: "<i>Corchorus longicarpus </i>G.Don ",
+taxonConcept: {
+id: 179
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1840,
+name: "Corchorus malchairii De Wild.",
+canonicalForm: "Corchorus malchairii",
+italicisedForm: "<i>Corchorus malchairii </i>De Wild. ",
+taxonConcept: {
+id: 179
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1841,
+name: "Corchorus olitorius var. australiensis Domin",
+canonicalForm: "Corchorus olitorius australiensis",
+italicisedForm: "<i>Corchorus olitorius </i>var.<i> australiensis </i>Domin ",
+taxonConcept: {
+id: 179
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1842,
+name: "Corchorus olitorius f. grandifolius De Wild.",
+canonicalForm: "Corchorus olitorius grandifolius",
+italicisedForm: "<i>Corchorus olitorius </i>f.<i> grandifolius </i>De Wild. ",
+taxonConcept: {
+id: 179
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1843,
+name: "Corchorus olitorius var. incisifolius Asch. & Schweinf.",
+canonicalForm: "Corchorus olitorius incisifolius",
+italicisedForm: "<i>Corchorus olitorius </i>var.<i> incisifolius </i>Asch.<i> & </i>Schweinf. ",
+taxonConcept: {
+id: 179
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1844,
+name: "Corchorus quinquelocularis Moench",
+canonicalForm: "Corchorus quinquelocularis",
+italicisedForm: "<i>Corchorus quinquelocularis </i>Moench ",
+taxonConcept: {
+id: 179
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:11:25Z",
+lastRevised: "2015-03-19T11:15:04Z",
+thumbnail: "http://portal.wikwio.org/biodiv/group_icons/speciesGroups/plants_th1.png",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CRGOL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CRGOL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 636,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CRGOL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718556,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 640,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>First Leaves</h6><p>The first leaves are simple and alternate, petiolated and stipulated. The lamina is elliptic lanceolated, marked with 5 to 7 peers of secondary nerves. Margin is toothed and the first pair of teeth is bent back behind and prolonged by a strand. The stem and leaves are hairless.</p><h6>Leaf</h6><p>Simple, alternate and light green; lamina lanceolate, 6 to 10cm long and 2 to 4cm wide, margins serrate, tip acute or acuminate, base narrowed with two lower teeth prolonged into fine, pointed purple auricles; venation pinnate and 3 basal nerves, including the distinct midnerve, glabrous on both sides. Petioles dorsally villous and light green, often with red-brownish; ventrally glabrous and light green, 20-55mm long. Stipules linear-lanceolate, tip subulate, basifixed, glabrous, dark red, 4 to 7mm persistent.</p><h6>General Habit</h6><p>Erected, fairly branched, especially at the base. It measures until 1.50 m tall, when grown for fibres the stem may reach 4 m.</p><h6>Underground System</h6><p>Taproot.</p><h6>Fruit</h6><p>Capsule dehiscent, spindle-shaped, pentagonal in transversal section, with 5 valves and 10-ridged. They measure from 2 to 8cm long, to the summit present a long thick beak from 5 to 10mm. Every capsule contains a great number of seeds.</p><h6>Seed</h6><p>25 to 40 seeds per chamber, 140 to 200 in each fruit, pyramidal, with color varying from greyish-blue or green to brownish-black.</p><h6>Global Description</h6><p>C. olitorius is an erected annual plant, being able to reach 1.5 m of height, with simple, alternate leaves, petiolated and stipulated. The limb is toothed and is characterized by first two teeth prolonged by a strand. The flowers are solitary, big, set against leaves, yellow and with numerous stamens. The fruit is a spindle-shaped capsule, opening in 5 valves containing numerous seeds. C. olitorius become importing in world agriculture not only like a weed but also for their stem bast fibers (jute), which rank the second only to cotton as world vegetable fibers. The largest production area of Corchorus jute has always been in the Ganges-Brahmaputra Delta. Plants and seeds contain physiologically active glycosides that are of interest for treating patients with cronic cardiac insufficiency.</p><h6>Inflorescence</h6><p>Solitary or in 2 flowered cymes, opposite the leaf. Petals 5, free and yellow. Stamens 10 to many, free, filaments short, anthers small, bilobed. Style short.</p><h6>Cotyledons</h6><p>Cotyledons are circular or ovals with a petiole 5mm in long. Lamina 5mm long and 4mm wide, the summit and the base of the limb are rounded off, the limb is marked with three nerves leaving from the base.</p><h6>Stem</h6><p>Terete and full, sturdy, hairless, green and often with a faint red-brownish hue; sometimes slightly woody at the base.</p>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718561,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 633,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Corchorus olitorius L.",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718554,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 635,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "C. olitorius is an annual plant; it multiplies only by seeds.<br>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718556,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 639,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "C. olitorius spread out in all tropical regions. It seems not to has any particular preferences of soils, as long as humidity is sufficient. It develops preferment on well structured soils with good fertility, of which the rates of clay and silt sound important. On the other hand it is rare on degraded soils with a sandy superficial horizon and with weak fertility. This plant may be only 30cm tall, quick maturing, and quite branched. It is frequent in the traditional cultures where cultural activities are realized manually because, being very appreciated for the human supply, it is more or less respected during hoeing and cultivated sometimes around villages.<br>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718560,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 641,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>In India, it is a weed in upland and transplanted rice, maize, soybeans, sorghum and peanuts. In Bangladesh and India is also present in sugarcane fields.</p>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718561,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 634,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>- Chemical Post-emergence application of 2_4-D at 500 g/ha.</p>",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2014-09-24T17:11:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718555,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 642,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2015-02-19T21:25:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "- Grard P., Le Bourgeois T., Merlier H. 1996. Adventrop - Doc V.1.1. Les adventices d'Afrique soudano-sahélienne. CD-Rom, Cirad-Ca. Montpellier, France."
+},
+{
+title: "- Holm L., Doll J., Holm E., Pancho J., Herberger J. 1997. World weeds. Natural Histories and Distribution. John Wiley & Sons. New York."
+},
+{
+title: "- Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718561,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 637,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2015-03-25T11:26:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "- Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+},
+{
+title: "- Holm L., Doll J., Holm E., Pancho J., Herberger J. 1997. World weeds. Natural Histories and Distribution. John Wiley & Sons. New York."
+},
+{
+title: "- Holm L., Doll J., Holm E., Pancho J., Herberger J. 1997. World weeds. Natural Histories and Distribution. John Wiley & Sons. New York."
+},
+{
+title: "- Grard P., Le Bourgeois T., Merlier H. 1996. Adventrop - Doc V.1.1. Les adventices d'Afrique soudano-sahélienne. CD-Rom, Cirad-Ca. Montpellier, France."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718556,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 638,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:11:58Z",
+lastUpdated: "2015-04-12T17:06:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "- Holm L., Doll J., Holm E., Pancho J., Herberger J. 1997. World weeds. Natural Histories and Distribution. John Wiley & Sons. New York."
+},
+{
+title: "- Grard P., Le Bourgeois T., Merlier H. 1996. Adventrop - Doc V.1.1. Les adventices d'Afrique soudano-sahélienne. CD-Rom, Cirad-Ca. Montpellier, France."
+},
+{
+title: "- Merlier H., Montégut J. 1982. Adventices Tropicales. Flore aux stades plantule et adulte de 123 espèces africaines ou pantropicales. Orstom, Cirad-Gerdat, Ensh. Montpellier, France."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578718558,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3453,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Corchorus olitorius est une plante dressée, aux feuilles simples, alternes, pétiolées et stipulées. Le limbe est lancéolé, à marge dentée. La première dent de la base est recourbée en arrière et prolongée par un filament. Les fleurs sont solitaires, opposées aux pétioles. Elles sont grandes, de couleur jaune, aux sépales et pétales libres et comprenant de nombreuses étamines. Le fruit est une capsule fusiforme, s'ouvrant en 5 valves et contenant de nombreuses graines pyramidales.</p>",
+dateCreated: "2015-03-19T11:15:03Z",
+lastUpdated: "2015-03-19T11:15:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763703831,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3432,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CRGOL</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:14:56Z",
+lastUpdated: "2015-03-19T11:14:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763696172,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3444,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Corchorus olitorius est une plante dressée, aux feuilles simples, alternes, pétiolées et stipulées. Le limbe est lancéolé, à marge dentée. La première dent de la base est recourbée en arrière et prolongée par un filament. Les fleurs sont solitaires, opposées aux pétioles. Elles sont grandes, de couleur jaune, aux sépales et pétales libres et comprenant de nombreuses étamines. Le fruit est une capsule fusiforme, s'ouvrant en 5 valves et contenant de nombreuses graines pyramidales.</p><h6>Cotylédons</h6><p>Les cotylédons sont orbiculaires à ovales. Ils sont portés par un pétiole long de 5 mm. Le limbe est long de 5 mm et large de 4 mm. Le sommet et la base du limbe sont arrondis. Le limbe est marqué de 3 nervures partant de la base.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont simples et alternes. Elles sont pétiolées et encadrées par des stipules linéaires. Le limbe est elliptique lancéolé, long de 2 à 4 cm et large de 6 à 10 mm. Il est marqué de 5 à 7 paires de nervures secondaires. La marge est dentée. La première dent, de chaque côté de la base du limbe, est recourbée en arrière et prolongée par un filament. La tige et les feuilles sont glabres.</p><h6>Port</h6><p>Le port est dressé. La plante est moyennement ramifiée, surtout à la base. Elle mesure jusqu'à 1,5 m de hauteur.</p><h6>Système Souterrain</h6><p>La racine est pivotante.</p><h6>Tige</h6><p>La tige est cylindrique et pleine. Elle est robuste et glabre, parfois subligneuse à la base.</p><h6>Feuille</h6><p>Les feuilles sont simples et alternes. Elles sont portées par un pétiole long de 5 à 15 mm. Le pétiole est finement pubescent, encadré à la base par deux stipules linéaires, longues de 4 à 7 mm et rapidement caduques. Le limbe est lancéolé, au sommet en coin large et à la base en coin large ou tronquée. Il est long de 6 à 10 cm et large de 2 à 4 cm. La marge est dentée. La première dent, à la base du limbe, est recourbée en arrière et prolongée par un filament pouvant mesurer 10 mm de long et de couleur pourpre. Le limbe est trinervé à la base et marqué de nombreuses paires de nervures secondaires. Les deux faces sont glabres. Les feuilles sont de couleur vert brillant.</p><h6>Inflorescence</h6><p>Les fleurs sont solitaires, opposées aux pétioles.</p><h6>Fleur</h6><p>Les fleurs sont portées par un court pédoncule de 1 mm. Le calice est formé de 5 sépales libres, de forme linéaire, au sommet longuement atténué. Ils sont longs de 5 mm. La corolle est formée de 5 pétales libres au sommet arrondi et à base étroite, longs de 5 mm. La corolle est de couleur jaune. Les étamines sont très nombreuses. L'ovaire est oblong, surmonté d'un court style.</p><h6>Fruit</h6><p>Le fruit est une capsule déhiscente, fusiforme, à section transversale pentagonale et comprenant 5 valves. Les capsules sont striées longitudinalement. Elles mesurent 2 à 8 cm de long et présentent, au sommet, un bec épais et long de 5 à 10 mm. La paroi externe est glabre. Chaque capsule renferme un grand nombre de graines.</p><h6>Graine</h6><p>Les graines sont de forme pyramidale. Elles mesurent 2 mm de long et 1,5 mm de large. Le tégument est lisse et de couleur brun foncé.</p>",
+dateCreated: "2015-03-19T11:14:59Z",
+lastUpdated: "2015-03-19T11:14:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763699097,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3446,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Corchorus olitorius L.",
+dateCreated: "2015-03-19T11:14:59Z",
+lastUpdated: "2015-03-19T11:14:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763699776,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3445,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : C. olitorius peut être présente tout au long du cycle cultural dans les régions à forte pluviométrie. Dans les régions plus sèches à pluviométrie tardive, elle se développe principalement en milieu et en fin de cycle cultural. En région soudano-sahélienne, la germination débute en mai, indépendamment du travail du sol. Cette phase de germination dure 2 à 3 semaines. Tout travail du sol est suivi de nouvelles périodes courtes de levée, jusqu'en août. Quelle que soit la période de germination, la floraison commence fin août-début septembre, avec la réduction de la photopériode. La fructification se produit très rapidement après la floraison pour les individus issus de germination précoce ; toutefois, elle est généralement retardée au début du mois d'octobre pour les individus issus de germinations tardives et encore peu développés.<br>",
+dateCreated: "2015-03-19T11:14:59Z",
+lastUpdated: "2015-03-19T11:14:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763699426,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3450,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. olitorius est une espèce annuelle. Elle se multiplie uniquement par graines.<br>",
+dateCreated: "2015-03-19T11:15:01Z",
+lastUpdated: "2015-03-19T11:15:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763701133,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3447,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>C. olitorius est répandue dans toutes les régions tropicales.</p>",
+dateCreated: "2015-03-19T11:15:00Z",
+lastUpdated: "2015-03-19T11:15:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763700126,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3443,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Corchorus olitorius peut être confondue, au stade végétatif, avec C. tridens L. dont les feuilles sont plus étroites. En fruit, les capsules de C. tridens sont groupées en faisceaux, étroites et surmontées par un court bec à 3 dents.<br>",
+dateCreated: "2015-03-19T11:14:58Z",
+lastUpdated: "2015-03-19T11:14:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763698747,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3449,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : C. olitorius ne présente pas de préférence de sol particulière tant que l'humidité est suffisante. Elle se développe préférentiellement sur les sols bien structurés et à bonne fertilité, dont les taux d'argile et de limon sont importants. Elle est particulièrement fréquente sur les sols alluviaux, les vertisols et les sols fersialitiques. En revanche, elle est rare sur les sols dégradés à horizon superficiel sableux et à faible fertilité, comme les sols ferrugineux dégradés. Cette espèce n'est jamais abondante. Comores : Espèce commune. Madagascar : Adventice peu commune qui se rencontre dans les plaines alluviales du Nord-Ouest et de l’Ouest de l’île. Maurice : Espèce très rare sur l'île. La Réunion : Cette espèce ne présente pas de préférence de sol particulière tant que l'humidité est suffisante.<br>",
+dateCreated: "2015-03-19T11:15:00Z",
+lastUpdated: "2015-03-19T11:15:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763700806,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3448,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>C. olitorius est répandue dans toutes les régions tropicales.</p>",
+dateCreated: "2015-03-19T11:15:00Z",
+lastUpdated: "2015-03-19T11:15:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763700454,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3451,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Nord-Cameroun : C. olitorius est une adventice régionale, liée à la nature du sol et présente dans 15 à 25 % des parcelles cultivées. Cette espèce n'est jamais abondante. Elle est peu fréquente dans les cultures intensives, utilisant régulièrement des herbicides de pré-levée et les sarclages mécaniques. Elle est fréquente dans les cultures traditionnelles où les opérations culturales sont réalisées manuellement car, étant très appréciée pour l'alimentation humaine, elle est plus ou moins respectée lors des sarclages. Elle est parfois cultivée dans les concessions ou autour des villages. Comores : Adventice commune dans les cultures pluviales recevant de la fumure. Madagascar : Adventice qui peut être nuisible dans certaines cultures. Maurice : Cette espèce n'est pas présente dans les cultures. La Réunion : Cette espèce n'est pas présente dans les cultures.</p>",
+dateCreated: "2015-03-19T11:15:01Z",
+lastUpdated: "2015-03-19T11:15:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763701483,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3454,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Usages</h6><p>C. olitorius est parfois cultivée dans les concessions ou autour des villages. Utilisée comme plante alimentaire. Bénin : C. olitorius est considérée comme une plante maraîchère sous le nom de crin-crin. La forme cultivée est morphologiquement différente de la forme sauvage, notamment par les feuilles qui sont plus découpées. Les feuilles sont utilisées pour faire une sauce gluante. Madagascar : Les feuilles peuvent être consommées mais les graines sont toxiques. Utilisée en pharmacopée : antibiotique et antivirale.</p>",
+dateCreated: "2015-03-19T11:15:04Z",
+lastUpdated: "2015-03-19T11:15:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763704101,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3452,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>Conseils de gestion des adventices annuelles à feuilles larges en riz irrigué : http://portal.wikwio.org/document/show/19</p><h6>Lutte Locale</h6><p>Madagascar : C. olitorius est peu envahissante, en général peu nuisible. Le travail du sol déclenche la germination des graines. C. olitorus est facilement contrôlé au 2,4-D.</p>",
+dateCreated: "2015-03-19T11:15:01Z",
+lastUpdated: "2015-03-19T11:15:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763701903,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3440,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:14:58Z",
+lastUpdated: "2015-03-31T06:52:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Merlier H. & Montégut J., 1982. Adventices tropicales. ORSTOM-GERDAT-ENSH éd., Montpellier, France, 490 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763698260,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3439,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:14:58Z",
+lastUpdated: "2015-03-31T06:52:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois Th., 1993. Les mauvaises herbes dans la rotation cotonnière au Nord-Cameroun (Afrique) - Amplitude d'habitat et degré d'infestation - Cycle de développement. Thèse USTL Montpellier II, Montpellier, France, 241 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763698260,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3438,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:14:58Z",
+lastUpdated: "2015-03-31T06:52:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763698260,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3437,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:14:58Z",
+lastUpdated: "2015-03-31T06:52:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763698259,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3436,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:14:58Z",
+lastUpdated: "2015-03-31T06:52:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., Moody K. & Egunjobi J. K., 1978. West African Weeds. Oxford University Press, Ibadan, Nigeria, 255 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763698259,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3435,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:14:58Z",
+lastUpdated: "2015-03-31T06:52:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hutchinson J., Dalziel J. M., Keay R. W. J. & Hepper F. N., 1958. Flora of West Tropical Africa. Vol. I part. 2. 2ème éd. The Whitefriars Press ed., London & Tonbridge, 828 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763698259,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3434,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:14:58Z",
+lastUpdated: "2015-03-31T06:52:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Braun M., Burgstaller H., Hamdoun A. M. & Walter H., 1991. Common weeds of Central Sudan. GTZ, Verlag Josef Margraf ed. Scientific Book, Weikersheim, Germany, 329 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763698259,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3433,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:14:58Z",
+lastUpdated: "2015-03-31T06:52:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763698258,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3442,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:14:58Z",
+lastUpdated: "2015-03-31T06:52:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/c/crgol/crgol_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763698260,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3441,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:14:58Z",
+lastUpdated: "2015-03-31T06:52:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763698260,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [ ],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

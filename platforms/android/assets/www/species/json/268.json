@@ -1,0 +1,847 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 268,
+title: "<i>Pycreus mundtii </i>Nees ",
+taxonConcept: {
+id: 514,
+name: "Pycreus mundtii Nees",
+canonicalForm: "Pycreus mundtii",
+italicisedForm: "<i>Pycreus mundtii </i>Nees ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 10,
+name: "Cyperaceae",
+canonicalForm: "Cyperaceae",
+italicisedForm: "<i>Cyperaceae</i>",
+rank: "Family"
+},
+{
+id: 512,
+name: "Pycreus",
+canonicalForm: "Pycreus",
+italicisedForm: "<i>Pycreus</i>",
+rank: "Genus"
+},
+{
+id: 514,
+name: "Pycreus mundtii Nees",
+canonicalForm: "Pycreus mundtii",
+italicisedForm: "<i>Pycreus mundtii </i>Nees ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 5685,
+name: "Cyperus turfosus Salzmann ex Daveau",
+canonicalForm: "Cyperus turfosus",
+italicisedForm: "<i>Cyperus turfosus </i>Salzmann<i> ex </i>Daveau ",
+taxonConcept: {
+id: 514
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5686,
+name: "Pycreus densifolius Nees",
+canonicalForm: "Pycreus densifolius",
+italicisedForm: "<i>Pycreus densifolius </i>Nees ",
+taxonConcept: {
+id: 514
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1278,
+name: "Donadona",
+taxonConcept: {
+id: 514
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1277,
+name: "Vovokomby",
+taxonConcept: {
+id: 514
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:23:02Z",
+lastRevised: "2015-03-19T12:01:47Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060905_213141_th1.jpg",
+notes: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>PYCMU</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>PYCMU</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 1911,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>sedge</p><h6>Code</h6><p>PYCMU</p><h6>Habitat</h6><p>marshland</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T18:24:13Z",
+lastUpdated: "2014-09-24T18:24:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583053060,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1912,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Pycreus mundtii Nees",
+dateCreated: "2014-09-24T18:24:13Z",
+lastUpdated: "2014-09-24T18:24:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411583053061,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5654,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Pycreus mundti est une petite Cypéracée vivace des marais et rizières, rampante, à rhizomes longs et écailleux. Les stolons, plus ou moins ramifiés, s'enracinent aux nœuds. Les tiges sont trigones, robustes, épaisses, d'abord prostrées puis érigées, atteignant 30 à 50 cm de hauteur. Elles sont densément feuillées jusqu'à la moitié ou au 2/3 de la partie érigée. Les feuilles sont nombreuses, largement emboîtées et disposées de façon tristique, de 8 à 12 cm de long, glabres. L'inflorescence est une ombelle simple ou composée de 7 à 10 rayons subégaux, dressés ou étalés, de 3 à 5 cm de long. Elle est sous tendue par 3 à 5 bractées foliacées, généralement plus longues que l'ombelle. Les épillets sont ovales lancéolés, de 5 à 12 mm de long et de 3 à 4 mm de large, assez imbriqués, de couleur brun pâle, groupés en épis courts.</p>",
+dateCreated: "2015-03-19T12:01:47Z",
+lastUpdated: "2015-03-19T12:01:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766507832,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5647,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>PYCMU</p><h6>Type Biologique</h6><p>cyperacée</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>bas-fond humide</p>",
+dateCreated: "2015-03-19T12:01:46Z",
+lastUpdated: "2015-03-19T12:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766506170,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5649,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Pycreus mundtii</em> est une petite Cyp&eacute;rac&eacute;e vivace des marais et rizi&egrave;res, rampante, &agrave; rhizomes longs et &eacute;cailleux. Les stolons, plus ou moins ramifi&eacute;s, s&#39;enracinent aux n&oelig;uds. Les tiges sont trigones, robustes, &eacute;paisses, d&#39;abord prostr&eacute;es puis &eacute;rig&eacute;es, atteignant 30 &agrave; 50 cm de hauteur. Elles sont dens&eacute;ment feuill&eacute;es jusqu&#39;&agrave; la moiti&eacute; ou au 2/3 de la partie &eacute;rig&eacute;e. Les feuilles sont nombreuses, largement embo&icirc;t&eacute;es et dispos&eacute;es de fa&ccedil;on tristique, de 8 &agrave; 12 cm de long, glabres. L&#39;inflorescence est une ombelle simple ou compos&eacute;e de 7 &agrave; 10 rayons sub&eacute;gaux, dress&eacute;s ou &eacute;tal&eacute;s, de 3 &agrave; 5 cm de long. Elle est sous tendue par 3 &agrave; 5 bract&eacute;es foliac&eacute;es, g&eacute;n&eacute;ralement plus longues que l&#39;ombelle. Les &eacute;pillets sont ovales lanc&eacute;ol&eacute;s, de 5 &agrave; 12 mm de long et de 3 &agrave; 4 mm de large, assez imbriqu&eacute;s, de couleur brun p&acirc;le, group&eacute;s en &eacute;pis courts.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Les jeunes plantes sont issues des stolons. Premi&egrave;res feuilles &agrave; pr&eacute;foliaison enroul&eacute;e, plus ou moins teint&eacute;e de rouge violac&eacute; &agrave; la base. Le limbe est d&rsquo;abord r&eacute;duit &agrave; une pointe d&rsquo;environ 5 mm de long, qui s&rsquo;allonge jusqu&#39;&agrave; 2,5 cm sur 2,5 mm de large, dispos&eacute; obliquement selon une disposition tristique, d&rsquo;un vert luisant.</p> <h6> Port</h6> <p> Petite Cyp&eacute;rac&eacute;e rampante, &agrave; longs rhizomes &eacute;cailleux et &agrave; tiges d&#39;abord prostr&eacute;es puis &eacute;rig&eacute;es, atteignant 40 &agrave; 50 cm de haut.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Appareil souterrain est form&eacute; de rhizomes longs, assez &eacute;pais et &eacute;cailleux. Des racines adventives se d&eacute;veloppent &agrave; partir des n&oelig;uds des stolons et des rhizomes.</p> <h6> Tige</h6> <p> Tige trigone, pleine, robuste d&#39;abord prostr&eacute;e puis &eacute;rig&eacute;e, dens&eacute;ment feuill&eacute;e jusqu&#39;&agrave; la moiti&eacute; ou aux deux tiers de sa hauteur.</p> <h6> Feuille</h6> <p> Feuilles simples, alternes, nombreuses, engainantes, embo&icirc;t&eacute;es, dispos&eacute;es de fa&ccedil;on tristique. La gaine est assez longue (1 &agrave; 2 cm), foliac&eacute;e dorsalement et membraneuse ventralement. Les gaines embo&icirc;t&eacute;es couvrent les 2/3 inf&eacute;rieurs de la partie &eacute;rig&eacute;e de la tige. Le limbe est &eacute;tal&eacute;, plan, de 8 &agrave; 10 cm de long et de 4 &agrave; 7 mm de large, effil&eacute; en coin aigu au sommet. Les deux faces sont glabres. La marge est enti&egrave;re et lisse.</p> <h6> Inflorescence</h6> <p> Inflorescence en ombelle simple ou compos&eacute;e comprenant 7 &agrave; 10 rayons sub&eacute;gaux, plus ou moins &eacute;tal&eacute;s, de 3 &agrave; 5 cm de long. Les 3 &agrave; 5 bract&eacute;es involucrales foliac&eacute;es, sont plus longues que l&#39;ombelle, de 4 &agrave; 7 cm. Epis courts form&eacute;s de 6 &agrave; 12 &eacute;pillets. Epillets ovales lanc&eacute;ol&eacute;s, de 5 &agrave; 12 mm de long et de 3 &agrave; 4 mm de large, assez imbriqu&eacute;s, &agrave; glumes largement ovales, de 2,5 mm de long, &agrave; sommet obtus ou sub&eacute;margin&eacute;, non mucron&eacute;, de couleur brun p&acirc;le.</p> <h6> Fruit</h6> <p> Le fruit est un ak&egrave;ne ellipso&iuml;de biconvexe, non zon&eacute; transversalement, de couleur brun vert, de 0,7 mm de long, &eacute;galant &agrave; peine le 1/3 de la glume.</p> ",
+dateCreated: "2015-03-19T12:01:46Z",
+lastUpdated: "2015-04-29T08:57:44Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766506609,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5650,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Pycreus mundtii Nees",
+dateCreated: "2015-03-19T12:01:46Z",
+lastUpdated: "2015-03-19T12:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766506819,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5652,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Pycreus mundtii</em> est une herbe vivace qui se propage essentiellement par fragmentation des stolons et des rhizomes. Sa multiplication peut &ecirc;tre favoris&eacute;e par le travail superficiel du sol.<br /> ",
+dateCreated: "2015-03-19T12:01:47Z",
+lastUpdated: "2015-04-29T08:58:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766507265,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5651,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: Absente.<br /> <strong>Madagascar </strong>: <em>Pycreus mundtii</em> est une esp&egrave;ce tr&egrave;s commune des marais, des tourbi&egrave;res, des rizi&egrave;res de bas-fond, des bords des lacs, des canaux et des ruisseaux, jusqu&#39;&agrave; 1000 m d&#39;altitude &agrave; Madagascar. Elle est souvent en association avec <em>Leersia hexandra</em>. Dans les rizi&egrave;res, elle s&rsquo;installe de pr&eacute;f&eacute;rence sur les sols plus ou moins tourbeux, assez difficiles &agrave; drainer en saison s&egrave;che.<br /> <strong>Maurice </strong>: Absente.<br /> <strong>La R&eacute;union</strong> : Absente.<br /> <strong>Seychelles </strong>: Absente.<br /> ",
+dateCreated: "2015-03-19T12:01:47Z",
+lastUpdated: "2015-04-29T08:59:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766507112,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5653,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>: Absente.<br /> <strong>Madagascar </strong>: <em>Pycreus mundtii</em> est une Cyp&eacute;rac&eacute;e vivace, commune, envahissant les rizi&egrave;res basses ou en t&ecirc;te de bas-fonds ayant un probl&egrave;me de drainage, &agrave; sol plus ou moins tourbeux. C&rsquo;est une adventice localement abondante, formant souvent un peuplement dense et &eacute;pais rendant la pr&eacute;paration du sol tr&egrave;s difficile.<br /> <strong>Maurice </strong>: Absente.<br /> <strong>La R&eacute;union</strong> : Absente.<br /> <strong>Seychelles </strong>: Absente.</p> ",
+dateCreated: "2015-03-19T12:01:47Z",
+lastUpdated: "2015-04-29T09:00:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766507416,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5648,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:01:46Z",
+lastUpdated: "2015-03-28T03:55:19Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766506320,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 5683,
+url: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060905_213141.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060905_213141_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:23:11Z",
+rating: 0
+},
+{
+id: 5684,
+url: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060904_070528.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060904_070528_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:23:11Z",
+rating: 0
+},
+{
+id: 5685,
+url: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060911_210147.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060911_210147_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:23:11Z",
+rating: 0
+},
+{
+id: 5686,
+url: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060916_150651.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060916_150651_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:23:12Z",
+rating: 0
+},
+{
+id: 5687,
+url: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060905_010634.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060905_010634_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:23:12Z",
+rating: 0
+},
+{
+id: 5688,
+url: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060905_003520.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060905_003520_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:23:12Z",
+rating: 0
+},
+{
+id: 5689,
+url: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060905_213405.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060905_213405_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:23:12Z",
+rating: 0
+},
+{
+id: 5690,
+url: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060902_041626.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060902_041626_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:23:12Z",
+rating: 0
+},
+{
+id: 5691,
+url: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060905_210750.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060905_210750_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:23:13Z",
+rating: 0
+},
+{
+id: 5692,
+url: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060912_201015.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060912_201015_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:23:13Z",
+rating: 0
+},
+{
+id: 5693,
+url: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060916_150407.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060916_150407_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:23:13Z",
+rating: 0
+},
+{
+id: 5694,
+url: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060905_010634_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060905_010634_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:23:13Z",
+rating: 0
+},
+{
+id: 5695,
+url: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060912_212803.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Pycreus mundtii/pycmu_20060912_212803_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:23:13Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

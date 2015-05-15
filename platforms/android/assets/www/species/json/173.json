@@ -1,0 +1,1132 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 173,
+title: "<i>Ipomoea obscura (</i>L.<i>) </i>Ker-Gawler ",
+taxonConcept: {
+id: 338,
+name: "Ipomoea obscura (L.) Ker-Gawler",
+canonicalForm: "Ipomoea obscura",
+italicisedForm: "<i>Ipomoea obscura (</i>L.<i>) </i>Ker-Gawler ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 78,
+name: "Convolvulaceae",
+canonicalForm: "Convolvulaceae",
+italicisedForm: "<i>Convolvulaceae</i>",
+rank: "Family"
+},
+{
+id: 330,
+name: "Ipomoea",
+canonicalForm: "Ipomoea",
+italicisedForm: "<i>Ipomoea</i>",
+rank: "Genus"
+},
+{
+id: 338,
+name: "Ipomoea obscura (L.) Ker-Gawler",
+canonicalForm: "Ipomoea obscura",
+italicisedForm: "<i>Ipomoea obscura (</i>L.<i>) </i>Ker-Gawler ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 3993,
+name: "Convolvulus obscurus L.",
+canonicalForm: "Convolvulus obscurus",
+italicisedForm: "<i>Convolvulus obscurus </i>L. ",
+taxonConcept: {
+id: 338
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3994,
+name: "Convolvulus ochraceus Lindl.",
+canonicalForm: "Convolvulus ochraceus",
+italicisedForm: "<i>Convolvulus ochraceus </i>Lindl. ",
+taxonConcept: {
+id: 338
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3995,
+name: "Convolvulus trichocalyx Schumach. & Thonn.",
+canonicalForm: "Convolvulus trichocalyx",
+italicisedForm: "<i>Convolvulus trichocalyx </i>Schumach.<i> & </i>Thonn. ",
+taxonConcept: {
+id: 338
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3996,
+name: "Ipomoea demissa Hallier f.",
+canonicalForm: "Ipomoea demissa",
+italicisedForm: "<i>Ipomoea demissa </i>Hallier f. ",
+taxonConcept: {
+id: 338
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3997,
+name: "Ipomoea fragilis Choisy",
+canonicalForm: "Ipomoea fragilis",
+italicisedForm: "<i>Ipomoea fragilis </i>Choisy ",
+taxonConcept: {
+id: 338
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3998,
+name: "Ipomoea insuavis Blume",
+canonicalForm: "Ipomoea insuavis",
+italicisedForm: "<i>Ipomoea insuavis </i>Blume ",
+taxonConcept: {
+id: 338
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3999,
+name: "Ipomoea kentrocarpa Hochst. ex A. Rich.",
+canonicalForm: "Ipomoea kentrocarpa",
+italicisedForm: "<i>Ipomoea kentrocarpa </i>Hochst.<i> ex </i>A. Rich. ",
+taxonConcept: {
+id: 338
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4000,
+name: "Ipomoea obscura var. fragilis (Choisy) A. Meeuse",
+canonicalForm: "Ipomoea obscura fragilis",
+italicisedForm: "<i>Ipomoea obscura </i>var.<i> fragilis (</i>Choisy<i>) </i>A. Meeuse ",
+taxonConcept: {
+id: 338
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4001,
+name: "Ipomoea obscura var. obscura",
+canonicalForm: "Ipomoea obscura obscura",
+italicisedForm: "<i>Ipomoea obscura </i>var.<i> obscura</i>",
+taxonConcept: {
+id: 338
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 885,
+name: "Oviala",
+taxonConcept: {
+id: 338
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 883,
+name: "Voafo",
+taxonConcept: {
+id: 338
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 882,
+name: "Titoupi",
+taxonConcept: {
+id: 338
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 884,
+name: "Ipamlendje",
+taxonConcept: {
+id: 338
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:45:38Z",
+lastRevised: "2015-03-19T11:40:58Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051113_154943_th1.jpg",
+notes: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>IPOOB</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>IPOOB</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1366,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>IPOOB</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2014-09-24T17:47:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841197,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1367,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Ipomoea obscura (L.) Ker-Gawler",
+dateCreated: "2014-09-24T17:47:21Z",
+lastUpdated: "2014-09-24T17:47:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580841198,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4600,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Ipomoea obscura est une liane herbacée volubile, grimpante, parfois traînante, pouvant mesurer 2 à 3 m de long. La tige est cylindrique, grêle, glabre ou couverte de longs poils denses. Les feuilles sont alternes, simples, entières, largement ovales à subcirculaires, à base profondément cordée et sommet effilé en pointe. Les faces sont presque sans poils, la marge est légèrement ciliée. Les fleurs sont solitaires ou par 2 au sommet d'un long pédoncule grêle. Elles ressemblent à de petites trompettes très évasées de couleur blanc crème. Le fruit de forme globuleuse est sec, contenant 4 graines grises. Il reste entouré à la base par le calice persistant.</p>",
+dateCreated: "2015-03-19T11:40:58Z",
+lastUpdated: "2015-03-19T11:40:58Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765258428,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4592,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>IPOOB</p><h6>Type Biologique</h6><p>liane</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:40:55Z",
+lastUpdated: "2015-03-19T11:40:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765255189,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4594,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Ipomoea obscura</em> est une liane herbac&eacute;e volubile, grimpante, parfois tra&icirc;nante, pouvant mesurer 2 &agrave; 3 m de long. La tige est cylindrique, gr&ecirc;le, glabre ou couverte de longs poils denses. Les feuilles sont alternes, simples, enti&egrave;res, largement ovales &agrave; subcirculaires, &agrave; base profond&eacute;ment cord&eacute;e et sommet effil&eacute; en pointe. Les faces sont presque sans poils, la marge est l&eacute;g&egrave;rement cili&eacute;e. Les fleurs sont solitaires ou par 2 au sommet d&#39;un long p&eacute;doncule gr&ecirc;le. Elles ressemblent &agrave; de petites trompettes tr&egrave;s &eacute;vas&eacute;es de couleur blanc cr&egrave;me. Le fruit de forme globuleuse est sec, contenant 4 graines grises. Il reste entour&eacute; &agrave; la base par le calice persistant.</p> <h6> Cotyl&eacute;dons</h6> <p> Les cotyl&eacute;dons sont p&eacute;tiol&eacute;s, avec un p&eacute;tiole long de 1,5 cm. Le limbe est caract&eacute;ristique, de forme g&eacute;n&eacute;rale rectangulaire allong&eacute;, de 2 cm de long et 1,5 cm de large, &agrave; base tronqu&eacute;e et sommet &eacute;chancr&eacute; jusqu&#39;&agrave; la base, s&eacute;parant totalement le limbe en 2 lobes lin&eacute;aires distincts, &agrave; base asym&eacute;trique. La nervation est marqu&eacute;e par 2 nervures palm&eacute;es partant de la base de chaque lobe et remontant presque jusqu&#39;au sommet.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Les premi&egrave;res feuilles sont simples, alternes, longuement p&eacute;tiol&eacute;es. Le p&eacute;tiole est pubescent &agrave; hispide. Le limbe est largement ovale de 3 cm de long et 2,5 cm de large, &agrave; base cord&eacute;e et sommet en coin large, la marge est enti&egrave;re, finement cili&eacute;e. Les deux faces sont subglabres.</p> <h6> Port</h6> <p> Plante herbac&eacute;e, volubile, rampante ou grimpante, mesurant 2 &agrave; 3 m de long.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est un pivot</p> <h6> Tige</h6> <p> La tige est cylindrique, pleine, volubile, de 1 &agrave; 2 mm de diam&egrave;tre, subglabre &agrave; hispide, mesurant 2 &agrave; 3 m de long.</p> <h6> Feuille</h6> <p> Les feuilles sont simples, alternes, port&eacute;es par un p&eacute;tiole de 1,5 &agrave; 3 cm de long &agrave; pubescence r&eacute;trorse. Le limbe est entier, largement ovale &agrave; subcirculaire, de 3 &agrave; 9 cm de long et 2,5 &agrave; 8 cm de large. Il est profond&eacute;ment cord&eacute; &agrave; la base, apicul&eacute; et mucron&eacute; au sommet. La marge est enti&egrave;re, finement cili&eacute;e, les deux faces sont glabres &agrave; finement pubescentes. La nervation principale est palm&eacute;e avec 5 &agrave; 9 nervures partant de la base.</p> <h6> Inflorescence</h6> <p> L&rsquo;inflorescence est axillaire, &agrave; l&rsquo;extr&eacute;mit&eacute; d&rsquo;un p&eacute;doncule long de 1 &agrave; 5 cm &agrave; pilosit&eacute; r&eacute;trorse, portant 1 &agrave; 2 fleurs.</p> <h6> Fleur</h6> <p> Chaque fleur est port&eacute;e par un p&eacute;dicelle gr&ecirc;le, de 1,5 &agrave; 2 cm de long et pileux, &agrave; la base duquel se trouve une petite bract&eacute;e, de 2 &agrave; 4 mm. Le calice est form&eacute; de 5 s&eacute;pales libres, ovales, mucron&eacute;s, de 3 &agrave; 5 mm de long. La corolle est form&eacute;e de 5 p&eacute;tales soud&eacute;s en un tube &eacute;troit puis largement &eacute;vas&eacute;, de 1,5 &agrave; 2,5 cm de long et de 2 cm de diam&egrave;tre. Elle est de couleur blanc cr&egrave;me, parfois &agrave; centre pourpre. Les 5 &eacute;tamines et le pistil restent inclus dans le tube de la corolle.</p> <h6> Fruit</h6> <p> Le fruit est une capsule globuleuse, glabre, de couleur brun clair, de 6 &agrave; 10 mm de diam&egrave;tre, apicul&eacute;e, entour&eacute;e par le calice persistant, &agrave; 2 loges et 4 valves. Elle contient 4 graines.</p> <h6> Graine</h6> <p> La graine est subtrigone, longue de 3,5 &agrave; 4,5 mm, &agrave; t&eacute;gument gris sombre, &agrave; pubescence velout&eacute;e dense.</p> ",
+dateCreated: "2015-03-19T11:40:55Z",
+lastUpdated: "2015-05-06T07:12:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765255766,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4595,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Ipomoea obscura (L.) Ker-Gawler",
+dateCreated: "2015-03-19T11:40:56Z",
+lastUpdated: "2015-03-19T11:40:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765256068,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4597,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>I. obscura</em> est une plante annuelle. Elle se multiplie par graines.<br /> ",
+dateCreated: "2015-03-19T11:40:56Z",
+lastUpdated: "2015-05-06T07:12:27Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765256649,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4596,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: <em>I. obscura</em> est une esp&egrave;ce tr&egrave;s commune jusqu&#39;&agrave; 400 m d&#39;altitude.<br /> <strong>Madagascar </strong>: Adventice commune des cultures sur br&ucirc;lis (tavy) sur le versant oriental humide.<br /> <strong>Maurice </strong>: Plante rud&eacute;rale commune sur toute l&#39;&icirc;le au bord des routes, dans les haies, les jach&egrave;res, les terrains vagues. Elle peut devenir une mauvaise herbe g&ecirc;nante dans les cultures.<br /> <strong>La R&eacute;union</strong> : Esp&egrave;ce rud&eacute;rale tr&egrave;s commune sur le bord des routes, dans les friches et les jach&egrave;res, et mauvaise herbe de nombreuses cultures. Elle se d&eacute;veloppe pr&eacute;f&eacute;rentiellement &agrave; basse altitude, mais on la retrouve jusqu&#39;&agrave; 1000 m d&#39;altitude dans le cirque de Cilaos.<br /> <strong>Seychelles </strong>: Commune en conditions agro-climatiques vari&eacute;es, &agrave; toutes les altitudes.<br /> ",
+dateCreated: "2015-03-19T11:40:56Z",
+lastUpdated: "2015-05-06T07:12:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765256428,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4598,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>: <em>I. obscura</em> est une adventice commune et parfois abondante dans les vieilles plantations.<br /> <strong>Madagascar </strong>: Elle peut &ecirc;tre tr&egrave;s nuisible pour le riz pluvial sur tavy, principale composante des syst&egrave;mes de production du versant oriental de l&rsquo;&icirc;le.<br /> <strong>Maurice </strong>: Adventice g&ecirc;nant consid&eacute;rablement le d&eacute;veloppement des cultures mara&icirc;ch&egrave;res ou la canne &agrave; sucre. Elle a une nuisibilit&eacute; moyenne &agrave; forte.<br /> <strong>La R&eacute;union</strong> : Adventice tr&egrave;s fr&eacute;quente, pr&eacute;sente globalement dans 35 % des parcelles cultiv&eacute;es de La R&eacute;union, 42 % des parcelles de canne &agrave; sucre et 55 % des parcelles d&rsquo;ananas. On la retrouve jusque dans la lentille &agrave; Cilaos. Cependant, elle est rarement tr&egrave;s abondante. A basse altitude, elle peut atteindre 30 &agrave; 50 % de recouvrement en canne &agrave; sucre, culture dans laquelle elle se d&eacute;veloppe le plus.<br /> <strong>Seychelles </strong>: I. obscura peut devenir occasionnellement une mauvaise herbe s&eacute;rieuse des cultures de tubercules, des cultures mara&icirc;ch&egrave;res et des vergers.</p> ",
+dateCreated: "2015-03-19T11:40:56Z",
+lastUpdated: "2015-05-06T07:13:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765256849,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4599,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Locale</h6> <p> <strong>La R&eacute;union</strong> :<em> I. obscura</em> est mal ma&icirc;tris&eacute;e par les herbicides utilis&eacute;s en cultures de canne &agrave; sucre.</p> ",
+dateCreated: "2015-03-19T11:40:57Z",
+lastUpdated: "2015-05-06T07:13:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765257095,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4593,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:40:55Z",
+lastUpdated: "2015-03-21T01:15:34Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765255409,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3808,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051113_154943.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051113_154943_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:48Z",
+rating: 0
+},
+{
+id: 3809,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101238.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101238_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:48Z",
+rating: 0
+},
+{
+id: 3810,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:48Z",
+rating: 0
+},
+{
+id: 3811,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:48Z",
+rating: 0
+},
+{
+id: 3812,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:48Z",
+rating: 0
+},
+{
+id: 3813,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051113_155348.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051113_155348_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:48Z",
+rating: 0
+},
+{
+id: 3814,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051112_175636.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051112_175636_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:48Z",
+rating: 0
+},
+{
+id: 3815,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051112_175552.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051112_175552_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:48Z",
+rating: 0
+},
+{
+id: 3816,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:49Z",
+rating: 0
+},
+{
+id: 3817,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051112_175610.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051112_175610_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:49Z",
+rating: 0
+},
+{
+id: 3818,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051113_155405.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051113_155405_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:49Z",
+rating: 0
+},
+{
+id: 3819,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051113_151024.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051113_151024_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:49Z",
+rating: 0
+},
+{
+id: 3820,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_10.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_10_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:49Z",
+rating: 0
+},
+{
+id: 3821,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:49Z",
+rating: 0
+},
+{
+id: 3822,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051113_155359.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051113_155359_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:49Z",
+rating: 0
+},
+{
+id: 3823,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051112_175602.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051112_175602_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:49Z",
+rating: 0
+},
+{
+id: 3824,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:50Z",
+rating: 0
+},
+{
+id: 3825,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051112_175645.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051112_175645_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:50Z",
+rating: 0
+},
+{
+id: 3826,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:50Z",
+rating: 0
+},
+{
+id: 3827,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:50Z",
+rating: 0
+},
+{
+id: 3828,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051113_151010.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20051113_151010_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:50Z",
+rating: 0
+},
+{
+id: 3829,
+url: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Ipomoea obscura/ipoob_20080609_101240_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:45:50Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

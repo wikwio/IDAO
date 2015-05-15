@@ -1,0 +1,1069 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 134,
+title: "<i>Erigeron canadensis </i>L. ",
+taxonConcept: {
+id: 272,
+name: "Erigeron canadensis L.",
+canonicalForm: "Erigeron canadensis",
+italicisedForm: "<i>Erigeron canadensis </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 24,
+name: "Asteraceae",
+canonicalForm: "Asteraceae",
+italicisedForm: "<i>Asteraceae</i>",
+rank: "Family"
+},
+{
+id: 271,
+name: "Erigeron",
+canonicalForm: "Erigeron",
+italicisedForm: "<i>Erigeron</i>",
+rank: "Genus"
+},
+{
+id: 272,
+name: "Erigeron canadensis L.",
+canonicalForm: "Erigeron canadensis",
+italicisedForm: "<i>Erigeron canadensis </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 3197,
+name: "Aster canadensis (L.) E.H.L.Krause [Illegitimate]",
+canonicalForm: "Aster canadensis",
+italicisedForm: "<i>Aster canadensis (</i>L.<i>) </i>E.H.L.Krause<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3198,
+name: "Caenotus canadensis (L.) Raf.",
+canonicalForm: "Caenotus canadensis",
+italicisedForm: "<i>Caenotus canadensis (</i>L.<i>) </i>Raf. ",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3199,
+name: "Caenotus pusillus (Nutt.) Raf.",
+canonicalForm: "Caenotus pusillus",
+italicisedForm: "<i>Caenotus pusillus (</i>Nutt.<i>) </i>Raf. ",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3200,
+name: "Conyza canadensis (L.) Cronquist",
+canonicalForm: "Conyza canadensis",
+italicisedForm: "<i>Conyza canadensis (</i>L.<i>) </i>Cronquist ",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3201,
+name: "Conyza canadensis var. glabrata (A.Gray) Cronquist",
+canonicalForm: "Conyza canadensis glabrata",
+italicisedForm: "<i>Conyza canadensis </i>var.<i> glabrata (</i>A.Gray<i>) </i>Cronquist ",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3202,
+name: "Conyzella canadensis (L.) Rupr.",
+canonicalForm: "Conyzella canadensis",
+italicisedForm: "<i>Conyzella canadensis (</i>L.<i>) </i>Rupr. ",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3203,
+name: "Erigeron myriocephalus Rech.f. & Edelb.",
+canonicalForm: "Erigeron myriocephalus",
+italicisedForm: "<i>Erigeron myriocephalus </i>Rech.f.<i> & </i>Edelb. ",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3204,
+name: "Erigeron pusillus Nutt.",
+canonicalForm: "Erigeron pusillus",
+italicisedForm: "<i>Erigeron pusillus </i>Nutt. ",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3205,
+name: "Erigeron setiferus Post ex Boiss.",
+canonicalForm: "Erigeron setiferus",
+italicisedForm: "<i>Erigeron setiferus </i>Post<i> ex </i>Boiss. ",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3206,
+name: "Leptilon canadense (L.) Britton & Brown",
+canonicalForm: "Leptilon canadense",
+italicisedForm: "<i>Leptilon canadense (</i>L.<i>) </i>Britton<i> & </i>Brown ",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3207,
+name: "Leptilon pusillum (Nutt.) Britton",
+canonicalForm: "Leptilon pusillum",
+italicisedForm: "<i>Leptilon pusillum (</i>Nutt.<i>) </i>Britton ",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3208,
+name: "Marsea canadensis (L.) V.M.Badillo",
+canonicalForm: "Marsea canadensis",
+italicisedForm: "<i>Marsea canadensis (</i>L.<i>) </i>V.M.Badillo ",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3209,
+name: "Senecio ciliatus Walter",
+canonicalForm: "Senecio ciliatus",
+italicisedForm: "<i>Senecio ciliatus </i>Walter ",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3210,
+name: "Trimorpha canadensis (L.) Lindm.",
+canonicalForm: "Trimorpha canadensis",
+italicisedForm: "<i>Trimorpha canadensis (</i>L.<i>) </i>Lindm. ",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1718,
+name: "Maintsoririnina",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+language: {
+id: 283,
+name: "Malagasy"
+}
+},
+{
+id: 1720,
+name: "Fausse camomille",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+language: {
+id: 501,
+name: "Creoles and pidgins, French-based"
+}
+},
+{
+id: 1719,
+name: "Millefeuille",
+taxonConcept: {
+id: 272
+},
+isContributor: false,
+language: {
+id: 501,
+name: "Creoles and pidgins, French-based"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:32:16Z",
+lastRevised: "2015-03-31T12:47:54Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Erigeron canadensis/erica_20090705_192202_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>ERICA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>ERICA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1123,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>ERICA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093217,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1124,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Erigeron canadensis L.",
+dateCreated: "2014-09-24T17:34:53Z",
+lastUpdated: "2014-09-24T17:34:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580093218,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4150,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>ERICA</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:36:18Z",
+lastUpdated: "2015-03-19T11:36:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764978616,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6595,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<div class="description"> <h6> Description Globale</h6> <p> Erigeron canadensis est une herbe annuelle dress&eacute;e, non ou peu ramifi&eacute;e atteignant 1,50 m de hauteur. La tige est c&ocirc;tel&eacute;e, subglabre ou &agrave; pilosit&eacute; clairsem&eacute;e. Les feuilles sont simples, alternes, sessiles, lin&eacute;aires &agrave; &eacute;troitement lanc&eacute;ol&eacute;es, de taille tr&egrave;s variable, de 2 &agrave; 9 cm de long et 0,2 &agrave; plus de 0,5 cm de large, aigu&euml;s au sommet, att&eacute;nu&eacute;es &agrave; la base. L&#39;inflorescence est une grande panicule pyramidale, terminale, faisant souvent presque la moiti&eacute; de la hauteur de la plante, &agrave; nombreux rameaux ascendants &agrave; partir des aisselles des feuilles sup&eacute;rieures. Les capitules sont petits, cylindriques, de 3 &agrave; 5 mm de long. Les fruits sont des ak&egrave;nes oblongs, d&rsquo;environ 1 mm de long, produits en grand nombre et munis d&rsquo;un pappus form&eacute; d&#39;une seule s&eacute;rie de soies nombreuses, blanch&acirc;tres de 2,5 &agrave; 3 mm de long.</p> <h6> Cotyl&eacute;dons</h6> <p> Les cotyl&eacute;dons sont minuscules, de 2 &agrave; 3 mm de long et 1,5 &agrave; 2 mm de large, glabres, rapidement caduques. Limbe arrondi, courtement p&eacute;tiol&eacute; (1 mm).</p> <h6> Premi&egrave;res Feuilles</h6> <p> Les premi&egrave;res feuilles sont alternes, simples, enti&egrave;res, dispos&eacute;es en rosette, pseudo p&eacute;tiol&eacute;es. Limbe d&#39;abord arrondi, puis elliptique &eacute;troit.</p> <h6> Port</h6> <p> Herbe annuelle dress&eacute;e non ou peu ramifi&eacute;e atteignant jusqu&rsquo;&agrave; 1,50 m de hauteur.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Racine pivotante ramifi&eacute;e.</p> <h6> Tige</h6> <p> Tige cylindrique pleine, c&ocirc;tel&eacute;e, sub glabre ou &agrave; pilosit&eacute; clairsem&eacute;e.</p> <h6> Feuille</h6> <p> Feuilles simples, alternes, sessiles, lin&eacute;aires &agrave; &eacute;troitement lanc&eacute;ol&eacute;e, de taille tr&egrave;s variable, de 2 &agrave; 9 cm de long et 0,2 - 0,5 &agrave; 1,2 cm de large. Les feuilles les plus grandes se trouvent &agrave; mi-hauteur de la tige. Limbe &agrave; sommet aigu&euml; et base att&eacute;nu&eacute; se prolongeant en faux p&eacute;tiole. Marge enti&egrave;re ou munie de quelques dents courtes et portant des poils clairsem&eacute;s.</p> <h6> Inflorescence</h6> <p> Inflorescence form&eacute;e d&#39;une grande panicule &eacute;troitement pyramidale, terminale, faisant souvent presque la moiti&eacute; de la hauteur de la plante, &agrave; nombreux rameaux ascendants &agrave; partir des aisselles des feuilles sup&eacute;rieures.;P&eacute;doncules plus ou moins filiformes d&rsquo;environ 1,5 cm de longueur, pileux, &agrave; bract&eacute;es lin&eacute;aires de 1 &agrave; 4 mm de long. Capitules cylindriques de 3 &agrave; 5 mm de long, de couleur blanche. Bract&eacute;es de l&rsquo;involucre en 3 &agrave; 4 s&eacute;ries, lin&eacute;aires-lanc&eacute;ol&eacute;es, aigu&euml;s, glabres ou &agrave; pilosit&eacute; clairsem&eacute;e, &agrave; marge membraneuse, les externes de 1 &agrave; 1,5 mm de long, les internes longues de 3 &agrave; 4 mm ; r&eacute;ceptacle plat, nu.</p> <h6> Fleur</h6> <p> Fleurs externes femelles en plusieurs s&eacute;ries ; corolle &eacute;troitement cylindrique, ligul&eacute;es, de 2,5 &agrave; 3 mm de long, blanche ; ligule de 0,5 &agrave; 1 mm, &eacute;troitement oblongue, enti&egrave;re ; fleurs internes bisexu&eacute;es peu nombreuses, &eacute;troitement tubuleuses, longues de 2,5 &agrave; 3 mm, 4 &agrave; 5 lob&eacute;es.</p> <h6> Fruit</h6> <p> Le fruit est un ak&egrave;ne oblong, de 0,7 &agrave; 1 mm de long, comprim&eacute;, &agrave; pub&eacute;rulence clairsem&eacute;e ; pappus form&eacute; d&rsquo;une seule s&eacute;rie de soies&nbsp; nombreuses, blanch&acirc;tres, de 2,5 &agrave; 3 mm de long.</p> </div> <p> </p> ",
+dateCreated: "2015-03-31T12:42:03Z",
+lastUpdated: "2015-03-31T12:42:03Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427805723064,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4151,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Erigeron canadensis L.",
+dateCreated: "2015-03-19T11:36:18Z",
+lastUpdated: "2015-03-19T11:36:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764978836,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6597,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "E. canadensis est une esp&egrave;ce annuelle, elle se multiplie par ses graines soyeuses facilement transport&eacute;es par le vent. <p> </p> ",
+dateCreated: "2015-03-31T12:42:41Z",
+lastUpdated: "2015-03-31T12:42:41Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427805761305,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6599,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "E. canadensis peut &ecirc;tre confondu avec Conyza sumatrensis ; cette derni&egrave;re se distingue par sa taille plus grande atteignant 2 m de hauteur et la taille et la couleur des feuilles et des capitules : feuilles lanc&eacute;ol&eacute;es longues de 3 &agrave; 14 cm irr&eacute;guli&egrave;rement lob&eacute;es ou dent&eacute;es, gris&acirc;tres ; capitules ovo&iuml;des de 5 &agrave; 8 mm sur 4 mm, dens&eacute;ment pubescents et de couleur cr&egrave;me. <p> </p> ",
+dateCreated: "2015-03-31T12:44:44Z",
+lastUpdated: "2015-03-31T12:44:44Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427805884783,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6598,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores :</strong> Esp&egrave;ce absente.<br /> <strong>Madagascar : </strong>E. canadensis se d&eacute;veloppe sur tout type de sol non inond&eacute;, moyennement fertile, sur les terrains ensoleill&eacute;s dans les syst&egrave;mes de culture semi-intensifs et les p&acirc;turages. C&#39;est une adventice cosmopolite de plus en plus fr&eacute;quenet, notamment en ville et en milieu p&eacute;riurbain, sur les bords des chemins et voies ferr&eacute;es, dans les r&eacute;gions &agrave; climat sub humide et humide de Madagascar.<br /> <strong>Maurice : </strong>Mauvaise herbe des cultures ou rud&eacute;rale en bord de route, dans les terrains vagues. On l&#39;a retrouve dans toutes les zones agro-climatiques de Maurice. ",
+dateCreated: "2015-03-31T12:43:20Z",
+lastUpdated: "2015-03-31T12:46:50Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427805800489,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6600,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Origine</strong><br /> <br /> Esp&egrave;ce originaire d&#39;Am&eacute;rique nord.<br /> <br /> <strong>Distribution mondiale</strong><br /> <br /> Am&eacute;rique du nord et du centre, naturalis&eacute;e en Europe, aux Mascareignes et &agrave; Madagascar, actuellement de r&eacute;partition mondiale.",
+dateCreated: "2015-03-31T12:45:43Z",
+lastUpdated: "2015-03-31T12:45:43Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427805943118,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6601,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Agressivit&eacute; locale</strong><br /> <br /> <strong>Comores : </strong>Esp&egrave;ce absente.<br /> <strong>Madagascar : </strong>Adventice &agrave; fr&eacute;quence faible dans les cultures avec une abondance &eacute;galement faible. Cette mauvaise herbe infeste surtout les terrains vagues, les bords de chemin, les jach&egrave;res et les p&acirc;turages en milieu p&eacute;riurbain et dans les parties des Hautes terres centrales &agrave; forte densit&eacute; de population. La lutte contre cette adventice ne pr&eacute;sente pas de difficult&eacute;s particuli&egrave;res ; &agrave; partir d&rsquo;une certaine densit&eacute; elle peut entra&icirc;ner la d&eacute;gradation des p&acirc;turages.<br /> <strong>Maurice :</strong> Elle peut avoir une nuisibilit&eacute; moyenne &agrave; forte dans les jeunes cannes et les autres cultures lorsqu&#39;elle est pr&egrave;sente en nombre important.",
+dateCreated: "2015-03-31T12:46:36Z",
+lastUpdated: "2015-03-31T12:46:36Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427805996966,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6602,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>M&eacute;dicinal : </strong>Propri&eacute;t&eacute;s balsamique, antirhumatismal, diur&eacute;tique. La partie a&eacute;rienne fleurie poss&egrave;de des vertus diur&eacute;tiques et anti-inflammatoires. Elle est utilis&eacute;e &eacute;galement dans le traitement des h&eacute;morro&iuml;des. <p> </p> ",
+dateCreated: "2015-03-31T12:47:19Z",
+lastUpdated: "2015-03-31T12:47:19Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427806039488,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6603,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Lutte locale</strong><br /> <br /> <strong>Madagascar :</strong> Arrachage manuel et sarclage avec des outils manuels comme l&rsquo;angady pour nettoyer les champs, les p&acirc;turage et les espaces verts.<br /> <strong>Maurice :</strong> Peut &ecirc;tre enlev&eacute;e manuellement ou contr&ocirc;l&eacute;e efficacement par les m&eacute;langes d&#39;herbicides recommend&eacute;s pour la canne &agrave; sucre.",
+dateCreated: "2015-03-31T12:47:54Z",
+lastUpdated: "2015-03-31T12:47:54Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427806074503,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6605,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-31T12:57:40Z",
+lastUpdated: "2015-04-22T12:55:46Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [
+{
+title: "ANTOINE R., BOSSER J. & FERGUSON I.K. 1993 Flore des Mascareignes. La Réunion, Maurice, Rodrigues. 109 COMPOSEES p. 108-110"
+},
+{
+title: "HUMBERT, H. 1963. Flore de Madagascar et des Comores, fasc.189 COMPOSEES (Tome 3), p."
+}
+],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427806660215,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3038,
+url: "http://portal.wikwio.org/biodiv/img//Erigeron canadensis/erica_20090705_192202.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Erigeron canadensis/erica_20090705_192202_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:21Z",
+rating: 0
+},
+{
+id: 3039,
+url: "http://portal.wikwio.org/biodiv/img//Erigeron canadensis/erica_20090217_192932.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Erigeron canadensis/erica_20090217_192932_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:21Z",
+rating: 0
+},
+{
+id: 3040,
+url: "http://portal.wikwio.org/biodiv/img//Erigeron canadensis/erica_20090705_191620.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Erigeron canadensis/erica_20090705_191620_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:22Z",
+rating: 0
+},
+{
+id: 3041,
+url: "http://portal.wikwio.org/biodiv/img//Erigeron canadensis/erica_20090705_192326.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Erigeron canadensis/erica_20090705_192326_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:22Z",
+rating: 0
+},
+{
+id: 3042,
+url: "http://portal.wikwio.org/biodiv/img//Erigeron canadensis/erica_20090705_191503.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Erigeron canadensis/erica_20090705_191503_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:22Z",
+rating: 0
+},
+{
+id: 3043,
+url: "http://portal.wikwio.org/biodiv/img//Erigeron canadensis/erica_20090705_191903.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Erigeron canadensis/erica_20090705_191903_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:32:22Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

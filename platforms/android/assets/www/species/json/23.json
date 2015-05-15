@@ -1,0 +1,4013 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 23,
+title: "<i>Amaranthus viridis </i>L. ",
+taxonConcept: {
+id: 56,
+name: "Amaranthus viridis L.",
+canonicalForm: "Amaranthus viridis",
+italicisedForm: "<i>Amaranthus viridis </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 29,
+name: "Amaranthaceae",
+canonicalForm: "Amaranthaceae",
+italicisedForm: "<i>Amaranthaceae</i>",
+rank: "Family"
+},
+{
+id: 51,
+name: "Amaranthus",
+canonicalForm: "Amaranthus",
+italicisedForm: "<i>Amaranthus</i>",
+rank: "Genus"
+},
+{
+id: 56,
+name: "Amaranthus viridis L.",
+canonicalForm: "Amaranthus viridis",
+italicisedForm: "<i>Amaranthus viridis </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 470,
+name: "Albersia caudata (Jacq.) Boiss.",
+canonicalForm: "Albersia caudata",
+italicisedForm: "<i>Albersia caudata (</i>Jacq.<i>) </i>Boiss. ",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 471,
+name: "Albersia gracilis (Desf.) Webb & Berthel.",
+canonicalForm: "Albersia gracilis",
+italicisedForm: "<i>Albersia gracilis (</i>Desf.<i>) </i>Webb<i> & </i>Berthel. ",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 472,
+name: "Amaranthus acutilobus Uline & W.L.Bray",
+canonicalForm: "Amaranthus acutilobus",
+italicisedForm: "<i>Amaranthus acutilobus </i>Uline<i> & </i>W.L.Bray ",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 473,
+name: "Amaranthus fasciatus Roxb.",
+canonicalForm: "Amaranthus fasciatus",
+italicisedForm: "<i>Amaranthus fasciatus </i>Roxb. ",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 474,
+name: "Amaranthus gracilis Desf.",
+canonicalForm: "Amaranthus gracilis",
+italicisedForm: "<i>Amaranthus gracilis </i>Desf. ",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 475,
+name: "Amaranthus littoralis Bernh. ex Moq.",
+canonicalForm: "Amaranthus littoralis",
+italicisedForm: "<i>Amaranthus littoralis </i>Bernh.<i> ex </i>Moq. ",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 476,
+name: "Amaranthus polystachyus Buch.-Ham. ex Wall.",
+canonicalForm: "Amaranthus polystachyus",
+italicisedForm: "<i>Amaranthus polystachyus </i>Buch.-Ham.<i> ex </i>Wall. ",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 477,
+name: "Chenopodium caudatum Jacq.",
+canonicalForm: "Chenopodium caudatum",
+italicisedForm: "<i>Chenopodium caudatum </i>Jacq. ",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 478,
+name: "Euxolus caudatus var. gracilis Moq.",
+canonicalForm: "Euxolus caudatus gracilis",
+italicisedForm: "<i>Euxolus caudatus </i>var.<i> gracilis </i>Moq. ",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 479,
+name: "Euxolus caudatus var. maximus Moq.",
+canonicalForm: "Euxolus caudatus maximus",
+italicisedForm: "<i>Euxolus caudatus </i>var.<i> maximus </i>Moq. ",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 480,
+name: "Galliaria adscendens Bubani",
+canonicalForm: "Galliaria adscendens",
+italicisedForm: "<i>Galliaria adscendens </i>Bubani ",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 481,
+name: "Glomeraria viridis (L.) Cav.",
+canonicalForm: "Glomeraria viridis",
+italicisedForm: "<i>Glomeraria viridis (</i>L.<i>) </i>Cav. ",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 482,
+name: "Pyxidium viride (L.) Moq.",
+canonicalForm: "Pyxidium viride",
+italicisedForm: "<i>Pyxidium viride (</i>L.<i>) </i>Moq. ",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 157,
+name: "Slender amaranth",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 158,
+name: "Jangali chaulai",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 177,
+name: "Hindi"
+}
+},
+{
+id: 159,
+name: "Shak natey",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 50,
+name: "Bengali"
+}
+},
+{
+id: 160,
+name: "Brède pariétaire",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 161,
+name: "Pariétaire",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 162,
+name: "Brède malabar",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 163,
+name: "Pig weed",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 164,
+name: "Brède pariétaire",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 165,
+name: "Marissag",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 50,
+name: "Bengali"
+}
+},
+{
+id: 166,
+name: "Bred pariater",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 167,
+name: "Anapatsa",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 168,
+name: "Debere",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 169,
+name: "Paillatère",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 170,
+name: "Brède malabar",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 171,
+name: "Amarante",
+taxonConcept: {
+id: 56
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1603,
+name: "Eng: Pig weed",
+taxonConcept: {
+id: 56
+},
+isContributor: false
+},
+{
+id: 1604,
+name: "Bengali: Marissag",
+taxonConcept: {
+id: 56
+},
+isContributor: false
+},
+{
+id: 1605,
+name: "Shak natey",
+taxonConcept: {
+id: 56
+},
+isContributor: false
+},
+{
+id: 1606,
+name: "Hindi: Jangali chaulai",
+taxonConcept: {
+id: 56
+},
+isContributor: false
+},
+{
+id: 1607,
+name: "Eng: slender amaranth.",
+taxonConcept: {
+id: 56
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T16:58:55Z",
+lastRevised: "2015-05-07T08:11:06Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090203_140248_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>AMAVI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>AMAVI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 243,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>AMAVI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028711,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 244,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>First Leaves</h6><p>First leaves simple, alternate, long-petiolated. The lamina is first elliptic and later ovate. The top of lamina is deeply emarginated. The extremity of the central nerve forms a mucro. The lower side is generally purple.</p><h6>Leaf</h6><p>Leaves are mid to light green and deeply veined and up to 15cm long. Leaves have a long leaf stalk and have a broad base tapering to a pointed tip.</p><h6>General Habit</h6><p>Annual up to 1m high.</p><h6>Underground System</h6><p>One or several ramified tap roots.</p><h6>Flower</h6><p>Flowers are small and green (sometimes with a reddish tinge). Flowers are generally radiating around the stem.</p><h6>Fruit</h6><p>1-2 mm fruit capsules are wrinkled, indehiscent (not opening to release seed when ripe), small and brown. The fruit contains smooth and glossy seeds.</p><h6>Seed</h6><p>1.25 mm in diameter, brown or black, shiny, slightly compressed, reticulate and with shallow out growths on the reticulum.</p><h6>Global Description</h6><p>Terrestrial, annual, erect or somewhat prostrate herb, up to 80 cm tall. Taproot white or brown. Stem solid, glabrous, grooved. Stipules absent. Leaves simple, not lobed or divided, opposite, stalked, ovate, glabrous on bot sides, margin entire, apex acute, rounded or emarginated, base acute, rounded or truncate, pinnately veined. Flowers bisexual, grouped in a terminal spike, sessile, petals 3, green. Fruit nut-like.</p><h6>Inflorescence</h6><p>Greenish, flowers in spike-like, axillary and terminal recemes. Mostly the inflorescence (group of flowers/fruit) is a dense spike, often with many branches.</p><h6>Cotyledons</h6><p>Cotyledons linear to lanceolate and petiolated. Lamina 18 mm long and 3 mm large, smooth, smooth, without apparent nerves.</p><h6>Stem</h6><p>Erect stem and they are generally rounded, may have some ridges, and glabrous (without hairs).</p>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028711,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 240,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Amaranthus viridis L.",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028706,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 238,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "This annual herb reproduces only from seeds. The plant can produce 7,000 up to 10 000 per plant. The seeds are dispersed by the water or wind.<br>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028702,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 246,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "From East Asia origin, A. viridis widespread in tropical and subtropical regions of the world and in the upland rice. It is found in well drained soils in open waste place and cultivated land, especially prefers sandy soils or those rich in humus and fairly moist soils. The plant grows best in soils with no standing water and has good development in soils.Very common in Java below 300 m, goes up to 600 m.<br>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028714,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 242,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Pantropical</p><h6>Origin</h6><p>Origin obscure though possibly South America (GRIN).</p>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028709,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 253,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>A weed of minor importance.</p><h6>Local Weediness</h6><p>Tanzania: Frequent but not abundant. Uganda: Frequent but not abundant. Kenya: Frequent but not abundant. India: The slender amaranth is considered as one of the most harmful weeds which may lead to heavy losses in crop yield. Its weedy status is more important than its culinary value. Bangladesh: can cause yield reduction up to 80%.</p>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028738,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 247,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "An infusion of the entire plant is used in Indonesia as a remedy against intestinal cramps, diarrhea and dysentery, and externally as a cooling agent to treat fever. In Malaysia inflammation and fever, and externally to treat wounds. A. gracilis is used in local medicine in Taiwan, Often in mixtures with other medicinal plants, to treat hepatitis, tight chest, bronchitis, asthma, and lung troubles, to stop bleeding and as a hair tonic. It is used locally in India against dysentery, as a cholagogue, abortifacient and to treat snake bite, in flamed wounds and boils, and in Thailand and Sri Lanka as galactagogue. Young tips eaten as vegetable.<br>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028716,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 249,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Cultivation favours A. viridis emergence, and is a useful means of killing seedlings before sowing rice. Hypolixus trunculatus whose larve tunnel in the stems of A. viridis and form galls, is known from Pakistan, India and Thailand and feeds on A. viridis. But its suitability as a control agent is hampered by its relatively long life cycle and low reproductive capacity. The caterpillars of Hymenia recurvalis in large number defoliate the weed and, where infestation is severe, practically every plant is infested. But H. recurvalis has a wide host range, is a part of several vegetable crops, and is unsuitable for biological control of A. viridis. Buttachlor applied pre-emergence at 2 to 2.5 kg ha-1 give excellent control. Post-emergence application of 2 4-D at 500 g/ha. Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028719,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 237,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2015-03-24T17:07:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Holm, Leroy/Doll, Jerry/Holm, Eric/Pancho, Jaun/Herberger, James. 1997. World weeds: natural histories and distribution. John Wiley & Sons. 1129 pp."
+},
+{
+title: "- Galinato M., Moody K., Piggin C. M. 1999. Upland rice weeds of South and Southeast Asia. IRRI. Philippines."
+},
+{
+title: "- Bari, M. N. 1997. Major rice weeds in Bangladesh. Department of Agronomy. BSMR Agricultural University, Gazipur, Bangladesh."
+},
+{
+title: "- Nayyar M. M., Ashiq M., Ahmad J. 2001. Manual on Punjab weeds (Part I). Directorate of Agronomy. Ayub Agricultural Research Institute, Faisalabad Pakistan."
+},
+{
+title: "- Waterhouse D. F. 1994. Biological control of weeds: Southeast Asian prospects. ACIAR Monograph No. 26, 302 pp."
+},
+{
+title: "Le Bourgeois T., Jeuffrault E., Grard P., Carrara A. 2001. AdvenRun V.1.0. Les principales mauvaises herbes de La Réunion. CD-ROM. Cirad, SPV. France."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028699,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 248,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2015-04-01T16:56:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "- Nayyar M. M., Ashiq M., Ahmad J. 2001. Manual on Punjab weeds (Part I). Directorate of Agronomy. Ayub Agricultural Research Institute, Faisalabad Pakistan."
+},
+{
+title: "- Galinato M., Moody K., Piggin C. M. 1999. Upland rice weeds of South and Southeast Asia. IRRI. Philippines."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois T., Jeuffrault E., Grard P., Carrara A. 2001. AdvenRun V.1.0. Les principales mauvaises herbes de La Réunion. CD-ROM. Cirad, SPV. France."
+},
+{
+title: "- Waterhouse D. F. 1994. Biological control of weeds: Southeast Asian prospects. ACIAR Monograph No. 26, 302 pp."
+},
+{
+title: "Holm, Leroy/Doll, Jerry/Holm, Eric/Pancho, Jaun/Herberger, James. 1997. World weeds: natural histories and distribution. John Wiley & Sons. 1129 pp."
+},
+{
+title: "- Bari, M. N. 1997. Major rice weeds in Bangladesh. Department of Agronomy. BSMR Agricultural University, Gazipur, Bangladesh."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028716,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 250,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2015-04-01T16:56:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "- Nayyar M. M., Ashiq M., Ahmad J. 2001. Manual on Punjab weeds (Part I). Directorate of Agronomy. Ayub Agricultural Research Institute, Faisalabad Pakistan."
+},
+{
+title: "- Bari, M. N. 1997. Major rice weeds in Bangladesh. Department of Agronomy. BSMR Agricultural University, Gazipur, Bangladesh."
+},
+{
+title: "- Galinato M., Moody K., Piggin C. M. 1999. Upland rice weeds of South and Southeast Asia. IRRI. Philippines."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Holm, Leroy/Doll, Jerry/Holm, Eric/Pancho, Jaun/Herberger, James. 1997. World weeds: natural histories and distribution. John Wiley & Sons. 1129 pp."
+},
+{
+title: "Le Bourgeois T., Jeuffrault E., Grard P., Carrara A. 2001. AdvenRun V.1.0. Les principales mauvaises herbes de La Réunion. CD-ROM. Cirad, SPV. France."
+},
+{
+title: "- Waterhouse D. F. 1994. Biological control of weeds: Southeast Asian prospects. ACIAR Monograph No. 26, 302 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028720,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 251,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2015-04-01T16:56:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois T., Jeuffrault E., Grard P., Carrara A. 2001. AdvenRun V.1.0. Les principales mauvaises herbes de La Réunion. CD-ROM. Cirad, SPV. France."
+},
+{
+title: "- Waterhouse D. F. 1994. Biological control of weeds: Southeast Asian prospects. ACIAR Monograph No. 26, 302 pp."
+},
+{
+title: "- Galinato M., Moody K., Piggin C. M. 1999. Upland rice weeds of South and Southeast Asia. IRRI. Philippines."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "- Nayyar M. M., Ashiq M., Ahmad J. 2001. Manual on Punjab weeds (Part I). Directorate of Agronomy. Ayub Agricultural Research Institute, Faisalabad Pakistan."
+},
+{
+title: "Holm, Leroy/Doll, Jerry/Holm, Eric/Pancho, Jaun/Herberger, James. 1997. World weeds: natural histories and distribution. John Wiley & Sons. 1129 pp."
+},
+{
+title: "- Bari, M. N. 1997. Major rice weeds in Bangladesh. Department of Agronomy. BSMR Agricultural University, Gazipur, Bangladesh."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028721,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 252,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2015-04-01T16:56:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Holm, Leroy/Doll, Jerry/Holm, Eric/Pancho, Jaun/Herberger, James. 1997. World weeds: natural histories and distribution. John Wiley & Sons. 1129 pp."
+},
+{
+title: "- Bari, M. N. 1997. Major rice weeds in Bangladesh. Department of Agronomy. BSMR Agricultural University, Gazipur, Bangladesh."
+},
+{
+title: "Le Bourgeois T., Jeuffrault E., Grard P., Carrara A. 2001. AdvenRun V.1.0. Les principales mauvaises herbes de La Réunion. CD-ROM. Cirad, SPV. France."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "- Waterhouse D. F. 1994. Biological control of weeds: Southeast Asian prospects. ACIAR Monograph No. 26, 302 pp."
+},
+{
+title: "- Nayyar M. M., Ashiq M., Ahmad J. 2001. Manual on Punjab weeds (Part I). Directorate of Agronomy. Ayub Agricultural Research Institute, Faisalabad Pakistan."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "- Galinato M., Moody K., Piggin C. M. 1999. Upland rice weeds of South and Southeast Asia. IRRI. Philippines."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028723,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 239,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2015-04-01T16:56:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Holm, Leroy/Doll, Jerry/Holm, Eric/Pancho, Jaun/Herberger, James. 1997. World weeds: natural histories and distribution. John Wiley & Sons. 1129 pp."
+},
+{
+title: "- Nayyar M. M., Ashiq M., Ahmad J. 2001. Manual on Punjab weeds (Part I). Directorate of Agronomy. Ayub Agricultural Research Institute, Faisalabad Pakistan."
+},
+{
+title: "- Bari, M. N. 1997. Major rice weeds in Bangladesh. Department of Agronomy. BSMR Agricultural University, Gazipur, Bangladesh."
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "Le Bourgeois T., Jeuffrault E., Grard P., Carrara A. 2001. AdvenRun V.1.0. Les principales mauvaises herbes de La Réunion. CD-ROM. Cirad, SPV. France."
+},
+{
+title: "- Waterhouse D. F. 1994. Biological control of weeds: Southeast Asian prospects. ACIAR Monograph No. 26, 302 pp."
+},
+{
+title: "- Galinato M., Moody K., Piggin C. M. 1999. Upland rice weeds of South and Southeast Asia. IRRI. Philippines."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028703,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 245,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2015-03-02T12:58:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "- Waterhouse D. F. 1994. Biological control of weeds: Southeast Asian prospects. ACIAR Monograph No. 26, 302 pp."
+},
+{
+title: "- Galinato M., Moody K., Piggin C. M. 1999. Upland rice weeds of South and Southeast Asia. IRRI. Philippines."
+},
+{
+title: "- Nayyar M. M., Ashiq M., Ahmad J. 2001. Manual on Punjab weeds (Part I). Directorate of Agronomy. Ayub Agricultural Research Institute, Faisalabad Pakistan."
+},
+{
+title: "- Bari, M. N. 1997. Major rice weeds in Bangladesh. Department of Agronomy. BSMR Agricultural University, Gazipur, Bangladesh."
+},
+{
+title: "Le Bourgeois T., Jeuffrault E., Grard P., Carrara A. 2001. AdvenRun V.1.0. Les principales mauvaises herbes de La Réunion. CD-ROM. Cirad, SPV. France."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Holm, Leroy/Doll, Jerry/Holm, Eric/Pancho, Jaun/Herberger, James. 1997. World weeds: natural histories and distribution. John Wiley & Sons. 1129 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028711,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 241,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2015-02-26T16:10:33Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+},
+{
+title: "- Bari, M. N. 1997. Major rice weeds in Bangladesh. Department of Agronomy. BSMR Agricultural University, Gazipur, Bangladesh."
+},
+{
+title: "- Nayyar M. M., Ashiq M., Ahmad J. 2001. Manual on Punjab weeds (Part I). Directorate of Agronomy. Ayub Agricultural Research Institute, Faisalabad Pakistan."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois T., Jeuffrault E., Grard P., Carrara A. 2001. AdvenRun V.1.0. Les principales mauvaises herbes de La Réunion. CD-ROM. Cirad, SPV. France."
+},
+{
+title: "- Waterhouse D. F. 1994. Biological control of weeds: Southeast Asian prospects. ACIAR Monograph No. 26, 302 pp."
+},
+{
+title: "Holm, Leroy/Doll, Jerry/Holm, Eric/Pancho, Jaun/Herberger, James. 1997. World weeds: natural histories and distribution. John Wiley & Sons. 1129 pp."
+},
+{
+title: "- Galinato M., Moody K., Piggin C. M. 1999. Upland rice weeds of South and Southeast Asia. IRRI. Philippines."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028707,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2837,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Amaranthus viridis est une plante dressée ou parfois étalée à la base. Elle possède des racines pivotantes assez profondes. La tige est verte, devenant souvent rouge. Elle est plutôt grêle et très ramifiée. Elle n'est pas poilue. Les feuilles sont disposées alternativement le long de la tige. Elles sont ovales et portées par de longs pétioles. Le sommet du limbe est échancré et se termine par une courte pointe. Les fleurs sont réduites, de couleur verte à rougeâtre. Elles sont groupées en petites boules denses, réparties le long d'épis grêles situés à la base des feuilles et au sommet des tiges. Le fruit est une petite capsule qui ne s'ouvre pas à maturité. Il contient une graine unique luisante, de couleur brun sombre à noir.</p>",
+dateCreated: "2015-03-19T11:04:44Z",
+lastUpdated: "2015-03-19T11:04:44Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763084912,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2810,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>AMAVI</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:04:40Z",
+lastUpdated: "2015-03-19T11:04:40Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763080778,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2828,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Amaranthus viridis est une plante dressée ou parfois étalée à la base. Elle possède des racines pivotantes assez profondes. La tige est verte, devenant souvent rouge. Elle est plutôt grêle et très ramifiée. Elle n'est pas poilue. Les feuilles sont disposées alternativement le long de la tige. Elles sont ovales et portées par de longs pétioles. Le sommet du limbe est échancré et se termine par une courte pointe. Les fleurs sont réduites, de couleur verte à rougeâtre. Elles sont groupées en petites boules denses, réparties le long d'épis grêles situés à la base des feuilles et au sommet des tiges. Le fruit est une petite capsule qui ne s'ouvre pas à maturité. Il contient une graine unique luisante, de couleur brun sombre à noir.</p><h6>Cotylédons</h6><p>Les cotylédons sont linéaires à lancéolés, pétiolés. Limbe de 18 mm de long et 3 mm de large. Lisse, sans nervure apparente. Face inférieure pouvant être teintée de pourpre.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont simples et alternes, longuement pétiolées. Limbe elliptique, puis devenant ovale. Sommet profondément émarginé. Extrémité de la nervure centrale se terminant par un fort mucron. Face inférieure généralement rouge pourpre, au moins à la base.</p><h6>Port</h6><p>Plante à port dressé ou plus ou moins ascendant, atteignant jusqu'à 75 cm de haut.</p><h6>Système Souterrain</h6><p>L'appareil racinaire est formé d'un ou plusieurs forts pivots ramifiés.</p><h6>Tige</h6><p>La tige est cylindrique, striée, plutôt grêle, plus ou moins striée, glabre. Peu ou assez ramifiée.</p><h6>Feuille</h6><p>Les feuilles sont simples et alternes, longuement pétiolées (10 cm). Limbe ovale à triangulaire de 2 à 7 cm de long et 1,5 à 5,5 cm de large. Base en coin, presque perpendiculaire au pétiole. Sommet profondément émarginé, portant un mucron. Marge entière. 7 à 8 nervures latérales bien visibles, légèrement arquées. Faces supérieure et inférieure glabres, portant de petites taches translucides très nombreuses.</p><h6>Inflorescence</h6><p>L'inflorescence est formée de très petites fleurs vertes à rougeâtres assemblées en glomérules sessiles ou regroupées en épis, axillaires et terminaux, plus ou moins ramifiés.</p><h6>Fleur</h6><p>Le fleur se composes de 3 sépales scarieux de 1 mm de long, linéaires à lancéolés, à sommet en coin aigu. Fleurs femelles à la base des épis, fleurs mâles au sommet possédant 5 étamines.</p><h6>Fruit</h6><p>Le fruit est une capsule ovoïde, indéhiscente, mesurant 1,2 mm de haut et 1 mm de large, contenant une graine unique. Tégument à nombreuses stries longitudinales. Sommet terminé par un très court stigmate trifide.</p><h6>Graine</h6><p>La graine est lenticulaire, mesurant environ 1 à 1,25 mm de diamètre, lisse et brillante. De couleur brun sombre à noire.</p>",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-19T11:04:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082258,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2830,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Amaranthus viridis L.",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-19T11:04:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082534,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2829,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Nord-Cameroun </strong>: A. viridis est pr&eacute;sente tout au long de la saison des pluies. En parcelle cultiv&eacute;e, elle est pratiquement absente en fin de cycle cultural car elle est &eacute;limin&eacute;e par les sarclages. En p&eacute;riode de jours longs (juin &agrave; ao&ucirc;t), la dur&eacute;e du cycle de d&eacute;veloppement, depuis la lev&eacute;e jusqu&#39;&agrave; la production de graines, est de deux mois. Les plantes sont alors tr&egrave;s d&eacute;velopp&eacute;es. En revanche, en fin de saison des pluies lorsque les jours raccourcissent, la dur&eacute;e de ce cycle peut &ecirc;tre r&eacute;duite &agrave; trois semaines. La floraison se produit alors chez des plantes tr&egrave;s peu d&eacute;velopp&eacute;es.<br /> ",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-05-07T08:11:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082407,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2834,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "A. viridis est une espèce annuelle. Elle se reproduit uniquement par ses graines, qui sont dispersées par l'eau et par le vent. Elle produit un grand nombre de graines qui ont une longue viabilité.<br>",
+dateCreated: "2015-03-19T11:04:43Z",
+lastUpdated: "2015-03-19T11:04:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763083529,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2833,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Amaranthus viridis est tr&egrave;s r&eacute;pandue dans les r&eacute;gions tropicales ou subtropicales et dans les rizi&egrave;res d&#39;altitude. On la trouve sur les terrains bien drain&eacute;s, dans les milieux ouverts et les cultures, pr&eacute;f&eacute;rentiellement sur sols sableux ou riches en humus et plut&ocirc;t humides. La plante se d&eacute;veloppe mieux sur les terrains d&eacute;pourvus d&#39;eau stagnante. Elle est tr&egrave;s commune &agrave; Java entre 300 et 600 m d&#39;altitude.<br /> <strong>Nord-Cameroun :</strong> A. viridis est principalement une esp&egrave;ce rud&eacute;rale qui se d&eacute;veloppe sur les bords de chemin, &agrave; proximit&eacute; des villages, et plus particuli&egrave;rement en bordure des zones de parcage du b&eacute;tail ou sur les zones de rejet des d&eacute;chets m&eacute;nagers. C&#39;est une adventice des cultures tr&egrave;s peu fr&eacute;quente. Elle est tr&egrave;s nitrophile et son d&eacute;veloppement est d&#39;autant plus important que le sol est riche en mati&egrave;re organique et en azote.<br /> <strong>Comores : </strong>L&#39;esp&egrave;ce se d&eacute;veloppe dans les terres cultiv&eacute;es ou abandonn&eacute;es et dans les cours des maisons. Elle est pr&eacute;sente &agrave; basse altitude dans toutes les r&eacute;gions de la Grande Comore.<br /> <strong>Madagascar :</strong> Esp&egrave;ce qui se rencontre surtout en moyenne altitude sur des sols assez riches en mati&egrave;re organique ou sur les terres assez humides des terrasses en bas de pente consacr&eacute;s aux cultures mara&icirc;ch&egrave;res.<br /> <strong>Maurice :</strong> Esp&egrave;ce commune des champs cultiv&eacute;s, des terrains vagues, des bords de routes. Elle est pr&eacute;sente surtout dans la partie humide et dans la partie s&egrave;che de l&#39;&icirc;le.<br /> <strong>La R&eacute;union</strong> : L&#39;esp&egrave;ce se rencontre sur les sols bien drain&eacute;s. La plante a des besoins moyens en eau. Elle se d&eacute;veloppe d&#39;autant mieux que le sol est riche en mati&egrave;re organique et en azote. Elle se rencontre essentiellement &agrave; basse et moyenne altitude, mais tr&egrave;s peu sur les c&ocirc;tes Est et Sud de l&#39;&icirc;le. elle est beaucoup plus fr&eacute;quente dans l&#39;Ouest.<br /> <strong>Seychelles </strong>: L&#39;esp&egrave;ce pousse bien sur les sols rouges riches en mati&egrave;res organiques des r&eacute;gions hautes ainsi que sur les sols tr&egrave;s sableux.<br /> ",
+dateCreated: "2015-03-19T11:04:43Z",
+lastUpdated: "2015-05-07T08:11:52Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763083410,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2832,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Originaire de l'Est de l'Asie.</p><h6>Distribution Mondiale</h6><p>Amaranthus viridis est très répandue dans les régions tropicales ou subtropicales et dans les rizières d'altitude. Pantropicale, partout en Indonésie.</p>",
+dateCreated: "2015-03-19T11:04:43Z",
+lastUpdated: "2015-03-19T11:04:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763083270,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2835,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Globale</h6> <p> Mauvaise herbe d&#39;importance mineure.</p> <h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Burkina Faso :</strong> rare et peu abondante.<br /> <strong>Comores :</strong> A. viridis est une esp&egrave;ce rud&eacute;rale et adventice commune des cultures mara&icirc;ch&egrave;res.<br /> <strong>C&ocirc;te d&#39;Ivoire </strong>: fr&eacute;quente et peu abondante.<br /> <strong>Ghana</strong> : rare et peu abondante.<br /> <strong>Kenya :</strong> fr&eacute;quente et peu abondante.<br /> Madagascar : Mauvaise herbe g&eacute;n&eacute;ralement peu fr&eacute;quente et peu abondante.<br /> <strong>Mali :</strong> fr&eacute;quente et peu abondante.<br /> <strong>Maurice </strong>: Adventice ayant une nuisibilit&eacute; tr&egrave;s forte dans les cultures mara&icirc;ch&egrave;res et en canne &agrave; sucre quand elle se d&eacute;veloppe en grand nombre.<br /> <strong>Nigeria :</strong> rare et peu abondante.<br /> <strong>Ouganda :</strong> fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>La R&eacute;union :</strong> C&#39;est une adventice qui a une amplitude &eacute;cologique moyenne pr&eacute;sente dans 23 % des parcelles cultiv&eacute;es. Elle est peu fr&eacute;quente dans la canne &agrave; sucre, et colonise surtout les cultures mara&icirc;ch&egrave;res (Fr &gt; 25 %). Toutefois, sa nuisibilit&eacute; est faible, avec un recouvrement de 7 &agrave; 15 %. C&#39;est plut&ocirc;t une esp&egrave;ce rud&eacute;rale.<br /> <strong>S&eacute;n&eacute;gal :</strong> fr&eacute;quente et peu abondante.<br /> <strong>Seychelles </strong>: Esp&egrave;ce tr&egrave;s commune pouvant &ecirc;tre une adventice s&eacute;rieuse dans toutes les cultures.<br /> <strong>Tchad : </strong>fr&eacute;quente et peu abondante.</p> ",
+dateCreated: "2015-03-19T11:04:43Z",
+lastUpdated: "2015-05-07T08:15:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763083649,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2838,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Usages</h6> <p> <strong>Alimentation :</strong> A. viridis est consomm&eacute;e comme l&eacute;gume<br /> <br /> <strong>Alimentation du b&eacute;tail :</strong> Elle est &eacute;galement donn&eacute;e aux cochons.</p> ",
+dateCreated: "2015-03-19T11:04:45Z",
+lastUpdated: "2015-05-07T08:16:19Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763085052,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2836,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Les cultures favorisent l&#39;&eacute;mergence d&#39;<em>A</em>. <em>viridis </em>et il est pr&eacute;f&eacute;rable de se d&eacute;barrasser des plantules avant de semer le riz.<br /> <strong>Lutte biologique </strong>: <em>Hypolixus trunculatus</em>, dont la larve forme des tunnels et des galles dans la tige est connu au Pakistan, en Inde et en Tha&iuml;lande pour consommer <em>A. viridis</em>. Mais son cycle de vie tr&egrave;s long et son faible taux de reproduction rendent son utilisation comme agent de lutte biologique peu int&eacute;ressant. Les chenilles d&#39;<em>Hymenia</em> <em>recurvalis</em>, si elles sont en grand nombre, peuvent d&eacute;folier les plantes et, quand l&#39;invasion est s&eacute;v&egrave;re, pratiquement toutes les plantes sont infest&eacute;es. Mais <em>H. recurvalis</em> poss&egrave;de un large spectre d&#39;h&ocirc;tes, entre autre parmi certaines plantes cultiv&eacute;es, ce qui le rend impropre &agrave; la lutte biologique d&#39;<em>A. viridis</em>.<br /> <strong>Lutte chimique :</strong> Du butachlore, appliqu&eacute; avant &eacute;mergence de 2 &agrave; 2,5 kg/ha donne d&#39;excellents r&eacute;sultats. En post-lev&eacute;e, appliquer du 2-4,D &agrave; 500 g/ha.<br /> <br /> Conseils de gestion des adventices annuelles &agrave; feuilles larges en riz irrigu&eacute; : http://portal.wikwio.org/document/show/19</p> ",
+dateCreated: "2015-03-19T11:04:43Z",
+lastUpdated: "2015-05-07T08:22:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763083798,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2826,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Waterhouse D.F. 1994. Biological control of weeds: Southeast Asian prospects. ACIAR Monograph No26, 302 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082026,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2825,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Nayyar M. M., Ashiq M., Ahmad J. 2001 Manual on Punjab weeds (Part I). Directorate of Agronomy. Ayub Agricultural Research Institute, Faisalabad Pakistan."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082023,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2824,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., Carrara, A., Dodet, M., Dogley, W., Gaungoo, A., Grard, P., Ibrahim, Y., Jeuffrault, E., Lebreton, G., Poilecot, P., Prosperi, J., Randriamampianina, J.A., Andrianaivo, A.P., Théveny, F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien.V.1.0. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082023,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2823,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Galinato M., Moody K., Piggin C.M. 1999. Upland rice weeds of South and Southeast Asia. IRRI.Philippines."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082023,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2822,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois T., Jeuffrault E., Grard P., Carrara A. 2000. AdvenRun V.1.0. Les principles mauvaises_herbes de La Reunion. CD-Rom.Cirad, SPV. France."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082023,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2821,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082022,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2820,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082022,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2819,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Merlier H. & Montégut J., 1982. Adventices tropicales. ORSTOM-GERDAT-ENSH éd., Montpellier, France, 490 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082022,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2818,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois Th., 1993. Les mauvaises herbes dans la rotation cotonnière au Nord-Cameroun (Afrique) - Amplitude d'habitat et degré d'infestation - Cycle de développement. Thèse USTL Montpellier II, Montpellier, France, 241 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082022,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2817,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Koch W., 1981. Mauvaises herbes des cultures tropicales. In Kranz J., Schmutterer H. & Koch W. : Maladies, ravageurs et mauvaises herbes des cultures tropicales. Verlag Paul Parey, Berlin, Hambourg : 587-665."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082022,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2816,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., Moody K. & Egunjobi J. K., 1978. West African Weeds. Oxford University Press, Ibadan, Nigeria, 255 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082021,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2815,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., 1989. East African Weeds and Their Control. Oxford University Press, Nairobi, Kenya, 289 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082021,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2814,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hutchinson J., Dalziel J. M., Keay R. W. J. & Hepper F. N., 1954. Flora of West Tropical Africa. Vol. I part. 1. 2ème éd. The Whitefriars Press ed., London & Tonbridge, 295 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082021,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2813,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Cavaco A., 1974. Flore du Cameroun. 17 - Amaranthacées. Muséum National d'Histoire Naturelle éd., Paris, France, 65p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082021,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2812,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1971. Flore illustrée du Sénégal. Tome 1. Clairafrique éd., Dakar, Sénégal, 626 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082020,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2811,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082020,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2827,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:42Z",
+lastUpdated: "2015-03-31T06:52:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Bari, M.N. 1997. Major rice weeds in Bangladesh. Department of Agronomy. BSMR Agricultural University, Gazipur, Bangladesh."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763082026,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 428,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090203_140248.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090203_140248_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 429,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 430,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 431,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20020724_140648.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20020724_140648_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 432,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 433,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_155720.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_155720_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 434,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20041121_161102.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20041121_161102_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 435,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20070717_155758.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20070717_155758_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 436,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20050112_160116.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20050112_160116_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 437,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090204_143516.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090204_143516_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 438,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20070717_160000.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20070717_160000_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 439,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20070717_155714.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20070717_155714_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 440,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20070717_155835.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20070717_155835_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 441,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20050112_190152.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20050112_190152_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 442,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20101202_103742.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20101202_103742_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 443,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20120504_095023.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20120504_095023_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 444,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20070717_155920.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20070717_155920_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 445,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_162446.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_162446_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 446,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090204_182123.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090204_182123_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 447,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20040519_230504.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20040519_230504_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 448,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 449,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20051114_181139.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20051114_181139_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 450,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20051112_161150.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20051112_161150_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 451,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20051112_161129.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20051112_161129_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 452,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20051112_161112.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20051112_161112_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 453,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20101202_103822.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20101202_103822_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 454,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20070717_160045.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20070717_160045_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 455,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_161351.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_161351_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 456,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 457,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 458,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 459,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20050112_190122.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20050112_190122_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 460,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_161833.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_161833_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 461,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090204_175329.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090204_175329_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:25Z",
+rating: 0
+},
+{
+id: 462,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110707_093419.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110707_093419_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 463,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110818_123658.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110818_123658_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 464,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 465,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20040519_230520.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20040519_230520_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 466,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110818_123652.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110818_123652_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 467,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110818_123636.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110818_123636_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 468,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20050112_160130.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20050112_160130_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 469,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110818_123630.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110818_123630_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 470,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20080609_101230_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 471,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110520_071500.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110520_071500_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 472,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110520_071510.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110520_071510_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 473,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111026_190232.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111026_190232_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 474,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110520_071446.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110520_071446_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 475,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111025_143226.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111025_143226_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 476,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111025_143030.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111025_143030_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 477,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111025_141121.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111025_141121_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 478,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110818_123644.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110818_123644_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 479,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110911_152014.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110911_152014_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 480,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111025_140906.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111025_140906_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 481,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110911_151931.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110911_151931_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 482,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110911_151944.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110911_151944_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 483,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111025_142525.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111025_142525_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 484,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111025_141005.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20111025_141005_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 485,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_161711.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_161711_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 486,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110818_123710.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20110818_123710_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 487,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090204_175408.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090204_175408_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 488,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20050128_150120.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20050128_150120_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 489,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_160907.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_160907_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 490,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20040609_180644.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20040609_180644_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 491,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20040519_230558.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20040519_230558_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 492,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_161559.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20090127_161559_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 493,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20040812_220846.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20040812_220846_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+},
+{
+id: 494,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20050112_190140.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus viridis/amavi_20050112_190140_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:59:26Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

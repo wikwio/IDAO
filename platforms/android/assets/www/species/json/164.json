@@ -1,0 +1,3962 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 164,
+title: "<i>Imperata cylindrica (</i>L.<i>) </i>P.Beauv. ",
+taxonConcept: {
+id: 327,
+name: "Imperata cylindrica (L.) P.Beauv.",
+canonicalForm: "Imperata cylindrica",
+italicisedForm: "<i>Imperata cylindrica (</i>L.<i>) </i>P.Beauv. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 326,
+name: "Imperata",
+canonicalForm: "Imperata",
+italicisedForm: "<i>Imperata</i>",
+rank: "Genus"
+},
+{
+id: 327,
+name: "Imperata cylindrica (L.) P.Beauv.",
+canonicalForm: "Imperata cylindrica",
+italicisedForm: "<i>Imperata cylindrica (</i>L.<i>) </i>P.Beauv. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 3821,
+name: "Arundo epigeios Forssk. ex Steud. [Invalid]",
+canonicalForm: "Arundo epigeios",
+italicisedForm: "<i>Arundo epigeios </i>Forssk.<i> ex </i>Steud.<i> [Invalid]</i>",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3822,
+name: "Calamagrostis lagurus Koeler [Illegitimate]",
+canonicalForm: "Calamagrostis lagurus",
+italicisedForm: "<i>Calamagrostis lagurus </i>Koeler<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3823,
+name: "Imperata allang Jungh.",
+canonicalForm: "Imperata allang",
+italicisedForm: "<i>Imperata allang </i>Jungh. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3824,
+name: "Imperata angolensis Fritsch",
+canonicalForm: "Imperata angolensis",
+italicisedForm: "<i>Imperata angolensis </i>Fritsch ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3825,
+name: "Imperata arundinacea Cirillo",
+canonicalForm: "Imperata arundinacea",
+italicisedForm: "<i>Imperata arundinacea </i>Cirillo ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3826,
+name: "Imperata arundinacea var. africana Andersson",
+canonicalForm: "Imperata arundinacea africana",
+italicisedForm: "<i>Imperata arundinacea </i>var.<i> africana </i>Andersson ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3827,
+name: "Imperata arundinacea var. europaea Andersson",
+canonicalForm: "Imperata arundinacea europaea",
+italicisedForm: "<i>Imperata arundinacea </i>var.<i> europaea </i>Andersson ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3828,
+name: "Imperata arundinacea var. glabrescens Büse",
+canonicalForm: "Imperata arundinacea glabrescens",
+italicisedForm: "<i>Imperata arundinacea </i>var.<i> glabrescens </i>Büse ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3829,
+name: "Imperata arundinacea var. indica Andersson",
+canonicalForm: "Imperata arundinacea indica",
+italicisedForm: "<i>Imperata arundinacea </i>var.<i> indica </i>Andersson ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3830,
+name: "Imperata arundinacea var. koenigii (Retz.) Benth.",
+canonicalForm: "Imperata arundinacea koenigii",
+italicisedForm: "<i>Imperata arundinacea </i>var.<i> koenigii (</i>Retz.<i>) </i>Benth. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3831,
+name: "Imperata arundinacea var. latifolia Hook.f.",
+canonicalForm: "Imperata arundinacea latifolia",
+italicisedForm: "<i>Imperata arundinacea </i>var.<i> latifolia </i>Hook.f. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3832,
+name: "Imperata arundinacea var. pedicellata (Steud.) Debeaux",
+canonicalForm: "Imperata arundinacea pedicellata",
+italicisedForm: "<i>Imperata arundinacea </i>var.<i> pedicellata (</i>Steud.<i>) </i>Debeaux ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3833,
+name: "Imperata cylindrica var. africana (Andersson) C.E.Hubb.",
+canonicalForm: "Imperata cylindrica africana",
+italicisedForm: "<i>Imperata cylindrica </i>var.<i> africana (</i>Andersson<i>) </i>C.E.Hubb. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3834,
+name: "Imperata cylindrica var. cylindrica",
+canonicalForm: "Imperata cylindrica cylindrica",
+italicisedForm: "<i>Imperata cylindrica </i>var.<i> cylindrica</i>",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3835,
+name: "Imperata cylindrica var. europaea (Andersson) Asch. & Graebn.",
+canonicalForm: "Imperata cylindrica europaea",
+italicisedForm: "<i>Imperata cylindrica </i>var.<i> europaea (</i>Andersson<i>) </i>Asch.<i> & </i>Graebn. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3836,
+name: "Imperata cylindrica subsp. koenigii (Retz.) Tzvelev",
+canonicalForm: "Imperata cylindrica koenigii",
+italicisedForm: "<i>Imperata cylindrica </i>subsp.<i> koenigii (</i>Retz.<i>) </i>Tzvelev ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3837,
+name: "Imperata cylindrica var. latifolia (Hook.f.) C.E.Hubb.",
+canonicalForm: "Imperata cylindrica latifolia",
+italicisedForm: "<i>Imperata cylindrica </i>var.<i> latifolia (</i>Hook.f.<i>) </i>C.E.Hubb. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3838,
+name: "Imperata cylindrica var. major (Nees) C.E.Hubb.",
+canonicalForm: "Imperata cylindrica major",
+italicisedForm: "<i>Imperata cylindrica </i>var.<i> major (</i>Nees<i>) </i>C.E.Hubb. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3839,
+name: "Imperata cylindrica f. pallida Honda",
+canonicalForm: "Imperata cylindrica pallida",
+italicisedForm: "<i>Imperata cylindrica </i>f.<i> pallida </i>Honda ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3840,
+name: "Imperata cylindrica var. parviflora Batt. & Trab.",
+canonicalForm: "Imperata cylindrica parviflora",
+italicisedForm: "<i>Imperata cylindrica </i>var.<i> parviflora </i>Batt.<i> & </i>Trab. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3841,
+name: "Imperata cylindrica var. pedicellata (Steud.) Debeaux",
+canonicalForm: "Imperata cylindrica pedicellata",
+italicisedForm: "<i>Imperata cylindrica </i>var.<i> pedicellata (</i>Steud.<i>) </i>Debeaux ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3842,
+name: "Imperata cylindrica var. thunbergii (Retz.) T.Durand & Schinz",
+canonicalForm: "Imperata cylindrica thunbergii",
+italicisedForm: "<i>Imperata cylindrica </i>var.<i> thunbergii (</i>Retz.<i>) </i>T.Durand<i> & </i>Schinz ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3843,
+name: "Imperata dinteri Pilg.",
+canonicalForm: "Imperata dinteri",
+italicisedForm: "<i>Imperata dinteri </i>Pilg. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3844,
+name: "Imperata filifolia Nees ex Steud.",
+canonicalForm: "Imperata filifolia",
+italicisedForm: "<i>Imperata filifolia </i>Nees<i> ex </i>Steud. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3845,
+name: "Imperata koenigii (Retz.) P.Beauv.",
+canonicalForm: "Imperata koenigii",
+italicisedForm: "<i>Imperata koenigii (</i>Retz.<i>) </i>P.Beauv. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3846,
+name: "Imperata koenigii var. major Nees",
+canonicalForm: "Imperata koenigii major",
+italicisedForm: "<i>Imperata koenigii </i>var.<i> major </i>Nees ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3847,
+name: "Imperata laguroides (Pourr.) J.Roux",
+canonicalForm: "Imperata laguroides",
+italicisedForm: "<i>Imperata laguroides (</i>Pourr.<i>) </i>J.Roux ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3848,
+name: "Imperata latifolia (Hook.f.) L.Liou",
+canonicalForm: "Imperata latifolia",
+italicisedForm: "<i>Imperata latifolia (</i>Hook.f.<i>) </i>L.Liou ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3849,
+name: "Imperata pedicellata Steud.",
+canonicalForm: "Imperata pedicellata",
+italicisedForm: "<i>Imperata pedicellata </i>Steud. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3850,
+name: "Imperata praecoquis Honda",
+canonicalForm: "Imperata praecoquis",
+italicisedForm: "<i>Imperata praecoquis </i>Honda ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3851,
+name: "Imperata robustior A.Chev.",
+canonicalForm: "Imperata robustior",
+italicisedForm: "<i>Imperata robustior </i>A.Chev. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3852,
+name: "Imperata sieberi Opiz",
+canonicalForm: "Imperata sieberi",
+italicisedForm: "<i>Imperata sieberi </i>Opiz ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3853,
+name: "Imperata sisca P.Beauv. ex Steud. [Invalid]",
+canonicalForm: "Imperata sisca",
+italicisedForm: "<i>Imperata sisca </i>P.Beauv.<i> ex </i>Steud.<i> [Invalid]</i>",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3854,
+name: "Imperata thunbergii (Retz.) Nees",
+canonicalForm: "Imperata thunbergii",
+italicisedForm: "<i>Imperata thunbergii (</i>Retz.<i>) </i>Nees ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3855,
+name: "Lagurus cylindricus L.",
+canonicalForm: "Lagurus cylindricus",
+italicisedForm: "<i>Lagurus cylindricus </i>L. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3856,
+name: "Saccharum cylindricum (L.) Lam.",
+canonicalForm: "Saccharum cylindricum",
+italicisedForm: "<i>Saccharum cylindricum (</i>L.<i>) </i>Lam. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3857,
+name: "Saccharum cylindricum var. europaeum Pers.",
+canonicalForm: "Saccharum cylindricum europaeum",
+italicisedForm: "<i>Saccharum cylindricum </i>var.<i> europaeum </i>Pers. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3858,
+name: "Saccharum diandrum J.Koenig ex Retz. [Invalid]",
+canonicalForm: "Saccharum diandrum",
+italicisedForm: "<i>Saccharum diandrum </i>J.Koenig<i> ex </i>Retz.<i> [Invalid]</i>",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3859,
+name: "Saccharum europaeum Pers. [Illegitimate]",
+canonicalForm: "Saccharum europaeum",
+italicisedForm: "<i>Saccharum europaeum </i>Pers.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3860,
+name: "Saccharum indum Pers. [Invalid]",
+canonicalForm: "Saccharum indum",
+italicisedForm: "<i>Saccharum indum </i>Pers.<i> [Invalid]</i>",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3861,
+name: "Saccharum koenigii Retz.",
+canonicalForm: "Saccharum koenigii",
+italicisedForm: "<i>Saccharum koenigii </i>Retz. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3862,
+name: "Saccharum laguroides Pourr.",
+canonicalForm: "Saccharum laguroides",
+italicisedForm: "<i>Saccharum laguroides </i>Pourr. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3863,
+name: "Saccharum sisca Cav.",
+canonicalForm: "Saccharum sisca",
+italicisedForm: "<i>Saccharum sisca </i>Cav. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3864,
+name: "Saccharum spicatum J.Presl [Illegitimate]",
+canonicalForm: "Saccharum spicatum",
+italicisedForm: "<i>Saccharum spicatum </i>J.Presl<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3865,
+name: "Saccharum thunbergii Retz.",
+canonicalForm: "Saccharum thunbergii",
+italicisedForm: "<i>Saccharum thunbergii </i>Retz. ",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 860,
+name: "Manevika",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 859,
+name: "Tenina",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 858,
+name: "Mbidambe",
+taxonConcept: {
+id: 327
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:41:07Z",
+lastRevised: "2015-03-19T11:39:43Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_05_th1.jpg",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>IMPCA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>IMPCA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+fields: [
+{
+id: 1317,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>IMPCA</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>vivacious</p>",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2014-09-24T17:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655601,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1331,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Rather stiff and upright, edge rough, sharp and long, tapering point. Leaves are in tufts, erect, to 2 cm wide 100 cm long. The leaf blade is smooth on both surfaces and the margins are very rough to the touch. The ligule is inconspicuous and the sheath is massive and fibrous, thus making it capable of resisting burning.</p><h6>General Habit</h6><p>Grass.</p><h6>Underground System</h6><p>Vigorous, forms mat of rhizomes mostly in surface 25 cm of soil, and deeply penetrating system of rhizhomes, shoots reaching a height of 1 m.</p><h6>Flower</h6><p>Stamens 2, anthers 3 mm long at anthesis, orange; stigma 2, purple, plumose.</p><h6>Global Description</h6><p>A perennial grass with an extensive and deeply penetrating system of rhizhomes, shoots reaching a height of 1 m.</p><h6>Inflorescence</h6><p>Branched, but compacted into a dense, white, fluffy, cylindrical, spike-like head up to 15 cm long by 2 cm broad. The fluffy nature is due to the numerous silky hairs arising from the base of the spikelets. The spikelets are 5 mm long and arranged densely along the branches. They consist of one fertile floret and a floret reduced to a pair of small bracts.</p>",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2014-09-24T17:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655650,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1318,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Imperata cylindrica (L.) P.Beauv.",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2014-09-24T17:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655603,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1327,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Reproduces by seed and rhizomes and regrowth ability increases with rhizome age and weight. Stresses such as burning, cutting and drought have been reported to induce Flowering in I. cylindrica and, consequently, may encourage the spread of the weed.<br>",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2014-09-24T17:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655632,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1322,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Its habitat includes the dry sand dunes of shores and deserts as well as swamps and river margins. It grows in grasslands, including cultivated annual crops and plantations. Grows in well in burnt areas where there is little competition from taller plants. It prefers loose, disturbed or sandy soils.<br>",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2014-09-24T17:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655623,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1324,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Origin</h6><p>Tropical and subtropical areas of the world.</p>",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2014-09-24T17:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655625,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1332,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Local Weediness</h6><p>Kenya: Rare but abondant when present Tanzania: Frequent but not abundant. Uganda: Frequent and usually abundant.</p>",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2014-09-24T17:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655650,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1330,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Known in Malawi as a treatment for digestive complaints and in India it is an important drug of 'Trinpanchmool' used for treatment of various ailments urinary calculi, retention of urine, cardiac disorder, gout, common cough and cold, menorrhegia, inflammation, burning sensation, fever, anemia, and as aphrodisiac, rejuvenator etc.<br>",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2014-09-24T17:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655648,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1323,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>The perennial grass Imperata cylindrica (L.) Raeuschel (Spear grass) is a common and persistent weed in many upland crops like cassava, maize, sorghum and rice. The weed tends to be abundant where fields are regularly cultivated and burnt, as it recovers rapidly from disturbance, and burning induces flowering. It exerts great competition on crops (Johnson, 1997; Chikoye et al., 2000). The grass is common in the forest to savanna transition zone (Chikoye et al., 1999) and is widely adapted (Townson, 1991) but growth is suppressed by shade. Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2014-09-24T17:44:15Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655625,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1328,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2015-04-07T09:24:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Townson, J., 1991. Imperata cylindrica and its control. Weed Abstracts 40, 457-468; Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 299-300 p"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp05586.htm"
+},
+{
+title: "Chikoye, D., Manyong, V.M., Ekeleme, F., (2000). Characteristics of speargrass (Imperata cylindrica) dominated fields in West Africa: crops, soil properties, farmer perceptions and management strategies. Crop Prot. 19, 481-487; Chikoye, D., Ekeleme, F., Ambe, J.T., 1999. Survey of distribution and farmer perceptions of speargrass (Imperata cylindrica) in cassava based cropping systems in West Africa. International Journal of Pest Management 45, 305-312;"
+},
+{
+title: "I O AKOBUNDU & F E EKELEME (2000). Effect of method of Imperata cylindrica management on maize grain yield in the derived savannah of south-western Nigeria. International Institute of Tropical Agriculture, Ibadan Nigeria. Blackwell Science Weed Research 40, 335-341;"
+},
+{
+title: "K. A. Nyarko and S. K. Detta (1991). A hand book for weed control in Rice. International Rice Research Institute. Los Banos, Phillipine. 102p;"
+},
+{
+title: "S. Jayalakshmi1, Arjun Patra1, V.K. Lal, A.K. Ghosh (2010). Pharmacognostical standardization of roots of Imperata cylindrica Linn (poaceae). J. Pharm. Sci. & Res. Vol.2 (8), 472-476;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_573"
+},
+{
+title: "Johnson, D.E., Riches, C.R., Diallo, R., Jones, M.J., (1997). Striga on rice in West Africa; crop host range and the potential of host resistance. Crop Prot. 16, 153-157;"
+},
+{
+url: "http://www.hear.org/pier/species/imperata_cylindrica.htm"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp05586.htm"
+},
+{
+title: "R. J. HILLOCKS (1998). The potential benefits of weeds with reference to small holder agriculture in Africa. Natural Resources Institute, University of Greenwich. Integrated Pest Management Reviews 3, 155-167;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655642,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1334,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2015-04-07T09:24:56Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "S. Jayalakshmi1, Arjun Patra1, V.K. Lal, A.K. Ghosh (2010). Pharmacognostical standardization of roots of Imperata cylindrica Linn (poaceae). J. Pharm. Sci. & Res. Vol.2 (8), 472-476;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_573"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp05586.htm"
+},
+{
+title: "Johnson, D.E., Riches, C.R., Diallo, R., Jones, M.J., (1997). Striga on rice in West Africa; crop host range and the potential of host resistance. Crop Prot. 16, 153-157;"
+},
+{
+url: "http://www.hear.org/pier/species/imperata_cylindrica.htm"
+},
+{
+title: "Chikoye, D., Manyong, V.M., Ekeleme, F., (2000). Characteristics of speargrass (Imperata cylindrica) dominated fields in West Africa: crops, soil properties, farmer perceptions and management strategies. Crop Prot. 19, 481-487; Chikoye, D., Ekeleme, F., Ambe, J.T., 1999. Survey of distribution and farmer perceptions of speargrass (Imperata cylindrica) in cassava based cropping systems in West Africa. International Journal of Pest Management 45, 305-312;"
+},
+{
+title: "I O AKOBUNDU & F E EKELEME (2000). Effect of method of Imperata cylindrica management on maize grain yield in the derived savannah of south-western Nigeria. International Institute of Tropical Agriculture, Ibadan Nigeria. Blackwell Science Weed Research 40, 335-341;"
+},
+{
+title: "R. J. HILLOCKS (1998). The potential benefits of weeds with reference to small holder agriculture in Africa. Natural Resources Institute, University of Greenwich. Integrated Pest Management Reviews 3, 155-167;"
+},
+{
+title: "Townson, J., 1991. Imperata cylindrica and its control. Weed Abstracts 40, 457-468; Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 299-300 p"
+},
+{
+title: "K. A. Nyarko and S. K. Detta (1991). A hand book for weed control in Rice. International Rice Research Institute. Los Banos, Phillipine. 102p;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655653,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1333,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2015-03-05T00:50:18Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E., Riches, C.R., Diallo, R., Jones, M.J., (1997). Striga on rice in West Africa; crop host range and the potential of host resistance. Crop Prot. 16, 153-157;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_573"
+},
+{
+title: "I O AKOBUNDU & F E EKELEME (2000). Effect of method of Imperata cylindrica management on maize grain yield in the derived savannah of south-western Nigeria. International Institute of Tropical Agriculture, Ibadan Nigeria. Blackwell Science Weed Research 40, 335-341;"
+},
+{
+title: "R. J. HILLOCKS (1998). The potential benefits of weeds with reference to small holder agriculture in Africa. Natural Resources Institute, University of Greenwich. Integrated Pest Management Reviews 3, 155-167;"
+},
+{
+title: "Townson, J., 1991. Imperata cylindrica and its control. Weed Abstracts 40, 457-468; Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 299-300 p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "K. A. Nyarko and S. K. Detta (1991). A hand book for weed control in Rice. International Rice Research Institute. Los Banos, Phillipine. 102p;"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp05586.htm"
+},
+{
+url: "http://www.hear.org/pier/species/imperata_cylindrica.htm"
+},
+{
+title: "S. Jayalakshmi1, Arjun Patra1, V.K. Lal, A.K. Ghosh (2010). Pharmacognostical standardization of roots of Imperata cylindrica Linn (poaceae). J. Pharm. Sci. & Res. Vol.2 (8), 472-476;"
+},
+{
+title: "Chikoye, D., Manyong, V.M., Ekeleme, F., (2000). Characteristics of speargrass (Imperata cylindrica) dominated fields in West Africa: crops, soil properties, farmer perceptions and management strategies. Crop Prot. 19, 481-487; Chikoye, D., Ekeleme, F., Ambe, J.T., 1999. Survey of distribution and farmer perceptions of speargrass (Imperata cylindrica) in cassava based cropping systems in West Africa. International Journal of Pest Management 45, 305-312;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655650,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1329,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2015-03-08T07:15:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://plants.jstor.org/upwta/2_573"
+},
+{
+title: "K. A. Nyarko and S. K. Detta (1991). A hand book for weed control in Rice. International Rice Research Institute. Los Banos, Phillipine. 102p;"
+},
+{
+title: "Townson, J., 1991. Imperata cylindrica and its control. Weed Abstracts 40, 457-468; Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 299-300 p"
+},
+{
+title: "S. Jayalakshmi1, Arjun Patra1, V.K. Lal, A.K. Ghosh (2010). Pharmacognostical standardization of roots of Imperata cylindrica Linn (poaceae). J. Pharm. Sci. & Res. Vol.2 (8), 472-476;"
+},
+{
+title: "R. J. HILLOCKS (1998). The potential benefits of weeds with reference to small holder agriculture in Africa. Natural Resources Institute, University of Greenwich. Integrated Pest Management Reviews 3, 155-167;"
+},
+{
+title: "Johnson, D.E., Riches, C.R., Diallo, R., Jones, M.J., (1997). Striga on rice in West Africa; crop host range and the potential of host resistance. Crop Prot. 16, 153-157;"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp05586.htm"
+},
+{
+title: "Chikoye, D., Manyong, V.M., Ekeleme, F., (2000). Characteristics of speargrass (Imperata cylindrica) dominated fields in West Africa: crops, soil properties, farmer perceptions and management strategies. Crop Prot. 19, 481-487; Chikoye, D., Ekeleme, F., Ambe, J.T., 1999. Survey of distribution and farmer perceptions of speargrass (Imperata cylindrica) in cassava based cropping systems in West Africa. International Journal of Pest Management 45, 305-312;"
+},
+{
+title: "I O AKOBUNDU & F E EKELEME (2000). Effect of method of Imperata cylindrica management on maize grain yield in the derived savannah of south-western Nigeria. International Institute of Tropical Agriculture, Ibadan Nigeria. Blackwell Science Weed Research 40, 335-341;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.hear.org/pier/species/imperata_cylindrica.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655645,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1315,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2015-04-07T09:24:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "S. Jayalakshmi1, Arjun Patra1, V.K. Lal, A.K. Ghosh (2010). Pharmacognostical standardization of roots of Imperata cylindrica Linn (poaceae). J. Pharm. Sci. & Res. Vol.2 (8), 472-476;"
+},
+{
+title: "Townson, J., 1991. Imperata cylindrica and its control. Weed Abstracts 40, 457-468; Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 299-300 p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "K. A. Nyarko and S. K. Detta (1991). A hand book for weed control in Rice. International Rice Research Institute. Los Banos, Phillipine. 102p;"
+},
+{
+title: "Johnson, D.E., Riches, C.R., Diallo, R., Jones, M.J., (1997). Striga on rice in West Africa; crop host range and the potential of host resistance. Crop Prot. 16, 153-157;"
+},
+{
+url: "http://www.hear.org/pier/species/imperata_cylindrica.htm"
+},
+{
+title: "I O AKOBUNDU & F E EKELEME (2000). Effect of method of Imperata cylindrica management on maize grain yield in the derived savannah of south-western Nigeria. International Institute of Tropical Agriculture, Ibadan Nigeria. Blackwell Science Weed Research 40, 335-341;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_573"
+},
+{
+title: "R. J. HILLOCKS (1998). The potential benefits of weeds with reference to small holder agriculture in Africa. Natural Resources Institute, University of Greenwich. Integrated Pest Management Reviews 3, 155-167;"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp05586.htm"
+},
+{
+title: "Chikoye, D., Manyong, V.M., Ekeleme, F., (2000). Characteristics of speargrass (Imperata cylindrica) dominated fields in West Africa: crops, soil properties, farmer perceptions and management strategies. Crop Prot. 19, 481-487; Chikoye, D., Ekeleme, F., Ambe, J.T., 1999. Survey of distribution and farmer perceptions of speargrass (Imperata cylindrica) in cassava based cropping systems in West Africa. International Journal of Pest Management 45, 305-312;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655585,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1316,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2015-04-07T09:24:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E., Riches, C.R., Diallo, R., Jones, M.J., (1997). Striga on rice in West Africa; crop host range and the potential of host resistance. Crop Prot. 16, 153-157;"
+},
+{
+title: "Townson, J., 1991. Imperata cylindrica and its control. Weed Abstracts 40, 457-468; Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 299-300 p"
+},
+{
+title: "I O AKOBUNDU & F E EKELEME (2000). Effect of method of Imperata cylindrica management on maize grain yield in the derived savannah of south-western Nigeria. International Institute of Tropical Agriculture, Ibadan Nigeria. Blackwell Science Weed Research 40, 335-341;"
+},
+{
+title: "R. J. HILLOCKS (1998). The potential benefits of weeds with reference to small holder agriculture in Africa. Natural Resources Institute, University of Greenwich. Integrated Pest Management Reviews 3, 155-167;"
+},
+{
+url: "http://www.hear.org/pier/species/imperata_cylindrica.htm"
+},
+{
+title: "S. Jayalakshmi1, Arjun Patra1, V.K. Lal, A.K. Ghosh (2010). Pharmacognostical standardization of roots of Imperata cylindrica Linn (poaceae). J. Pharm. Sci. & Res. Vol.2 (8), 472-476;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_573"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp05586.htm"
+},
+{
+title: "K. A. Nyarko and S. K. Detta (1991). A hand book for weed control in Rice. International Rice Research Institute. Los Banos, Phillipine. 102p;"
+},
+{
+title: "Chikoye, D., Manyong, V.M., Ekeleme, F., (2000). Characteristics of speargrass (Imperata cylindrica) dominated fields in West Africa: crops, soil properties, farmer perceptions and management strategies. Crop Prot. 19, 481-487; Chikoye, D., Ekeleme, F., Ambe, J.T., 1999. Survey of distribution and farmer perceptions of speargrass (Imperata cylindrica) in cassava based cropping systems in West Africa. International Journal of Pest Management 45, 305-312;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655588,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1319,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2015-04-07T09:24:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp05586.htm"
+},
+{
+title: "Townson, J., 1991. Imperata cylindrica and its control. Weed Abstracts 40, 457-468; Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 299-300 p"
+},
+{
+title: "S. Jayalakshmi1, Arjun Patra1, V.K. Lal, A.K. Ghosh (2010). Pharmacognostical standardization of roots of Imperata cylindrica Linn (poaceae). J. Pharm. Sci. & Res. Vol.2 (8), 472-476;"
+},
+{
+title: "Johnson, D.E., Riches, C.R., Diallo, R., Jones, M.J., (1997). Striga on rice in West Africa; crop host range and the potential of host resistance. Crop Prot. 16, 153-157;"
+},
+{
+title: "I O AKOBUNDU & F E EKELEME (2000). Effect of method of Imperata cylindrica management on maize grain yield in the derived savannah of south-western Nigeria. International Institute of Tropical Agriculture, Ibadan Nigeria. Blackwell Science Weed Research 40, 335-341;"
+},
+{
+title: "Chikoye, D., Manyong, V.M., Ekeleme, F., (2000). Characteristics of speargrass (Imperata cylindrica) dominated fields in West Africa: crops, soil properties, farmer perceptions and management strategies. Crop Prot. 19, 481-487; Chikoye, D., Ekeleme, F., Ambe, J.T., 1999. Survey of distribution and farmer perceptions of speargrass (Imperata cylindrica) in cassava based cropping systems in West Africa. International Journal of Pest Management 45, 305-312;"
+},
+{
+title: "K. A. Nyarko and S. K. Detta (1991). A hand book for weed control in Rice. International Rice Research Institute. Los Banos, Phillipine. 102p;"
+},
+{
+title: "R. J. HILLOCKS (1998). The potential benefits of weeds with reference to small holder agriculture in Africa. Natural Resources Institute, University of Greenwich. Integrated Pest Management Reviews 3, 155-167;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_573"
+},
+{
+url: "http://www.hear.org/pier/species/imperata_cylindrica.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655603,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1325,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2015-04-07T09:24:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "S. Jayalakshmi1, Arjun Patra1, V.K. Lal, A.K. Ghosh (2010). Pharmacognostical standardization of roots of Imperata cylindrica Linn (poaceae). J. Pharm. Sci. & Res. Vol.2 (8), 472-476;"
+},
+{
+title: "R. J. HILLOCKS (1998). The potential benefits of weeds with reference to small holder agriculture in Africa. Natural Resources Institute, University of Greenwich. Integrated Pest Management Reviews 3, 155-167;"
+},
+{
+title: "Chikoye, D., Manyong, V.M., Ekeleme, F., (2000). Characteristics of speargrass (Imperata cylindrica) dominated fields in West Africa: crops, soil properties, farmer perceptions and management strategies. Crop Prot. 19, 481-487; Chikoye, D., Ekeleme, F., Ambe, J.T., 1999. Survey of distribution and farmer perceptions of speargrass (Imperata cylindrica) in cassava based cropping systems in West Africa. International Journal of Pest Management 45, 305-312;"
+},
+{
+title: "I O AKOBUNDU & F E EKELEME (2000). Effect of method of Imperata cylindrica management on maize grain yield in the derived savannah of south-western Nigeria. International Institute of Tropical Agriculture, Ibadan Nigeria. Blackwell Science Weed Research 40, 335-341;"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp05586.htm"
+},
+{
+title: "K. A. Nyarko and S. K. Detta (1991). A hand book for weed control in Rice. International Rice Research Institute. Los Banos, Phillipine. 102p;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_573"
+},
+{
+url: "http://www.hear.org/pier/species/imperata_cylindrica.htm"
+},
+{
+title: "Townson, J., 1991. Imperata cylindrica and its control. Weed Abstracts 40, 457-468; Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 299-300 p"
+},
+{
+title: "Johnson, D.E., Riches, C.R., Diallo, R., Jones, M.J., (1997). Striga on rice in West Africa; crop host range and the potential of host resistance. Crop Prot. 16, 153-157;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655625,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1320,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2015-04-07T09:24:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.hear.org/pier/species/imperata_cylindrica.htm"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp05586.htm"
+},
+{
+title: "R. J. HILLOCKS (1998). The potential benefits of weeds with reference to small holder agriculture in Africa. Natural Resources Institute, University of Greenwich. Integrated Pest Management Reviews 3, 155-167;"
+},
+{
+title: "Johnson, D.E., Riches, C.R., Diallo, R., Jones, M.J., (1997). Striga on rice in West Africa; crop host range and the potential of host resistance. Crop Prot. 16, 153-157;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_573"
+},
+{
+url: "http://www.hear.org/pier/species/imperata_cylindrica.htm"
+},
+{
+title: "Townson, J., 1991. Imperata cylindrica and its control. Weed Abstracts 40, 457-468; Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 299-300 p"
+},
+{
+title: "S. Jayalakshmi1, Arjun Patra1, V.K. Lal, A.K. Ghosh (2010). Pharmacognostical standardization of roots of Imperata cylindrica Linn (poaceae). J. Pharm. Sci. & Res. Vol.2 (8), 472-476;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "I O AKOBUNDU & F E EKELEME (2000). Effect of method of Imperata cylindrica management on maize grain yield in the derived savannah of south-western Nigeria. International Institute of Tropical Agriculture, Ibadan Nigeria. Blackwell Science Weed Research 40, 335-341;"
+},
+{
+title: "Chikoye, D., Manyong, V.M., Ekeleme, F., (2000). Characteristics of speargrass (Imperata cylindrica) dominated fields in West Africa: crops, soil properties, farmer perceptions and management strategies. Crop Prot. 19, 481-487; Chikoye, D., Ekeleme, F., Ambe, J.T., 1999. Survey of distribution and farmer perceptions of speargrass (Imperata cylindrica) in cassava based cropping systems in West Africa. International Journal of Pest Management 45, 305-312;"
+},
+{
+title: "K. A. Nyarko and S. K. Detta (1991). A hand book for weed control in Rice. International Rice Research Institute. Los Banos, Phillipine. 102p;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655608,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1326,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2015-04-07T09:24:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "R. J. HILLOCKS (1998). The potential benefits of weeds with reference to small holder agriculture in Africa. Natural Resources Institute, University of Greenwich. Integrated Pest Management Reviews 3, 155-167;"
+},
+{
+title: "I O AKOBUNDU & F E EKELEME (2000). Effect of method of Imperata cylindrica management on maize grain yield in the derived savannah of south-western Nigeria. International Institute of Tropical Agriculture, Ibadan Nigeria. Blackwell Science Weed Research 40, 335-341;"
+},
+{
+title: "Johnson, D.E., Riches, C.R., Diallo, R., Jones, M.J., (1997). Striga on rice in West Africa; crop host range and the potential of host resistance. Crop Prot. 16, 153-157;"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp05586.htm"
+},
+{
+title: "Chikoye, D., Manyong, V.M., Ekeleme, F., (2000). Characteristics of speargrass (Imperata cylindrica) dominated fields in West Africa: crops, soil properties, farmer perceptions and management strategies. Crop Prot. 19, 481-487; Chikoye, D., Ekeleme, F., Ambe, J.T., 1999. Survey of distribution and farmer perceptions of speargrass (Imperata cylindrica) in cassava based cropping systems in West Africa. International Journal of Pest Management 45, 305-312;"
+},
+{
+title: "Townson, J., 1991. Imperata cylindrica and its control. Weed Abstracts 40, 457-468; Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 299-300 p"
+},
+{
+title: "K. A. Nyarko and S. K. Detta (1991). A hand book for weed control in Rice. International Rice Research Institute. Los Banos, Phillipine. 102p;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://plants.jstor.org/upwta/2_573"
+},
+{
+url: "http://www.hear.org/pier/species/imperata_cylindrica.htm"
+},
+{
+title: "S. Jayalakshmi1, Arjun Patra1, V.K. Lal, A.K. Ghosh (2010). Pharmacognostical standardization of roots of Imperata cylindrica Linn (poaceae). J. Pharm. Sci. & Res. Vol.2 (8), 472-476;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655628,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1321,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:44:15Z",
+lastUpdated: "2015-04-07T09:24:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "S. Jayalakshmi1, Arjun Patra1, V.K. Lal, A.K. Ghosh (2010). Pharmacognostical standardization of roots of Imperata cylindrica Linn (poaceae). J. Pharm. Sci. & Res. Vol.2 (8), 472-476;"
+},
+{
+url: "http://www.hear.org/pier/species/imperata_cylindrica.htm"
+},
+{
+title: "I O AKOBUNDU & F E EKELEME (2000). Effect of method of Imperata cylindrica management on maize grain yield in the derived savannah of south-western Nigeria. International Institute of Tropical Agriculture, Ibadan Nigeria. Blackwell Science Weed Research 40, 335-341;"
+},
+{
+title: "K. A. Nyarko and S. K. Detta (1991). A hand book for weed control in Rice. International Rice Research Institute. Los Banos, Phillipine. 102p;"
+},
+{
+title: "Johnson, D.E., Riches, C.R., Diallo, R., Jones, M.J., (1997). Striga on rice in West Africa; crop host range and the potential of host resistance. Crop Prot. 16, 153-157;"
+},
+{
+url: "http://plants.jstor.org/upwta/2_573"
+},
+{
+title: "Chikoye, D., Manyong, V.M., Ekeleme, F., (2000). Characteristics of speargrass (Imperata cylindrica) dominated fields in West Africa: crops, soil properties, farmer perceptions and management strategies. Crop Prot. 19, 481-487; Chikoye, D., Ekeleme, F., Ambe, J.T., 1999. Survey of distribution and farmer perceptions of speargrass (Imperata cylindrica) in cassava based cropping systems in West Africa. International Journal of Pest Management 45, 305-312;"
+},
+{
+title: "R. J. HILLOCKS (1998). The potential benefits of weeds with reference to small holder agriculture in Africa. Natural Resources Institute, University of Greenwich. Integrated Pest Management Reviews 3, 155-167;"
+},
+{
+url: "http://www.kew.org/data/grasses-db/www/imp05586.htm"
+},
+{
+title: "Townson, J., 1991. Imperata cylindrica and its control. Weed Abstracts 40, 457-468; Troupin G. (1989). Flore du Rwanda, Spermatophyte (Volume IV). Musée Royal de l'Afrique centrale, Tervuren, Belgique. 299-300 p"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://plants.jstor.org/upwta/2_573"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580655611,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4482,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Imperata cylindrica est une plante vivace à rhizomes. Elle se développe en touffes de feuilles rubanées dressées verticalement, pointues au sommet. Le chaume est rigide, cylindrique portant une inflorescence fusiforme, duveteuse, de couleur blanc argenté.</p>",
+dateCreated: "2015-03-19T11:39:43Z",
+lastUpdated: "2015-03-19T11:39:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765183427,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4460,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>IMPCA</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:39:35Z",
+lastUpdated: "2015-03-19T11:39:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765175091,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4473,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Imperata cylindrica est une plante vivace à rhizomes. Elle se développe en touffes de feuilles rubanées dressées verticalement, pointues au sommet. Le chaume est rigide, cylindrique portant une inflorescence fusiforme, duveteuse, de couleur blanc argenté.</p><h6>Premières Feuilles</h6><p>Les plantules issues de germination sont rares du fait de la faible fertilité des grains. La jeune plante provient d'un rhizome qui se redresse verticalement hors du sol. Les feuilles souterraines sont réduites à des écailles emboîtées. Au-dessus de la surface du sol, le limbe se développe en un ruban vertical, rigide, très aigu au sommet. La préfoliaison est enroulée.</p><h6>Port</h6><p>Herbe à port dressé. La plante présente de multiples chaumes érigés, reliés par les rhizomes traçants.</p><h6>Système Souterrain</h6><p>L’appareil souterrain est formé de tiges souterraines constituées de rhizomes traçants, ramifiés, d'où partent régulièrement des touffes de pousses érigées.</p><h6>Tige</h6><p>Le chaume est rigide, grêle et cylindrique pouvant atteindre 0,5 m à 1 m de hauteur. A la base des touffes persistent les restes des gaines fibreuses de l'année précédente.</p><h6>Feuille</h6><p>Les feuilles sont principalement basales. Elles sont dressées verticalement. La gaine est fibreuse et courte. Il en part un limbe rubané, qui s'atténue en une pointe aiguë, piquante au sommet. La base du limbe est rétrécie en un pseudo-pétiole. Les feuilles mesurent jusqu'à 1 m de long et 5 à 18 mm de large. Le limbe est glabre sur les deux faces. La marge est plus ou moins scabre. La nervure centrale, plus claire, apparaît légèrement convexe sur la face inférieure. La ligule, membraneuse, est peu apparente (1 mm de long). Elle est bordée de quelques longs cils, à la base des marges du limbe.</p><h6>Inflorescence</h6><p>L'inflorescence est une panicule fusiforme cylindrique, lâche et soyeuse. Elle est de couleur blanc argenté, parsemée d'étamines oranges et de stigmates bruns. Elle mesure 5 à 20 cm de long et 0,5 à 2,5 cm de large.</p><h6>Fleur</h6><p>L'épillet, d'une longueur de 2,5 à 5 mm, est entouré de longues soies blanches de 1 cm. Les glumes inférieure et supérieure sont lancéolées, ciliées vers le sommet.</p><h6>Fruit</h6><p>Le grain est ellipsoïde, pointu au sommet, de 1 mm de long.</p>",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-19T11:39:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176674,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4475,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Imperata cylindrica (L.) P.Beauv.",
+dateCreated: "2015-03-19T11:39:37Z",
+lastUpdated: "2015-03-19T11:39:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765177032,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4474,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "I. cylindrica entre en végétation dès que le sol est humide. La floraison et la fructification se déroulent de septembre à décembre, au début de la saison sèche.<br>",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-19T11:39:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176843,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4479,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "I. cylindrica est une espèce vivace. Elle se multiplie principalement de façon végétative par extension d'un vigoureux système de rhizomes. Elle peut également se reproduire par graines, disséminées par le vent sur de grandes distances. Certaines populations produisent des fleurs régulièrement, tandis que d'autres n'en ont jamais. Le passage du feu, le fauchage, le pâturage induisent un regain de végétation et stimulent la floraison. Si l'appareil aérien brûle facilement, les rhizomes possèdent une remarquable résistance aux températures élevées. Les rhizomes peuvent pénétrer dans le sol jusqu'à 120 cm de profondeur, mais la majorité se trouvent dans les 15 premiers centimètres en sol lourd et dans les 40 premiers centimètres en sol léger. Des fragments de rhizomes de 1 à 5 cm de long sont aptes à bourgeonner. Les fragments de rhizomes placés à la surface du sol supportent très mal la dessiccation. Aucun ne peut bourgeonner après deux jours à une humidité inférieure à 47 %. La température optimale de développement est de 30°C.<br>",
+dateCreated: "2015-03-19T11:39:37Z",
+lastUpdated: "2015-03-19T11:39:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765177729,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4476,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>I. cylindrica est une espèce très largement répandue en Afrique, en Australie, dans le sud de l'Asie, en Inde, en Amérique du Sud et en Floride aux Etats-Unis. Elle est présente, mais ne constitue pas un problème, dans le Sud de l'Europe et sur le pourtour méditerranéen. Au Nord-Cameroun, on la trouve au Sud de Garoua et ponctuellement plus au Nord dans des parcelles en bordure des cours d'eau.</p>",
+dateCreated: "2015-03-19T11:39:37Z",
+lastUpdated: "2015-03-19T11:39:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765177202,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4478,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : I. cylindrica est une espèce de climat humide, très abondante en forêt de transition et en zones de savane soudanienne et guinéenne. Elle se développe préférentiellement sous des climats où la pluviométrie annuelle est supérieure à 1300 mm. Elle se rencontre ponctuellement sous des climats plus secs, dans des sols humides en bordure de rivière. Elle tolère de courtes périodes d'inondation. Espèce très héliophile, elle se développe surtout en adventice des cultures ou en rudérale sur les bords de chemins et dans les milieux ouverts. Elle n'a pas de préférence de sol notable. Comores : Plante héliophile fréquente dans les zones humides, surtout à basse altitude jusqu’à 400 m. Elle est présente surtout dans les zones régulièrement mises en feu. Elle est observée dans les trois îles. Madagascar : Mauvaise herbe à rhizomes puissants assez répandue sur les Hautes Terres et le versant oriental de l’île. Elle infeste les jachères et les cultures sur les terrasses à sol profond en bas de pente et dans les plaines alluviales. L’installation de cette adventice est souvent considérée comme une dégradation de la fertilité du sol. Maurice : absente. Nouvelle Calédonie : Espèce de climat humide (pluviométrie supérieure à 1500 mm), elle préfère les sols drainants et profonds. On la trouve préférentiellement sur sol acide en Nouvelle-Calédonie où elle pourrait être indigène. Elle se propage sur les zones souvent brûlées car le feu dynamise la repousse de la plante. La Réunion : absente. Seychelles : absente.<br>",
+dateCreated: "2015-03-19T11:39:37Z",
+lastUpdated: "2015-03-19T11:39:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765177539,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4477,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>I. cylindrica est une espèce très largement répandue en Afrique, en Australie, dans le sud de l'Asie, en Inde, en Amérique du Sud et en Floride aux Etats-Unis. Elle est présente, mais ne constitue pas un problème, dans le Sud de l'Europe et sur le pourtour méditerranéen. Au Nord-Cameroun, on la trouve au Sud de Garoua et ponctuellement plus au Nord dans des parcelles en bordure des cours d'eau.</p>",
+dateCreated: "2015-03-19T11:39:37Z",
+lastUpdated: "2015-03-19T11:39:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765177370,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4480,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Globale</h6><p>I. cylindrica fait partie de la liste de l'UICN des 100 espèces parmi les plus envahissantes dans le monde, ainsi que des 18 mauvaises herbes les plus néfaste dans le monde. I. cylindrica est une espèce rhizomateuse dont l'expansion dans les parcelles est grandement favorisée par les actions de fractionnement au moment des opérations culturales (labour, sarclage, buttage). Le labour à la charrue à disque, en période pluvieuse, est le cas le plus favorable de multiplication.</p><h6>Nuisibilité Locale</h6><p>Nord-Cameroun : I. cylindrica est considérée comme une adventice majeure locale. Comores : Cette adventice se développe dans les cultures de manioc et dans toutes les plantes à tubercules. C’est aussi adventice importante des prairies de Graminées. Madagascar : Mauvaise herbe envahissante et nuisible pour les cultures pluviales peu intensifiées (manioc, riz pluvial de tavy, patate douce). Elle constitue souvent un peuplement dense en taches de dimension variable et pose un problème sérieux à la mise en valeur des terres déjà infestées (faiblesse des équipements et moyens à la disposition des agriculteurs). Maurice : absente. Nouvelle Calédonie : Elle reste modérément envahissante sur pâturage, et on la trouve fréquemment dans les friches et en savanes en petits peuplements. La Réunion : absente. Seychelles : absente.</p>",
+dateCreated: "2015-03-19T11:39:37Z",
+lastUpdated: "2015-03-19T11:39:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765177898,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4483,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Usages</h6><p>Nouvelle Calédonie : I. cylindrica est utilisée pour la couverture des cases traditionnelles kanak. De valeur fourragère médiocre, I. cylindrica est consommée uniquement au stade jeune et il est recommandé de l'éradiquer du fait de son potentiel de propagation.</p>",
+dateCreated: "2015-03-19T11:39:43Z",
+lastUpdated: "2015-03-19T11:39:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765183589,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4481,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Globale</h6><p>I. cylindrica est une espèce rhizomateuse dont l'expansion dans les parcelles est grandement favorisée par les actions de fractionnement du sol au moment des opérations culturales (labour, sarclage, buttage). I. cylindrica est une espèce difficile à maîtriser. Le labour à la charrue à soc en début de saison sèche, remonte un grand nombre de rhizomes en surface, ce qui permet leur dessèchement. Cette espèce est insensible aux herbicides de pré-levée et de contact, en revanche elle est sensible aux herbicides systémiques de post-levée. Pour des conseils de désherbage des graminées vivaces du riz irrigué et de bas-fond en Afrique consulter: http://portal.wikwio.org/document/show/33</p><h6>Lutte Locale</h6><p>Madagascar : Le travail du sol aide la multiplication d'I. cylindrica en fractionnant les rhizomes. Elle est aussi favorisée par les feux et/ou le surpâturage, se redéveloppant très rapidement à partir de ses rhizomes, ce qui lui permet de dominer les autres plantes. Elle est résistante à la plupart des herbicides sélectifs des cultures et supporte de courtes inondations. En revanche, elle peut être rapidement contrôlée en semis direct : le traitement au glyphosate (1800 à 2160 g/ha) et le maintien du mulch ainsi formé (qui semble avoir un effet limitant sa reprise) permettent l’installation d’une culture, qu’on associe à une couverture végétale (mucuna, stylosanthes, brachiaria, etc.), ce qui permet de maintenir à l’ombre cette peste végétale et achève de la détruire. Nouvelle Calédonie : Bien qu'elle soit difficile à contrôler, I. cylindrica peut être traité mécaniquement par un labour par temps sec, pour que les rhizomes sèchent au soleil, en répétant l'opération si nécessaire. Il ne faut jamais la brûler car cela accentue sa prolifération. Lutte chimique : Une action chimique peut être envisagée pendant la phase végétative avec du glyphosate assez fortement dosé (2880 g/ha) absorbé par les feuilles et pénétrant jusqu'aux rhizomes causant la mort de la plante dans un délai de 4 à 6 semaines. L'haloxyfop (864 g/ha) s'avère également efficace avec cependant des repousses possibles. Dans le cas de rejets, il est conseillé de traiter avec des applications localisées. Dans tous les cas, il faut veiller à la mise en place rapide de nouvelles espèces fourragères capables de reconquérir l'espace rapidement.</p>",
+dateCreated: "2015-03-19T11:39:38Z",
+lastUpdated: "2015-03-19T11:39:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765178109,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4466,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-31T06:53:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176341,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4465,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-31T06:53:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V. & Herberger J. P., 1977. The World's Worst Weeds : Distribution and Biologie. East-West Center, University Press of Hawaii, Honolulu, 609 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176341,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4464,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-31T06:53:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds.Le Bourgeois, T., Merlier, H. 1995. Adventrop - Les adventices d'Afrique soudano-sahélienne. Cirad, Montpellier, France."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176340,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4463,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-31T06:53:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Blanfort, V., Desmoulins, F., Prosperi, J., Le Bourgeois, T., Guiglion, R., Grard, P. 2010. AdvenPaC V.1.0 : Adventices et plantes à conflit d'intérêt des Pâturages de Nouvelle-Calédonie. IAC, Cirad, Montpellier, France. Cédérom. ISBN 978-2-87614-670-9."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176340,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4462,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-31T06:53:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176340,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4467,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-31T06:53:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., Moody K. & Egunjobi J. K., 1978. West African Weeds. Oxford University Press, Ibadan, Nigeria, 255 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176341,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4461,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-31T06:53:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I.O. & Agyakwa C.W., 1989. Guide des adventices d'Afrique de l'Ouest. Institut international d'agriculture tropicale. Ibadan, Nigeria, 521p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176339,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4468,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-31T06:53:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois Th., 1993. Les mauvaises herbes dans la rotation cotonnière au Nord-Cameroun (Afrique) - Amplitude d'habitat et degré d'infestation - Cycle de développement. Thèse USTL Montpellier II, Montpellier, France, 241 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176341,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4469,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-31T06:53:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176342,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4470,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-31T06:53:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Merlier H. & Montégut J., 1982. Adventices tropicales. ORSTOM-GERDAT-ENSH éd., Montpellier, France, 490p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176342,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4471,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-31T06:53:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Zon van der A.P.M., 1992. Graminées du Cameroun, Vol. II, Flore. Wageningen Agric. Univ. Papers 92 - 1, Wageningen, 557 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176342,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4472,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:39:36Z",
+lastUpdated: "2015-03-31T06:53:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.issg.org/database/species/ecology.asp?si=16&fr=1&sts=sss&lang=FR"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765176342,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3487,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_05.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:23Z",
+rating: 0
+},
+{
+id: 3488,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:23Z",
+rating: 0
+},
+{
+id: 3489,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_301199_091239.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_301199_091239_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:23Z",
+rating: 0
+},
+{
+id: 3490,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_09.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:23Z",
+rating: 0
+},
+{
+id: 3491,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000006.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000006_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:23Z",
+rating: 0
+},
+{
+id: 3492,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_301199_230007.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_301199_230007_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:23Z",
+rating: 0
+},
+{
+id: 3493,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_301199_230004.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_301199_230004_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:24Z",
+rating: 0
+},
+{
+id: 3494,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20101201_162321.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20101201_162321_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:24Z",
+rating: 0
+},
+{
+id: 3495,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20080609_101238.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20080609_101238_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:24Z",
+rating: 0
+},
+{
+id: 3496,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20080609_101236_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20080609_101236_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:24Z",
+rating: 0
+},
+{
+id: 3497,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20080609_101238_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20080609_101238_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:24Z",
+rating: 0
+},
+{
+id: 3498,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_301199_230006.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_301199_230006_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:24Z",
+rating: 0
+},
+{
+id: 3499,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20120509_105913.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20120509_105913_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:24Z",
+rating: 0
+},
+{
+id: 3500,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20080609_101238_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20080609_101238_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:24Z",
+rating: 0
+},
+{
+id: 3501,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20110713_133907.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20110713_133907_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:25Z",
+rating: 0
+},
+{
+id: 3502,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20080609_101236.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20080609_101236_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:25Z",
+rating: 0
+},
+{
+id: 3503,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20080609_101238_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20080609_101238_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:25Z",
+rating: 0
+},
+{
+id: 3504,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20110701_104434.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20110701_104434_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:25Z",
+rating: 0
+},
+{
+id: 3505,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_301199_091243.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_301199_091243_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:25Z",
+rating: 0
+},
+{
+id: 3506,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_090608_091238.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_090608_091238_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:25Z",
+rating: 0
+},
+{
+id: 3507,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20070415_110215.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20070415_110215_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:25Z",
+rating: 0
+},
+{
+id: 3508,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20070415_105832.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20070415_105832_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:25Z",
+rating: 0
+},
+{
+id: 3509,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_301199_091241.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_301199_091241_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:25Z",
+rating: 0
+},
+{
+id: 3510,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20060908_154844.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20060908_154844_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:26Z",
+rating: 0
+},
+{
+id: 3511,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_150407_110215.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_150407_110215_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:26Z",
+rating: 0
+},
+{
+id: 3512,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20060908_155621.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20060908_155621_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:26Z",
+rating: 0
+},
+{
+id: 3513,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_03.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:26Z",
+rating: 0
+},
+{
+id: 3514,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_08.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:26Z",
+rating: 0
+},
+{
+id: 3515,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20060908_154907.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20060908_154907_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:26Z",
+rating: 0
+},
+{
+id: 3516,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_06.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:26Z",
+rating: 0
+},
+{
+id: 3517,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20060908_155207.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20060908_155207_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:26Z",
+rating: 0
+},
+{
+id: 3518,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20110701_104442.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20110701_104442_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:26Z",
+rating: 0
+},
+{
+id: 3519,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_02.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:27Z",
+rating: 0
+},
+{
+id: 3520,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_04.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:27Z",
+rating: 0
+},
+{
+id: 3521,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_07.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20020101_000002_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:27Z",
+rating: 0
+},
+{
+id: 3522,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20110701_104416.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20110701_104416_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:27Z",
+rating: 0
+},
+{
+id: 3523,
+url: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20101201_162322.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Imperata cylindrica/impca_20101201_162322_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:41:27Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

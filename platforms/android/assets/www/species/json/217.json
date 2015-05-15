@@ -1,0 +1,1011 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 217,
+title: "<i>Mucuna pruriens (</i>L.<i>) </i>DC. ",
+taxonConcept: {
+id: 421,
+name: "Mucuna pruriens (L.) DC.",
+canonicalForm: "Mucuna pruriens",
+italicisedForm: "<i>Mucuna pruriens (</i>L.<i>) </i>DC. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 5,
+name: "Fabaceae",
+canonicalForm: "Fabaceae",
+italicisedForm: "<i>Fabaceae</i>",
+rank: "Family"
+},
+{
+id: 420,
+name: "Mucuna",
+canonicalForm: "Mucuna",
+italicisedForm: "<i>Mucuna</i>",
+rank: "Genus"
+},
+{
+id: 421,
+name: "Mucuna pruriens (L.) DC.",
+canonicalForm: "Mucuna pruriens",
+italicisedForm: "<i>Mucuna pruriens (</i>L.<i>) </i>DC. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 4655,
+name: "Carpogon capitatus Roxb.",
+canonicalForm: "Carpogon capitatus",
+italicisedForm: "<i>Carpogon capitatus </i>Roxb. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4656,
+name: "Carpogon niveus Roxb.",
+canonicalForm: "Carpogon niveus",
+italicisedForm: "<i>Carpogon niveus </i>Roxb. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4657,
+name: "Carpopogon pruriens (L.) Roxb.",
+canonicalForm: "Carpopogon pruriens",
+italicisedForm: "<i>Carpopogon pruriens (</i>L.<i>) </i>Roxb. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4658,
+name: "Dolichos pruriens L.",
+canonicalForm: "Dolichos pruriens",
+italicisedForm: "<i>Dolichos pruriens </i>L. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4659,
+name: "Marcanthus cochinchinense Lour.",
+canonicalForm: "Marcanthus cochinchinense",
+italicisedForm: "<i>Marcanthus cochinchinense </i>Lour. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4660,
+name: "Mucuna atropurpurea sensu auct.",
+canonicalForm: "Mucuna atropurpurea",
+italicisedForm: "<i>Mucuna atropurpurea sensu </i>auct. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4661,
+name: "Mucuna axillaris Baker",
+canonicalForm: "Mucuna axillaris",
+italicisedForm: "<i>Mucuna axillaris </i>Baker ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4662,
+name: "Mucuna bernieriana Baill.",
+canonicalForm: "Mucuna bernieriana",
+italicisedForm: "<i>Mucuna bernieriana </i>Baill. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4663,
+name: "Mucuna cochinchinense (Lour.) A.Chev.",
+canonicalForm: "Mucuna cochinchinense",
+italicisedForm: "<i>Mucuna cochinchinense (</i>Lour.<i>) </i>A.Chev. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4664,
+name: "Mucuna cochinchinensis (Lour.) A.Chev.",
+canonicalForm: "Mucuna cochinchinensis",
+italicisedForm: "<i>Mucuna cochinchinensis (</i>Lour.<i>) </i>A.Chev. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4665,
+name: "Mucuna esquirolii H.Lev.",
+canonicalForm: "Mucuna esquirolii",
+italicisedForm: "<i>Mucuna esquirolii </i>H.Lev. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4666,
+name: "Mucuna luzoniensis Merr.",
+canonicalForm: "Mucuna luzoniensis",
+italicisedForm: "<i>Mucuna luzoniensis </i>Merr. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4667,
+name: "Mucuna lyonii Merr.",
+canonicalForm: "Mucuna lyonii",
+italicisedForm: "<i>Mucuna lyonii </i>Merr. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4668,
+name: "Mucuna minima Haines",
+canonicalForm: "Mucuna minima",
+italicisedForm: "<i>Mucuna minima </i>Haines ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4669,
+name: "Mucuna nivea (Roxb.) DC.",
+canonicalForm: "Mucuna nivea",
+italicisedForm: "<i>Mucuna nivea (</i>Roxb.<i>) </i>DC. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4670,
+name: "Mucuna pruriens var. pruriens",
+canonicalForm: "Mucuna pruriens pruriens",
+italicisedForm: "<i>Mucuna pruriens </i>var.<i> pruriens</i>",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4671,
+name: "Mucuna prurita (L.) Hook.",
+canonicalForm: "Mucuna prurita",
+italicisedForm: "<i>Mucuna prurita (</i>L.<i>) </i>Hook. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4672,
+name: "Mucuna sericophylla Perkins",
+canonicalForm: "Mucuna sericophylla",
+italicisedForm: "<i>Mucuna sericophylla </i>Perkins ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4673,
+name: "Mucuna velutina Hassk.",
+canonicalForm: "Mucuna velutina",
+italicisedForm: "<i>Mucuna velutina </i>Hassk. ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4674,
+name: "Negretia mitis Blanco",
+canonicalForm: "Negretia mitis",
+italicisedForm: "<i>Negretia mitis </i>Blanco ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4675,
+name: "Stizolobium capitatum (Roxb.) Kuntze",
+canonicalForm: "Stizolobium capitatum",
+italicisedForm: "<i>Stizolobium capitatum (</i>Roxb.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4676,
+name: "Stizolobium cochinchinense (Lour.) Burk",
+canonicalForm: "Stizolobium cochinchinense",
+italicisedForm: "<i>Stizolobium cochinchinense (</i>Lour.<i>) </i>Burk ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4677,
+name: "Stizolobium niveum (Roxb.) Kuntze",
+canonicalForm: "Stizolobium niveum",
+italicisedForm: "<i>Stizolobium niveum (</i>Roxb.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4678,
+name: "Stizolobium pruritum (Wight) Piper",
+canonicalForm: "Stizolobium pruritum",
+italicisedForm: "<i>Stizolobium pruritum (</i>Wight<i>) </i>Piper ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4679,
+name: "Stizolobium velutinum (Hassk.) Piper & Tracy",
+canonicalForm: "Stizolobium velutinum",
+italicisedForm: "<i>Stizolobium velutinum (</i>Hassk.<i>) </i>Piper<i> & </i>Tracy ",
+taxonConcept: {
+id: 421
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1043,
+name: "Cowhage",
+taxonConcept: {
+id: 421
+},
+isContributor: false
+},
+{
+id: 1049,
+name: "Cowitch",
+taxonConcept: {
+id: 421
+},
+isContributor: false
+},
+{
+id: 1048,
+name: "Habichuela terciopelo blanca",
+taxonConcept: {
+id: 421
+},
+isContributor: false
+},
+{
+id: 1045,
+name: "Picapica",
+taxonConcept: {
+id: 421
+},
+isContributor: false
+},
+{
+id: 1046,
+name: "Pwa graté",
+taxonConcept: {
+id: 421
+},
+isContributor: false
+},
+{
+id: 1044,
+name: "Velvet bean",
+taxonConcept: {
+id: 421
+},
+isContributor: false
+},
+{
+id: 1047,
+name: "Vine Gungo pea",
+taxonConcept: {
+id: 421
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:00:50Z",
+lastRevised: "2015-03-19T11:48:21Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Mucuna pruriens/mucpr_20051117_153455_th1.jpg",
+notes: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>MUCPR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>MUCPR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1613,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>MUCPR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706361,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1612,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Mucuna pruriens (L.) DC.",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706360,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5067,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Mucunia pruriens est une plante herbacée grimpante, annuelle ou pérenne à vie courte, atteignant 18 m de long. Les extrémités des rameaux, les feuilles sur leur 2 faces et le calice sont couverts d’une pubescence appliquée d’un blanc argenté. Les feuilles sont alternes, composées trifoliolées, à folioles pointues mucronées à l’extrémité, inégales, la centrale ovale, les latérales à base fortement dissymétrique. Les fleurs, de type papilionacé, d’une couleur violet sombre, sont groupées par 2 ou 3 sur une inflorescence axillaire qui atteint 50 cm de long. Le fruit est une gousse allongée couverte d’une pubescence dense de poils jaunes très urticants. Il renferme 5 à 8 graines oblongues ellipsoïdes dont la couleur varie du blanc au noir.</p>",
+dateCreated: "2015-03-19T11:48:21Z",
+lastUpdated: "2015-03-19T11:48:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765701320,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5061,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>MUCPR</p><h6>Type Biologique</h6><p>liane</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:48:12Z",
+lastUpdated: "2015-03-19T11:48:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765692443,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5064,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Mucunia pruriens est une plante herbacée grimpante, annuelle ou pérenne à vie courte, atteignant 18 m de long. Les extrémités des rameaux, les feuilles sur leur 2 faces et le calice sont couverts d’une pubescence appliquée d’un blanc argenté. Les feuilles sont alternes, composées trifoliolées, à folioles pointues mucronées à l’extrémité, inégales, la centrale ovale, les latérales à base fortement dissymétrique. Les fleurs, de type papilionacé, d’une couleur violet sombre, sont groupées par 2 ou 3 sur une inflorescence axillaire qui atteint 50 cm de long. Le fruit est une gousse allongée couverte d’une pubescence dense de poils jaunes très urticants. Il renferme 5 à 8 graines oblongues ellipsoïdes dont la couleur varie du blanc au noir.</p><h6>Port</h6><p>Plante herbacée grimpante et volubile, annuelle ou pérenne à vie courte, qui atteint 18 m de long.</p><h6>Système Souterrain</h6><p>La racine est pivotante.</p><h6>Tige</h6><p>Tige cylindrique pleine, plus ou moins glabre mais les extrémités des rameaux sont couvertes de poils appliqués blanc argentés.</p><h6>Feuille</h6><p>Les feuilles sont alternes, composées trifoliolées. Le pétiole de 8 à 15 cm de long est très épaissi à la base. Les folioles sont ovales, rhombiques, elliptiques ou obovales, à extrémité en coin longuement mucronée. La foliole centrale a une base obtuse ; les folioles latérales ont une base fortement dissymétrique. Les folioles mesurent 5 à 20 cm de long et 3,5 à 17 cm de large. Elles sont couvertes sur les 2 faces d’une pubescence de poils blancs appliqués de densité variable, mais plus dense sur la face inférieure.</p><h6>Inflorescence</h6><p>L’inflorescence, axillaire, mesure 5 à 50 cm de long. Le rachis est couvert d’une pubescence argentée dense. Les fleurs, de type papilionacé, sont nombreuses, groupées par 2 ou 3 sur le rachis ou sur de courtes protubérances latérales.</p><h6>Fleur</h6><p>La fleur est portée par un pédicelle de 1,5 à 6 mm de long. Le calice, couvert d’une pubescence argentée d’où émergent souvent quelques soies plus longues, se compose d’un tube de 5 à 7 mm de long, prolongé par des lobes de 3 à 9 mm de long (les 2 supérieurs soudés, l’inférieur plus long que les supérieurs). La corolle est de couleur violet noirâtre. L’étendard, ovale, long de 1,5 à 2,2 cm, est de couleur pourpre noirâtre à lilas pâle ou blanc. La carène, longue de 2,5 à 3,7 cm, est étroite, brusquement coudé vers le sommet. Les ailes sont un peu plus courtes que la carène.</p><h6>Fruit</h6><p>Le fruit est une gousse, oblongue, courbée à l’extrémité, côtelée longitudinalement. Elle mesure 4 à 10 cm de long et 1 à 2 cm de large. Elle est couverte d’une pubescence dense de poils jaune doré, très urticants. Elle renferme 5 à 8 graines.</p><h6>Graine</h6><p>La graine est oblongue-ellipsoïde, de 10 à 19 mm de long, 7,5 à 13 mm de large et 4 à 6,5 mm de diamètre, blanche, brun rose tacheté de noir ou noire. Le hile, oblong, mesure 4 mm de long.</p>",
+dateCreated: "2015-03-19T11:48:13Z",
+lastUpdated: "2015-03-19T11:48:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765693626,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5065,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Mucuna pruriens (L.) DC.",
+dateCreated: "2015-03-19T11:48:14Z",
+lastUpdated: "2015-03-19T11:48:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765694120,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5066,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Mucuna pruriens est une plante annuelle qui se multiplie par gaines.<br>",
+dateCreated: "2015-03-19T11:48:14Z",
+lastUpdated: "2015-03-19T11:48:14Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765694878,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5062,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:48:12Z",
+lastUpdated: "2015-03-24T05:10:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765692997,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5063,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:48:12Z",
+lastUpdated: "2015-03-29T08:37:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut, J. 1967. Flore du Sénégal. Clairafrique, Dakar, Sénégal."
+},
+{
+title: "Bosser J., Cadet TH., Guého J. & Marais W. 1990. Flore des Mascareignes, Vol. 80 Légumineuses in Bosser J., Fergusson I.K. Soopramanien C. ed. Flore des Mascareignes, La Réunion, Maurice, Rodrigues. MSIRI, Maurice, IRD, France, RBG, UK."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765692998,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 4678,
+url: "http://portal.wikwio.org/biodiv/img//Mucuna pruriens/mucpr_20051117_153455.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mucuna pruriens/mucpr_20051117_153455_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:53Z",
+rating: 0
+},
+{
+id: 4679,
+url: "http://portal.wikwio.org/biodiv/img//Mucuna pruriens/mucpr_20051117_153514.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mucuna pruriens/mucpr_20051117_153514_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:53Z",
+rating: 0
+},
+{
+id: 4680,
+url: "http://portal.wikwio.org/biodiv/img//Mucuna pruriens/mucpr_20051117_153502.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mucuna pruriens/mucpr_20051117_153502_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:53Z",
+rating: 0
+},
+{
+id: 4681,
+url: "http://portal.wikwio.org/biodiv/img//Mucuna pruriens/mucpr_20051117_153558.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mucuna pruriens/mucpr_20051117_153558_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:00:54Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

@@ -1,0 +1,1794 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 51,
+title: "<i>Celosia argentea </i>L. ",
+taxonConcept: {
+id: 128,
+name: "Celosia argentea L.",
+canonicalForm: "Celosia argentea",
+italicisedForm: "<i>Celosia argentea </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 29,
+name: "Amaranthaceae",
+canonicalForm: "Amaranthaceae",
+italicisedForm: "<i>Amaranthaceae</i>",
+rank: "Family"
+},
+{
+id: 127,
+name: "Celosia",
+canonicalForm: "Celosia",
+italicisedForm: "<i>Celosia</i>",
+rank: "Genus"
+},
+{
+id: 128,
+name: "Celosia argentea L.",
+canonicalForm: "Celosia argentea",
+italicisedForm: "<i>Celosia argentea </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 1318,
+name: "Amaranthus cristatus Noronha",
+canonicalForm: "Amaranthus cristatus",
+italicisedForm: "<i>Amaranthus cristatus </i>Noronha ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1319,
+name: "Amaranthus huttonii H.J.Veitch",
+canonicalForm: "Amaranthus huttonii",
+italicisedForm: "<i>Amaranthus huttonii </i>H.J.Veitch ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1320,
+name: "Amaranthus purpureus Nieuwl.",
+canonicalForm: "Amaranthus purpureus",
+italicisedForm: "<i>Amaranthus purpureus </i>Nieuwl. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1321,
+name: "Amaranthus pyramidalis Noronha",
+canonicalForm: "Amaranthus pyramidalis",
+italicisedForm: "<i>Amaranthus pyramidalis </i>Noronha ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1322,
+name: "Celosia argentea f. argentea",
+canonicalForm: "Celosia argentea argentea",
+italicisedForm: "<i>Celosia argentea </i>f.<i> argentea</i>",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1323,
+name: "Celosia argentea f. cristata (L.) Schinz",
+canonicalForm: "Celosia argentea cristata",
+italicisedForm: "<i>Celosia argentea </i>f.<i> cristata (</i>L.<i>) </i>Schinz ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1324,
+name: "Celosia aurea T.Moore",
+canonicalForm: "Celosia aurea",
+italicisedForm: "<i>Celosia aurea </i>T.Moore ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1325,
+name: "Celosia castrensis L.",
+canonicalForm: "Celosia castrensis",
+italicisedForm: "<i>Celosia castrensis </i>L. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1326,
+name: "Celosia cernua Roxb. [Illegitimate]",
+canonicalForm: "Celosia cernua",
+italicisedForm: "<i>Celosia cernua </i>Roxb.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1327,
+name: "Celosia coccinea L.",
+canonicalForm: "Celosia coccinea",
+italicisedForm: "<i>Celosia coccinea </i>L. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1328,
+name: "Celosia comosa Retz.",
+canonicalForm: "Celosia comosa",
+italicisedForm: "<i>Celosia comosa </i>Retz. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1329,
+name: "Celosia cristata L.",
+canonicalForm: "Celosia cristata",
+italicisedForm: "<i>Celosia cristata </i>L. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1330,
+name: "Celosia debilis S.Moore",
+canonicalForm: "Celosia debilis",
+italicisedForm: "<i>Celosia debilis </i>S.Moore ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1331,
+name: "Celosia huttonii Mast.",
+canonicalForm: "Celosia huttonii",
+italicisedForm: "<i>Celosia huttonii </i>Mast. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1332,
+name: "Celosia japonica Houtt.",
+canonicalForm: "Celosia japonica",
+italicisedForm: "<i>Celosia japonica </i>Houtt. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1333,
+name: "Celosia linearis Sweet ex Hook.f. [Invalid]",
+canonicalForm: "Celosia linearis",
+italicisedForm: "<i>Celosia linearis </i>Sweet<i> ex </i>Hook.f.<i> [Invalid]</i>",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1334,
+name: "Celosia margaritacea L.",
+canonicalForm: "Celosia margaritacea",
+italicisedForm: "<i>Celosia margaritacea </i>L. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1335,
+name: "Celosia marylandica Retz.",
+canonicalForm: "Celosia marylandica",
+italicisedForm: "<i>Celosia marylandica </i>Retz. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1336,
+name: "Celosia pallida Salisb.",
+canonicalForm: "Celosia pallida",
+italicisedForm: "<i>Celosia pallida </i>Salisb. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1337,
+name: "Celosia plumosa (Voss) Burv.",
+canonicalForm: "Celosia plumosa",
+italicisedForm: "<i>Celosia plumosa (</i>Voss<i>) </i>Burv. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1338,
+name: "Celosia purpurea J.St.-Hil.",
+canonicalForm: "Celosia purpurea",
+italicisedForm: "<i>Celosia purpurea </i>J.St.-Hil. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1339,
+name: "Celosia pyramidalis Burm.f.",
+canonicalForm: "Celosia pyramidalis",
+italicisedForm: "<i>Celosia pyramidalis </i>Burm.f. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1340,
+name: "Celosia splendens Schumach. & Thonn.",
+canonicalForm: "Celosia splendens",
+italicisedForm: "<i>Celosia splendens </i>Schumach.<i> & </i>Thonn. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1341,
+name: "Celosia swinhoei Hemsl.",
+canonicalForm: "Celosia swinhoei",
+italicisedForm: "<i>Celosia swinhoei </i>Hemsl. ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 1342,
+name: "Chamissoa margaritacea (L.) Schouw",
+canonicalForm: "Chamissoa margaritacea",
+italicisedForm: "<i>Chamissoa margaritacea (</i>L.<i>) </i>Schouw ",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1732,
+name: "Anandaisoa, Mampodivady",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+language: {
+id: 283,
+name: "Malagasy"
+}
+},
+{
+id: 1731,
+name: "Crête de coq",
+taxonConcept: {
+id: 128
+},
+isContributor: false,
+language: {
+id: 501,
+name: "Creoles and pidgins, French-based"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:04:40Z",
+lastRevised: "2015-04-22T10:25:03Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_145259_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CEOAR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CEOAR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 455,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CEOAR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:06:50Z",
+lastUpdated: "2014-09-24T17:06:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578410452,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 456,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Celosia argentea L.",
+dateCreated: "2014-09-24T17:06:50Z",
+lastUpdated: "2014-09-24T17:06:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578410453,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3144,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Celosia argentea est une plante dressée à feuilles simples alternes. L'inflorescence est formée d'épis terminaux denses, constitués par l'imbrication de fleurs papyracées de couleur blanc rosé à blanc argenté, voire parfois rose vif à l'extrémité de l'épi. La capsule est ellipsoïdale, surmontée d'un long style. Elle est déhiscente et contient plusieurs graines noires.</p>",
+dateCreated: "2015-03-19T11:10:07Z",
+lastUpdated: "2015-03-19T11:10:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763407638,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3129,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>CEOAR</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:09:59Z",
+lastUpdated: "2015-03-19T11:09:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763399584,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3136,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Celosia argentea est une plante dressée à feuilles simples alternes. L'inflorescence est formée d'épis terminaux denses, constitués par l'imbrication de fleurs papyracées de couleur blanc rosé à blanc argenté, voire parfois rose vif à l'extrémité de l'épi. La capsule est ellipsoïdale, surmontée d'un long style. Elle est déhiscente et contient plusieurs graines noires.</p><h6>Cotylédons</h6><p>Les cotylédons sont elliptiques à linéaires. Ils sont très brièvement pétiolés. Ils mesurent 15 mm de long et 3 mm de large.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont simples et alternes. Elles sont lancéolées. La base du limbe est progressivement atténuée en coin le long du pétiole. Le sommet est en coin aigu.</p><h6>Port</h6><p>Le port est dressé. La plante est plus ou moins ramifiée, surtout dans sa partie supérieure. Elle peut mesurer de 0,4 à 2 m.</p><h6>Système Souterrain</h6><p>La racine est pivotante.</p><h6>Tige</h6><p>La tige est pleine et cylindrique à polygonale. Elle est glabre.</p><h6>Feuille</h6><p>Les feuilles sont simples et alternes. Elles sont portées par un court pétiole de 10 à 15 mm. Le limbe est lancéolé à linéaire. La base est longuement atténuée en coin le long du pétiole. Le sommet est en coin aigu. La marge est bordée de courtes dents translucides. Les deux faces sont glabres. Les feuilles mesurent 6 à 12 cm de long et 10 à 15 mm de large. Les faces sont marquées par 3 à 6 nervures latérales. A la base des feuilles, apparaissent deux petites pièces foliaires linéaires qui se développent transversalement à la tige et ressemblent à des stipules. Ce sont les deux premières feuilles des rameaux axillaires plus ou moins développés.</p><h6>Inflorescence</h6><p>Les fleurs sont assemblées en épis denses terminaux sur l'axe principal de la plante et sur les rameaux secondaires. Ces épis sont de forme ellipsoïdale. Ils sont longs de 3 à 20 cm et larges de 10 à 20 mm. Ils sont de couleur blanc rosé à blanc argenté, voire parfois rose vif à l'extrémité de l'épi.</p><h6>Fleur</h6><p>Les fleurs sont constituées de 5 pièces papyracées lancéolées, au sommet en coin aigu. Elles sont longues de 8 à 10 mm. A l'intérieur de ces pièces, se trouvent 5 étamines et un ovaire ellipsoïdal surmonté d'un style de 3 à 7 mm de long.</p><h6>Fruit</h6><p>Le fruit est une capsule déhiscente de forme ellipsoïdale, longue de 2 à 2,5 mm. Il s'ouvre en son milieu par détachement de la moitié supérieure. Le sommet de la capsule est surmonté par le style. Chaque capsule contient 4 à 10 graines.</p><h6>Graine</h6><p>Les graines sont lenticulaires de 1,3 mm de diamètre et de 0,3 mm d'épaisseur. Elles sont lisses et de couleur noir brillant.</p>",
+dateCreated: "2015-03-19T11:10:01Z",
+lastUpdated: "2015-03-19T11:10:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763401049,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3138,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Celosia argentea L.",
+dateCreated: "2015-03-19T11:10:01Z",
+lastUpdated: "2015-03-19T11:10:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763401557,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3137,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Nord-Cameroun :</strong> C. argentea est pr&eacute;sente durant toute la saison des pluies et durant tout le cycle cultural. La germination d&eacute;bute en mai avec les premi&egrave;res pluies importantes et se poursuit jusqu&#39;en ao&ucirc;t. Apr&egrave;s les travaux du sol tels que les sarclages et le buttage, de nouvelles germinations peuvent avoir lieu jusqu&#39;en octobre. La floraison se d&eacute;roule naturellement d&#39;ao&ucirc;t &agrave; octobre, mais cette phase est retard&eacute;e dans le cas d&#39;individus ayant germ&eacute; tardivement. La fructification et la diss&eacute;mination des graines ont lieu en fin de cycle cultural, &agrave; partir d&#39;octobre, et se poursuivent jusqu&#39;&agrave; la mort de la plante en d&eacute;but de saison s&egrave;che (novembre).<br /> <strong>Madagascar :</strong> Floraison relativement retard&eacute;e par rapport &agrave; celle de la culture de ma&iuml;s.",
+dateCreated: "2015-03-19T11:10:01Z",
+lastUpdated: "2015-04-22T10:18:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763401290,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3142,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "C. argentea est une espèce annuelle. Elle se multiplie uniquement par graines. Celles-ci sont disséminées par le vent et l'eau.<br>",
+dateCreated: "2015-03-19T11:10:02Z",
+lastUpdated: "2015-03-19T11:10:02Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763402551,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3141,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Nord-Cameroun :</strong> C. argentea est une esp&egrave;ce typiquement inf&eacute;od&eacute;e aux sols tr&egrave;s humides. Elle se d&eacute;veloppe dans les zones de ruissellement, dans les bas-fonds &agrave; nappe phr&eacute;atique sous-jacente mais &eacute;galement dans les alluvions en bordure de cours d&#39;eau et dans les sols &agrave; forte r&eacute;tention d&#39;eau comme les vertisols, dont le taux d&#39;argile est sup&eacute;rieur &agrave; 50 %.<br /> <strong>Madagascar :</strong> Esp&egrave;ce qui se d&eacute;veloppe sur les sols ferralitiques, sols ferrugineux humif&egrave;res et alluvions assez fertiles en terrain bien ensoleill&eacute; ou faiblement ombrag&eacute;. Esp&egrave;ce rud&eacute;rale au bord des chemins et des canaux, aux environs des habitations, adventice des cultures pluviales en zone subhumide (Ouest, Moyen-ouest, Nord-ouest) et en zone cotonni&egrave;re en zone semi-aride du Sud-ouest : pluviom&eacute;trie de 600 &agrave; 1500 mm ; dans les syst&egrave;mes de culture &agrave; base de ma&iuml;s et de cotonnier semi-intensifs. Les zones agro-&eacute;cologiques concern&eacute;es &agrave; Madagascar sont l&#39;Ouest, Moyen-ouest, Nord-ouest, Sud-ouest.<br /> <strong>Maurice :</strong> Mauvaise herbe occasionnelle dans les cultures, les terrains vagues, les berges s&egrave;ches des rivi&egrave;res.",
+dateCreated: "2015-03-19T11:10:02Z",
+lastUpdated: "2015-04-22T10:18:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763402308,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3140,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<p> <strong>Origine</strong><br /> <br /> Probablement originaire d&rsquo;Afrique tropicale.<br /> <br /> <strong>Distribution Mondiale </strong></p> <p> C. argentea est plante presque cosmopolite dans les r&eacute;gions tropicales et sub-tropicales du monde. Elle est pr&eacute;sente en Am&eacute;rique du Nord, du Centre et du Sud, Afrique, &icirc;les de l&rsquo;Oc&eacute;an Indien, Europe, Moyen-Orient, Inde, Asie du Sud-est, Indon&eacute;sie, Australie et &icirc;les du Pacifique.</p> ",
+dateCreated: "2015-03-19T11:10:02Z",
+lastUpdated: "2015-04-22T10:23:00Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763402065,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3143,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Nord-Cameroun :</strong> C. argentea se rencontre dans les parcelles faisant l&#39;objet de syst&egrave;mes de culture semi-intensifs (culture attel&eacute;e et fumure min&eacute;rale) mais sans herbicide de pr&eacute;-lev&eacute;e du cotonnier. Cette esp&egrave;ce peut &ecirc;tre localement tr&egrave;s abondante.<br /> <strong>Madagascar :</strong> Adventice de fr&eacute;quence relativement faible et assez rarement abondante. Elle peut &ecirc;tre localement abondante en culture cotonni&egrave;re et de ma&iuml;s sur les terrains fertiles du Moyen-Ouest et du Sud-ouest.<br /> <strong>Maurice :</strong> Adventice tr&egrave;s rare dans les cultures, donc son aggressivit&eacute; est tr&egrave;s faible.</p> ",
+dateCreated: "2015-03-19T11:10:02Z",
+lastUpdated: "2015-04-22T10:23:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763402817,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6633,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Alimentaire:</strong> Les feuilles avec les jeunes tiges sont consomm&eacute;es cuites comme l&eacute;gume. On peut faire de la farine avec les graines.<br /> <br /> <strong>Alimentation du b&eacute;tail :</strong> Utilis&eacute;e comme fourrage.<br /> <br /> <strong>M&eacute;dicinal:</strong> Les graines ou les fleurs sont utilis&eacute;es en m&eacute;decine traditionnelle pour traiter les diarrh&eacute;es, la dysenterie, les troubles musculaires et ceux du cycle menstruel ainsi que les maladies h&eacute;patiques.<br /> <br /> <strong>Ornemental :</strong> Elle est cultiv&eacute;e comme plante ornementale dans les jardins et dans les cours autour des maisons. <p> </p> ",
+dateCreated: "2015-04-22T10:25:03Z",
+lastUpdated: "2015-04-22T10:25:03Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1429698303436,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6632,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Lutte locale</strong><br /> <br /> <strong>Madagascar :</strong> Partout &agrave; Madagascar le sarclage manuel et parfois des herbicides contre les dicotyl&eacute;dones sont utilis&eacute;s pour lutter contre cette esp&egrave;ce dans les syst&egrave;mes de culture &agrave; base de ma&iuml;s, de riz pluvial ou de cotonnier.<br /> <strong>Maurice :</strong> Elle peut &ecirc;tre contr&ocirc;l&eacute;e manuellement ou par sarclage.",
+dateCreated: "2015-04-22T10:24:27Z",
+lastUpdated: "2015-04-22T10:24:27Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1429698267420,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3130,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:10:00Z",
+lastUpdated: "2015-03-21T07:09:43Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763400583,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3131,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:10:00Z",
+lastUpdated: "2015-03-31T07:32:44Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1971. Flore illustrée du Sénégal. Tome 1. Clairafrique éd., Dakar, Sénégal, 626 p."
+},
+{
+title: "Hutchinson J., Dalziel J. M., Keay R. W. J. & Hepper F. N., 1954.Flora of West Tropical Africa. Vol. I part. 1. 2ème éd.The Whitefriars Press ed., London & Tonbridge, 295 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763400584,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3135,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:10:00Z",
+lastUpdated: "2015-03-31T06:52:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=adventrop/species/c/ceoar/ceoar_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763400585,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6634,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-04-22T10:25:41Z",
+lastUpdated: "2015-04-22T10:25:41Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [
+{
+title: "CAVACO A. 1954. Flore de Madagascar et des Comores, 67è Famille : AMARANTHACEES 56 pages"
+},
+{
+url: "http://www.hear.org/pier/species/celosia_argentea.htm"
+},
+{
+url: "http://avrdc.org/celosia-celosia-argentea/"
+},
+{
+title: "SHARMA P., VIDYASAGAR G., SINGH S., GHULE S., AND KUMAR B. 2010. Antidiarrhoeal activity of leaf extract of Celosia argentea in experimentally induced diarrhoea in rat Journal of Advenced Pharmaceutical Technology&Research 2010 Janv-mars ; 1 (1): 41-48."
+}
+],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1429698341594,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3134,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:10:00Z",
+lastUpdated: "2015-03-31T06:52:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763400585,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3133,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:10:00Z",
+lastUpdated: "2015-03-31T06:52:51Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois Th., 1993. Les mauvaises herbes dans la rotation cotonnière au Nord-Cameroun (Afrique) - Amplitude d'habitat et degré d'infestation - Cycle de développement. Thèse USTL Montpellier II, Montpellier, France, 241p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763400585,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3132,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:10:00Z",
+lastUpdated: "2015-03-29T11:18:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763400584,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 902,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_145259.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_145259_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:50Z",
+rating: 0
+},
+{
+id: 903,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_161359.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_161359_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:50Z",
+rating: 0
+},
+{
+id: 904,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_161337.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_161337_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:50Z",
+rating: 0
+},
+{
+id: 905,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_161354.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_161354_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:50Z",
+rating: 0
+},
+{
+id: 906,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_161349.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_161349_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:50Z",
+rating: 0
+},
+{
+id: 907,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_171926.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_171926_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:50Z",
+rating: 0
+},
+{
+id: 908,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_171949.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_171949_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:50Z",
+rating: 0
+},
+{
+id: 909,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_170422.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_170422_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:50Z",
+rating: 0
+},
+{
+id: 910,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_170553.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_170553_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:50Z",
+rating: 0
+},
+{
+id: 911,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090216_183449.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090216_183449_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:50Z",
+rating: 0
+},
+{
+id: 912,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_172034.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_172034_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:50Z",
+rating: 0
+},
+{
+id: 913,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20020522_143820.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20020522_143820_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:51Z",
+rating: 0
+},
+{
+id: 914,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_162424.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_162424_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:51Z",
+rating: 0
+},
+{
+id: 915,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_170530.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_170530_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:51Z",
+rating: 0
+},
+{
+id: 916,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_170348.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_170348_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:51Z",
+rating: 0
+},
+{
+id: 917,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_170318.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_170318_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:51Z",
+rating: 0
+},
+{
+id: 918,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_171835.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_171835_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:51Z",
+rating: 0
+},
+{
+id: 919,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_162429.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_162429_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:51Z",
+rating: 0
+},
+{
+id: 920,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_170620.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20090217_170620_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:51Z",
+rating: 0
+},
+{
+id: 921,
+url: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_145245.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Celosia argentea/ceoar_20110701_145245_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:04:51Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

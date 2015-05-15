@@ -1,0 +1,5315 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 120,
+title: "<i>Eclipta prostrata (</i>L.<i>) </i>L. ",
+taxonConcept: {
+id: 250,
+name: "Eclipta prostrata (L.) L.",
+canonicalForm: "Eclipta prostrata",
+italicisedForm: "<i>Eclipta prostrata (</i>L.<i>) </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 24,
+name: "Asteraceae",
+canonicalForm: "Asteraceae",
+italicisedForm: "<i>Asteraceae</i>",
+rank: "Family"
+},
+{
+id: 249,
+name: "Eclipta",
+canonicalForm: "Eclipta",
+italicisedForm: "<i>Eclipta</i>",
+rank: "Genus"
+},
+{
+id: 250,
+name: "Eclipta prostrata (L.) L.",
+canonicalForm: "Eclipta prostrata",
+italicisedForm: "<i>Eclipta prostrata (</i>L.<i>) </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 2873,
+name: "Acmella lanceolata Link ex Spreng.",
+canonicalForm: "Acmella lanceolata",
+italicisedForm: "<i>Acmella lanceolata </i>Link<i> ex </i>Spreng. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2874,
+name: "Amellus carolinianus Walter",
+canonicalForm: "Amellus carolinianus",
+italicisedForm: "<i>Amellus carolinianus </i>Walter ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2875,
+name: "Anthemis abyssinica J.Gay ex A.Rich.",
+canonicalForm: "Anthemis abyssinica",
+italicisedForm: "<i>Anthemis abyssinica </i>J.Gay<i> ex </i>A.Rich. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2876,
+name: "Anthemis abyssinica var. abyssinica",
+canonicalForm: "Anthemis abyssinica abyssinica",
+italicisedForm: "<i>Anthemis abyssinica </i>var.<i> abyssinica</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2877,
+name: "Anthemis cotula Blanco [Illegitimate]",
+canonicalForm: "Anthemis cotula",
+italicisedForm: "<i>Anthemis cotula </i>Blanco<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2878,
+name: "Anthemis cotula var. hierosolymitana Eig",
+canonicalForm: "Anthemis cotula hierosolymitana",
+italicisedForm: "<i>Anthemis cotula </i>var.<i> hierosolymitana </i>Eig ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2879,
+name: "Anthemis cotula subsp. lithuanica (DC.) Tzvelev",
+canonicalForm: "Anthemis cotula lithuanica",
+italicisedForm: "<i>Anthemis cotula </i>subsp.<i> lithuanica (</i>DC.<i>) </i>Tzvelev ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2880,
+name: "Anthemis cotula-foetida Crantz",
+canonicalForm: "Anthemis cotula-foetida",
+italicisedForm: "<i>Anthemis cotula-foetida </i>Crantz ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2881,
+name: "Anthemis cotuloides Raf. ex DC.",
+canonicalForm: "Anthemis cotuloides",
+italicisedForm: "<i>Anthemis cotuloides </i>Raf.<i> ex </i>DC. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2882,
+name: "Anthemis galilaea var. brachyota Eig",
+canonicalForm: "Anthemis galilaea brachyota",
+italicisedForm: "<i>Anthemis galilaea </i>var.<i> brachyota </i>Eig ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2883,
+name: "Anthemis galilaea var. hierosolymitana (Eig) Yavin",
+canonicalForm: "Anthemis galilaea hierosolymitana",
+italicisedForm: "<i>Anthemis galilaea </i>var.<i> hierosolymitana (</i>Eig<i>) </i>Yavin ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2884,
+name: "Anthemis sulphurea Wall. ex Nyman",
+canonicalForm: "Anthemis sulphurea",
+italicisedForm: "<i>Anthemis sulphurea </i>Wall.<i> ex </i>Nyman ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2885,
+name: "Anthemis viridis Blanco",
+canonicalForm: "Anthemis viridis",
+italicisedForm: "<i>Anthemis viridis </i>Blanco ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2886,
+name: "Artemisia viridis Blanco [Illegitimate]",
+canonicalForm: "Artemisia viridis",
+italicisedForm: "<i>Artemisia viridis </i>Blanco<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2887,
+name: "Bellis racemosa Steud.",
+canonicalForm: "Bellis racemosa",
+italicisedForm: "<i>Bellis racemosa </i>Steud. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2888,
+name: "Bellis ramosa Jacq.",
+canonicalForm: "Bellis ramosa",
+italicisedForm: "<i>Bellis ramosa </i>Jacq. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2889,
+name: "Buphthalmum diffusum Vahl ex DC.",
+canonicalForm: "Buphthalmum diffusum",
+italicisedForm: "<i>Buphthalmum diffusum </i>Vahl<i> ex </i>DC. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2890,
+name: "Chamaemelum foetidum Garsault",
+canonicalForm: "Chamaemelum foetidum",
+italicisedForm: "<i>Chamaemelum foetidum </i>Garsault ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2891,
+name: "Cotula alba (L.) L.",
+canonicalForm: "Cotula alba",
+italicisedForm: "<i>Cotula alba (</i>L.<i>) </i>L. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2892,
+name: "Cotula alva (L.) L.",
+canonicalForm: "Cotula alva",
+italicisedForm: "<i>Cotula alva (</i>L.<i>) </i>L. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2893,
+name: "Cotula prostrata (L.) L.",
+canonicalForm: "Cotula prostrata",
+italicisedForm: "<i>Cotula prostrata (</i>L.<i>) </i>L. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2894,
+name: "Eclipta adpressa Moench [Illegitimate]",
+canonicalForm: "Eclipta adpressa",
+italicisedForm: "<i>Eclipta adpressa </i>Moench<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2895,
+name: "Eclipta alba (L.) Hassk.",
+canonicalForm: "Eclipta alba",
+italicisedForm: "<i>Eclipta alba (</i>L.<i>) </i>Hassk. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2896,
+name: "Eclipta alba var. alba",
+canonicalForm: "Eclipta alba alba",
+italicisedForm: "<i>Eclipta alba </i>var.<i> alba</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2897,
+name: "Eclipta alba var. erecta (L.) Hassl.",
+canonicalForm: "Eclipta alba erecta",
+italicisedForm: "<i>Eclipta alba </i>var.<i> erecta (</i>L.<i>) </i>Hassl. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2898,
+name: "Eclipta alba f. longifolia Hassk.",
+canonicalForm: "Eclipta alba longifolia",
+italicisedForm: "<i>Eclipta alba </i>f.<i> longifolia </i>Hassk. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2899,
+name: "Eclipta alba var. parviflora (Wall. ex DC.) Miq.",
+canonicalForm: "Eclipta alba parviflora",
+italicisedForm: "<i>Eclipta alba </i>var.<i> parviflora (</i>Wall.<i> ex </i>DC.<i>) </i>Miq. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2900,
+name: "Eclipta alba var. prostrata (L.) Miq.",
+canonicalForm: "Eclipta alba prostrata",
+italicisedForm: "<i>Eclipta alba </i>var.<i> prostrata (</i>L.<i>) </i>Miq. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2901,
+name: "Eclipta alba f. zippeliana (Blume) Hassk.",
+canonicalForm: "Eclipta alba zippeliana",
+italicisedForm: "<i>Eclipta alba </i>f.<i> zippeliana (</i>Blume<i>) </i>Hassk. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2902,
+name: "Eclipta angustifolia C.Presl",
+canonicalForm: "Eclipta angustifolia",
+italicisedForm: "<i>Eclipta angustifolia </i>C.Presl ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2903,
+name: "Eclipta arabica Steud. [Illegitimate]",
+canonicalForm: "Eclipta arabica",
+italicisedForm: "<i>Eclipta arabica </i>Steud.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2904,
+name: "Eclipta ciliata Raf.",
+canonicalForm: "Eclipta ciliata",
+italicisedForm: "<i>Eclipta ciliata </i>Raf. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2905,
+name: "Eclipta dentata Wall. [Invalid]",
+canonicalForm: "Eclipta dentata",
+italicisedForm: "<i>Eclipta dentata </i>Wall.<i> [Invalid]</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2906,
+name: "Eclipta dichotoma Raf.",
+canonicalForm: "Eclipta dichotoma",
+italicisedForm: "<i>Eclipta dichotoma </i>Raf. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2907,
+name: "Eclipta dubia Raf.",
+canonicalForm: "Eclipta dubia",
+italicisedForm: "<i>Eclipta dubia </i>Raf. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2908,
+name: "Eclipta erecta L. [Illegitimate]",
+canonicalForm: "Eclipta erecta",
+italicisedForm: "<i>Eclipta erecta </i>L.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2909,
+name: "Eclipta erecta var. brachypoda (Michx.) Torr. & A.Gray",
+canonicalForm: "Eclipta erecta brachypoda",
+italicisedForm: "<i>Eclipta erecta </i>var.<i> brachypoda (</i>Michx.<i>) </i>Torr.<i> & </i>A.Gray ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2910,
+name: "Eclipta erecta var. diffusa DC.",
+canonicalForm: "Eclipta erecta diffusa",
+italicisedForm: "<i>Eclipta erecta </i>var.<i> diffusa </i>DC. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2911,
+name: "Eclipta erecta var. erecta",
+canonicalForm: "Eclipta erecta erecta",
+italicisedForm: "<i>Eclipta erecta </i>var.<i> erecta</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2912,
+name: "Eclipta erecta var. latifolia Willd. ex Walp.",
+canonicalForm: "Eclipta erecta latifolia",
+italicisedForm: "<i>Eclipta erecta </i>var.<i> latifolia </i>Willd.<i> ex </i>Walp. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2913,
+name: "Eclipta erecta var. prostrata (L.) Baker",
+canonicalForm: "Eclipta erecta prostrata",
+italicisedForm: "<i>Eclipta erecta </i>var.<i> prostrata (</i>L.<i>) </i>Baker ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2914,
+name: "Eclipta erecta var. zippeliana (Blume) J.Kost.",
+canonicalForm: "Eclipta erecta zippeliana",
+italicisedForm: "<i>Eclipta erecta </i>var.<i> zippeliana (</i>Blume<i>) </i>J.Kost. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2915,
+name: "Eclipta flexuosa Raf.",
+canonicalForm: "Eclipta flexuosa",
+italicisedForm: "<i>Eclipta flexuosa </i>Raf. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2916,
+name: "Eclipta heterophylla Bartl.",
+canonicalForm: "Eclipta heterophylla",
+italicisedForm: "<i>Eclipta heterophylla </i>Bartl. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2917,
+name: "Eclipta hirsuta Bartl.",
+canonicalForm: "Eclipta hirsuta",
+italicisedForm: "<i>Eclipta hirsuta </i>Bartl. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2918,
+name: "Eclipta linearis Otto ex Sweet",
+canonicalForm: "Eclipta linearis",
+italicisedForm: "<i>Eclipta linearis </i>Otto<i> ex </i>Sweet ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2919,
+name: "Eclipta longifolia Schrad.",
+canonicalForm: "Eclipta longifolia",
+italicisedForm: "<i>Eclipta longifolia </i>Schrad. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2920,
+name: "Eclipta marginata Steud. [Illegitimate]",
+canonicalForm: "Eclipta marginata",
+italicisedForm: "<i>Eclipta marginata </i>Steud.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2921,
+name: "Eclipta nutans Raf.",
+canonicalForm: "Eclipta nutans",
+italicisedForm: "<i>Eclipta nutans </i>Raf. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2922,
+name: "Eclipta nutans var. nutans",
+canonicalForm: "Eclipta nutans nutans",
+italicisedForm: "<i>Eclipta nutans </i>var.<i> nutans</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2923,
+name: "Eclipta oederi (Murr.) Weigel",
+canonicalForm: "Eclipta oederi",
+italicisedForm: "<i>Eclipta oederi (</i>Murr.<i>) </i>Weigel ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2924,
+name: "Eclipta palustris DC.",
+canonicalForm: "Eclipta palustris",
+italicisedForm: "<i>Eclipta palustris </i>DC. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2925,
+name: "Eclipta parviflora Wall. ex DC.",
+canonicalForm: "Eclipta parviflora",
+italicisedForm: "<i>Eclipta parviflora </i>Wall.<i> ex </i>DC. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2926,
+name: "Eclipta patula Schrad. ex DC.",
+canonicalForm: "Eclipta patula",
+italicisedForm: "<i>Eclipta patula </i>Schrad.<i> ex </i>DC. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2927,
+name: "Eclipta philippinensis Gand.",
+canonicalForm: "Eclipta philippinensis",
+italicisedForm: "<i>Eclipta philippinensis </i>Gand. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2928,
+name: "Eclipta procumbens var. brachypoda (Michx.) A.Gray",
+canonicalForm: "Eclipta procumbens brachypoda",
+italicisedForm: "<i>Eclipta procumbens </i>var.<i> brachypoda (</i>Michx.<i>) </i>A.Gray ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2929,
+name: "Eclipta procumbens var. patula (Schrad.) DC.",
+canonicalForm: "Eclipta procumbens patula",
+italicisedForm: "<i>Eclipta procumbens </i>var.<i> patula (</i>Schrad.<i>) </i>DC. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2930,
+name: "Eclipta prostrata f. aureoreticulata Y.T.Chang",
+canonicalForm: "Eclipta prostrata aureoreticulata",
+italicisedForm: "<i>Eclipta prostrata </i>f.<i> aureoreticulata </i>Y.T.Chang ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2931,
+name: "Eclipta prostrata f. prostrata",
+canonicalForm: "Eclipta prostrata prostrata",
+italicisedForm: "<i>Eclipta prostrata </i>f.<i> prostrata</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2932,
+name: "Eclipta prostrata var. undulata (Willd.) DC.",
+canonicalForm: "Eclipta prostrata undulata",
+italicisedForm: "<i>Eclipta prostrata </i>var.<i> undulata (</i>Willd.<i>) </i>DC. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2933,
+name: "Eclipta prostrata var. zippeliana (Blume) J.Kost.",
+canonicalForm: "Eclipta prostrata zippeliana",
+italicisedForm: "<i>Eclipta prostrata </i>var.<i> zippeliana (</i>Blume<i>) </i>J.Kost. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2934,
+name: "Eclipta pumila Raf.",
+canonicalForm: "Eclipta pumila",
+italicisedForm: "<i>Eclipta pumila </i>Raf. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2935,
+name: "Eclipta punctata L. [Illegitimate]",
+canonicalForm: "Eclipta punctata",
+italicisedForm: "<i>Eclipta punctata </i>L.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2936,
+name: "Eclipta simplex Raf.",
+canonicalForm: "Eclipta simplex",
+italicisedForm: "<i>Eclipta simplex </i>Raf. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2937,
+name: "Eclipta spicata Spreng.",
+canonicalForm: "Eclipta spicata",
+italicisedForm: "<i>Eclipta spicata </i>Spreng. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2938,
+name: "Eclipta strumosa Salisb.",
+canonicalForm: "Eclipta strumosa",
+italicisedForm: "<i>Eclipta strumosa </i>Salisb. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2939,
+name: "Eclipta sulcata Raf.",
+canonicalForm: "Eclipta sulcata",
+italicisedForm: "<i>Eclipta sulcata </i>Raf. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2940,
+name: "Eclipta tinctoria Raf.",
+canonicalForm: "Eclipta tinctoria",
+italicisedForm: "<i>Eclipta tinctoria </i>Raf. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2941,
+name: "Eclipta undulata Willd.",
+canonicalForm: "Eclipta undulata",
+italicisedForm: "<i>Eclipta undulata </i>Willd. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2942,
+name: "Eclipta zippeliana bl.",
+canonicalForm: "Eclipta zippeliana",
+italicisedForm: "<i>Eclipta zippeliana </i>bl. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2943,
+name: "Ecliptica alba (L.) Kuntze",
+canonicalForm: "Ecliptica alba",
+italicisedForm: "<i>Ecliptica alba (</i>L.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2944,
+name: "Ecliptica alba var. alba",
+canonicalForm: "Ecliptica alba alba",
+italicisedForm: "<i>Ecliptica alba </i>var.<i> alba</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2945,
+name: "Ecliptica alba var. erecta Kuntze",
+canonicalForm: "Ecliptica alba erecta",
+italicisedForm: "<i>Ecliptica alba </i>var.<i> erecta </i>Kuntze ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2946,
+name: "Ecliptica alba var. parviflora (Wall. ex DC.) Kuntze",
+canonicalForm: "Ecliptica alba parviflora",
+italicisedForm: "<i>Ecliptica alba </i>var.<i> parviflora (</i>Wall.<i> ex </i>DC.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2947,
+name: "Ecliptica alba var. prostrata (L.) Kuntze",
+canonicalForm: "Ecliptica alba prostrata",
+italicisedForm: "<i>Ecliptica alba </i>var.<i> prostrata (</i>L.<i>) </i>Kuntze ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2948,
+name: "Ecliptica alba var. zippeliana (Blume) Kuntze",
+canonicalForm: "Ecliptica alba zippeliana",
+italicisedForm: "<i>Ecliptica alba </i>var.<i> zippeliana (</i>Blume<i>) </i>Kuntze ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2949,
+name: "Eleutheranthera prostrata (L.) Sch.Bip.",
+canonicalForm: "Eleutheranthera prostrata",
+italicisedForm: "<i>Eleutheranthera prostrata (</i>L.<i>) </i>Sch.Bip. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2950,
+name: "Eleutheranthera prostrata var. prostrata",
+canonicalForm: "Eleutheranthera prostrata prostrata",
+italicisedForm: "<i>Eleutheranthera prostrata </i>var.<i> prostrata</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2951,
+name: "Eupatoriophalacron album (L.) Hitchc.",
+canonicalForm: "Eupatoriophalacron album",
+italicisedForm: "<i>Eupatoriophalacron album (</i>L.<i>) </i>Hitchc. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2952,
+name: "Galinsoga oblonga DC.",
+canonicalForm: "Galinsoga oblonga",
+italicisedForm: "<i>Galinsoga oblonga </i>DC. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2953,
+name: "Galinsoga oblongifolia (Hook.) DC.",
+canonicalForm: "Galinsoga oblongifolia",
+italicisedForm: "<i>Galinsoga oblongifolia (</i>Hook.<i>) </i>DC. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2954,
+name: "Grangea lanceolata Poir. [Illegitimate]",
+canonicalForm: "Grangea lanceolata",
+italicisedForm: "<i>Grangea lanceolata </i>Poir.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2955,
+name: "Micrelium tolak Forssk.",
+canonicalForm: "Micrelium tolak",
+italicisedForm: "<i>Micrelium tolak </i>Forssk. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2956,
+name: "Paleista brachypoda (Michx.) Raf. [Illegitimate]",
+canonicalForm: "Paleista brachypoda",
+italicisedForm: "<i>Paleista brachypoda (</i>Michx.<i>) </i>Raf.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2957,
+name: "Polygyne inconspicua Phil.",
+canonicalForm: "Polygyne inconspicua",
+italicisedForm: "<i>Polygyne inconspicua </i>Phil. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2958,
+name: "Spilanthes pseudo-acmella (L.) Murray",
+canonicalForm: "Spilanthes pseudo-acmella",
+italicisedForm: "<i>Spilanthes pseudo-acmella (</i>L.<i>) </i>Murray ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2959,
+name: "Verbesina alba L.",
+canonicalForm: "Verbesina alba",
+italicisedForm: "<i>Verbesina alba </i>L. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2960,
+name: "Verbesina alba subsp. alba",
+canonicalForm: "Verbesina alba alba",
+italicisedForm: "<i>Verbesina alba </i>subsp.<i> alba</i>",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2961,
+name: "Verbesina conyzoides Trew",
+canonicalForm: "Verbesina conyzoides",
+italicisedForm: "<i>Verbesina conyzoides </i>Trew ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2962,
+name: "Verbesina prostrata L.",
+canonicalForm: "Verbesina prostrata",
+italicisedForm: "<i>Verbesina prostrata </i>L. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2963,
+name: "Verbesina pseudoacmella L.",
+canonicalForm: "Verbesina pseudoacmella",
+italicisedForm: "<i>Verbesina pseudoacmella </i>L. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2964,
+name: "Wedelia psammophila Poepp.",
+canonicalForm: "Wedelia psammophila",
+italicisedForm: "<i>Wedelia psammophila </i>Poepp. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 2965,
+name: "Wilborgia oblongifolia Hook.",
+canonicalForm: "Wilborgia oblongifolia",
+italicisedForm: "<i>Wilborgia oblongifolia </i>Hook. ",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 702,
+name: "False daisy",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 703,
+name: "Bhringraj",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+language: {
+id: 177,
+name: "Hindi"
+}
+},
+{
+id: 704,
+name: "Keshuti",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+language: {
+id: 50,
+name: "Bengali"
+}
+},
+{
+id: 705,
+name: "Bhangra",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+language: {
+id: 177,
+name: "Hindi"
+}
+},
+{
+id: 706,
+name: "Daryai buti",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+language: {
+id: 455,
+name: "Urdu"
+}
+},
+{
+id: 707,
+name: "Eclipta",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 708,
+name: "Herbe à l'eau",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+language: {
+id: 493,
+name: "Français / French"
+}
+},
+{
+id: 709,
+name: "Eclipte blanche",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+language: {
+id: 493,
+name: "Français / French"
+}
+},
+{
+id: 710,
+name: "Tattoo plant",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 711,
+name: "Eclipte droite",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+language: {
+id: 493,
+name: "Français / French"
+}
+},
+{
+id: 712,
+name: "American false daisy",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1638,
+name: "Eng: eclipta",
+taxonConcept: {
+id: 250
+},
+isContributor: false
+},
+{
+id: 1639,
+name: "False daisy",
+taxonConcept: {
+id: 250
+},
+isContributor: false
+},
+{
+id: 1695,
+name: "Ahimarana",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+language: {
+id: 283,
+name: "Malagasy"
+}
+},
+{
+id: 1696,
+name: "Kelibehazo",
+taxonConcept: {
+id: 250
+},
+isContributor: false,
+language: {
+id: 283,
+name: "Malagasy"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:27:09Z",
+lastRevised: "2015-03-26T15:45:17Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110405_140413_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>ECLAL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>ECLAL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1022,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>ECLAL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2014-09-24T17:31:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889345,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1019,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Size variable usually 3-10 cm long, 5-15 mm wide, usually opposite, although some of the upper leaves may be alternate. The leaves are sessile against the stems, or they have short pedicels. Each leaf is more or less lanceolate, with scattered hairs that are appressed. Margins with about 3-15 teeth on each side.</p><h6>General Habit</h6><p>Usually an erect herb</p><h6>Underground System</h6><p>Rooting at the node</p><h6>Flower</h6><p>Bisexual, grouped in a terminal or axillary head about 7 mm diam and subtended by a ring of 8-10 green bracts. The spreading green bracts are triangular-shaped and form the base of the flowerhead. The ray florets are white and quite narrow and short, while the disk florets are cream or dull white with 4 small spreading lobes. Pale yellow or light brown anthers protrude slightly from the disk florets.</p><h6>Fruit</h6><p>Achenes of ray-florets 3-angled, of disc-florets 4-angled, strongly tuberculate, scattered hairs at apex; pappus absent.</p><h6>Global Description</h6><p>Terrestrial, annual herb, branching, decumbent to erect or prostrate of 75 cm covered with short appressed hairs, node-rooting; leaves lanceolate, elliptic, or oblong, acute-acuminate. Flowers bisexual, grouped in a terminal or axillary head with tubular and ligulate, sessile flowers, white or yellow and achenes angled, strongly tuberculate, scattered hairs at apex, pappus absent.</p><h6>Inflorescence</h6><p>From the axils of the leaves, there are 1-3 flowerheads on short pedicels. Each flat-topped flowerhead is about 1/3 across, consisting of about 8-16 bracts and numerous ray florets that surround the numerous disk florets.</p><h6>Stem</h6><p>Reddish purple stems branch occasionally. They are round and have scattered white hairs that are appressed upward.</p>",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2014-09-24T17:31:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889334,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1028,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Eclipta prostrata (L.) L.",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2014-09-24T17:31:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889359,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1026,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Reproduces by seeds.<br>",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2014-09-24T17:31:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889357,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1027,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Adaptable to changing environmental conditions, usually on poorly drained, wet areas along streams and ditches in marshes, on sunny places. From the seacoast (endures aline conditions) to 2000 m.<br>",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2014-09-24T17:31:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889358,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1016,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>Widely distributed worldwide in subtropical, tropical, and warm temperate regions.</p><h6>Origin</h6><p>Native of Asia.</p>",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2014-09-24T17:31:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889328,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1020,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Global Weediness</h6><p>Troublesome in some crops (17 crops in 35 countries) most troublesome in low regions with high rainfall.</p><h6>Local Weediness</h6><p>Tanzania: Frequent but not abundant. Uganda: Rare and not abundant.</p>",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2014-09-24T17:31:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889334,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1023,
+field: {
+concept: "Uses and Management",
+category: "Uses",
+description: "Known or potential benefits of the species for humans, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted. Can include ecosystem services. However, benefits to ecosystems not specific to humans are best treated under Risk statement (what happens when the organism is removed)",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "It is used as a traditional medicine for treatment of hyperlipidemia, atherosclerosis, hepatic disorders, inflammatory conditions, ophthalmic and digestive disorders including skin diseases. E. prostrata plant species is also recognized as the best remedy for hair dying.<br>",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2014-09-24T17:31:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889346,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1029,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>It is easily controlled by hand pulling and cultivation. Amitrole is very effective. Reasonably effective are 2.4-D(1-1.5 kg a.i./ha in 200 l of water) and MCPA (0.5-1 kg a.i./ha in 200 1 of water), but repeated applications are necessary. Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2014-09-24T17:31:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889359,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1025,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2015-04-02T04:45:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E., (1997). Weeds of rice in West Africa. WARDA, Bouaké. 52p;"
+},
+{
+title: "Supaluk P., Orapin W., Thummaruk S., Somsak R., Virapong P., (2010). Bioactivity Evaluation of Eclipta prostrata Linn: A Potential Vasorelaxant. European Journal of Scientific Research Vol.44 No.2, pp.167-176"
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=110&taxon_id=200005229"
+},
+{
+title: "Supaluk P., Orapin W., Thummaruk S., Somsak R., Virapong P., (2010). Bioactivity Evaluation of Eclipta prostrata Linn: A Potential Vasorelaxant. European Journal of Scientific Research Vol.44 No.2, pp.167-176"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200000001"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889349,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1018,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2015-03-26T15:41:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E., (1997). Weeds of rice in West Africa. WARDA, Bouaké. 52p;"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=110&taxon_id=200005229"
+},
+{
+title: "Supaluk P., Orapin W., Thummaruk S., Somsak R., Virapong P., (2010). Bioactivity Evaluation of Eclipta prostrata Linn: A Potential Vasorelaxant. European Journal of Scientific Research Vol.44 No.2, pp.167-176"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200000001"
+},
+{
+title: "Johnson, D.E., (1997). Weeds of rice in West Africa. WARDA, Bouaké. 52p;"
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2;"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=110&taxon_id=200005229"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889331,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1024,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2015-04-02T04:45:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=110&taxon_id=200005229"
+},
+{
+title: "Supaluk P., Orapin W., Thummaruk S., Somsak R., Virapong P., (2010). Bioactivity Evaluation of Eclipta prostrata Linn: A Potential Vasorelaxant. European Journal of Scientific Research Vol.44 No.2, pp.167-176"
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2;"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200000001"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Johnson, D.E., (1997). Weeds of rice in West Africa. WARDA, Bouaké. 52p;"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200000001"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889347,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1021,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2015-04-02T04:45:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200000001"
+},
+{
+title: "Supaluk P., Orapin W., Thummaruk S., Somsak R., Virapong P., (2010). Bioactivity Evaluation of Eclipta prostrata Linn: A Potential Vasorelaxant. European Journal of Scientific Research Vol.44 No.2, pp.167-176"
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2;"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=110&taxon_id=200005229"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Johnson, D.E., (1997). Weeds of rice in West Africa. WARDA, Bouaké. 52p;"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889335,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1017,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2015-03-20T20:02:19Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2;"
+},
+{
+title: "Supaluk P., Orapin W., Thummaruk S., Somsak R., Virapong P., (2010). Bioactivity Evaluation of Eclipta prostrata Linn: A Potential Vasorelaxant. European Journal of Scientific Research Vol.44 No.2, pp.167-176"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200000001"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Johnson, D.E., (1997). Weeds of rice in West Africa. WARDA, Bouaké. 52p;"
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2;"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=110&taxon_id=200005229"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889329,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1030,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:31:29Z",
+lastUpdated: "2015-03-26T15:41:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Johnson, D.E., (1997). Weeds of rice in West Africa. WARDA, Bouaké. 52p;"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200000001"
+},
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2;"
+},
+{
+url: "http://www.efloras.org/florataxon.aspx?flora_id=110&taxon_id=200005229"
+},
+{
+title: "Supaluk P., Orapin W., Thummaruk S., Somsak R., Virapong P., (2010). Bioactivity Evaluation of Eclipta prostrata Linn: A Potential Vasorelaxant. European Journal of Scientific Research Vol.44 No.2, pp.167-176"
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411579889359,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3973,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Eclipta prostrata est une plante herbacée, annuelle en général, ramifiée, étalée ou dressée, qui mesure jusqu'à 80 cm de haut. Elle est entièrement couverte de courts poils raides et blancs. Les feuilles sont opposées et simples, sessiles ou très courtement pétiolées, à limbe allongé ovale lancéolé, rugueux au toucher. Les fleurs, blanches, sont groupées en capitules sub-globuleux longuement pédicellée, solitaires ou par 2 ou 3, terminaux ou axillaires. Les fleurs sont de 2 types : fleurs tubulées au centre, les plus nombreuses, fleurs ligulées en périphérie. Le fruit est un akène comprimé verruqueux de couleur brune ou noire.</p>",
+dateCreated: "2015-03-19T11:35:23Z",
+lastUpdated: "2015-03-19T11:35:23Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764923996,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3957,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>ECLAL</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-19T11:35:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922033,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3965,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Eclipta prostrata est une plante herbacée, annuelle en général, ramifiée, étalée ou dressée, qui mesure jusqu'à 80 cm de haut. Elle est entièrement couverte de courts poils raides et blancs. Les feuilles sont opposées et simples, sessiles ou très courtement pétiolées, à limbe allongé ovale lancéolé, rugueux au toucher. Les fleurs, blanches, sont groupées en capitules sub-globuleux longuement pédicellée, solitaires ou par 2 ou 3, terminaux ou axillaires. Les fleurs sont de 2 types : fleurs tubulées au centre, les plus nombreuses, fleurs ligulées en périphérie. Le fruit est un akène comprimé verruqueux de couleur brune ou noire.</p><h6>Cotylédons</h6><p>Les cotylédons sont pétiolés (1,5 à 2,5 mm de long), glabres. Le limbe est largement ovale (4 à 4,8 mm de long et 3,2 à 3,6 mm de large), à base obtuse, à sommet arrondi ou tronqué, à marge entière.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont très courtement pétiolées, simples et opposées. Le pétiole mesure 1 à 1,5 mm de long. Il est densément couvert de poils appliqués. Le limbe est ovale (4,5 à 6,8 mm de long et 3,2 à 3,8 mm de large), à base obtuse, à sommet arrondi. Il est couvert sur les deux faces de poils courts et raides et blancs. La nervation est pennée. La marge est faiblement dentée près de la base et ciliée.</p><h6>Port</h6><p>Plante herbacée annuelle ou brièvement pérenne, ramifiée, dressée ou étalée puis redressée, mesurant 10 à 80 cm de haut. Les parties de tiges en contact avec le sol s'enracinent aux noeuds. La plante est entièrement couverte de courts poils blancs, raides et appliqués. Toute la plante noircit en séchant.</p><h6>Système Souterrain</h6><p>La racine est pivotante.</p><h6>Tige</h6><p>La tige, de section cylindrique, est un peu charnue, plus ou moins ligneuse à la base. Elle est densément couverte de poils blancs courts et raides, appliqués et dirigés vers le haut. Sa couleur qui varie du vert au violet, est en général plutôt rougeâtre.</p><h6>Feuille</h6><p>Les feuilles sont opposées et simples. Les feuilles supérieures sont sessiles, celles du bas ont un court pétiole. Le limbe est ovale-lancéolé, à base brusquement rétrécie, à sommet pointu. La marge est entière ou marquée de fines dents espacées. Les deux faces du limbe sont assez densément couvertes de poils courts et appliqués ce qui les rend rugueuses au toucher. La feuille mesure 2 à 15,5 cm de long et 0,5 à 4 cm de large. Elle est trinervée à la base.</p><h6>Inflorescence</h6><p>Les fleurs sont groupées en capitules blancs longuement pédicellés, solitaires ou groupés par 2 ou 3, à l'extrémité des rameaux ou à l'aisselle des feuilles. Les pédicelles mesurent 1 à 7 cm de long. Ils sont couverts de poils raides et appliqués dirigés vers le haut. Les capitules sont sub-globuleux, en forme de cloche largement ouverte, d'environ 1 cm de diamètre. Les bractées du réceptacle sont peu nombreuses (5 à 6) et imbriquées. Elles sont ovales à orbiculaires, pointues, couvertes de poils denses et appliqués. Les bractées externes mesurent 4 à 6 mm de long, les internes sont habituellement plus courtes.</p><h6>Fleur</h6><p>Les fleurs sont blanches, de 2 types. Les fleurs du centre tubulées, bisexuées, sont petites et nombreuses. Celles de la marge sont ligulées, femelles ou neutres. Elles sont moins nombreuses et forment une frange autour du capitule.</p><h6>Fruit</h6><p>Le fruit est un akène cunéiforme comprimé, de 2 à 3 mm de long, à marge plus ou moins épaissie, très verruqueux. Il est de couleur brune ou noire. Il est dépourvu d'aigrette mais porte de courts poils blancs au sommet. Cette plante fleurissant toute l'année, la production de graines est très importante (une plante peut produire jusqu'à 17000 graines !).</p>",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-19T11:35:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922116,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3966,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Eclipta prostrata (L.) L.",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-19T11:35:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922155,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6568,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Les graines sont sans dormance et peuvent germer d&egrave;s le d&eacute;but de la saison culturale. <p> </p> ",
+dateCreated: "2015-03-26T15:45:17Z",
+lastUpdated: "2015-03-26T15:45:17Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427384717445,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3970,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "E. prostrata est une plante principalement annuelle (quelquefois bri&egrave;vement p&eacute;renne) se reproduisant par graines. Les graines produites en grande quantit&eacute; sont dispers&eacute;es par le vent, l&rsquo;eau et les animaux.<br /> ",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-26T15:45:01Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922272,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3967,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>Originaire d'Asie.</p><h6>Distribution Mondiale</h6><p>E. prostrata est actuellement répandue dans les tropiques et les sub-tropiques du monde entier et les régions tempérées chaudes. Commune dans les rizières en altitude.</p>",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-19T11:35:22Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922216,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3969,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "E. prostrata s&#39;adapte bien aux changements de conditions environnementales. Souvent sur terrains peu drainant, le long des cours d&#39;eau et des foss&eacute;s, des mar&eacute;cages, en plein soleil. Adventice commune des rizi&egrave;res inond&eacute;es. Depuis le niveau de la mer jusqu&#39;&agrave; 2 000 m d&#39;altitude.<br /> <strong>Madagascar :</strong> E. prostrata se d&eacute;veloppe sur les sols hydromorphes peu inondables, sols alluvionnaires humides, assez riches, dans les r&eacute;gions &agrave; climat subhumide et humide. Elle est pr&eacute;sente du niveau de la mer jusqu&#39;&agrave; une altitude de 1200 m sur les bords des canaux dans les Hautes terres, le Moyen-ouest, l&#39;Ouest, le Nord-ouest et le versant oriental de Madagascar. C&#39;est une mauvaise herbe des cultures sur sol humide sur terrain ensoleill&eacute; et ou faiblement ombrag&eacute;s. Elle est notamment fr&eacute;quente en culture de riz pluvial sur terrasse plus ou moins humide, ou de bas fond sans ma&icirc;trise de l&rsquo;eau ; cultures mara&icirc;ch&egrave;res, canne &agrave; sucre, taro, dans les syst&egrave;mes de culture plus ou moins extensifs.<br /> <strong>Maurice :</strong> Rud&eacute;rale et adventice des cultures, &agrave; toutes altitudes, mais fr&eacute;quente surtout au bord de la c&ocirc;te.",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-26T15:46:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922252,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3968,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Origine</h6> <p> Originaire d&#39;Asie.</p> <h6> Distribution Mondiale</h6> <p> E. prostrata est actuellement r&eacute;pandue dans les tropiques et les sub-tropiques du monde entier et les r&eacute;gions temp&eacute;r&eacute;es chaudes. Commune dans les rizi&egrave;res en altitude. Asie du Sud-est, Indon&eacute;sie, Chine, Inde, Pakistan, Sri Lanka, Afrique australe, du Nord, du Centre et de l&rsquo;Ouest, Am&eacute;rique du Sud, USA, Sud de l&rsquo;Europe, Australie, &icirc;les du Pacifique.</p> ",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-26T15:46:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922236,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3971,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Globale</h6> <p> E. prostrata est une adventice commune des rizi&egrave;res inond&eacute;es, elle peut devenir probl&eacute;matique, en particulier les r&eacute;gions de basse altitude &agrave; forte pluviom&eacute;trie.</p> <h6> Nuisibilit&eacute; Locale</h6> <p> <strong>B&eacute;nin :</strong> E. prostrata est rare et peu abondante.<br /> <strong>Burkina Faso :</strong> fr&eacute;quente et peu abondante.<br /> <strong>C&ocirc;te d&#39;Ivoire : </strong>rare et peu abondante.<br /> <strong>Ghana : </strong>fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>Mali :</strong> fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>Madagascar : </strong>C&#39;est une mauvaise herbe assez fr&eacute;quente avec une abondance relativement faible. Elle ne pr&eacute;sente pas de difficult&eacute; particuli&egrave;re pour la lutte sauf dans le cas des cultures sem&eacute;es en direct (p&eacute;pini&egrave;res, riz de semis direct, cultures mara&icirc;ch&egrave;res).<br /> <strong>Maurice : </strong>Adventice des cultures ayant une fr&eacute;quence et une abondance tr&egrave;s faibles et donc une nuisibilit&eacute; tout &agrave; fait minime.<br /> <strong>Nigeria :</strong> rare et peu abondante.<br /> <strong>S&eacute;n&eacute;gal :</strong> fr&eacute;quente et g&eacute;n&eacute;ralement abondante.<br /> <strong>Ouganda : </strong>rare et peu abondante.<br /> <strong>Tanzanie :</strong> fr&eacute;quente et peu abondante.</p> ",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-26T15:48:30Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922289,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3964,
+field: {
+concept: "Démographie et Conservation",
+category: "Menaces",
+description: "Les menaces que subit le taxon",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Madagascar : </strong>E. prostrata est un h&ocirc;te interm&eacute;diaire de n&eacute;matodes comme Melo&iuml;dogyne spp.<br /> ",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-26T15:48:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922092,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3974,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Usages</h6> <p> <strong>M&eacute;dicinal : </strong>E. prostrata est une source de compos&eacute;s &agrave; base de &laquo;coumestan&raquo;, utilis&eacute; dans des pr&eacute;parations pharmaceutiques prescrites en cas de cirrhose du foie ou d&#39;affections h&eacute;patiques. Elle est utilis&eacute;e en m&eacute;decine traditionnelle pour traiter le diab&egrave;te, l&rsquo;asthme et des maladies du foie et pour le cuir chevelu.<br /> <br /> <strong>Alimentaire :</strong> On l&#39;utilise &eacute;galement comme plante comestible sauvage.<br /> <br /> <strong>Autre : </strong>Les feuilles sont utilis&eacute;es comme coloration noire ou tonifiant des cheveux.</p> ",
+dateCreated: "2015-03-19T11:35:24Z",
+lastUpdated: "2015-03-26T15:50:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764924018,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3972,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> E. prostrata est facilement contr&ocirc;l&eacute;e manuellement par arrachage et par la mise en culture. L&#39;amitrole est tr&egrave;s efficace. Le 2,4-D (1 &agrave; 1,5 kg/ha dissout dans 200 litres d&#39;eau) et le MCPA (0,5 &agrave; 1 kg/ha dissout dans 200 litres d&#39;eau) sont moins efficaces et plusieurs applications sont n&eacute;cessaires. Conseils de gestion des adventices annuelles &agrave; feuilles larges en riz irrigu&eacute; : http://portal.wikwio.org/document/show/19</p> <h6> Lutte Locale</h6> <p> <strong>Madagascar :</strong> Le contr&ocirc;le manuel d&rsquo;E. prostrata est exigeant en temps quand elle est abondante. Chimiquement, elle est facilement contr&ocirc;l&eacute;e au 2,4-D amine ou au glyphosate, sur plantes jeunes ou &acirc;g&eacute;es. Elle est bien contr&ocirc;l&eacute;e par un paillage et dispara&icirc;t progressivement en semis direct sur couverture v&eacute;g&eacute;tale permanente &agrave; condition d&rsquo;avoir une couverture suffisante.<br /> <strong>Maurice :</strong> La lutte contre cette mauvaise herbe n&#39;est pas r&eacute;pertori&eacute;e &agrave; Maurice mais son contr&ocirc;le dans la canne &agrave; sucre peut &ecirc;tre obtenu par les herbicides standards pr&eacute;conis&eacute;s.</p> ",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-26T15:50:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922327,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3962,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-31T06:52:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Moody K., Munroe C.E., Lubigan R.T., Paller E.C.Jr. 1984. Major Weeds of the Philippines."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922074,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6654,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-04-22T12:44:43Z",
+lastUpdated: "2015-04-22T12:44:43Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [
+{
+title: "www.knowledgebank.irri.org/training/fact-sheets/item/eclipta-prostrata"
+},
+{
+title: "ANTOINE R., BOSSER J., FERGUSSON I.K., 1993. FLORE DES MASCAREIGNES : La Réunion, Maurice, Rodrigues. 80 Légumineuses. MSIRI, ORSTOM, KEW. p 181"
+},
+{
+title: "MOODY K. 1989. Weeds reported in Rice in South and Southeast Asia. IRRI Manila Phillippines 442p."
+}
+],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1429706683790,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3961,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-31T06:52:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Soerjani M., Kostermans A. J. G. H., Tjitrosoepomo G. 1987. Weeds of rice in Indonesia. Balai Pustaka. Jakarta."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922073,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3960,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-31T06:52:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Marita I.G., Keith Moody, Colin M. Piggin. 1999. Upland Rice Weeds of Southeast Asia, IRRI."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922073,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3959,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-31T06:52:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922073,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3963,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-31T06:52:55Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922074,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3958,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:35:22Z",
+lastUpdated: "2015-03-31T06:52:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., Homsombath, K., Kessler, P., Khuon, E., Le Bourgeois, T., Prospéri, J., Risdale, C. 2006. Oswald V.1.0: A multimedia identification system of the major weeds of rice paddy fields of Cambodia and Lao P.D.R. In Cirad [ed.]. Cirad, Montpellier, France. Cdrom. ISBN 978-2-87614-653-2."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426764922072,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 2692,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110405_140413.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110405_140413_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:09Z",
+rating: 0
+},
+{
+id: 2693,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040908_111718.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040908_111718_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:09Z",
+rating: 0
+},
+{
+id: 2694,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_150030.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_150030_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:09Z",
+rating: 0
+},
+{
+id: 2695,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154758.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154758_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:09Z",
+rating: 0
+},
+{
+id: 2696,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154538.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154538_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:09Z",
+rating: 0
+},
+{
+id: 2697,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154634.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154634_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:09Z",
+rating: 0
+},
+{
+id: 2698,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154742.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154742_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:09Z",
+rating: 0
+},
+{
+id: 2699,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_150036.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_150036_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:09Z",
+rating: 0
+},
+{
+id: 2700,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154456.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154456_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:10Z",
+rating: 0
+},
+{
+id: 2701,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110705_162857.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110705_162857_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:10Z",
+rating: 0
+},
+{
+id: 2702,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110705_163040.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110705_163040_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:10Z",
+rating: 0
+},
+{
+id: 2703,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090223_192412.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090223_192412_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:10Z",
+rating: 0
+},
+{
+id: 2704,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110705_163252.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110705_163252_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:10Z",
+rating: 0
+},
+{
+id: 2705,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110706_095144.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110706_095144_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:10Z",
+rating: 0
+},
+{
+id: 2706,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120504_100908.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120504_100908_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:10Z",
+rating: 0
+},
+{
+id: 2707,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110702_170040.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110702_170040_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:10Z",
+rating: 0
+},
+{
+id: 2708,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120529_142444.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120529_142444_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:11Z",
+rating: 0
+},
+{
+id: 2709,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120529_142432.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120529_142432_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:11Z",
+rating: 0
+},
+{
+id: 2710,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151240.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151240_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:11Z",
+rating: 0
+},
+{
+id: 2711,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040728_134242.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040728_134242_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:11Z",
+rating: 0
+},
+{
+id: 2712,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20020101_070100.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20020101_070100_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:11Z",
+rating: 0
+},
+{
+id: 2713,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110908_112642_02.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110908_112642_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:11Z",
+rating: 0
+},
+{
+id: 2714,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152259.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152259_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:11Z",
+rating: 0
+},
+{
+id: 2715,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152310.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152310_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:11Z",
+rating: 0
+},
+{
+id: 2716,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20100818_032208.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20100818_032208_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:11Z",
+rating: 0
+},
+{
+id: 2717,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_152326.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_152326_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:11Z",
+rating: 0
+},
+{
+id: 2718,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152317.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152317_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:12Z",
+rating: 0
+},
+{
+id: 2719,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154748.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154748_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:12Z",
+rating: 0
+},
+{
+id: 2720,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154514.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154514_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:12Z",
+rating: 0
+},
+{
+id: 2721,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152219.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152219_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:12Z",
+rating: 0
+},
+{
+id: 2722,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_150920.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_150920_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:12Z",
+rating: 0
+},
+{
+id: 2723,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154734.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_154734_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:12Z",
+rating: 0
+},
+{
+id: 2724,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110705_163001.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110705_163001_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:12Z",
+rating: 0
+},
+{
+id: 2725,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_145730.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_145730_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:12Z",
+rating: 0
+},
+{
+id: 2726,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_160350.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_160350_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:12Z",
+rating: 0
+},
+{
+id: 2727,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123422.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123422_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:12Z",
+rating: 0
+},
+{
+id: 2728,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20050128_150136.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20050128_150136_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:12Z",
+rating: 0
+},
+{
+id: 2729,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151306.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151306_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:13Z",
+rating: 0
+},
+{
+id: 2730,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141423.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141423_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:13Z",
+rating: 0
+},
+{
+id: 2731,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040908_112014.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040908_112014_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:13Z",
+rating: 0
+},
+{
+id: 2732,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040908_111856.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040908_111856_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:13Z",
+rating: 0
+},
+{
+id: 2733,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040915_220958.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040915_220958_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:13Z",
+rating: 0
+},
+{
+id: 2734,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040908_111754.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040908_111754_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:13Z",
+rating: 0
+},
+{
+id: 2735,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110907_201346.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110907_201346_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:13Z",
+rating: 0
+},
+{
+id: 2736,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141507.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141507_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:13Z",
+rating: 0
+},
+{
+id: 2737,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040727_111058.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040727_111058_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:13Z",
+rating: 0
+},
+{
+id: 2738,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040727_110428.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040727_110428_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:13Z",
+rating: 0
+},
+{
+id: 2739,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040903_105826.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040903_105826_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:14Z",
+rating: 0
+},
+{
+id: 2740,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_134433.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_134433_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:14Z",
+rating: 0
+},
+{
+id: 2741,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_134610.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_134610_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:14Z",
+rating: 0
+},
+{
+id: 2742,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151714.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151714_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:14Z",
+rating: 0
+},
+{
+id: 2743,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123426.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123426_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:14Z",
+rating: 0
+},
+{
+id: 2744,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123424_02.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123424_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:14Z",
+rating: 0
+},
+{
+id: 2745,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180638.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180638_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:14Z",
+rating: 0
+},
+{
+id: 2746,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040909_105022.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040909_105022_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:14Z",
+rating: 0
+},
+{
+id: 2747,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20041028_093956.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20041028_093956_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:14Z",
+rating: 0
+},
+{
+id: 2748,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20041028_094000.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20041028_094000_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:15Z",
+rating: 0
+},
+{
+id: 2749,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120529_141516.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120529_141516_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:15Z",
+rating: 0
+},
+{
+id: 2750,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151724.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151724_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:15Z",
+rating: 0
+},
+{
+id: 2751,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110405_140449.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110405_140449_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:15Z",
+rating: 0
+},
+{
+id: 2752,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_133836.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_133836_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:15Z",
+rating: 0
+},
+{
+id: 2753,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20130613_153817.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20130613_153817_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:15Z",
+rating: 0
+},
+{
+id: 2754,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20130613_153753.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20130613_153753_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:15Z",
+rating: 0
+},
+{
+id: 2755,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20130613_130700.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20130613_130700_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:15Z",
+rating: 0
+},
+{
+id: 2756,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20130613_153835.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20130613_153835_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:15Z",
+rating: 0
+},
+{
+id: 2757,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180402.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180402_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:15Z",
+rating: 0
+},
+{
+id: 2758,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180551.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180551_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:16Z",
+rating: 0
+},
+{
+id: 2759,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180757.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180757_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:16Z",
+rating: 0
+},
+{
+id: 2760,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_124045.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_124045_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:16Z",
+rating: 0
+},
+{
+id: 2761,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123424_03.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123424_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:16Z",
+rating: 0
+},
+{
+id: 2762,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151126.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151126_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:16Z",
+rating: 0
+},
+{
+id: 2763,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_150942.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_150942_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:16Z",
+rating: 0
+},
+{
+id: 2764,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120529_141506.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120529_141506_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:16Z",
+rating: 0
+},
+{
+id: 2765,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151032.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151032_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:16Z",
+rating: 0
+},
+{
+id: 2766,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151700.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151700_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:16Z",
+rating: 0
+},
+{
+id: 2767,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120529_141446.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120529_141446_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:16Z",
+rating: 0
+},
+{
+id: 2768,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120529_141534.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20120529_141534_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:17Z",
+rating: 0
+},
+{
+id: 2769,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141533.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141533_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:17Z",
+rating: 0
+},
+{
+id: 2770,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20111109_144216.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20111109_144216_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:17Z",
+rating: 0
+},
+{
+id: 2771,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123422_02.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123422_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:17Z",
+rating: 0
+},
+{
+id: 2772,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_124300.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_124300_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:17Z",
+rating: 0
+},
+{
+id: 2773,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20101122_112318.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20101122_112318_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:17Z",
+rating: 0
+},
+{
+id: 2774,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20101207_163238.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20101207_163238_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:17Z",
+rating: 0
+},
+{
+id: 2775,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20101208_151209.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20101208_151209_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:17Z",
+rating: 0
+},
+{
+id: 2776,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123424.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123424_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:17Z",
+rating: 0
+},
+{
+id: 2777,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151246.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151246_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:17Z",
+rating: 0
+},
+{
+id: 2778,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20111109_144350.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20111109_144350_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:17Z",
+rating: 0
+},
+{
+id: 2779,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123428.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123428_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:18Z",
+rating: 0
+},
+{
+id: 2780,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123426_02.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040906_123426_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:18Z",
+rating: 0
+},
+{
+id: 2781,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151336.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151336_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:18Z",
+rating: 0
+},
+{
+id: 2782,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_123836.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_123836_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:18Z",
+rating: 0
+},
+{
+id: 2783,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20051114_171124.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20051114_171124_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:18Z",
+rating: 0
+},
+{
+id: 2784,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20051114_171106.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20051114_171106_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:18Z",
+rating: 0
+},
+{
+id: 2785,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20051114_171146.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20051114_171146_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:18Z",
+rating: 0
+},
+{
+id: 2786,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20051114_171133.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20051114_171133_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:18Z",
+rating: 0
+},
+{
+id: 2787,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20051114_171138.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20051114_171138_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:18Z",
+rating: 0
+},
+{
+id: 2788,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20051114_171123.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20051114_171123_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:18Z",
+rating: 0
+},
+{
+id: 2789,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180724.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180724_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:18Z",
+rating: 0
+},
+{
+id: 2790,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152306.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152306_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:19Z",
+rating: 0
+},
+{
+id: 2791,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_123540.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_123540_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:19Z",
+rating: 0
+},
+{
+id: 2792,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152245.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152245_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:19Z",
+rating: 0
+},
+{
+id: 2793,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_142326.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_142326_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:19Z",
+rating: 0
+},
+{
+id: 2794,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090223_192510.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090223_192510_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:19Z",
+rating: 0
+},
+{
+id: 2795,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152256.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152256_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:19Z",
+rating: 0
+},
+{
+id: 2796,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152324.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152324_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:19Z",
+rating: 0
+},
+{
+id: 2797,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152252.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152252_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:19Z",
+rating: 0
+},
+{
+id: 2798,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152227.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152227_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:19Z",
+rating: 0
+},
+{
+id: 2799,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110702_165918.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110702_165918_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:19Z",
+rating: 0
+},
+{
+id: 2800,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141317.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141317_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:19Z",
+rating: 0
+},
+{
+id: 2801,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141612.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141612_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:19Z",
+rating: 0
+},
+{
+id: 2802,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141354.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141354_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:20Z",
+rating: 0
+},
+{
+id: 2803,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20111011_144904.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20111011_144904_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:20Z",
+rating: 0
+},
+{
+id: 2804,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141649.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141649_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:20Z",
+rating: 0
+},
+{
+id: 2805,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152230.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152230_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:20Z",
+rating: 0
+},
+{
+id: 2806,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20111011_144707.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20111011_144707_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:20Z",
+rating: 0
+},
+{
+id: 2807,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152234.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152234_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:20Z",
+rating: 0
+},
+{
+id: 2808,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151102.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151102_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:20Z",
+rating: 0
+},
+{
+id: 2809,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141725.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141725_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:20Z",
+rating: 0
+},
+{
+id: 2810,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152223.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152223_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:20Z",
+rating: 0
+},
+{
+id: 2811,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_124610.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_124610_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:20Z",
+rating: 0
+},
+{
+id: 2812,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20111011_144805.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20111011_144805_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:21Z",
+rating: 0
+},
+{
+id: 2813,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152328.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152328_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:21Z",
+rating: 0
+},
+{
+id: 2814,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151140.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151140_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:21Z",
+rating: 0
+},
+{
+id: 2815,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_150932.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_150932_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:21Z",
+rating: 0
+},
+{
+id: 2816,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20101208_151210.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20101208_151210_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:21Z",
+rating: 0
+},
+{
+id: 2817,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151224.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151224_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:21Z",
+rating: 0
+},
+{
+id: 2818,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180441.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180441_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:21Z",
+rating: 0
+},
+{
+id: 2819,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152303.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152303_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:21Z",
+rating: 0
+},
+{
+id: 2820,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152248.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152248_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:21Z",
+rating: 0
+},
+{
+id: 2821,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110907_120318.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110907_120318_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:21Z",
+rating: 0
+},
+{
+id: 2822,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090223_192330.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090223_192330_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:21Z",
+rating: 0
+},
+{
+id: 2823,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_133540.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_133540_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:22Z",
+rating: 0
+},
+{
+id: 2824,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180521.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090220_180521_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:22Z",
+rating: 0
+},
+{
+id: 2825,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141242.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20070718_141242_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:22Z",
+rating: 0
+},
+{
+id: 2826,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151044.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110701_151044_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:22Z",
+rating: 0
+},
+{
+id: 2827,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_134300.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_134300_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:22Z",
+rating: 0
+},
+{
+id: 2828,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040903_110148.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040903_110148_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:22Z",
+rating: 0
+},
+{
+id: 2829,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040903_110048.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20040903_110048_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:22Z",
+rating: 0
+},
+{
+id: 2830,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_134045.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20090703_134045_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:22Z",
+rating: 0
+},
+{
+id: 2831,
+url: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152241.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Eclipta prostrata/eclal_20110911_152241_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:28:22Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

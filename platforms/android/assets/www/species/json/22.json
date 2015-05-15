@@ -1,0 +1,3296 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 22,
+title: "<i>Amaranthus spinosus </i>L. ",
+taxonConcept: {
+id: 55,
+name: "Amaranthus spinosus L.",
+canonicalForm: "Amaranthus spinosus",
+italicisedForm: "<i>Amaranthus spinosus </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 29,
+name: "Amaranthaceae",
+canonicalForm: "Amaranthaceae",
+italicisedForm: "<i>Amaranthaceae</i>",
+rank: "Family"
+},
+{
+id: 51,
+name: "Amaranthus",
+canonicalForm: "Amaranthus",
+italicisedForm: "<i>Amaranthus</i>",
+rank: "Genus"
+},
+{
+id: 55,
+name: "Amaranthus spinosus L.",
+canonicalForm: "Amaranthus spinosus",
+italicisedForm: "<i>Amaranthus spinosus </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 461,
+name: "Amaranthus spinosus var. basiscissus Thell.",
+canonicalForm: "Amaranthus spinosus basiscissus",
+italicisedForm: "<i>Amaranthus spinosus </i>var.<i> basiscissus </i>Thell. ",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 462,
+name: "Amaranthus spinosus var. circumscissus Thell.",
+canonicalForm: "Amaranthus spinosus circumscissus",
+italicisedForm: "<i>Amaranthus spinosus </i>var.<i> circumscissus </i>Thell. ",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 463,
+name: "Amaranthus spinosus var. indehiscens Thell.",
+canonicalForm: "Amaranthus spinosus indehiscens",
+italicisedForm: "<i>Amaranthus spinosus </i>var.<i> indehiscens </i>Thell. ",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 464,
+name: "Amaranthus spinosus f. inermis Lauterb. & K.Schum.",
+canonicalForm: "Amaranthus spinosus inermis",
+italicisedForm: "<i>Amaranthus spinosus </i>f.<i> inermis </i>Lauterb.<i> & </i>K.Schum. ",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 465,
+name: "Amaranthus spinosus var. purpurascens Moq.",
+canonicalForm: "Amaranthus spinosus purpurascens",
+italicisedForm: "<i>Amaranthus spinosus </i>var.<i> purpurascens </i>Moq. ",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 466,
+name: "Amaranthus spinosus var. pygmaeus Hassk.",
+canonicalForm: "Amaranthus spinosus pygmaeus",
+italicisedForm: "<i>Amaranthus spinosus </i>var.<i> pygmaeus </i>Hassk. ",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 467,
+name: "Amaranthus spinosus var. rubricaulis Hassk.",
+canonicalForm: "Amaranthus spinosus rubricaulis",
+italicisedForm: "<i>Amaranthus spinosus </i>var.<i> rubricaulis </i>Hassk. ",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 468,
+name: "Amaranthus spinosus var. viridicaulis Hassk.",
+canonicalForm: "Amaranthus spinosus viridicaulis",
+italicisedForm: "<i>Amaranthus spinosus </i>var.<i> viridicaulis </i>Hassk. ",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 469,
+name: "Galliaria spitosa (L.) Nieuwl.",
+canonicalForm: "Galliaria spitosa",
+italicisedForm: "<i>Galliaria spitosa (</i>L.<i>) </i>Nieuwl. ",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 129,
+name: "Jangali chaulai",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 177,
+name: "Hindi"
+}
+},
+{
+id: 130,
+name: "Brède malabar à piquants",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 131,
+name: "Shak natey",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 496,
+name: "Bangla"
+}
+},
+{
+id: 132,
+name: "Brède malabar",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 133,
+name: "Prickly careless weed",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 134,
+name: "Pariétaire piquante",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 135,
+name: "Brède pariétaire à piquants",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 136,
+name: "Marissag",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 496,
+name: "Bangla"
+}
+},
+{
+id: 137,
+name: "Paillatère",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 138,
+name: "Pig weed",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 139,
+name: "Pariétaire piquante",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 140,
+name: "Doringmisbredie",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 141,
+name: "Paillatère",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 142,
+name: "Spiny pigweed",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 143,
+name: "Mohwa-guru",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 394,
+name: "Shona"
+}
+},
+{
+id: 144,
+name: "Thorny amaranth",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 145,
+name: "Thorny pigweed",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 146,
+name: "Needle burr",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 147,
+name: "Brède pariétaire à piquants",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 148,
+name: "Sere pelêlê",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 497,
+name: "Pedi"
+}
+},
+{
+id: 149,
+name: "Brède malabar à piquants",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 150,
+name: "Spring pigweed",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 151,
+name: "Brède malabar",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 152,
+name: "Fatipatika",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 153,
+name: "Brède épineuse",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 154,
+name: "Brède épineuse",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 155,
+name: "Anapatsa",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 156,
+name: "Spiny amaranth",
+taxonConcept: {
+id: 55
+},
+isContributor: false,
+language: {
+id: 491,
+name: "Anglais / English"
+}
+},
+{
+id: 1599,
+name: "Eng: Pig weed",
+taxonConcept: {
+id: 55
+},
+isContributor: false
+},
+{
+id: 1600,
+name: "Bangla: Marissag",
+taxonConcept: {
+id: 55
+},
+isContributor: false
+},
+{
+id: 1601,
+name: "Bangla: Shak natey",
+taxonConcept: {
+id: 55
+},
+isContributor: false
+},
+{
+id: 1602,
+name: "Hindi: Jangali chaulai",
+taxonConcept: {
+id: 55
+},
+isContributor: false
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T16:58:45Z",
+lastRevised: "2015-05-07T08:07:37Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>AMASP</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>AMASP</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 227,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>AMASP</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028644,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 229,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Leaf</h6><p>Arranged alternate, entire and simple, ovate or broadly-lanceolate to rhomboid, 6-8 cm long and 2-4 cm wide, tapering into slender petioles about 7 cm long, beneath which are the spines. Stipules absent.</p><h6>Flower</h6><p>Solitary in the axil bract, subtended by 2 bracteoles, with scarious bracts and bracteoles, mucronate from a broad base, shorter or as the periath unisexual. The male flowers are usually arranged in a terminal spike above the base of the inflorescent and it is green. There 5 petals or often 3 in male flowers, free, subequal, ovate-oblong to oblong-spatulate, measure up to 2.5 mm long, very convex, membranous, with transparent margins and green or purple median band. There are 5 stamens and they are about as long as tepals. The ovary is superior, oblong, 1-celled, with 2-3 styles and ultimately recurved</p><h6>Fruit</h6><p>A one seed-seeded capsule.</p><h6>Seed</h6><p>The seed is about 1 mm in diameter, shiny black or brownish-black with thin margin.</p><h6>Global Description</h6><p>An erect, prickly annual herb.</p><h6>Inflorescence</h6><p>Consist of dense clusters. The lower ones are axillary while the higher ones are often collected in axillary and terminal spike which is often branched in its lower part.</p><h6>Stem</h6><p>Fleshy, round and hairless, greenish but sometimes reddish and always with rigid, sharp pointed spines about 10 mm long.</p>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028645,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 230,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Amaranthus spinosus L.",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028645,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 234,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Annual plant reproducing by seeds.<br>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028649,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 228,
+field: {
+concept: "Natural History",
+category: "Ecology",
+description: "Relations that living organisms have with respect to each other and their natural environment. Variables of interest to ecologists include the composition, distribution, amount (biomass), number, and changing states of organisms within and among ecosystems.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "The plant prefers light (sandy), medium (loamy) and heavy (clay) soils and requires well-drained soil. The plant prefers acid, neutral and basic (alkaline) soils.It cannot grow in the shade. It requires moist soil.<br>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028645,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 231,
+field: {
+concept: "Habitat and Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Enumerates geographic entities where the taxon lives. Covers ranges, e.g., a global range, or a narrower one; may be biogeographical, political or other (e.g., managed areas like conservencies); endemism; native or exotic. Does not include altitudinal distribution, which is covered under Habitat.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>World Distribution</h6><p>A pantropical weed, widespread in West Africa</p><h6>Origin</h6><p>Native to the tropical Americas.</p>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028646,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 225,
+field: {
+concept: "Demography and Conservation",
+category: "Population Biology",
+description: "Includes abundance information (population size, density) and demographics (e.g. age stratification).",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Local Weediness</h6><p>Tanzania: Frequent but not abundant.</p>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028641,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 232,
+field: {
+concept: "Uses and Management",
+category: "Management",
+description: "Describes techniques and goals used in management of species - breeding and cultivation, control etc. May include management relative to a piece of legislation, e.g., a CITES list.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Control</h6><p>Management options: http://www.afroweeds.org/network/pg/file/read/1902/general-guidelines-for-weed-management-in-lowland-rice</p>",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2014-09-24T17:00:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028646,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 233,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2015-02-19T19:40:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Akobundu I. O. &. Agyakwa C.W: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 148p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028646,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 236,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2015-03-31T08:29:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Akobundu I. O. &. Agyakwa C.W: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 148p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028652,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 235,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2015-03-31T08:29:16Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Akobundu I. O. &. Agyakwa C.W: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 148p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028650,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 226,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T17:00:28Z",
+lastUpdated: "2015-03-25T22:41:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+},
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+},
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+},
+{
+title: "Akobundu I. O. &. Agyakwa C.W: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 148p."
+},
+{
+title: "Akobundu I. O. &. Agyakwa C.W: A handbook of West African Weeds. International Institute of Tropical Agriculture, Ibadan, Nigeria (1998), 148p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578028642,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2808,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Amaranthus spinosus est une plante dressée portant des feuilles alternes, simples, longuement pétiolées et pourvues à leur base d'une paire de fortes épines. Le sommet du limbe est émarginé et pourvu d'un mucron. La tige et la face inférieure des feuilles sont souvent teintées de pourpre. Les fleurs sont réduites, de couleur verte et assemblées en glomérules à l'aisselle des feuilles et en épis terminaux. Le fruit est une capsule déhiscente contenant une seule graine lenticulaire.</p>",
+dateCreated: "2015-03-19T11:04:39Z",
+lastUpdated: "2015-03-19T11:04:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763079799,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2777,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>AMASP</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:04:35Z",
+lastUpdated: "2015-03-19T11:04:35Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763075998,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2799,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Amaranthus spinosus est une plante dressée portant des feuilles alternes, simples, longuement pétiolées et pourvues à leur base d'une paire de fortes épines. Le sommet du limbe est émarginé et pourvu d'un mucron. La tige et la face inférieure des feuilles sont souvent teintées de pourpre. Les fleurs sont réduites, de couleur verte et assemblées en glomérules à l'aisselle des feuilles et en épis terminaux. Le fruit est une capsule déhiscente contenant une seule graine lenticulaire.</p><h6>Cotylédons</h6><p>Les cotylédons sont linéaires à lancéolés. Ils sont pétiolés et mesurent 10 mm de long et 2 mm de large. La face inférieure des cotylédons est généralement rouge pourpre.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont alternes et simples. Elles sont longuement pétiolées. Le limbe est obovale pour les 2 ou 3 premières feuilles ; il devient elliptique pour les suivantes, puis ovale pour les feuilles adultes. Le sommet est profondément émarginé avec un fort mucron constitué par l'extrémité de la nervure centrale. A partir de la deuxième ou de la troisième feuille apparaissent deux épines à la base du pétiole. La face inférieure des feuilles est généralement rouge pourpre, au moins à la base.</p><h6>Port</h6><p>Le port est dressé. La plante est en général abondamment ramifiée. Elle peut atteindre 0,4 à 1 m de haut.</p><h6>Système Souterrain</h6><p>La racine est constituée par un ou plusieurs forts pivots ramifiés.</p><h6>Tige</h6><p>La tige est cylindrique et glabre. Elle peut être verte ou rouge.</p><h6>Feuille</h6><p>Les feuilles sont simples et alternes. Elles sont portées par un pétiole étroit, long de 4 à 7 cm. Ce pétiole est encadré à la base par une paire de fortes épines de 1 à 2 cm de long. Le limbe est ovale, il mesure 5 à 10 cm de long et 2 à 5 cm de large. La base du limbe est en coin ; le sommet est profondément émarginé et porte un mucron parfois épineux. La marge est entière. Huit à 10 nervures latérales sont bien visibles ; elles sont légèrement arquées. Les deux faces sont glabres et portent de petites taches translucides très nombreuses. La face supérieure est verte mais la face inférieure est souvent teintée de pourpre.</p><h6>Inflorescence</h6><p>Les fleurs sont assemblées en glomérules sessiles. Ces glomérules sont situés à l'aisselle des feuilles puis regroupés en épis denses à l'extrémité des rameaux.</p><h6>Fleur</h6><p>Les fleurs sont très petites et vertes. Elles n'ont pas de pétales mais possèdent 5 sépales scarieux de 1 à 2 mm de long, lancéolés, et terminés par une courte pointe. Les fleurs sont unisexuées. Les fleurs femelles se trouvent à la base des épis, les fleurs mâles au sommet. Les fleurs mâles possèdent 5 étamines.</p><h6>Fruit</h6><p>Les fruits sont des capsules ovoïdes, déhiscentes. Celles-ci mesurent 2 mm de haut et 1 mm de large. Elles sont légèrement étranglées à mi-hauteur, au niveau de la ligne de déhiscence. Le sommet se termine par 2 ou 3 pointes, correspondant aux stigmates de l'ovaire. Chaque capsule contient une seule graine.</p><h6>Graine</h6><p>La graine est lenticulaire, et mesure 0,8 mm de diamètre. Elle est lisse et brillante, de couleur brun rouge.</p>",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-19T11:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077676,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2801,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Amaranthus spinosus L.",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-19T11:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077908,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2800,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : A. spinosus est présente tout au long de la saison des pluies et du cycle cultural. En période de jours longs (juin à août), la durée du cycle de développement, depuis la levée jusqu'à la production de graines, est de deux mois. Les plantes sont alors très développées. En revanche, en fin de saison des pluies lorsque les jours raccourcissent, la durée de ce cycle peut être réduite à trois semaines. La floraison se produit alors chez des plantes peu développées.<br>",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-19T11:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077793,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2805,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "A. spinosus est une espèce annuelle. Elle se reproduit uniquement par graines. La production de graines peut être très importante ; certains écotypes sont connus pour produire jusqu'à 235 000 graines par plant. Celles-ci ont une longue viabilité. Elles sont disséminées par l'eau et le vent. Leur niveau de dormance est très variable.<br>",
+dateCreated: "2015-03-19T11:04:38Z",
+lastUpdated: "2015-03-19T11:04:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763078773,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2804,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "A. spinosus est une esp&egrave;ce tropicale est tr&egrave;s r&eacute;pandue. Elle recherche les endroits a&eacute;r&eacute;s et appr&eacute;cie les sols profonds de bonne qualit&eacute; et riches en azote.<br /> <strong>Nord-Cameroun</strong> : A. spinosus est une esp&egrave;ce rud&eacute;rale qui se d&eacute;veloppe sur les bords de chemin, &agrave; proximit&eacute; des villages, et plus particuli&egrave;rement en bordure des zones de parcage du b&eacute;tail ou sur les zones de rejet des d&eacute;chets m&eacute;nagers. C&#39;est &eacute;galement une adventice des cultures. Elle est tr&egrave;s nitrophile et son d&eacute;veloppement est d&#39;autant plus important que le sol est riche en mati&egrave;re organique et en azote. Elle est tr&egrave;s fr&eacute;quente dans les champs de case situ&eacute;s autour des villages et recevant les d&eacute;chets m&eacute;nagers.<br /> <strong>Madagascar </strong>: Esp&egrave;ce rud&eacute;rale tr&egrave;s commune autour des villages, dans les cultures de case.<br /> <strong>Maurice</strong> : Esp&egrave;ce commune des terrains vagues et de bord de routes.<br /> <strong>La R&eacute;union :</strong> Esp&egrave;ce pr&eacute;sente essentiellement sur le littoral ou en altitude moyenne dans les lieux abandonn&eacute;s, les cultures ouvertes et le bord des chemins.<br /> <strong>Seychelles</strong> : absente.<br /> ",
+dateCreated: "2015-03-19T11:04:38Z",
+lastUpdated: "2015-05-07T08:08:29Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763078637,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2803,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>A. spinosus est originaire d'Amérique centrale.</p><h6>Distribution Mondiale</h6><p>A. spinosus est maintenant largement répandue dans toutes les régions tropicales du monde comprises entre 30 degrés de latitude sud et 30 degrés de latitude nord.</p>",
+dateCreated: "2015-03-19T11:04:38Z",
+lastUpdated: "2015-03-19T11:04:38Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763078521,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2806,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>B&eacute;nin</strong> : A. spinosus est rare mais abondante quand elle est pr&eacute;sente.<br /> <strong>Nord-Cameroun : </strong>En parcelle cultiv&eacute;e, A. spinosus est tr&egrave;s peu fr&eacute;quente (4 %) en r&eacute;gions soudano-sah&eacute;lienne. En revanche, en r&eacute;gion soudanienne o&ugrave; la pluviom&eacute;trie annuelle est sup&eacute;rieure &agrave; 1200 mm, elle est pr&eacute;sente dans 15 % des parcelles. Elle pr&eacute;f&egrave;re les sols limoneux drainant bien car un exc&egrave;s d&#39;eau ralentit sa croissance. Au Nord-Cameroun, &agrave; l&#39;exception des champs de case &agrave; forte fumure organique, cette esp&egrave;ce n&#39;est jamais abondante. Elle est m&ecirc;me parfois maintenue dans les parcelles, car ses feuilles sont tr&egrave;s utilis&eacute;es dans l&#39;alimentation humaine.<br /> <strong>Madagascar :</strong> A. spinosus est une mauvaise herbe relativement peu fr&eacute;quente (peut-&ecirc;tre en raison de la d&eacute;gradation de la fertilit&eacute; des sols cultiv&eacute;s) et peu abondante mais parfois g&ecirc;nante pour les cultures mara&icirc;ch&egrave;res.<br /> <strong>Maurice </strong>: Adventice pr&eacute;sente de fa&ccedil;on occasionnelle dans les champs de canne &agrave; sucre avec une nuisibilit&eacute; tr&egrave;s faible.<br /> <strong>La R&eacute;union </strong>: Adventice tr&egrave;s peu fr&eacute;quente &agrave; La R&eacute;union, nous ne l&rsquo;avons rencontr&eacute;e que dans 2 parcelles de canne &agrave; sucre, mais son recouvrement peut &ecirc;tre tr&egrave;s important, de l&#39;ordre de 85 % dans des sols tr&egrave;s riches.<br /> <strong>Seychelles</strong> : absente.<br /> </p> ",
+dateCreated: "2015-03-19T11:04:38Z",
+lastUpdated: "2015-05-07T08:09:28Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763078890,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2798,
+field: {
+concept: "Démographie et Conservation",
+category: "Menaces",
+description: "Les menaces que subit le taxon",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "A. spinosus est un hôte alternatif pour le nématode Meloidogyne incognita (Kofoid & White) Chitwood et pour la virose de la mosaïque du tabac et de la rosette de l'arachide.<br>",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-19T11:04:37Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077495,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2809,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Usages</h6> <p> <strong>Alimentation : </strong>Au Nord-Cameroun A. spinosus est parfois maintenue dans les parcelles, car ses feuilles sont tr&egrave;s utilis&eacute;es dans l&#39;alimentation humaine.</p> ",
+dateCreated: "2015-03-19T11:04:39Z",
+lastUpdated: "2015-05-07T08:10:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763079919,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2807,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Globale</h6> <p> Conseils de gestion des adventices annuelles &agrave; feuilles larges en riz irrigu&eacute; : http://portal.wikwio.org/document/show/19</p> <h6> Lutte Locale</h6> <p> <strong>Madagascar :</strong> Les amaranthes sont difficiles &agrave; arracher du fait de leur racine pivotante tr&egrave;s puissante. Chimiquement, elles sont tr&egrave;s facilement contr&ocirc;l&eacute;es par les herbicides de pr&eacute;-lev&eacute;e (alachlore, atrazine, oxadiazon ou pendimethaline) ou de post-lev&eacute;e (2,4-D ou glyphosate, &agrave; tous les stades). Elles sont bien contr&ocirc;l&eacute;es par une couverture v&eacute;g&eacute;tale.</p> ",
+dateCreated: "2015-03-19T11:04:39Z",
+lastUpdated: "2015-05-07T08:10:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763079034,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2794,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=122210"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077369,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2793,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://idao.cirad.fr/SpecieSheet?sheet=adventoi/especes/a/amasp/amasp_fr.html"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077369,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2792,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077367,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2791,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Grard, P., T. Le Bourgeois, J. Rodenburg, P. Marnotte, A. Carrara, R. Irakiza, D. Makokha, G. kyalo, K. Aloys, K. Iswaria, N. Nguyen and G. Tzelepoglou (2012). AFROweeds V.1.0: African weeds of rice. Cédérom. Montpellier, France & Cotonou, Bénin, Cirad-AfricaRice eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077366,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2790,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cédérom. Montpellier, France, Cirad ed."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077366,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2789,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077366,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2797,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://keys.trin.org.au/key-server/data/0e0f0504-0103-430d-8004-060d07080d04/media/Html/taxon/Amaranthus_spinosus.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077370,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2787,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois Th., 1993. Les mauvaises herbes dans la rotation cotonnière au Nord-Cameroun (Afrique) - Amplitude d'habitat et degré d'infestation - Cycle de développement. Thèse USTL Montpellier II, Montpellier, France, 241 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077366,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2786,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Koch W., 1981. Mauvaises herbes des cultures tropicales. In Kranz J., Schmutterer H. & Koch W. : Maladies, ravageurs et mauvaises herbes des cultures tropicales. Verlag Paul Parey, Berlin, Hambourg : 587-665."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077365,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2785,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., Moody K. & Egunjobi J. K., 1978. West African Weeds. Oxford University Press, Ibadan, Nigeria, 255 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077365,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2784,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., 1989. East African Weeds and Their Control. Oxford University Press, Nairobi, Kenya, 289p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077365,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2783,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hutchinson J., Dalziel J. M., Keay R. W. J. & Hepper F. N., 1954. Flora of West Tropical Africa. Vol. I part. 1. 2ème éd. The Whitefriars Press ed., London & Tonbridge, 295 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077365,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2782,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Holm L. G., Plucknett D. L., Pancho J. V. & Herberger J. P., 1977. The World's Worst Weeds : Distribution and Biologie. East-West Center, University Press of Hawaii, Honolulu, 609 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077365,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2781,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Cavaco A., 1974. Flore du Cameroun. 17 - Amaranthacées. Muséum National d'Histoire Naturelle éd., Paris, France, 65 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077364,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2780,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1971. Flore illustrée du Sénégal. Tome 1. Clairafrique éd., Dakar, Sénégal, 626 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077364,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2779,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077364,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2778,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I.O. & Agyakwa C.W., 1989. Guide des adventices d'Afrique de l'Ouest. Institut international d'agriculture tropicale. Ibadan, Nigeria, 521 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077363,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2788,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Merlier H. & Montégut J., 1982. Adventices tropicales. ORSTOM-GERDAT-ENSH éd., Montpellier, France, 490 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077366,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2796,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.hear.org/pier/species/amaranthus_spinosus.htm"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077370,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 2795,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:04:37Z",
+lastUpdated: "2015-03-31T06:52:48Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.sntc.org.sz/alienplants/speciesinfo.asp?spid=34"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763077370,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 409,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:53Z",
+rating: 0
+},
+{
+id: 410,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20110207_151716.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20110207_151716_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:53Z",
+rating: 0
+},
+{
+id: 411,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:53Z",
+rating: 0
+},
+{
+id: 412,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20090127_155223.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20090127_155223_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:53Z",
+rating: 0
+},
+{
+id: 413,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20090203_175051.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20090203_175051_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:53Z",
+rating: 0
+},
+{
+id: 414,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20090127_154721.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20090127_154721_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:53Z",
+rating: 0
+},
+{
+id: 415,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20101202_102728.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20101202_102728_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:53Z",
+rating: 0
+},
+{
+id: 416,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:53Z",
+rating: 0
+},
+{
+id: 417,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20090127_154553.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20090127_154553_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:53Z",
+rating: 0
+},
+{
+id: 418,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:54Z",
+rating: 0
+},
+{
+id: 419,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20090127_154841.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20090127_154841_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:54Z",
+rating: 0
+},
+{
+id: 420,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20020724_140334.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20020724_140334_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:54Z",
+rating: 0
+},
+{
+id: 421,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20090127_155314.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20090127_155314_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:54Z",
+rating: 0
+},
+{
+id: 422,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:54Z",
+rating: 0
+},
+{
+id: 423,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20101202_104120.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20101202_104120_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:54Z",
+rating: 0
+},
+{
+id: 424,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20110707_092113.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20110707_092113_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:54Z",
+rating: 0
+},
+{
+id: 425,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20100803_114750.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20100803_114750_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:54Z",
+rating: 0
+},
+{
+id: 426,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:54Z",
+rating: 0
+},
+{
+id: 427,
+url: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Amaranthus spinosus/amasp_20080609_101236_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T16:58:54Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

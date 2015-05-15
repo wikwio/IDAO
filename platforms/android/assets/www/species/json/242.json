@@ -1,0 +1,1158 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 242,
+title: "<i>Paspalum urvillei </i>Steud. ",
+taxonConcept: {
+id: 461,
+name: "Paspalum urvillei Steud.",
+canonicalForm: "Paspalum urvillei",
+italicisedForm: "<i>Paspalum urvillei </i>Steud. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 8,
+name: "Liliopsida",
+canonicalForm: "Liliopsida",
+italicisedForm: "<i>Liliopsida</i>",
+rank: "Class"
+},
+{
+id: 66,
+name: "Poaceae",
+canonicalForm: "Poaceae",
+italicisedForm: "<i>Poaceae</i>",
+rank: "Family"
+},
+{
+id: 456,
+name: "Paspalum",
+canonicalForm: "Paspalum",
+italicisedForm: "<i>Paspalum</i>",
+rank: "Genus"
+},
+{
+id: 461,
+name: "Paspalum urvillei Steud.",
+canonicalForm: "Paspalum urvillei",
+italicisedForm: "<i>Paspalum urvillei </i>Steud. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 5167,
+name: "Paspalum dilatatum var. parviflorum Döll",
+canonicalForm: "Paspalum dilatatum parviflorum",
+italicisedForm: "<i>Paspalum dilatatum </i>var.<i> parviflorum </i>Döll ",
+taxonConcept: {
+id: 461
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5168,
+name: "Paspalum griseum Hack. ex Loefgr.",
+canonicalForm: "Paspalum griseum",
+italicisedForm: "<i>Paspalum griseum </i>Hack.<i> ex </i>Loefgr. ",
+taxonConcept: {
+id: 461
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5169,
+name: "Paspalum larranagae Arechav.",
+canonicalForm: "Paspalum larranagae",
+italicisedForm: "<i>Paspalum larranagae </i>Arechav. ",
+taxonConcept: {
+id: 461
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5170,
+name: "Paspalum ovatum var. parviflorum Nees",
+canonicalForm: "Paspalum ovatum parviflorum",
+italicisedForm: "<i>Paspalum ovatum </i>var.<i> parviflorum </i>Nees ",
+taxonConcept: {
+id: 461
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5171,
+name: "Paspalum vaseyanum Scribn.",
+canonicalForm: "Paspalum vaseyanum",
+italicisedForm: "<i>Paspalum vaseyanum </i>Scribn. ",
+taxonConcept: {
+id: 461
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5172,
+name: "Paspalum velutinum Trin. ex Nees [Invalid]",
+canonicalForm: "Paspalum velutinum",
+italicisedForm: "<i>Paspalum velutinum </i>Trin.<i> ex </i>Nees<i> [Invalid]</i>",
+taxonConcept: {
+id: 461
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5173,
+name: "Paspalum virgatum var. parviflorum Döll",
+canonicalForm: "Paspalum virgatum parviflorum",
+italicisedForm: "<i>Paspalum virgatum </i>var.<i> parviflorum </i>Döll ",
+taxonConcept: {
+id: 461
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 5174,
+name: "Paspalum virgatum var. pubiflorum Vasey",
+canonicalForm: "Paspalum virgatum pubiflorum",
+italicisedForm: "<i>Paspalum virgatum </i>var.<i> pubiflorum </i>Vasey ",
+taxonConcept: {
+id: 461
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1177,
+name: "Gros chiendent",
+taxonConcept: {
+id: 461
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1176,
+name: "Herbe cheval",
+taxonConcept: {
+id: 461
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1174,
+name: "Herbe cheval",
+taxonConcept: {
+id: 461
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 1178,
+name: "Herbe codaya",
+taxonConcept: {
+id: 461
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 1175,
+name: "Vasey grass",
+taxonConcept: {
+id: 461
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:11:08Z",
+lastRevised: "2015-04-28T13:41:11Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20080609_101252_05_th1.jpg",
+notes: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>PASUR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>PASUR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1767,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>grass</p><h6>Code</h6><p>PASUR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:15:06Z",
+lastUpdated: "2014-09-24T18:15:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582506739,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1769,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>First Leaves</h6><p>Prefoliation is coiled (convolute). The first sheaths are generally of a purple color and very hairy. The ligule is membranous, acute and translucent. The leaf blade is linear lanceolate with a prominent midrib on the underside.</p><h6>Leaf</h6><p>Leaves are alternate, simple. The base of the plant with numerous leaves. Lower sheaths are generally purple colored and covered with white hairs, while the sheaths of the top, are green and little hairy. Membranous ligule 8 mm in height is accompanied by a ring of hairs long and rigid. The blade is linear lanceolate, the apex acute, 80 cm long and 2 cm wide. It is glabrous on the underside. The midrib channeled on the upper surface and protruding on the lower surface. The lamina is green or with purple marks.</p><h6>General Habit</h6><p>Upright grass. It is a plant from 90 to 250 cm in height that forms dense clumps, rhizomatous.</p><h6>Underground System</h6><p>Roots fasciculate and fibrous with short rhizomes. It can go to 30 cm deep.</p><h6>Flower</h6><p>The spikelets are shortly stalked and are arranged in pairs on four lines along the rachis. They are oval or lanceolate with acuminate apex. They are 2.7 mm long and 1.2 to 1.5 mm wide and the bristles are about 1 mm long. The lower glume is absent. The upper glume, covered with white hair, is oval and apiculate, with three ribs. The bottom flower is sterile and lemma is similar to the upper glume. The top flower is fertile, the lemma is oval, obtuse, glabrous, 2 mm long.</p><h6>Fruit</h6><p>Caryopsis oval, 1.8 to 2 mm long. The tegument is smooth and shiny.</p><h6>Global Description</h6><p>P. urvillei is a perennial grass that grows in large clumps, rhizomatous, 60 to 250 cm high. Culm is erect and not hairy, little branched. The leaves are linear, 15 to 50 cm long. Only the base of the plant carries bristles. The ligule is membranous and fringed. Inflorescence formed by 10-20 upright spike like racemes, 5 to 12 cm long. The subsessile spikelets fit by pairs in 4 series on the underside of the rachis of the raceme. The spikelet is oval with acute apex, long hairy, 1.2 to 1.5 mm long .</p><h6>Inflorescence</h6><p>Inflorescence an erect panicle 14-45 cm long consisting of 6-25 racemes irregularly distributed at the top of the stem and raised vertically or obliquely. Lower racemes can measure 14 cm while the upper are shorter. The rachis is trigonous with finely scabrous edges.</p><h6>Stem</h6><p>Culm cylindrical or slightly compressed 5 mm thick, almond green. It is glabrous, usually simple or sometimes branched. The nodes are dark and hispid, with short white hairs.</p>",
+dateCreated: "2014-09-24T18:15:06Z",
+lastUpdated: "2014-09-24T18:15:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582506740,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1771,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Paspalum urvillei Steud.",
+dateCreated: "2014-09-24T18:15:06Z",
+lastUpdated: "2014-09-24T18:15:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582506742,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1768,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "P. urvillei is a perennial plant that reproduces by seeds or by division of rhizomes.<br>",
+dateCreated: "2014-09-24T18:15:06Z",
+lastUpdated: "2014-09-24T18:15:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582506740,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1770,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:15:06Z",
+lastUpdated: "2015-02-24T12:23:26Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois T, Carrara A, Dodet M, Dogley W, Gaungoo A, Grard P, Ibrahim Y, Jeuffrault E, Lebreton G, Poilecot P, Prosperi J, Randriamampianina JA, Andrianaivo AP, Théveny F (2008) Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. V.1.0, Cirad, Montpellier, France,"
+},
+{
+title: "Le Bourgeois T, Carrara A, Dodet M, Dogley W, Gaungoo A, Grard P, Ibrahim Y, Jeuffrault E, Lebreton G, Poilecot P, Prosperi J, Randriamampianina JA, Andrianaivo AP, Théveny F (2008) Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. V.1.0, Cirad, Montpellier, France,"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411582506740,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5332,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Paspalum urvillei est une Graminée vivace qui se développe en grosses touffes rhizomateuses, hautes de 60 à 250 cm. Le chaume est dressé et non poilu, peu ramifié. Les feuilles sont linéaires de 15 à 50 cm de long. Seule la base de la plante porte des poils. La ligule est membraneuse et frangée. Inflorescence formée de 10 à 20 épis dressés, longs de 5 à 12 cm. Les épillets subsessiles s'insèrent par paires en 4 séries à la face inférieure de l'épi. L'épillet est ovale à sommet aigu, longuement poilu, long de 1,2 à 1,5 mm.</p>",
+dateCreated: "2015-03-19T11:58:04Z",
+lastUpdated: "2015-03-19T11:58:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766284839,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5324,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>PASUR</p><h6>Type Biologique</h6><p>graminée</p><h6>Forme De Vie</h6><p>vivace</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:58:03Z",
+lastUpdated: "2015-03-19T11:58:03Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766283969,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5327,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Paspalum urvillei </em>est une Gramin&eacute;e vivace qui se d&eacute;veloppe en grosses touffes rhizomateuses, hautes de 60 &agrave; 250 cm. Le chaume est dress&eacute; et non poilu, peu ramifi&eacute;. Les feuilles sont lin&eacute;aires de 15 &agrave; 50 cm de long. Seule la base de la plante porte des poils. La ligule est membraneuse et frang&eacute;e. Inflorescence form&eacute;e de 10 &agrave; 20 &eacute;pis dress&eacute;s, longs de 5 &agrave; 12 cm. Les &eacute;pillets subsessiles s&#39;ins&egrave;rent par paires en 4 s&eacute;ries &agrave; la face inf&eacute;rieure de l&#39;&eacute;pi. L&#39;&eacute;pillet est ovale &agrave; sommet aigu, longuement poilu, long de 1,2 &agrave; 1,5 mm.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Les premi&egrave;res feuilles ont une pr&eacute;foliaison enroul&eacute;e. Les premi&egrave;res gaines sont g&eacute;n&eacute;ralement d&#39;une couleur pourpre avec une pilosit&eacute; importante. La ligule est membraneuse, aigu&euml; et translucide. Le limbe est lin&eacute;aire lanc&eacute;ol&eacute; avec, sur la face inf&eacute;rieure, une nervure pro&eacute;minente.</p> <h6> Port</h6> <p> Plante formant des touffes denses, rhizomateuses, dress&eacute;es, de 90 &agrave; 250 cm de hauteur.</p> <h6> Syst&egrave;me Souterrain</h6> <p> Racines fascicul&eacute;es et fibreuses avec &eacute;galement des rhizomes courts pouvant descendre jusqu&#39;&agrave; 30 cm de profondeur.</p> <h6> Tige</h6> <p> Chaume cylindrique ou l&eacute;g&egrave;rement comprim&eacute; de 5 mm d&#39;&eacute;paisseur, de couleur vert amande. Il est glabre, g&eacute;n&eacute;ralement simple ou parfois ramifi&eacute;. Les noeuds de couleur sombre sont hispides, &agrave; courts poils blancs.</p> <h6> Feuille</h6> <p> Feuilles alternes, simples. La base de la plante est tr&egrave;s fournie en feuilles. Les gaines inf&eacute;rieures sont g&eacute;n&eacute;ralement de couleur pourpre et couvertes de poils blancs, alors que les gaines, de la partie sup&eacute;rieure, sont vertes et peu pileuses. La ligule membraneuse de 8 mm de hauteur est accompagn&eacute;e d&#39;un anneau de poils p&eacute;riligulaires longs et rigides. Le limbe est lin&eacute;aire lanc&eacute;ol&eacute;, au sommet aigu, de 80 cm de long et 2 cm de large. Il est glabre ou pileux sur la face inf&eacute;rieure. Il porte une cannelure m&eacute;diane sur la face sup&eacute;rieure qui se retrouve pro&eacute;minente sur la face inf&eacute;rieure. Le limbe est de couleur verte ou encore avec des marques de couleur pourpre.</p> <h6> Inflorescence</h6> <p> L&#39;inflorescence est une panicule dress&eacute;e de 14 &agrave; 45 cm de long constitu&eacute;e de 6 &agrave; 25 rac&egrave;mes distribu&eacute;s irr&eacute;guli&egrave;rement au sommet de la tige et dress&eacute;s verticalement ou obliquement. Les rac&egrave;mes inf&eacute;rieurs peuvent mesurer 14 cm alors que les sup&eacute;rieurs sont plus courts. Le rachis est trigone aux bords finement scabres.</p> <h6> Fleur</h6> <p> Les &eacute;pillets sont courtement p&eacute;dicell&eacute;s et sont dispos&eacute;s par paires sur 4 lignes. Ils sont ovales ou lanc&eacute;ol&eacute;s avec un sommet acumin&eacute;. Ils mesurent 2,7 mm de long et 1,2 &agrave; 1,5 mm de large et portent des poils d&rsquo;environ 1 mm de long. La glume inf&eacute;rieure est absente. La glume sup&eacute;rieure, couverte de poils, est ovale et apicul&eacute;e, avec 3 nervures. La fleur inf&eacute;rieure est st&eacute;rile et sa lemma ressemble &agrave; la glume sup&eacute;rieure. La fleur sup&eacute;rieure est fertile, sa lemma est ovale, obtuse, glabre, de 2 mm de long.</p> <h6> Fruit</h6> <p> Grain elliptique ovale de 1,8 &agrave; 2 mm de long. Le t&eacute;gument est lisse et brillant.</p> ",
+dateCreated: "2015-03-19T11:58:04Z",
+lastUpdated: "2015-05-08T09:26:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766284148,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5328,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Paspalum urvillei Steud.",
+dateCreated: "2015-03-19T11:58:04Z",
+lastUpdated: "2015-03-19T11:58:04Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766284222,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5330,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Paspalum urvillei</em> est une plante vivace qui se reproduit par graine ou par fractionnement des rhizomes.<br /> ",
+dateCreated: "2015-03-19T11:58:04Z",
+lastUpdated: "2015-05-08T09:27:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766284373,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6660,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<br /> <table align="left" border="1" cellpadding="1" cellspacing="1" style="width: 500px;"> <caption> <strong>Cl&eacute; d&#39;identification des Paspalum</strong></caption> <thead> <tr> <th scope="col"> ligules</th> <th scope="col"> poils aux noeuds</th> <th scope="col"> esp&egrave;ce</th> </tr> </thead> <tbody> <tr> <td colspan="1" rowspan="2" style="text-align: center;"> petite &lt; 2 mm</td> <td style="text-align: center;"> non</td> <td style="text-align: center;"> Paspalum scrobiculatum</td> </tr> <tr> <td style="text-align: center;"> oui</td> <td style="text-align: center;"> Paspalum paniculatum</td> </tr> <tr> <td colspan="1" rowspan="2" style="text-align: center;"> grande &gt; 2 mm</td> <td style="text-align: center;"> non</td> <td style="text-align: center;"> Paspalum dilatatum</td> </tr> <tr> <td style="text-align: center;"> oui</td> <td style="text-align: center;"> Paspalum urvillei</td> </tr> </tbody> </table> <br /> <p> <br /> <br /> <br /> <br /> <br /> <br /> <br /> </p> <p> </p> ",
+dateCreated: "2015-04-28T13:41:11Z",
+lastUpdated: "2015-04-28T13:41:11Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 36,
+name: "Marnotte Pascal",
+icon: "http://portal.wikwio.org/biodiv/users//097b0e2c-495a-4219-bf9f-5a2f78a0889c/resources/330_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 36,
+name: "Marnotte Pascal",
+icon: "http://portal.wikwio.org/biodiv/users//097b0e2c-495a-4219-bf9f-5a2f78a0889c/resources/330_th1.jpg"
+},
+uploadTime: 1430228471113,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5329,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores </strong>: Absente.<br /> <strong>Madagascar </strong>: <em>Paspalum urvillei</em> est une esp&egrave;ce introduite r&eacute;cemment et cultiv&eacute;e en station comme fourrage.<br /> <strong>Maurice </strong>: Mauvaise herbe tr&egrave;s commune dans la partie haute de l&#39;&icirc;le, elle pousse au bord des routes, dans les terrains abandonn&eacute;s, les jach&egrave;res et les champs cultiv&eacute;s.<br /> <strong>La R&eacute;union</strong> : Cette plante pr&eacute;f&egrave;re les lieux humides et tol&egrave;re assez bien les zones ombrag&eacute;es. Elle se retrouve surtout dans les jach&egrave;res et le long des routes. <em>P. urvillei</em> supporte les situations d&#39;altitude. Elle est surtout pr&eacute;sente dans l&#39;Est ou dans les r&eacute;gions assez humides. Elle est peu r&eacute;pandue au Sud et dans l&#39;Ouest.<br /> <strong>Seychelles</strong> : Absente.<br /> ",
+dateCreated: "2015-03-19T11:58:04Z",
+lastUpdated: "2015-05-08T09:28:21Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766284320,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5331,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores </strong>:<em> P. urvillei</em> est absente.<br /> <strong>Madagascar </strong>: Cette esp&egrave;ce n&#39;est pas pr&eacute;sente dans les cultures.<br /> <strong>Maurice </strong>: Adventice &agrave; forte nuisibilit&eacute; en culture de canne &agrave; sucre. Elle est assez rare dans les autres cultures.<br /> <strong>La R&eacute;union</strong> : C&rsquo;est une mauvaise herbe importante des cultures p&eacute;rennes. Ses rhizomes profonds de 30 &agrave; 40 cm forment un r&eacute;seau souterrain difficile &agrave; couper et &agrave; &eacute;liminer.<br /> <strong>Seychelles </strong>: Absente.</p> ",
+dateCreated: "2015-03-19T11:58:04Z",
+lastUpdated: "2015-05-08T09:27:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766284428,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5326,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:04Z",
+lastUpdated: "2015-03-31T06:53:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "http://www.issg.org/database/species/ecology.asp?si=1263&fr=1&sts=sss&lang=FR"
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766284050,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5325,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:58:04Z",
+lastUpdated: "2015-03-31T06:53:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766284049,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 5122,
+url: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20080609_101252_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20080609_101252_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:11:13Z",
+rating: 0
+},
+{
+id: 5123,
+url: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20080609_101252_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20080609_101252_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:11:13Z",
+rating: 0
+},
+{
+id: 5124,
+url: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20080609_101252_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20080609_101252_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:11:13Z",
+rating: 0
+},
+{
+id: 5125,
+url: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20080609_101252_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20080609_101252_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:11:13Z",
+rating: 0
+},
+{
+id: 5126,
+url: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20080609_101252_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20080609_101252_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:11:13Z",
+rating: 0
+},
+{
+id: 5127,
+url: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20080609_101252.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20080609_101252_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:11:13Z",
+rating: 0
+},
+{
+id: 5128,
+url: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20020730_093206.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Paspalum urvillei/pasur_20020730_093206_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:11:14Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

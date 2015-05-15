@@ -1,0 +1,2102 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 307,
+title: "<i>Sonchus oleraceus </i>L. ",
+taxonConcept: {
+id: 576,
+name: "Sonchus oleraceus L.",
+canonicalForm: "Sonchus oleraceus",
+italicisedForm: "<i>Sonchus oleraceus </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 24,
+name: "Asteraceae",
+canonicalForm: "Asteraceae",
+italicisedForm: "<i>Asteraceae</i>",
+rank: "Family"
+},
+{
+id: 574,
+name: "Sonchus",
+canonicalForm: "Sonchus",
+italicisedForm: "<i>Sonchus</i>",
+rank: "Genus"
+},
+{
+id: 576,
+name: "Sonchus oleraceus L.",
+canonicalForm: "Sonchus oleraceus",
+italicisedForm: "<i>Sonchus oleraceus </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 6252,
+name: "Sonchus angustissimus Hook.f.",
+canonicalForm: "Sonchus angustissimus",
+italicisedForm: "<i>Sonchus angustissimus </i>Hook.f. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6253,
+name: "Sonchus asper P. Gaertn. & al. [Illegitimate]",
+canonicalForm: "Sonchus asper",
+italicisedForm: "<i>Sonchus asper </i>P. Gaertn.<i> & </i>al.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6254,
+name: "Sonchus australis Hort. ex Trev.",
+canonicalForm: "Sonchus australis",
+italicisedForm: "<i>Sonchus australis </i>Hort.<i> ex </i>Trev. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6255,
+name: "Sonchus ciliatus Lam.",
+canonicalForm: "Sonchus ciliatus",
+italicisedForm: "<i>Sonchus ciliatus </i>Lam. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6256,
+name: "Sonchus fabrae Sennen",
+canonicalForm: "Sonchus fabrae",
+italicisedForm: "<i>Sonchus fabrae </i>Sennen ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6257,
+name: "Sonchus glaber Gilib. [Invalid]",
+canonicalForm: "Sonchus glaber",
+italicisedForm: "<i>Sonchus glaber </i>Gilib.<i> [Invalid]</i>",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6258,
+name: "Sonchus gracilis Phil.",
+canonicalForm: "Sonchus gracilis",
+italicisedForm: "<i>Sonchus gracilis </i>Phil. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6259,
+name: "Sonchus lacerus Willd.",
+canonicalForm: "Sonchus lacerus",
+italicisedForm: "<i>Sonchus lacerus </i>Willd. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6260,
+name: "Sonchus laevis Vill.",
+canonicalForm: "Sonchus laevis",
+italicisedForm: "<i>Sonchus laevis </i>Vill. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6261,
+name: "Sonchus longifolius Trevir.",
+canonicalForm: "Sonchus longifolius",
+italicisedForm: "<i>Sonchus longifolius </i>Trevir. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6262,
+name: "Sonchus macrotus Fenzl [Invalid]",
+canonicalForm: "Sonchus macrotus",
+italicisedForm: "<i>Sonchus macrotus </i>Fenzl<i> [Invalid]</i>",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6263,
+name: "Sonchus oleraceus subsp. angustissimus H.Lindb.",
+canonicalForm: "Sonchus oleraceus angustissimus",
+italicisedForm: "<i>Sonchus oleraceus </i>subsp.<i> angustissimus </i>H.Lindb. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6264,
+name: "Sonchus oleraceus var. integrifolius Wallr.",
+canonicalForm: "Sonchus oleraceus integrifolius",
+italicisedForm: "<i>Sonchus oleraceus </i>var.<i> integrifolius </i>Wallr. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6265,
+name: "Sonchus oleraceus var. lacerus Wallr.",
+canonicalForm: "Sonchus oleraceus lacerus",
+italicisedForm: "<i>Sonchus oleraceus </i>var.<i> lacerus </i>Wallr. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6266,
+name: "Sonchus oleraceus var. oleraceus",
+canonicalForm: "Sonchus oleraceus oleraceus",
+italicisedForm: "<i>Sonchus oleraceus </i>var.<i> oleraceus</i>",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6267,
+name: "Sonchus oleraceus var. triangularis Wallr.",
+canonicalForm: "Sonchus oleraceus triangularis",
+italicisedForm: "<i>Sonchus oleraceus </i>var.<i> triangularis </i>Wallr. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6268,
+name: "Sonchus pallescens Panc.",
+canonicalForm: "Sonchus pallescens",
+italicisedForm: "<i>Sonchus pallescens </i>Panc. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6269,
+name: "Sonchus parviflorus Lej. ex Rchb.",
+canonicalForm: "Sonchus parviflorus",
+italicisedForm: "<i>Sonchus parviflorus </i>Lej.<i> ex </i>Rchb. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6270,
+name: "Sonchus reversus E.Mey. ex DC.",
+canonicalForm: "Sonchus reversus",
+italicisedForm: "<i>Sonchus reversus </i>E.Mey.<i> ex </i>DC. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6271,
+name: "Sonchus rivularis Phil.",
+canonicalForm: "Sonchus rivularis",
+italicisedForm: "<i>Sonchus rivularis </i>Phil. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6272,
+name: "Sonchus roseus Besser ex Spreng.",
+canonicalForm: "Sonchus roseus",
+italicisedForm: "<i>Sonchus roseus </i>Besser<i> ex </i>Spreng. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6273,
+name: "Sonchus royleanus DC.",
+canonicalForm: "Sonchus royleanus",
+italicisedForm: "<i>Sonchus royleanus </i>DC. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6274,
+name: "Sonchus runcinatus (Fiori) Zenari [Illegitimate]",
+canonicalForm: "Sonchus runcinatus",
+italicisedForm: "<i>Sonchus runcinatus (</i>Fiori<i>) </i>Zenari<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6275,
+name: "Sonchus schimperi A.Braun & Bouché",
+canonicalForm: "Sonchus schimperi",
+italicisedForm: "<i>Sonchus schimperi </i>A.Braun<i> & </i>Bouché ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6276,
+name: "Sonchus schmidianus K.Koch",
+canonicalForm: "Sonchus schmidianus",
+italicisedForm: "<i>Sonchus schmidianus </i>K.Koch ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6277,
+name: "Sonchus spinulifoius Sennen",
+canonicalForm: "Sonchus spinulifoius",
+italicisedForm: "<i>Sonchus spinulifoius </i>Sennen ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6278,
+name: "Sonchus subbipinnatifidus (Guss.) Zenari",
+canonicalForm: "Sonchus subbipinnatifidus",
+italicisedForm: "<i>Sonchus subbipinnatifidus (</i>Guss.<i>) </i>Zenari ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6279,
+name: "Sonchus sundaicus Blume",
+canonicalForm: "Sonchus sundaicus",
+italicisedForm: "<i>Sonchus sundaicus </i>Blume ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6280,
+name: "Sonchus tenerrimus Schur [Illegitimate]",
+canonicalForm: "Sonchus tenerrimus",
+italicisedForm: "<i>Sonchus tenerrimus </i>Schur<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6281,
+name: "Sonchus umbellifer Thunb.",
+canonicalForm: "Sonchus umbellifer",
+italicisedForm: "<i>Sonchus umbellifer </i>Thunb. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 6282,
+name: "Sonchus zacinthoides DC.",
+canonicalForm: "Sonchus zacinthoides",
+italicisedForm: "<i>Sonchus zacinthoides </i>DC. ",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 1424,
+name: "Inwabe",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 471,
+name: "Xhosa"
+}
+},
+{
+id: 1425,
+name: "Beroberoka",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 1426,
+name: "Lesese",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 497,
+name: "Pedi"
+}
+},
+{
+id: 1427,
+name: "IHlaba",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 471,
+name: "Xhosa"
+}
+},
+{
+id: 1428,
+name: "Shashe",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 458,
+name: "Venda"
+}
+},
+{
+id: 1429,
+name: "Brède doux",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1430,
+name: "Lastron",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1431,
+name: "Lastron doux",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1432,
+name: "Lastron doux",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 1433,
+name: "Sydissel",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 1434,
+name: "Ingabe",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 500,
+name: "Siswati"
+}
+},
+{
+id: 1435,
+name: "Lastron tendre",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 1436,
+name: "Lesabe",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 492,
+name: "Sotho"
+}
+},
+{
+id: 1437,
+name: "Tuindissel",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 9,
+name: "Afrikaans"
+}
+},
+{
+id: 1438,
+name: "Lastron",
+taxonConcept: {
+id: 576
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T18:40:13Z",
+lastRevised: "2015-03-19T12:07:08Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_134028_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>SONOL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>SONOL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 2192,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>SONOL</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:42:50Z",
+lastUpdated: "2014-09-24T18:42:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584170645,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2194,
+field: {
+concept: "Overview",
+category: "Diagnostic",
+subCategory: "Description",
+description: "A textual diagnostic description of the species that is not necessarily structured.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>First Leaves</h6><p>First leaves simple, arranged in a rosette, then alternate. The base is long attenuated in a petiole. Apical half form a broad rounded lobe spiny with serrated margin. From the fifth leaf, the blade has two lateral lobes and the terminal lobe becomes triangular. The faces are hairless, powdered, glaucous.</p><h6>Leaf</h6><p>Leaves alternate, simple. The basal leaves are oblong to narrowly obovate, 10-25 cm long and 5-10 cm wide. They are sessile, with a long attenuated false winged petiole base. The blade is deeply divided into 3-5 pairs of oblong lobes and a terminal lobe larger, triangular or subcircular, the apex obtuse. It is smooth glaucous. The margin is entire or toothed winding. The stem leaves are sessile, clasping, with acute auricles at the base. The blade is deeply lobed. The side lobes are oblong, the terminal lobe is triangular. The margin is toothed more or less prickly. The veins are pinnate, white, more or less thorny to the underside.</p><h6>General Habit</h6><p>Erect herb up to 1.50 m in height.</p><h6>Underground System</h6><p>A taproot.</p><h6>Flower</h6><p>Flower heads with involucral bracts glabrous, about 1.5 cm long, with many bracts first erect, nested, then reflected. External are lanceolate, 5 mm long, internal are linear to lanceolate, 12 mm long, glabrous or glandular, often with translucent margin. The flowers are all ligulate, bisexual, yellow. External ligule often have crimson on the back. Corolla tube up to 7 mm long, woolly at the top, finished by a long ligule 6 mm, 5 small teeth.</p><h6>Fruit</h6><p>Fruit an achene compressed, narrowly obovate, 2.5 to 3.5 mm long and 0.8 to 1 mm wide, brown, 3 ribs on each side, mute between the ribs. It is topped with a pappus formed by many long white bristles 6 to 8 mm.</p><h6>Global Description</h6><p>S. oleraceus is an erect herb, sparsely branched, up to 1.50 m in height. The leaves are of two types. The former have are attenuated into a petiole and have two lateral lobes and a major terminal lobe triangular base. The following are widely expanded in round ear at the base and have many toothed lobes more or less prickly. Stem and leaves exsude a white latex when cut. The flowers are yellow flower heads grouped at the ends of stems, often woolly. The fruits are elongated, brown achene, topped with a tuft of white hair and fluffy appearance.</p><h6>Inflorescence</h6><p>Inflorescence poorly branched at the top of the plant, consisting of flower heads 2 to 3 cm in diameter, whose stalks are 6 inches long on the plant fructified.</p><h6>Cotyledons</h6><p>Cotyledons shortly petiolate, ovate to orbicular and fleshy. Midrib apparent. They measure 5-10 mm long and 3-4 mm wide.</p><h6>Stem</h6><p>Stem angular cylindrical, hollow, sparsely branched. It is smooth at the base, sometimes glandular at the top. It exsudes in a white latex when cut.</p>",
+dateCreated: "2014-09-24T18:42:50Z",
+lastUpdated: "2014-09-24T18:42:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584170647,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2189,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Sonchus oleraceus L.",
+dateCreated: "2014-09-24T18:42:50Z",
+lastUpdated: "2014-09-24T18:42:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584170644,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2190,
+field: {
+concept: "Natural History",
+category: "Reproduction",
+description: "Describes reproductive physiology and behavior, including mating and life history variables. Includes cues, strategies, restraints, rates.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "S. oleraceus is an annual or biennial plant, reproducing only by wind-dispersed seeds. One plant can produce up to 100,000 seeds.<br>",
+dateCreated: "2014-09-24T18:42:50Z",
+lastUpdated: "2014-09-24T18:42:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584170645,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2191,
+field: {
+concept: "Natural History",
+category: "Look Alikes",
+description: "Other taxa that this taxon may be confused with, and characters useful for their differentiation. Useful for identification and comparison. Common in invasive species communities.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "S. asper differs from S. oleraceus by two large atria, clasping around the stem at the base of the leaves. Leaf margin is strongly toothed and thorny.<br>",
+dateCreated: "2014-09-24T18:42:50Z",
+lastUpdated: "2014-09-24T18:42:50Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584170645,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2188,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:42:50Z",
+lastUpdated: "2015-03-06T01:54:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois T., Carrara A., Dodet M., Dogley W., Gaungoo A., Grard P., Ibrahim Y., Jeuffrault E., Lebreton G., Poilecot P., Prosperi J., Randriamampianina J.A., Andrianaivo A.P. & Théveny F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad, Montpellier, France, Cdrom."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Le Bourgeois T., Carrara A., Dodet M., Dogley W., Gaungoo A., Grard P., Ibrahim Y., Jeuffrault E., Lebreton G., Poilecot P., Prosperi J., Randriamampianina J.A., Andrianaivo A.P. & Théveny F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad, Montpellier, France, Cdrom."
+},
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584170642,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 2193,
+field: {
+concept: "Information Listing",
+category: "References",
+description: "Compilation of all text resources and publications associated with/referred to/ cited in entire page",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "dummy",
+dateCreated: "2014-09-24T18:42:50Z",
+lastUpdated: "2015-03-06T01:34:06Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., P. Grard, L. C. Foxcroft, D. Thompson, A. Carrara, A. Guézou, R. W. Taylor and T. Marshall (2013). Pl@ntInvasive-Kruger V.1.0 : Alien plants of the Kruger National Park. Cdrom. Montpellier, France, Skukuza, South Africa, Cirad-SANparks-SAEON eds."
+},
+{
+title: "Le Bourgeois T., Carrara A., Dodet M., Dogley W., Gaungoo A., Grard P., Ibrahim Y., Jeuffrault E., Lebreton G., Poilecot P., Prosperi J., Randriamampianina J.A., Andrianaivo A.P. & Théveny F. 2008. Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad, Montpellier, France, Cdrom."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411584170646,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 6120,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Sonchus oleraceus est une plante herbacée dressée, peu ramifiée, atteignant 1,50 m de hauteur. Les feuilles sont de deux types. Les premières ont une base atténuée en pétiole et présentent deux lobes latéraux et un lobe terminal majeur triangulaire. Les suivantes sont largement élargies en oreillettes rondes à la base et présentent de nombreux lobes dentés plus ou moins épineux. Il s'écoule de la tige et des feuilles un latex blanc lorsqu'on les coupe. Les fleurs sont assemblées en têtes plates jaunes regroupées à l'extrémité des tiges, souvent laineuses. Les fruits sont allongés, bruns, surmontés d'une touffe de poils blancs et d'aspect cotonneux.</p>",
+dateCreated: "2015-03-19T12:07:08Z",
+lastUpdated: "2015-03-19T12:07:08Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766828518,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6110,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>SONOL</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T12:06:57Z",
+lastUpdated: "2015-03-19T12:06:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766817881,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6114,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Description Globale</h6> <p> <em>Sonchus oleraceus</em> est une plante herbac&eacute;e dress&eacute;e, peu ramifi&eacute;e, atteignant 1,50 m de hauteur. Les feuilles sont de deux types. Les premi&egrave;res ont une base att&eacute;nu&eacute;e en p&eacute;tiole et pr&eacute;sentent deux lobes lat&eacute;raux et un lobe terminal majeur triangulaire. Les suivantes sont largement &eacute;largies en oreillettes rondes &agrave; la base et pr&eacute;sentent de nombreux lobes dent&eacute;s plus ou moins &eacute;pineux mais non piquants. Il s&#39;&eacute;coule de la tige et des feuilles un latex blanc lorsqu&#39;on les coupe. Les fleurs sont assembl&eacute;es en t&ecirc;tes plates jaunes regroup&eacute;es &agrave; l&#39;extr&eacute;mit&eacute; des tiges, souvent laineuses. Les fruits sont allong&eacute;s, bruns, surmont&eacute;s d&#39;une touffe de poils blancs et d&#39;aspect cotonneux.</p> <h6> Cotyl&eacute;dons</h6> <p> Cotyl&eacute;dons courtement p&eacute;tiol&eacute;s, ovales &agrave; orbiculaires et charnus. Nervure centrale apparente. Ils mesurent 5 &agrave; 10 mm de long et 3 &agrave; 4 mm de large.</p> <h6> Premi&egrave;res Feuilles</h6> <p> Premi&egrave;res feuilles simples, dispos&eacute;es en rosette, puis alternes. La base est longuement att&eacute;nu&eacute;e en p&eacute;tiole. La moiti&eacute; apicale forme un lobe large arrondi &agrave; marge denticul&eacute;e &eacute;pineuse. A partir de la cinqui&egrave;me feuille, le limbe pr&eacute;sente 2 lobes lat&eacute;raux et un lobe terminal devenant triangulaire. Les faces sont glabres &agrave; pulv&eacute;rulentes, de couleur glauque</p> <h6> Port</h6> <p> Plante herbac&eacute;e dress&eacute;e atteignant 1,50 m de hauteur.</p> <h6> Syst&egrave;me Souterrain</h6> <p> La racine est un pivot.</p> <h6> Tige</h6> <p> Tige cylindrique anguleuse, creuse, peu ramifi&eacute;e. Elle est glabre &agrave; la base, parfois glanduleuse au sommet. Il s&#39;en &eacute;coule un latex blanc lorsqu&#39;on la coupe.</p> <h6> Feuille</h6> <p> Feuilles simples alternes. Les feuilles basales sont oblongues &agrave; &eacute;troitement obovales, de 10 &agrave; 25 cm de long et 5 &agrave; 10 cm de large. Elles sont sessiles, avec une base longuement att&eacute;nu&eacute;e en un faux p&eacute;tiole ail&eacute;. Le limbe est profond&eacute;ment divis&eacute; en 3 &agrave; 5 paires de lobes oblongs et un lobe terminal plus grand, triangulaire ou subcirculaire, au sommet obtus. Il est glabre de couleur glauque. La marge est enti&egrave;re ou sinueuse &agrave; dent&eacute;e. Les feuilles caulinaires sont sessiles, embrassantes, auricul&eacute;es &agrave; la base, &agrave; auricules aigu&euml;s &agrave; l&#39;extr&eacute;mit&eacute;. Le limbe est profond&eacute;ment lob&eacute;. Les lobes lat&eacute;raux sont oblongs, le lobe terminal est triangulaire. La marge est dent&eacute;e plus ou moins &eacute;pineuse mais non piquante. Les nervures sont penn&eacute;es, blanches, plus ou moins &eacute;pineuses &agrave; la face inf&eacute;rieure.</p> <h6> Inflorescence</h6> <p> Inflorescence peu ramifi&eacute;e au sommet de la plante, form&eacute;e de capitules de 2 &agrave; 3 cm de diam&egrave;tre, dont les p&eacute;doncules atteignent 6 cm de long sur la plante fructifi&eacute;e. L&#39;involucre de bract&eacute;es est glabre, d&rsquo;environ 1,5 cm de long, &agrave; nombreuses bract&eacute;es d&rsquo;abord dress&eacute;es, imbriqu&eacute;es, puis se r&eacute;fl&eacute;chissant. Les externes sont lanc&eacute;ol&eacute;es, longues de 5 mm, les internes sont lin&eacute;aires &agrave; lanc&eacute;ol&eacute;es, longues de 12 mm, glabres ou glanduleuses, &agrave; marge souvent translucide.</p> <h6> Fleur</h6> <p> Les fleurs sont toutes ligul&eacute;es, hermaphrodites, de couleur jaune. Les externes ont une ligule souvent cramoisie sur le dos. La corolle est un tube atteignant 7 mm de long, laineux au sommet, termin&eacute; par une ligule longue de 6 mm, &agrave; 5 petites dents.</p> <h6> Fruit</h6> <p> Le fruit est un ak&egrave;ne comprim&eacute;, &eacute;troitement obovo&iuml;de, long de 2,5 &agrave; 3,5 mm et large de 0,8 &agrave; 1 mm, brun, &agrave; 3 c&ocirc;tes sur chaque face, tubercul&eacute; entre les c&ocirc;tes. Il est surmont&eacute; d&#39;un pappus form&eacute; de nombreuses soies blanches, longues de 6 &agrave; 8 mm.</p> ",
+dateCreated: "2015-03-19T12:06:59Z",
+lastUpdated: "2015-05-04T09:04:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766819055,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6115,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Sonchus oleraceus L.",
+dateCreated: "2015-03-19T12:06:59Z",
+lastUpdated: "2015-03-19T12:06:59Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766819472,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6117,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Sonchus oleraceus</em> est une plante annuelle ou bisannuelle, se reproduisant uniquement par graines diss&eacute;min&eacute;es par le vent. Une plante peut produire jusqu&#39;&agrave; 100.000 graines.<br /> ",
+dateCreated: "2015-03-19T12:07:00Z",
+lastUpdated: "2015-05-04T09:05:13Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766820284,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6113,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>S. oleraceus</em> se diff&eacute;rencie de <em>S. asper</em> (L.) Hill par ses auricules se terminant en pointe et ses feuilles aux dents non piquantes.<br /> ",
+dateCreated: "2015-03-19T12:06:58Z",
+lastUpdated: "2015-05-04T09:05:36Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766818771,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6116,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Comores :</strong> Absente.<br /> <strong>Madagascar :</strong> <em>Sonchus oleraceus</em> est une esp&egrave;ce qui se rencontre dans les cultures des Hautes terres et dans les cultures en terrasses de bas de pente du versant oriental (assez humide) tanety et baiboho.<br /> <strong>Maurice :</strong> Esp&egrave;ce commune sur toute l&#39;&icirc;le dans les jach&egrave;res, dans les zones de d&eacute;frichement, dans les terrains vagues.<br /> <strong>La R&eacute;union :</strong> Il s&#39;agit d&#39;une esp&egrave;ce rud&eacute;rale, &eacute;galement pr&eacute;sente dans les milieux cultiv&eacute;s qui affectionne les climats humides ou l&#39;altitude.<br /> <strong>Seychelles :</strong> Absente.<br /> ",
+dateCreated: "2015-03-19T12:07:00Z",
+lastUpdated: "2015-05-04T09:06:07Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766820000,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6118,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Nuisibilit&eacute; Locale</h6> <p> <strong>Comores :</strong> Absente.<br /> <strong>Madagascar</strong> : <em>Sonchus oleraceus</em> est une esp&egrave;ce peu fr&eacute;quente et g&eacute;n&eacute;ralement peu abondante.<br /> <strong>Maurice </strong>: Adventice fr&eacute;quente dans les champs de canne &agrave; sucre, avec une nuisibilit&eacute; faible &agrave; moyenne.<br /> <strong>La R&eacute;union : </strong><em>S. oleraceus</em> est une adventice assez rare. On ne la rencontre que dans 6 % des parcelles, principalement dans l&#39;est et le sud de l&#39;&icirc;le.<br /> <strong>Seychelles</strong> : Absente.</p> ",
+dateCreated: "2015-03-19T12:07:00Z",
+lastUpdated: "2015-05-04T09:06:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766820588,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6119,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Lutte Locale</h6> <p> <strong>Madagascar:</strong> Le sarclage manuel de <em>S. oleraceus</em> est exigeant en temps. Chimiquement, il est facilement contr&ocirc;l&eacute; : diuron, atrazine ou pendimethaline en pr&eacute;-lev&eacute;e ou post-lev&eacute;e pr&eacute;coce ; 2,4- D ou glyphosate sur plantes jeunes ou &acirc;g&eacute;es. Il est bien contr&ocirc;l&eacute; par un paillage et dispara&icirc;t progressivement en semis direct sur couverture v&eacute;g&eacute;tale permanente &agrave; condition d&rsquo;avoir une couverture suffisante.</p> ",
+dateCreated: "2015-03-19T12:07:00Z",
+lastUpdated: "2015-05-04T09:07:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766820934,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6112,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:06:58Z",
+lastUpdated: "2015-03-31T06:53:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766818353,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6111,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T12:06:58Z",
+lastUpdated: "2015-03-31T06:53:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426766818353,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 6469,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_134028.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_134028_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:36Z",
+rating: 0
+},
+{
+id: 6462,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20110914_195842.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20110914_195842_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:34Z",
+rating: 0
+},
+{
+id: 6463,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_131446.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_131446_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:34Z",
+rating: 0
+},
+{
+id: 6464,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_131209.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_131209_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:35Z",
+rating: 0
+},
+{
+id: 6465,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124203.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124203_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:35Z",
+rating: 0
+},
+{
+id: 6466,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_123215.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_123215_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:35Z",
+rating: 0
+},
+{
+id: 6467,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_101240.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_101240_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:35Z",
+rating: 0
+},
+{
+id: 6468,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_133806.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_133806_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:35Z",
+rating: 0
+},
+{
+id: 6470,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124204.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124204_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:36Z",
+rating: 0
+},
+{
+id: 6471,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_134143.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_134143_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:36Z",
+rating: 0
+},
+{
+id: 6472,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20111027_111324.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20111027_111324_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:36Z",
+rating: 0
+},
+{
+id: 6473,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_123438.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_123438_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:36Z",
+rating: 0
+},
+{
+id: 6474,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124002.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124002_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:37Z",
+rating: 0
+},
+{
+id: 6475,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130618_061806.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130618_061806_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:37Z",
+rating: 0
+},
+{
+id: 6476,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130618_061722.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130618_061722_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:37Z",
+rating: 0
+},
+{
+id: 6477,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130618_061705.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130618_061705_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:37Z",
+rating: 0
+},
+{
+id: 6478,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130617_110748.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130617_110748_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:37Z",
+rating: 0
+},
+{
+id: 6479,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130617_110736.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130617_110736_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:38Z",
+rating: 0
+},
+{
+id: 6480,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130617_110720.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130617_110720_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:38Z",
+rating: 0
+},
+{
+id: 6481,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130617_110652.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130617_110652_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:38Z",
+rating: 0
+},
+{
+id: 6482,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124202.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124202_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:38Z",
+rating: 0
+},
+{
+id: 6483,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20020730_115906.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20020730_115906_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:39Z",
+rating: 0
+},
+{
+id: 6484,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_133425.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_133425_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:39Z",
+rating: 0
+},
+{
+id: 6485,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_101242.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_101242_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:39Z",
+rating: 0
+},
+{
+id: 6486,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20111027_111248.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20111027_111248_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:39Z",
+rating: 0
+},
+{
+id: 6487,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_123017.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20090702_123017_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:39Z",
+rating: 0
+},
+{
+id: 6488,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124205.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124205_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:40Z",
+rating: 0
+},
+{
+id: 6489,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124003.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124003_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:40Z",
+rating: 0
+},
+{
+id: 6490,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124206.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20080609_10124206_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:40Z",
+rating: 0
+},
+{
+id: 6491,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130617_110638.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130617_110638_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:40Z",
+rating: 0
+},
+{
+id: 6492,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130617_110648.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130617_110648_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:40Z",
+rating: 0
+},
+{
+id: 6493,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130618_061743.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20130618_061743_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:41Z",
+rating: 0
+},
+{
+id: 6494,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20110914_195834.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20110914_195834_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:41Z",
+rating: 0
+},
+{
+id: 6495,
+url: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20110914_195850.JPG",
+icon: "http://portal.wikwio.org/biodiv/img//Sonchus oleraceus/sonol_20110914_195850_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T18:40:41Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

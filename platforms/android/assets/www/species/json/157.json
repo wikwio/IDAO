@@ -1,0 +1,1115 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 157,
+title: "<i>Hibiscus surattensis </i>L. ",
+taxonConcept: {
+id: 312,
+name: "Hibiscus surattensis L.",
+canonicalForm: "Hibiscus surattensis",
+italicisedForm: "<i>Hibiscus surattensis </i>L. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 14,
+name: "Malvaceae",
+canonicalForm: "Malvaceae",
+italicisedForm: "<i>Malvaceae</i>",
+rank: "Family"
+},
+{
+id: 310,
+name: "Hibiscus",
+canonicalForm: "Hibiscus",
+italicisedForm: "<i>Hibiscus</i>",
+rank: "Genus"
+},
+{
+id: 312,
+name: "Hibiscus surattensis L.",
+canonicalForm: "Hibiscus surattensis",
+italicisedForm: "<i>Hibiscus surattensis </i>L. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 3739,
+name: "Furcaria surattensis Kostel.",
+canonicalForm: "Furcaria surattensis",
+italicisedForm: "<i>Furcaria surattensis </i>Kostel. ",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3740,
+name: "Hibiscus aculeatus G. Don",
+canonicalForm: "Hibiscus aculeatus",
+italicisedForm: "<i>Hibiscus aculeatus </i>G. Don ",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3741,
+name: "Hibiscus appendiculatus Stokes",
+canonicalForm: "Hibiscus appendiculatus",
+italicisedForm: "<i>Hibiscus appendiculatus </i>Stokes ",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3742,
+name: "Hibiscus furcatus Roxb. [Illegitimate]",
+canonicalForm: "Hibiscus furcatus",
+italicisedForm: "<i>Hibiscus furcatus </i>Roxb.<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3743,
+name: "Hibiscus surattensis var. villosus Hochr.",
+canonicalForm: "Hibiscus surattensis villosus",
+italicisedForm: "<i>Hibiscus surattensis </i>var.<i> villosus </i>Hochr. ",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 3744,
+name: "Hibiscus trinitarius Noronha",
+canonicalForm: "Hibiscus trinitarius",
+italicisedForm: "<i>Hibiscus trinitarius </i>Noronha ",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [
+{
+id: 833,
+name: "Kahakaha",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+},
+{
+id: 834,
+name: "Oseille malabar",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+language: {
+id: 490,
+name: "Créole Maurice"
+}
+},
+{
+id: 835,
+name: "Roibelahy",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 836,
+name: "Wild sour",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 837,
+name: "Oseille malbare",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 838,
+name: "Oseille indigene",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+language: {
+id: 487,
+name: "Créole Seychelles"
+}
+},
+{
+id: 839,
+name: "Oseille malabar",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 840,
+name: "Oseille malbar",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+language: {
+id: 489,
+name: "Créole Réunion"
+}
+},
+{
+id: 841,
+name: "Sirasira",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+language: {
+id: 486,
+name: "Malgache"
+}
+},
+{
+id: 842,
+name: "Yisambaha",
+taxonConcept: {
+id: 312
+},
+isContributor: false,
+language: {
+id: 488,
+name: "Comorian"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:39:25Z",
+lastRevised: "2015-03-19T11:38:47Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_10_th1.jpg",
+notes: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>HIBSU</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>HIBSU</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1289,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>climber</p><h6>Code</h6><p>HIBSU</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2014-09-24T17:40:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412924,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1288,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Hibiscus surattensis L.",
+dateCreated: "2014-09-24T17:40:12Z",
+lastUpdated: "2014-09-24T17:40:12Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411580412923,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 4400,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Hibiscus surattensis est une plante annuelle plus ou moins lianescente, à tiges lianescentes, atteignant 2 m de longueur, munies d'épines recourbées et acérées. Les feuilles sont de forme variable, petites et entières, ovales, avec 3 à 5 dents larges, vers la base des tiges, mais le plus souvent profondément découpées en 3 à 5 lobes, à marge dentée, aux nervures épineuses sur la face inférieure. Longues et larges de 3 à 8 cm, elles sont portées par un pétiole épineux, environ 1,5 fois plus long que le limbe. A la base du pétiole se trouvent des stipules ovales, auriculées à la base, longues de 1 à 1,5 cm. Les fleurs sont portées par un pédoncule de 6 à 8 cm de long, épineux. Elles comportent un épicalice à 10-12 lobes de forme spatulée. Elles ont une corolle très largement ouverte, large d'environ 8 cm, de couleur jaune à centre pourpre sombre. Le fruit est une capsule de couleur blanchâtre, entourée de fine pièces épineuses très découpées.</p>",
+dateCreated: "2015-03-19T11:38:47Z",
+lastUpdated: "2015-03-19T11:38:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765127610,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4391,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>HIBSU</p><h6>Type Biologique</h6><p>liane</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:38:45Z",
+lastUpdated: "2015-03-19T11:38:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765125378,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4393,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Hibiscus surattensis est une plante annuelle plus ou moins lianescente, à tiges lianescentes, atteignant 2 m de longueur, munies d'épines recourbées et acérées. Les feuilles sont de forme variable, petites et entières, ovales, avec 3 à 5 dents larges, vers la base des tiges, mais le plus souvent profondément découpées en 3 à 5 lobes, à marge dentée, aux nervures épineuses sur la face inférieure. Longues et larges de 3 à 8 cm, elles sont portées par un pétiole épineux, environ 1,5 fois plus long que le limbe. A la base du pétiole se trouvent des stipules ovales, auriculées à la base, longues de 1 à 1,5 cm. Les fleurs sont portées par un pédoncule de 6 à 8 cm de long, épineux. Elles comportent un épicalice à 10-12 lobes de forme spatulée. Elles ont une corolle très largement ouverte, large d'environ 8 cm, de couleur jaune à centre pourpre sombre. Le fruit est une capsule de couleur blanchâtre, entourée de fine pièces épineuses très découpées.</p><h6>Cotylédons</h6><p>Les cotylédons sont largement spatulés, à sommet tronqué, portés par un pétiole presque aussi long que le limbe. Limbe de 1,5 à 2 cm de long et 1 à 1,5 cm de large. Il présente 3 nervures blanchâtres à la base.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont simples et alternes, longuement pétiolées. Le limbe est entier largement ovale à 3 ou 5 dents larges. Base arrondie ou cordée et sommet en coin large. Elles sont de couleur vert brillant.</p><h6>Port</h6><p>Plante annuelle plus ou moins lianescente, atteignant 2 m de longueur, munie d'épines rétrorses, courbes et acérées.</p><h6>Système Souterrain</h6><p>La racine est pivotante.</p><h6>Tige</h6><p>La tige est ronde et pleine, de couleur verte et violette, munie d'épines rétrorses, courbes et acérées. Elle est finement pubescente. Elle se ramifie au niveau de l'insertion des feuilles.</p><h6>Feuille</h6><p>Les feuilles sont simples et alternes ; portées par un pétiole jusqu'à 1,5 fois plus long que le limbe, épineux. Pétiole encadré à la base par 2 stipules ovales à marge ciliée et grossièrement dentée, auriculées à la base, longues de 1 à 1,5 cm. Limbe de forme très variable. A la base des tiges, limbe entier de forme largement ovale, à base cordée, présentant rapidement 3 angles larges. En grandissant le limbe devient plus ou moins profondément 3 à 5 lobé, long et large de 3 à 8 cm. Marge dentée. Le limbe est finement pubérulent sur les deux faces. La nervation est palmée avec 3 à 5 nervures principales partant de la base. A la face inférieure, les nervures portent des épines rétrorses acérées.</p><h6>Inflorescence</h6><p>Les fleurs sont solitaires, disposées à l’aisselle des feuilles.</p><h6>Fleur</h6><p>La fleur est portée par un pédoncule long de 6 à 8 cm. Elle comporte un épicalice à 10-12 lobes de forme spatulée, longs de 1,5 à 2 cm, portant une ligule dressée à angle droit, linéaire, longue de 5 à 10 mm, munies de soies raides. Calice long d'environ 2 cm, profondément divisé en 5 lobes triangulaires aigus, coriaces, à soies raides sur la marge et la nervure médiane, accrescent, plus ou moins teintés de pourpre. La corolle est largement étalée, de couleur jaune à centre pourpre sombre, large de plus ou moins 8 cm. Elle est formée de 5 pétales de forme largement obovale, de 3 à 4 cm dans leur plus grande largeur. Colonne staminale longue d'environ 2 cm, avec de nombreuses anthères échelonnées, globuleuses, jaunes, portées par des filets rouges et, à l'extrémité, se trouve un style jaune qui se divise en 5 stigmates globuleux rouges et très poilus.</p><h6>Fruit</h6><p>Le fruit est une capsule pyriforme, de 1,5 à 2 cm de long et de 1 à 1,5 cm de diamètre, blanchâtre, couverte de soies apprimées, entourée du calice persistant. La capsule est formée de 5 loges contenant chacune 5 graines.</p><h6>Graine</h6><p>La graine est réniforme, épaissie à l'arrière, longue de 3 mm et large de 2 mm. Tégument brun foncé, finement ponctué et parsemé de petits tubercules plus clairs.</p>",
+dateCreated: "2015-03-19T11:38:45Z",
+lastUpdated: "2015-03-19T11:38:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765125819,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4394,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Hibiscus surattensis L.",
+dateCreated: "2015-03-19T11:38:46Z",
+lastUpdated: "2015-03-19T11:38:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765126026,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4398,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "H. surattensis est une plante annuelle. Elle se multiplie par graines.<br>",
+dateCreated: "2015-03-19T11:38:46Z",
+lastUpdated: "2015-03-19T11:38:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765126648,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4395,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>H. surattensis est une espèce originaire de l'Inde.</p><h6>Distribution Mondiale</h6><p>H. surattensis est une espèce naturalisée dans de nombreuses régions tropicales, notamment en Afrique et en Asie.</p>",
+dateCreated: "2015-03-19T11:38:46Z",
+lastUpdated: "2015-03-19T11:38:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765126204,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4397,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Comores : H. surattensis est une espèce rudérale, que l'on rencontre aussi en parcelles agricoles. Elle est observée dans toutes les régions des trois îles, jusqu'à 600 m d'altitude. Madagascar : Espèce adventice et rudérale assez courante dans l'Ouest et Nord-Ouest de l'île. Elle s'installe dans les cultures sèches ou aux alentours des lieux habités sur différents types de sol. Maurice : Plante naturalisée, peu commune sur l'île. La Réunion : Espèce assez commune à La Réunion, en culture de canne à sucre. Elle se rencontre préférentiellement dans les zones humide de l'Est (de St Denis à St Benoît) à basse altitude. Elle est présente ponctuellement, dans l'Ouest et le Sud jusqu'à 400 m d'altitude en culture irriguée. Seychelles : Espèce présente dans les clairières et lieux abandonnés. Elle est rarement abondante.<br>",
+dateCreated: "2015-03-19T11:38:46Z",
+lastUpdated: "2015-03-19T11:38:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765126500,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4396,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Origine</h6><p>H. surattensis est une espèce originaire de l'Inde.</p><h6>Distribution Mondiale</h6><p>H. surattensis est une espèce naturalisée dans de nombreuses régions tropicales, notamment en Afrique et en Asie.</p>",
+dateCreated: "2015-03-19T11:38:46Z",
+lastUpdated: "2015-03-19T11:38:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765126351,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4399,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Comores : H. surattensis infeste particulièrement les vieilles plantations de bananiers, de maniocs et de vanille. Madagascar : Adventice de fréquence globale relativement faible, mais sa présence dans les cultures est très gênante en raison de sa végétation buissonnante et épineuse. Maurice : Cette espèce n'est pas présente dans les cultures. La Réunion : H. surattensis pénètre fréquemment dans les champs de canne à sucre où elle peut étouffer la culture en grimpant dans les cannes et gêner la circulation dans l'interligne. A la Réunion, elle est présente dans 20 % des champs de canne, avec un taux de recouvrement généralement limité, mais pouvant atteindre 30 à 50 %. Seychelles : Faible nuisibilité.</p>",
+dateCreated: "2015-03-19T11:38:46Z",
+lastUpdated: "2015-03-19T11:38:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765126825,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 4392,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:38:45Z",
+lastUpdated: "2015-03-29T09:56:41Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T., A. Carrara, M. Dodet, W. Dogley, A. Gaungoo, P. Grard, Y. Ibrahim, E. Jeuffrault, G. Lebreton, P. Poilecot, J. Prosperi, J. A. Randriamampianina, A. P. Andrianaivo and F. Théveny (2008). Advent-OI : Principales adventices des îles du sud-ouest de l'Océan Indien. Cirad. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765125555,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 3408,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_10.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_10_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:32Z",
+rating: 0
+},
+{
+id: 3409,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_11.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_11_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:32Z",
+rating: 0
+},
+{
+id: 3410,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_12.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_12_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:32Z",
+rating: 0
+},
+{
+id: 3411,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_07.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_07_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:32Z",
+rating: 0
+},
+{
+id: 3412,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_04.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_04_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:33Z",
+rating: 0
+},
+{
+id: 3413,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_06.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_06_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:33Z",
+rating: 0
+},
+{
+id: 3414,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_08.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_08_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:33Z",
+rating: 0
+},
+{
+id: 3415,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20060918_161257.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20060918_161257_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:33Z",
+rating: 0
+},
+{
+id: 3416,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20110713_083930.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20110713_083930_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:33Z",
+rating: 0
+},
+{
+id: 3417,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_03.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_03_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:33Z",
+rating: 0
+},
+{
+id: 3418,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:33Z",
+rating: 0
+},
+{
+id: 3419,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_09.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_09_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:33Z",
+rating: 0
+},
+{
+id: 3420,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_02.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_02_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:33Z",
+rating: 0
+},
+{
+id: 3421,
+url: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_05.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Hibiscus surattensis/hibsu_20080609_101300_05_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:39:34Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

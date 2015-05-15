@@ -1,0 +1,849 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 82,
+title: "<i>Crotalaria grahamiana </i>Wight<i> & </i>Arn. ",
+taxonConcept: {
+id: 190,
+name: "Crotalaria grahamiana Wight & Arn.",
+canonicalForm: "Crotalaria grahamiana",
+italicisedForm: "<i>Crotalaria grahamiana </i>Wight<i> & </i>Arn. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 5,
+name: "Fabaceae",
+canonicalForm: "Fabaceae",
+italicisedForm: "<i>Fabaceae</i>",
+rank: "Family"
+},
+{
+id: 188,
+name: "Crotalaria",
+canonicalForm: "Crotalaria",
+italicisedForm: "<i>Crotalaria</i>",
+rank: "Genus"
+},
+{
+id: 190,
+name: "Crotalaria grahamiana Wight & Arn.",
+canonicalForm: "Crotalaria grahamiana",
+italicisedForm: "<i>Crotalaria grahamiana </i>Wight<i> & </i>Arn. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [ ],
+common_names: [
+{
+id: 1698,
+name: "Crotalaire",
+taxonConcept: {
+id: 190
+},
+isContributor: false,
+language: {
+id: 137,
+name: "French"
+}
+},
+{
+id: 1697,
+name: "Aika",
+taxonConcept: {
+id: 190
+},
+isContributor: false,
+language: {
+id: 283,
+name: "Malagasy"
+}
+}
+],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:12:10Z",
+lastRevised: "2015-03-26T16:18:18Z",
+thumbnail: "http://portal.wikwio.org/biodiv/group_icons/speciesGroups/plants_th1.png",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CVTGR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CVTGR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 676,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>CVTGR</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2014-09-24T17:14:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860617,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 677,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Crotalaria grahamiana Wight & Arn.",
+dateCreated: "2014-09-24T17:14:20Z",
+lastUpdated: "2014-09-24T17:14:20Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411578860618,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 3510,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6> Code</h6> <p> CVTGR</p> <h6> Type Biologique</h6> <p> feuilles larges</p> <h6> Forme De Vie</h6> <p> p&eacute;renne</p> <h6> Habitat</h6> <p> terrestre</p> ",
+dateCreated: "2015-03-19T11:16:31Z",
+lastUpdated: "2015-03-27T10:09:57Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763791358,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6569,
+field: {
+concept: "Généralités",
+category: "Sous Espèces Variétés Races",
+subCategory: "Description",
+description: "Un descriptif textuel du niveau infraspécifique, non nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Description g&eacute;n&eacute;rale</strong><br /> <br /> <em>Crotalaria grahamiana</em> est une plante p&eacute;renne dress&eacute;e, robuste, plus ou moins ligneuse atteignant 1,5 &agrave; 2 m de hauteur, &agrave; tiges creuses, anguleuses, tomenteuses. Les feuilles sont alternes, compos&eacute;es &agrave; 5-7 folioles digit&eacute;es, &agrave; p&eacute;tiole long de 5 &agrave; 10 cm&nbsp;; folioles obovales longuement en coin, soyeuses tomenteuses en dessous. Inflorescences en rac&egrave;mes multiflores&nbsp;: nombreuses fleurs dens&eacute;ment agglom&eacute;r&eacute;es de couleur jaune-citron. Les fruits sont des gousses oblongues-claviformes de 5,5 &agrave; 6,5 cm de long et 1,8 &agrave; 2,2 cm de large, glabres, contenant une dizaine de petites graines d&rsquo;environ 5 mm de long. &nbsp;<br /> <br /> <strong>Cotyl&eacute;dons</strong><br /> <br /> Cotyl&eacute;dons &agrave; limbe r&eacute;niforme bri&egrave;vement p&eacute;tiol&eacute;, trinerv&eacute;, de 24 &agrave; 28 mm de long et 12 &agrave; 15 mm de large, p&eacute;tiole de 1 &agrave; 2 mm.<br /> <br /> <strong>Premi&egrave;res feuilles</strong><br /> <br /> Premi&egrave;res feuilles alterne, compos&eacute;es &agrave; limbe trifoliol&eacute;, &agrave; face inf&eacute;rieure pubescente, la foliole centrale ovale-lanc&eacute;ol&eacute; de 28 &agrave; 45 mm sur 12 &agrave; 20 mm, les folioles lat&eacute;rales elliptiques de 10 &agrave; 25 sur 4 &agrave; 12 mm, &agrave; p&eacute;tiole de 20 &agrave; 25 mm, pubescent.<br /> <br /> <strong>Port</strong><br /> <br /> Plante p&eacute;renne, dress&eacute;e de 1-1,5 m de haut, devenant ligneuse.&nbsp;<br /> <br /> <strong>Syst&egrave;me souterrain</strong><br /> <br /> Racine pivotante<br /> <br /> <strong>Tige</strong><br /> <br /> Tiges ramifi&eacute;es, ligneuses &agrave; la base, creuses, anguleuses, tomenteuses.<br /> <br /> <strong>Feuille</strong><br /> <br /> Feuilles alternes, compos&eacute;es palm&eacute;es, 5-7 foliol&eacute;es&nbsp;; stipules tr&egrave;s &eacute;troitement ovales-lin&eacute;aires, longues de 7-10 mm&nbsp;; p&eacute;tiole long de 5-10 cm&nbsp;; folioles &eacute;troitement obovales, longuement en coin &agrave; la base, 4-7 x 1,5-2,5 cm, vert fonc&eacute; et mat dessus, soyeuses-tomenteuses dessous.<br /> <br /> <strong>Inflorescence</strong><br /> <br /> Rac&egrave;mes &nbsp;multiflores portant de nombreuses fleurs dens&eacute;ment agglom&eacute;r&eacute;es; bract&eacute;es &nbsp;tr&egrave;s &eacute;troitement ovales-lin&eacute;aires, longues de 10 &agrave; 15 mm; bract&eacute;oles ins&eacute;r&eacute;es sur le p&eacute;dicelle, lin&eacute;aires.<br /> <br /> <strong>Fleur</strong><br /> <br /> Fleur papilionac&eacute;e jaune avec un calice long de 11 &agrave; 14 mm, glabre sur les bords des lobes&nbsp;; lobes ovales-triangulaires, 1,5 fois plus long que le tube. Etendard elliptique-obovale, jaune luisant; car&egrave;ne longue de 1,4 &agrave; 1,6 cm, plus courte que les ailes et parfois envelopp&eacute;e par elles, arrondie, &agrave; bec incurv&eacute;, enroul&eacute;.<br /> <br /> <strong>Fruit</strong><br /> <br /> Le fruit est une gousse courtement stipit&eacute;e, largement oblongue-claviforme, de 5,5 &agrave; 6,5 cm de long et 1,8 &agrave; 2,2 cm de large, glabre.<br /> <br /> <strong>Graine</strong><br /> <br /> Graines obliques-cordiformes, &agrave; lobe radiculaire fortement incurv&eacute;, longues de 6 mm, l&eacute;g&egrave;rement papilleuses pr&egrave;s du hile, brunes.",
+dateCreated: "2015-03-26T16:08:09Z",
+lastUpdated: "2015-03-26T16:08:09Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427386089346,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 3511,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Crotalaria grahamiana Wight & Arn.",
+dateCreated: "2015-03-19T11:16:32Z",
+lastUpdated: "2015-03-19T11:16:32Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426763792481,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6572,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Madagascar :</strong> <em>C. grahamiana</em> fleurit d&rsquo;Avril, Mai &agrave; Septembre<br /> <p> &nbsp;</p> ",
+dateCreated: "2015-03-26T16:11:06Z",
+lastUpdated: "2015-03-26T16:11:06Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427386266864,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6571,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>C. grahamiana</em> est une plante p&eacute;renne qui se multiplie par graines. Celles-ci sont produites en grand nombre et diss&eacute;min&eacute;es par les eaux et les instruments de travail du sol.<br /> <p> </p> ",
+dateCreated: "2015-03-26T16:10:34Z",
+lastUpdated: "2015-03-26T16:10:34Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427386234116,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6570,
+field: {
+concept: "Histoire Naturelle",
+category: "Ressemblance",
+description: "Autre taxon avec lequel il peut y avoir une confusion et mise en évidence des caractères de différenciation utiles pour l'identification et la comparaison.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<em>Crotalaria quinquefolia</em> L. ressemble &agrave; <em>C. grahamiana</em> mais se distingue &nbsp;par ses stipules plus petites et par ses feuilles &nbsp;3-5 foliol&eacute;es avec des folioles &eacute;troitement ovales et pointues, au lieu de 5-7 folioles &eacute;troitement obovales.",
+dateCreated: "2015-03-26T16:09:23Z",
+lastUpdated: "2015-03-26T16:09:23Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427386163315,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6573,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Madagascar : cette esp&egrave;ce se d&eacute;veloppe sur diff&eacute;rents faci&egrave;s de sols ferralittiques et de sols alluviaux non inond&eacute;s, &agrave; fertilit&eacute; moyenne &agrave; faible, sous climat subhumide, altitude de 700 &agrave; 1500 m sur les terrains ensoleill&eacute;s &agrave; faiblement ombrag&eacute;s des Hautes terres et Versant oriental de Madagascar. <em>C. grahamiana</em> envahit les bords des cultures et des chemins, le long des cours d&rsquo;eau et dans les jach&egrave;res, p&acirc;turages et les v&eacute;g&eacute;tations perturb&eacute;es, les cultures de manioc et en arboriculture mal entretenue.<br /> <p> </p> ",
+dateCreated: "2015-03-26T16:13:35Z",
+lastUpdated: "2015-03-26T16:13:35Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427386415198,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6574,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Origine</strong><br /> <br /> Sud de l&rsquo;Inde<br /> <br /> <p> <strong>R&eacute;partition mondiale</strong><br /> <br /> Afrique, &icirc;les du Sud-ouest de l&rsquo;Oc&eacute;an Indien, Inde, &iuml;les du Pacifiques, Australie.</p> ",
+dateCreated: "2015-03-26T16:14:32Z",
+lastUpdated: "2015-03-27T10:16:57Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427386472622,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6575,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nuisibilit&eacute; locale<br /> <br /> <strong>Madagascar: </strong><em>C. grahamiana </em>est une adventice assez fr&eacute;quente mais g&eacute;n&eacute;ralement peu abondante et peu nuisible.<em> </em>Elle s&rsquo;installe assez rapidement d&egrave;s le d&eacute;but de la saison des pluies mais elle peut &ecirc;tre &eacute;limin&eacute;e facilement avec le sarclage manuel fait &agrave; temps.<em> </em>Elle se d&eacute;veloppe surtout dans les cultures de manioc apr&egrave;s jach&egrave;res, en arboriculture et cultures p&eacute;rennes, sur les bords des canaux d&rsquo;irrigation.<br /> <p> &nbsp;</p> ",
+dateCreated: "2015-03-26T16:16:22Z",
+lastUpdated: "2015-03-26T16:16:22Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427386582607,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6577,
+field: {
+concept: "Usages et Gestion",
+category: "Usages",
+description: "Décrire les usages connus ou avantages potentiels de l'espèce pour l'homme, au niveau économique direct, comme des instruments de l'éducation, de la prospection, de l'éco-tourisme, etc. La source doit être explicitement citée. Peut inclure des services écosystémiques.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>M&eacute;dicinal</strong>: propri&eacute;t&eacute;s antimicrobiennes et anti inflammatoires des extraits flavono&iuml;des de <em>C. grahamiana</em>.<br /> &nbsp;<br /> <strong>Autre: </strong><em>C. grahamiana</em> est utilis&eacute; comme engrais et plante am&eacute;liorante du sol (jach&egrave;res am&eacute;lior&eacute;es).<br /> <p> &nbsp;</p> ",
+dateCreated: "2015-03-26T16:18:18Z",
+lastUpdated: "2015-03-26T16:18:18Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427386698616,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6576,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<strong>Lutte locale</strong><br /> <br /> <strong>Madagascar :</strong> Sarclage manuel ou arrachage &agrave; la main sur toutes les Hautes terres de Madagascar.<br /> <p> </p> ",
+dateCreated: "2015-03-26T16:17:37Z",
+lastUpdated: "2015-03-26T16:17:37Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1427386657322,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 6651,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-04-22T12:38:00Z",
+lastUpdated: "2015-04-22T12:38:00Z",
+licenses: [
+{
+name: "CC BY",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY"
+}
+}
+],
+audienceTypes: [
+{
+enumType: "species.SpeciesField$AudienceType",
+name: "GENERAL_PUBLIC"
+}
+],
+resources: [ ],
+references: [
+{
+title: "DU PUY DAVID, LABAT J. N., LEGUMINOSAE OF MADAGASCAR, Royal Botanic Gardens, Kew, 2002 - 737 pages, p. 689"
+},
+{
+title: "MEYER JEAN-YVES, 2008. Rapport de mission d'expertise a Rapa Nui du 02 au 11 Juin 2008: Plan d'action stratégique pour lutter contre les plantes introduites envahissantes sur Rapa Nui (Île de pâques). Délégation à la Recherche, Ministère de l'Education, l'Enseignement supérieur et la Recherche, B.P. 20981 Papeete, Tahiti, Polynésie français. Pp21-22."
+},
+{
+title: "ANTOINE R., BOSSER J., FERGUSSON I.K., 1993. FLORE DES MASCAREIGNES : La Réunion, Maurice, Rodrigues. 80 Légumineuses. MSIRI, ORSTOM, KEW. p 203."
+}
+],
+contributors: [
+{
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+}
+],
+attributors: [ ],
+uploader: {
+id: 4,
+name: "Thomas Le Bourgeois",
+icon: "http://portal.wikwio.org/biodiv/users//13b7c53d-06c9-4129-9509-346ddce6e458/resources/390_th1.jpg"
+},
+uploadTime: 1429706280218,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [ ],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}

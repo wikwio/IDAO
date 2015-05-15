@@ -1,0 +1,1788 @@
+{
+success: true,
+status: 200,
+msg: "",
+instance: {
+id: 214,
+title: "<i>Mitracarpus hirtus (</i>L.<i>) </i>DC. ",
+taxonConcept: {
+id: 414,
+name: "Mitracarpus hirtus (L.) DC.",
+canonicalForm: "Mitracarpus hirtus",
+italicisedForm: "<i>Mitracarpus hirtus (</i>L.<i>) </i>DC. ",
+rank: "Species"
+},
+taxonRegistry: [
+{
+clasification: {
+id: 2,
+name: "Author Contributed Taxonomy Hierarchy",
+citation: "Hierarchy contributed by the species page author"
+},
+hierarchies: [
+{
+id: 1,
+name: "Plantae",
+canonicalForm: "Plantae",
+italicisedForm: "<i>Plantae</i>",
+rank: "Kingdom"
+},
+{
+id: 2,
+name: "Tracheophyta",
+canonicalForm: "Tracheophyta",
+italicisedForm: "<i>Tracheophyta</i>",
+rank: "Phylum"
+},
+{
+id: 3,
+name: "Magnoliopsida",
+canonicalForm: "Magnoliopsida",
+italicisedForm: "<i>Magnoliopsida</i>",
+rank: "Class"
+},
+{
+id: 291,
+name: "Rubiaceae",
+canonicalForm: "Rubiaceae",
+italicisedForm: "<i>Rubiaceae</i>",
+rank: "Family"
+},
+{
+id: 413,
+name: "Mitracarpus",
+canonicalForm: "Mitracarpus",
+italicisedForm: "<i>Mitracarpus</i>",
+rank: "Genus"
+},
+{
+id: 414,
+name: "Mitracarpus hirtus (L.) DC.",
+canonicalForm: "Mitracarpus hirtus",
+italicisedForm: "<i>Mitracarpus hirtus (</i>L.<i>) </i>DC. ",
+rank: "Species"
+}
+]
+}
+],
+synonyms: [
+{
+id: 4621,
+name: "Borreria ferruginea M.Martens & Galeotti [Illegitimate]",
+canonicalForm: "Borreria ferruginea",
+italicisedForm: "<i>Borreria ferruginea </i>M.Martens<i> & </i>Galeotti<i> [Illegitimate]</i>",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4622,
+name: "Borreria remotifolia DC.",
+canonicalForm: "Borreria remotifolia",
+italicisedForm: "<i>Borreria remotifolia </i>DC. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4623,
+name: "Diodia villosa Moc. & Sessé ex DC.",
+canonicalForm: "Diodia villosa",
+italicisedForm: "<i>Diodia villosa </i>Moc.<i> & </i>Sessé<i> ex </i>DC. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4624,
+name: "Mitracarpus diffusus (Willd. ex Roem. & Schult.) DC.",
+canonicalForm: "Mitracarpus diffusus",
+italicisedForm: "<i>Mitracarpus diffusus (</i>Willd.<i> ex </i>Roem.<i> & </i>Schult.<i>) </i>DC. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4625,
+name: "Mitracarpus hirtus var. remotiflorus K.Schum.",
+canonicalForm: "Mitracarpus hirtus remotiflorus",
+italicisedForm: "<i>Mitracarpus hirtus </i>var.<i> remotiflorus </i>K.Schum. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4626,
+name: "Mitracarpus pilosus A.Rich. [Spelling variant]",
+canonicalForm: "Mitracarpus pilosus",
+italicisedForm: "<i>Mitracarpus pilosus </i>A.Rich.<i> [Spelling variant]</i>",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4627,
+name: "Mitracarpus scaber Zucc. ex Schult. & Schult.f.",
+canonicalForm: "Mitracarpus scaber",
+italicisedForm: "<i>Mitracarpus scaber </i>Zucc.<i> ex </i>Schult.<i> & </i>Schult.f. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4628,
+name: "Mitracarpus senegalensis DC.",
+canonicalForm: "Mitracarpus senegalensis",
+italicisedForm: "<i>Mitracarpus senegalensis </i>DC. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4629,
+name: "Mitracarpus simplex Rusby",
+canonicalForm: "Mitracarpus simplex",
+italicisedForm: "<i>Mitracarpus simplex </i>Rusby ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4630,
+name: "Mitracarpus torresianus Cham. & Schltdl.",
+canonicalForm: "Mitracarpus torresianus",
+italicisedForm: "<i>Mitracarpus torresianus </i>Cham.<i> & </i>Schltdl. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4631,
+name: "Mitracarpus verticillatus (Schumach. & Thonn.) Vatke",
+canonicalForm: "Mitracarpus verticillatus",
+italicisedForm: "<i>Mitracarpus verticillatus (</i>Schumach.<i> & </i>Thonn.<i>) </i>Vatke ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4632,
+name: "Mitracarpus villosus (Sw.) DC.",
+canonicalForm: "Mitracarpus villosus",
+italicisedForm: "<i>Mitracarpus villosus (</i>Sw.<i>) </i>DC. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4633,
+name: "Mitracarpus villosus var. glabrior Oerst.",
+canonicalForm: "Mitracarpus villosus glabrior",
+italicisedForm: "<i>Mitracarpus villosus </i>var.<i> glabrior </i>Oerst. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4634,
+name: "Spermacoce affinis Pohl ex DC. [Invalid]",
+canonicalForm: "Spermacoce affinis",
+italicisedForm: "<i>Spermacoce affinis </i>Pohl<i> ex </i>DC.<i> [Invalid]</i>",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4635,
+name: "Spermacoce cephalotes Willd. ex Roem. & Schult.",
+canonicalForm: "Spermacoce cephalotes",
+italicisedForm: "<i>Spermacoce cephalotes </i>Willd.<i> ex </i>Roem.<i> & </i>Schult. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4636,
+name: "Spermacoce declinata Pav. ex DC.",
+canonicalForm: "Spermacoce declinata",
+italicisedForm: "<i>Spermacoce declinata </i>Pav.<i> ex </i>DC. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4637,
+name: "Spermacoce diffusa Willd. ex Roem. & Schult.",
+canonicalForm: "Spermacoce diffusa",
+italicisedForm: "<i>Spermacoce diffusa </i>Willd.<i> ex </i>Roem.<i> & </i>Schult. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4638,
+name: "Spermacoce gracilis Pohl ex DC. [Invalid]",
+canonicalForm: "Spermacoce gracilis",
+italicisedForm: "<i>Spermacoce gracilis </i>Pohl<i> ex </i>DC.<i> [Invalid]</i>",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4639,
+name: "Spermacoce hirta L.",
+canonicalForm: "Spermacoce hirta",
+italicisedForm: "<i>Spermacoce hirta </i>L. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4640,
+name: "Spermacoce villosa Sw.",
+canonicalForm: "Spermacoce villosa",
+italicisedForm: "<i>Spermacoce villosa </i>Sw. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+},
+{
+id: 4641,
+name: "Staurospermum verticillatum Schumach. & Thonn.",
+canonicalForm: "Staurospermum verticillatum",
+italicisedForm: "<i>Staurospermum verticillatum </i>Schumach.<i> & </i>Thonn. ",
+taxonConcept: {
+id: 414
+},
+isContributor: false,
+relationship: {
+name: "Synonym"
+}
+}
+],
+common_names: [ ],
+group: {
+id: 10,
+name: "Plants",
+groupOrder: 0
+},
+habitat: null,
+createdOn: "2014-09-24T17:59:26Z",
+lastRevised: "2015-03-19T11:47:53Z",
+thumbnail: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_142256_th1.jpg",
+notes: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>MTCVI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+summary: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>MTCVI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+fields: [
+{
+id: 1592,
+field: {
+concept: "Overview",
+category: "Summary",
+description: "A general summary, with any kind of information about the taxon. Its main goal is summarize the most relevant or attractive characteristics of this taxon to the general public.",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "<h6>Biological Type</h6><p>broadleaf</p><h6>Code</h6><p>MTCVI</p><h6>Habitat</h6><p>terrestrial</p><h6>Life Form</h6><p>annual</p>",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706168,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 1593,
+field: {
+concept: "Nomenclature and Classification",
+category: "Taxon Record Name",
+subCategory: "Scientific Name",
+description: "The full name of the lowest level taxon to which the organism has been identified in the most recent accepted determination, specified as precisely as possible, including name of author, year of authorship, sensu or sec. (according to or following) author, and indication of uncertainty. Conceptually equivalent to a full taxonomic identification as given by the identifier (verbatim). Does not include the identifier name or date of identification",
+language: {
+id: 123,
+name: "English"
+}
+},
+text: "Mitracarpus hirtus (L.) DC.",
+dateCreated: "2014-09-24T18:01:46Z",
+lastUpdated: "2014-09-24T18:01:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 4,
+name: "Wikwio project",
+user: null
+}
+],
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+uploadTime: 1411581706169,
+language: {
+id: 123,
+name: "English"
+},
+rating: 0
+},
+{
+id: 5035,
+field: {
+concept: "Généralités",
+category: "Summary",
+description: "Résumé général du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Mitracarpus hirtus est une plante dressée. Les feuilles sont opposées et décussées, elliptiques et faiblement pétiolées, présentant une collerette stipulaire dentée. Les fleurs, de couleur blanche, sont sessiles et groupées en glomérules axillaires. Elles comprennent un calice persistant, soudé à l'ovaire et surmonté de 4 lobes dont 2 sont réduits et 2 sont développés, 4 pétales soudés en un tube surmonté de 4 lobes. Le fruit est une capsule déhiscente, contenant 2 graines oblongues finement tuberculeuses.</p>",
+dateCreated: "2015-03-19T11:47:53Z",
+lastUpdated: "2015-03-19T11:47:53Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765673007,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5016,
+field: {
+concept: "Généralités",
+category: "Synthèse",
+description: "Description générale du taxon mettant en évidence les principales caractériqtiques du taxon pour le grand public.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Code</h6><p>MTCVI</p><h6>Type Biologique</h6><p>feuilles larges</p><h6>Forme De Vie</h6><p>annuelle</p><h6>Habitat</h6><p>terrestre</p>",
+dateCreated: "2015-03-19T11:47:42Z",
+lastUpdated: "2015-03-19T11:47:42Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765662377,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5026,
+field: {
+concept: "Généralités",
+category: "Diagnostic",
+subCategory: "Description",
+description: "Un descriptif textuel de l'espèce pas nécessairement structuré.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Description Globale</h6><p>Mitracarpus hirtus est une plante dressée. Les feuilles sont opposées et décussées, elliptiques et faiblement pétiolées, présentant une collerette stipulaire dentée. Les fleurs, de couleur blanche, sont sessiles et groupées en glomérules axillaires. Elles comprennent un calice persistant, soudé à l'ovaire et surmonté de 4 lobes dont 2 sont réduits et 2 sont développés, 4 pétales soudés en un tube surmonté de 4 lobes. Le fruit est une capsule déhiscente, contenant 2 graines oblongues finement tuberculeuses.</p><h6>Cotylédons</h6><p>Les cotylédons sont de forme elliptique, au sommet légèrement émarginé. Ils mesurent 7 mm de long et 4 mm de large. Ils sont portés par un très court pétiole. La nervure centrale est bien visible. Les bases des pétioles sont élargies et se rejoignent, formant une fine collerette stipulaire.</p><h6>Premières Feuilles</h6><p>Les premières feuilles sont opposées. Le limbe est elliptique, long de 2 à 3 cm et large de 6 à 10 mm. La base du limbe est atténuée en un court pétiole. Les bases des pétioles se rejoignent, formant une collerette stipulaire à dents effilées. La tige est quadrangulaire. Elle est finement pubescente et les feuilles sont glabres.</p><h6>Port</h6><p>Le port est dressé. La plante est très ramifiée et mesure jusqu'à 60 cm de hauteur.</p><h6>Système Souterrain</h6><p>La racine est pivotante.</p><h6>Tige</h6><p>La tige est quadrangulaire et couverte d'une fine pubescence. Elle est pleine et parfois subligneuse à la base.</p><h6>Feuille</h6><p>Les feuilles sont opposées et décussées. Le limbe est elliptique lancéolé, long de 3 à 6 cm et large de 7 à 20 mm. Le sommet forme un coin large. La base est atténuée en un pétiole mal individualisé, long de 5 à 15 mm, dont la base se prolonge en une collerette stipulaire aux nombreuses dents effilées, longues de 2 à 3 mm. La face supérieure est glabre. La face inférieure est glabre mais les nervures sont scabres. La marge est entière et fortement scabre.</p><h6>Inflorescence</h6><p>Les fleurs sont assemblées en glomérules axillaires, sous-tendus par la collerette stipulaire et une paire de feuilles sessiles.</p><h6>Fleur</h6><p>Chaque glomérule comprend un grand nombre de petites fleurs blanches sessiles, longues de 2,5 mm. Le calice est formé de 4 sépales inégaux, soudés au sommet de l'ovaire. Deux sépales sont réduits et linéaires, les deux autres sont lancéolés et longs de 2 mm. Ils sont tous pubescents. La corolle est à peine plus longue que le calice. Elle est formée de 4 pétales soudés en tube, se terminant en 4 lobes courts. Les 4 étamines sont aussi longues que la corolle. L'ovaire est infère et comprend 2 loges. Il est surmonté d'un style bifide.</p><h6>Fruit</h6><p>Le fruit est une capsule déhiscente, de forme globuleuse. Elle est longue de 2 mm et surmontée des pièces du calice. La ligne de déhiscence se situe à l'équateur de la capsule. La capsule contient une graine dans chaque loge.</p><h6>Graine</h6><p>Les graines sont oblongues, formant une croix aux branches repliées vers le centre. Elles sont longues de 1 mm et larges de 0,5 mm. Le tégument est de couleur brun clair et finement tuberculeux.</p>",
+dateCreated: "2015-03-19T11:47:44Z",
+lastUpdated: "2015-03-19T11:47:44Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765664922,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5028,
+field: {
+concept: "Nomenclature et Classification",
+category: "Nom de Taxon Enregistré",
+subCategory: "Nom Scientifique",
+description: "Le nom complet du taxon au niveau le plus bas auquel l'organisme a été identifié dans la détermination acceptée la plus récente, définis aussi précisément que possible, y compris le nom de l'auteur, l'année, sensu ou sec. (selon ou après) l'auteur, et l'indication de l'incertitude. Conceptuellement équivalent à une identification taxonomique complète.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Mitracarpus hirtus (L.) DC.",
+dateCreated: "2015-03-19T11:47:45Z",
+lastUpdated: "2015-03-19T11:47:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765665624,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5027,
+field: {
+concept: "Histoire Naturelle",
+category: "Cycle biologique",
+description: "Décrire le rythme biologique - Les états et conditions caractérisés par une répétition régulière dans le temps (seconde, heure, jour, saison). Cela peut inclure les phénomènes de floraison ou de rumination. Le cycle de vie est traité dans le champ "Cycle de vie". Migration saisonnière et reproduction sont traités séparément.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : M. hirtus est une espèce présente tout au long du cycle cultural mais devient plus fréquente et plus abondante en fin de cycle cultural. En effet, à cette période, M. hirtus devient une adventice potentielle générale, présente dans plus de 60 % des parcelles et souvent de façon abondante. La germination a lieu depuis les premières pluies du mois de mai jusqu'en octobre. En début de saison, ces germinations sont peu nombreuses. En revanche, elles deviennent abondantes en août ou en septembre. Les premières fleurs peuvent apparaître dès le mois de juillet, mais la pleine floraison a lieu plutôt d'août à fin octobre. La fructification intervient en fin de cycle à partir du mois de septembre et s'achève en début de saison sèche, début décembre, avec le dessèchement de la plante.<br>",
+dateCreated: "2015-03-19T11:47:45Z",
+lastUpdated: "2015-03-19T11:47:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765665291,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5032,
+field: {
+concept: "Histoire Naturelle",
+category: "Reproduction",
+description: "Décrire le comportement et la physiologie de la reproduction, incluant fécondation et traits de vie (taux de reproduction...).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Mitracarpus hirtus est une espèce annuelle. Elle se multiplie par graines.<br>",
+dateCreated: "2015-03-19T11:47:47Z",
+lastUpdated: "2015-03-19T11:47:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765667046,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5029,
+field: {
+concept: "Histoire Naturelle",
+category: "Dispersion",
+description: "Décrire les moyens, conditions et périodes de dispersion (incluant la dispersion lors de la ponte)",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>Cette espèce est répandue dans toutes les régions tropicales du globe.</p>",
+dateCreated: "2015-03-19T11:47:45Z",
+lastUpdated: "2015-03-19T11:47:45Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765665988,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5031,
+field: {
+concept: "Histoire Naturelle",
+category: "Ecologie",
+description: "Relations interorganismes dans leur environnement. Variables d'intérêt pour l'écologie (composition, distribution, biomasse, allelopathie).",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "Nord-Cameroun : M. hirtus se développe de la zone sahélo-soudanienne à la zone soudanienne. Cette espèce est caractéristique des sols légers à horizon superficiel sableux comme les sols ferrugineux, les sols ferrugineux de cordon dunaire et les sols peu évolués, issus de la dégradation récente des roches. C'est une espèce fréquente sur les sols dégradés à faible fertilité.<br>",
+dateCreated: "2015-03-19T11:47:46Z",
+lastUpdated: "2015-03-19T11:47:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765666683,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5030,
+field: {
+concept: "Habitat et Distribution",
+category: "Distribution",
+subCategory: "Description",
+description: "Énumérer les entités géographiques où le taxon vit. Couvre par exemple, une région globale, ou une plus étroite; peut être biogéographique, politique ou autre (par exemple, les zones gérées pour la conservation) ; endémisme; indigène ou exotique. Ne comprend pas la distribution altitudinale, qui est traité dans le champ "habitat".",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Distribution Mondiale</h6><p>Cette espèce est répandue dans toutes les régions tropicales du globe.</p>",
+dateCreated: "2015-03-19T11:47:46Z",
+lastUpdated: "2015-03-19T11:47:46Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765666351,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5033,
+field: {
+concept: "Démographie et Conservation",
+category: "Analyse de Risque",
+description: "Impacts négatifs sur les communautés humaines incluant l'invasibilité. [Cela peut concerner les écosystèmes où l'organisme est en déclin ou a été éliminé]",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Nuisibilité Locale</h6><p>Nord-Cameroun : C'est une adventice régionale, présente dans près de 50 % des parcelles cultivées. Elle est plus abondante en régions sahélo-soudanienne et soudano-sahélienne qu'en région soudanienne. Dans cette région, les herbicides, utilisés fréquemment, limitent son développement, bien qu'elle soit légèrement plus fréquente que dans les autres régions. C'est une espèce caractéristique du cortège floristique de Commelina benghalensis. On la rencontre principalement dans les parcelles cultivées de façon continue depuis plus de 10 ans. Elle se développe aussi bien en culture intensive qu'en culture traditionnelle, où elle est souvent plus abondante. Madagascar : Espèce fréquente et abondante, elle peut être très nuisible.</p>",
+dateCreated: "2015-03-19T11:47:47Z",
+lastUpdated: "2015-03-19T11:47:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765667379,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5034,
+field: {
+concept: "Usages et Gestion",
+category: "Gestion",
+description: "Décrire les techniques et les objectifs utilisés dans la gestion des espèces - élevage et de culture, lutte, etc. Peut inclure la gestion par rapport à un projet de loi, par exemple, une liste de la CITES.",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "<h6>Lutte Locale</h6><p>Madagascar : Le contrôle manuel de M. hirtus est exigeant en temps. Son contrôle chimique se fait en pré-levée (atrazine, oxadiazon ou diuron), ou en post-levée (2,4-D et/ou glyphosate), y compris sur des plantes âgées. Son contrôle est donc beaucoup plus facile que pour Borreria alata, d’autant plus que M. hirtus est relativement bien contrôlé par une couverture végétale. Il est donc très important de ne pas confondre ces deux espèces.</p>",
+dateCreated: "2015-03-19T11:47:47Z",
+lastUpdated: "2015-03-19T11:47:47Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765667818,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5017,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:44Z",
+lastUpdated: "2015-04-03T11:05:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Akobundu I.O. & Agyakwa C.W., 1989. Guide des adventices d'Afrique de l'Ouest. Institut international d'agriculture tropicale. Ibadan, Nigeria, 521p."
+},
+{
+title: "Le Bourgeois Th., 1993. Les mauvaises herbes dans la rotation cotonnière au Nord-Cameroun (Afrique) - Amplitude d'habitat et degré d'infestation - Cycle de développement. Thèse USTL Montpellier II, Montpellier, France, 241p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765664297,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5023,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:44Z",
+lastUpdated: "2015-03-22T16:53:05Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765664298,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5019,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:44Z",
+lastUpdated: "2015-03-29T13:52:39Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [ ],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765664297,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5020,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:44Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Husson, O., H. Charpentier, F.-X. Chabaud, K. Naudin, Rakotondramanana et L. Séguy (2010). Flore des jachères et adventices des cultures. Annexe 1 : les principales plantes de jachères et adventices des cultures à Madagascar. In : Manuel pratique du semis direct à Madagascar. Annexe 1 - Antananarivo : GSDM/CIRAD, 2010 : 64 p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765664298,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5021,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:44Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Hutchinson J., Dalziel J. M., Keay R. W. J. & Hepper F. N., 1963. Flora of West Tropical Africa. Vol. II. 2ème éd. The Whitefriars Press ed., London & Tonbridge, 544p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765664298,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5022,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:44Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Ivens G. W., Moody K. & Egunjobi J. K., 1978. West African Weeds. Oxford University Press, Ibadan, Nigeria, 255p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765664298,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5024,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:44Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Merlier H. & Montégut J., 1982. Adventices tropicales. ORSTOM-GERDAT-ENSH éd., Montpellier, France, 490p."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765664298,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5025,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:44Z",
+lastUpdated: "2015-03-31T06:53:10Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Le Bourgeois, T. and H. Merlier (1995). Adventrop - Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad. 640 pp."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765664299,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+},
+{
+id: 5018,
+field: {
+concept: "Liste d'Information",
+category: "Références",
+description: "Bibliographie",
+language: {
+id: 137,
+name: "French"
+}
+},
+text: "dummy",
+dateCreated: "2015-03-19T11:47:44Z",
+lastUpdated: "2015-04-03T11:05:49Z",
+licenses: [
+{
+name: "CC BY-SA",
+url: {
+enumType: "species.License$LicenseType",
+name: "CC_BY_SA"
+}
+}
+],
+audienceTypes: [ ],
+resources: [ ],
+references: [
+{
+title: "Berhaut J., 1967. Flore du Sénégal. 2ème éd. Clairafrique éd., Dakar, Sénégal, 485p."
+},
+{
+title: "Grard, P., T. Le Bourgeois and H. Merlier (2010). Adventrop V.1.5 Les adventices d'Afrique soudano-sahélienne. Montpellier, France, Cirad."
+}
+],
+contributors: [
+{
+id: 3,
+name: "WIKWIO Portal",
+icon: "http://portal.wikwio.org/biodiv/users//23ff2afb-1bb8-45e2-a351-263413cbf81d/resources/971_th1.jpg"
+}
+],
+attributors: [
+{
+class: "species.Contributor",
+id: 92,
+name: "WIKWIO Project",
+user: null
+}
+],
+uploader: {
+id: 1,
+name: "admin",
+icon: "http://portal.wikwio.org/biodiv/users/user_large.png"
+},
+uploadTime: 1426765664297,
+language: {
+id: 137,
+name: "French"
+},
+rating: 0
+}
+],
+resource: [
+{
+id: 4576,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_142256.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_142256_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:39Z",
+rating: 0
+},
+{
+id: 4577,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20020527_165732.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20020527_165732_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:39Z",
+rating: 0
+},
+{
+id: 4578,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_150659.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_150659_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:39Z",
+rating: 0
+},
+{
+id: 4579,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_131712.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_131712_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:39Z",
+rating: 0
+},
+{
+id: 4580,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_131540.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_131540_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:40Z",
+rating: 0
+},
+{
+id: 4581,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_133748.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_133748_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:40Z",
+rating: 0
+},
+{
+id: 4582,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_142114.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_142114_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:40Z",
+rating: 0
+},
+{
+id: 4583,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_142334.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_142334_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:40Z",
+rating: 0
+},
+{
+id: 4584,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_142142.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_142142_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:40Z",
+rating: 0
+},
+{
+id: 4585,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_150558.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_150558_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:40Z",
+rating: 0
+},
+{
+id: 4586,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_132956.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_132956_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:40Z",
+rating: 0
+},
+{
+id: 4587,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_150810.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_150810_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:41Z",
+rating: 0
+},
+{
+id: 4588,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_142053.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_142053_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:41Z",
+rating: 0
+},
+{
+id: 4589,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_133538.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_133538_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:41Z",
+rating: 0
+},
+{
+id: 4590,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_150837.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090213_150837_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:41Z",
+rating: 0
+},
+{
+id: 4591,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_131426.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_131426_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:41Z",
+rating: 0
+},
+{
+id: 4592,
+url: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_131810.jpg",
+icon: "http://portal.wikwio.org/biodiv/img//Mitracarpus hirtus/mtcvi_20090212_131810_th1.jpg",
+uploader: {
+id: 53,
+name: "Thomas Vattakaven",
+icon: "http://portal.wikwio.org/biodiv/users//3eb87510-237c-40c1-958a-12adad22db7c/resources/73_th1.jpg"
+},
+type: "Image",
+uploadTime: "2014-09-24T17:59:41Z",
+rating: 0
+}
+],
+userGroups: [ ],
+featureCount: 0,
+featuredNotes: [ ]
+}
+}
