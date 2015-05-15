@@ -1,0 +1,22 @@
+ <g id="Inflo_A">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Inflo" onclick=" showquest('Inflo')" onmousemove=" showrobotip('Inflo','Inflorescence')" onmouseout=" hidetooltip('Inflo')" cursor="pointer">
+   <g id="spathe">
+     <metadata id="CorelCorpID_1">
+      <odm name="Name" value="spathe" type="0"/>
+     </metadata>
+    <path fill="#00C800" stroke="black" stroke-width="7.62" d="M10273 2614c-5,-48 -23,-87 -77,-159 -381,-400 -1297,-1157 -1264,-1179 1606,-1045 2012,1117 1387,1132 -4,48 2,104 24,173 -35,17 -35,17 -71,33z"/>
+    <path fill="none" stroke="black" stroke-width="7.62" d="M8933 1276c1361,-584 1864,918 1420,1102"/>
+    <ellipse fill="yellow" stroke="black" stroke-width="7.62" cx="9742" cy="594" rx="122" ry="131"/>
+    <ellipse fill="#B4B400" stroke="black" stroke-width="7.62" cx="10023" cy="818" rx="125" ry="134"/>
+    <path fill="none" stroke="black" stroke-width="7.62" d="M9763 723c6,83 36,285 26,452"/>
+    <path fill="none" stroke="black" stroke-width="7.62" d="M9938 921c-28,35 -123,211 -149,254"/>
+    <ellipse fill="red" stroke="black" stroke-width="7.62" cx="9694" cy="1010" rx="128" ry="138"/>
+   </g>
+   <g>
+    <polygon fill="white" fill-opacity="0.149020" points="11700,2800 11700,400 8100,400 8100,2800 "/>
+    <polygon id="1" fill="none" stroke="black" stroke-width="7.62" points="11700,2800 11700,400 8100,400 8100,2800 "/>
+   </g>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M8690 4025c153,-288 183,-407 271,-701 -226,387 -376,340 -544,430 101,-2 107,26 178,54 -320,319 -643,319 -967,338 182,-17 354,115 228,338 170,-166 456,-288 775,-628 42,12 46,130 60,169z"/>
+ </g>

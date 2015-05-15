@@ -1,0 +1,22 @@
+ <g id="pilo_inf_etoile">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Pilo_inf_dtl" onclick=" showquest('Pilo_inf_dtl')" onmousemove=" showrobotip('Pilo_inf_dtl','Type de pilosit&#233; de la face inf&#233;rieure du limbe')" onmouseout=" hidetooltip('Pilo_inf_dtl')" cursor="pointer">
+   <rect id="Pilo_inf_cdr" fill="white" stroke="black" stroke-width="7.62" x="15700" y="15000" width="2000" height="1800">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Reponse pilo inf" type="0"/>
+    </metadata>
+   </rect>
+   <g id="poils">
+     <metadata id="CorelCorpID_2">
+      <odm name="Name" value="poils étoilés" type="0"/>
+     </metadata>
+    <polygon id="sans" fill="#74BE5A" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="16174,16157 15755,16796 17607,16796 17188,16157 ">
+     <metadata id="CorelCorpID_3">
+      <odm name="Name" value="sans" type="0"/>
+     </metadata>
+    </polygon>
+    <path fill="white" stroke="black" stroke-width="7.62" d="M16717 16545l-35 2 0 -67c0,0 -81,-12 -209,136 25,-73 107,-162 148,-163 -241,-52 -520,-48 -566,-41 -46,7 -275,66 -312,76 -37,11 218,-105 390,-124 36,-4 344,5 479,43 -5,-33 -133,-144 -238,-224 -106,-80 -293,-131 -356,-145 86,5 204,17 353,97 49,26 168,67 286,265 -20,-187 -35,-247 -144,-358 67,34 101,78 118,112 17,34 65,91 75,229 110,-282 290,-339 563,-340 -188,32 -236,52 -292,90 -38,26 -139,56 -222,258 43,-38 109,-97 234,-137 178,-57 373,-88 578,-34 -212,-2 -379,-4 -524,55 -145,58 -207,84 -261,144 171,-42 270,-62 553,-48 124,6 261,43 307,80 -51,-1 -223,-72 -621,-38 -82,7 -130,15 -236,43 113,73 124,144 145,200 -53,-76 -30,-39 -70,-83 -5,-5 -98,-96 -143,-93l0 66z"/>
+   </g>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M17650 14899c-97,201 -151,266 -277,434 123,-282 35,-346 17,-475 40,56 58,48 102,76 46,-306 -84,-485 -206,-671 64,107 207,149 279,-11 -23,161 26,369 -33,683 24,18 91,-28 117,-35z"/>
+ </g>

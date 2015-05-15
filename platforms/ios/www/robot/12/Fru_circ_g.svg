@@ -1,0 +1,21 @@
+
+ <g id="Fru_circ_g">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Fruit" onclick=" showquest('Fruit')" onmousemove=" showrobotip('Fruit','Type de fruit')" onmouseout=" hidetooltip('Fruit')" cursor="pointer" >
+   <rect fill="white" stroke="black" stroke-width="7.62" x="400" y="400" width="2400" height="3600"/>
+   <g id="capsule">
+    <path fill="#B2A71C" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M727 2039c-264,502 354,1278 920,1326 625,-144 1041,-756 835,-1387l-1755 62z"/>
+    <path fill="#FFFA89" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1622 2230c-483,0 -899,-148 -899,-217 0,-69 427,-189 910,-189 483,0 837,58 837,127 0,69 -366,279 -849,279z"/>
+    <path fill="#B2A71C" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M739 1701c56,-343 271,-410 477,-774 250,10 699,-106 985,158l-1462 616z"/>
+    <path fill="#EA8847" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1641 3477c-15,-6 -6,-46 -25,-71 -62,-25 -187,-33 -237,-135 17,-44 38,69 256,46 73,-15 81,-83 171,-110 35,25 -71,77 -42,110 37,40 117,-69 139,-19 -106,92 -139,112 -164,117 -27,106 -87,71 -98,62z"/>
+    <path fill="#FFFA89" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1593 1668c-369,135 -804,248 -854,102 -48,-140 294,-416 664,-550 369,-133 760,-269 827,-85 67,185 -267,398 -637,533z"/>
+    <path fill="#E7B78B" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1462 2224c-58,-85 -27,-697 158,-724 190,42 256,548 202,714 -139,38 -235,54 -360,10z"/>
+    <path fill="#E3481D" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1880 2103c-89,-25 -152,-83 -139,-133 15,-50 100,-65 189,-38 90,25 154,81 139,133 -13,50 -98,63 -189,38z"/>
+    <path fill="#E3481D" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1853 1847c-71,-19 -121,-67 -110,-110 12,-44 77,-64 148,-46 73,17 123,65 112,112 -12,42 -77,62 -150,44z"/>
+    <path fill="#E3481D" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1497 2232c-60,2 -142,-38 -46,-75 58,-21 117,-15 129,15 12,31 -21,58 -83,60z"/>
+    <path fill="#E3481D" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1464 2074c-83,60 -171,75 -204,27 -31,-48 13,-135 94,-194 83,-60 171,-77 204,-25 31,46 -13,131 -94,192z"/>
+    <path fill="#E3481D" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1503 1574c-96,-37 -185,-27 -204,27 -17,54 48,127 140,164 96,37 187,31 204,-29 17,-52 -46,-123 -141,-162z"/>
+   </g>
+  </g>
+  <path id="A_Arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M3440 1967c-289,95 -387,155 -636,295 402,-114 473,15 644,63 -69,-64 -55,-87 -84,-152 422,-7 639,202 869,400 -133,-106 -164,-307 66,-375 -222,1 -493,-102 -928,-80 -20,-35 54,-117 69,-152z"/>
+ </g>

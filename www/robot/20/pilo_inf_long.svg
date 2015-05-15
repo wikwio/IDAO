@@ -1,0 +1,26 @@
+ <g id="pilo_inf_long">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Pilo_inf_dtl" onclick=" showquest('Pilo_inf_dtl')" onmousemove=" showrobotip('Pilo_inf_dtl','Type de pilosit&#233; de la face inf&#233;rieure du limbe')" onmouseout=" hidetooltip('Pilo_inf_dtl')" cursor="pointer">
+   <rect id="Pilo_inf_cdr" fill="white" stroke="black" stroke-width="7.62" x="15700" y="15000" width="2000" height="1800">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Reponse pilo inf" type="0"/>
+    </metadata>
+   </rect>
+   <polygon id="sans" fill="#74BE5A" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="16171,16132 15737,16795 17655,16795 17221,16132 ">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="sans" type="0"/>
+    </metadata>
+   </polygon>
+   <path fill="white" stroke="black" stroke-width="7.62" d="M16478 16477l-43 0c0,0 -4,-359 7,-450 8,-68 6,-147 70,-330 -14,99 -32,220 -35,337 -3,155 1,289 1,444z"/>
+   <g>
+    <path fill="white" stroke="black" stroke-width="7.62" d="M16874 16472l-43 0c0,-38 -1,-77 -2,-116 -1,-65 -3,-129 -1,-194 1,-48 4,-95 10,-141 8,-68 6,-147 70,-330 -11,79 -23,158 -29,238 -3,33 -5,66 -5,99 -3,155 1,289 1,444z"/>
+    <line fill="none" stroke="black" stroke-width="7.62" x1="16828" y1="16164" x2="16871" y2= "16164" />
+    <line fill="none" stroke="black" stroke-width="7.62" x1="16833" y1="16058" x2="16872" y2= "16058" />
+    <path fill="none" stroke="black" stroke-width="7.62" d="M16846 15932c5,0 15,2 31,2"/>
+    <line fill="none" stroke="black" stroke-width="7.62" x1="16889" y1="15826" x2="16867" y2= "15824" />
+    <line fill="none" stroke="black" stroke-width="7.62" x1="16873" y1="16357" x2="16828" y2= "16357" />
+    <line fill="none" stroke="black" stroke-width="7.62" x1="16872" y1="16253" x2="16827" y2= "16254" />
+   </g>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M17650 14899c-97,201 -151,266 -277,434 123,-282 35,-346 17,-475 40,56 58,48 102,76 46,-306 -84,-485 -206,-671 64,107 207,149 279,-11 -23,161 26,369 -33,683 24,18 91,-28 117,-35z"/>
+ </g>

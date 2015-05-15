@@ -1,0 +1,24 @@
+
+ <g id="composee.apex_emarginate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Apex_limbe" onclick=" showquest('Apex_limbe')" onmousemove=" showrobotip('Apex_limbe','Sommet du limbe')" onmouseout=" hidetooltip('Apex_limbe')" cursor="pointer">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Marge_limbe" type="0"/>
+    </metadata>
+   <g>
+    <path fill="white" fill-opacity="0.149020" d="M21500 1057c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+    <path id="1" fill="none" stroke="black" stroke-width="7.62" d="M21500 1057c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+   </g>
+   <rect id="Cadre_apex" fill="white" stroke="black" stroke-width="7.62" x="18500" y="200" width="2000" height="1800">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="Cadre_apex" type="0"/>
+    </metadata>
+   </rect>
+   <path fill="#78B43C" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M18704 2000l1594 0c-17,-362 -108,-1037 -135,-1126 -32,-297 -213,-463 -303,-468 -47,-17 -184,17 -315,170 -68,80 -265,-233 -447,-168 -125,45 -182,218 -204,256 -45,55 -170,795 -180,1335 -29,0 17,0 -9,0z"/>
+   <polygon fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="19533,619 19521,1977 "/>
+   <path fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M19181 700c25,300 137,471 337,606"/>
+   <path fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20026 1001c-36,263 -286,631 -473,695"/>
+   <path fill="none" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M18949 1629c-10,166 48,206 140,348"/>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20973 580c-167,-45 -232,-46 -395,-57 227,71 221,155 287,230 -13,-52 1,-59 7,-99 203,128 241,295 289,461 -30,-92 17,-197 148,-158 -106,-68 -203,-202 -417,-327 1,-23 62,-39 80,-51z"/>
+ </g>

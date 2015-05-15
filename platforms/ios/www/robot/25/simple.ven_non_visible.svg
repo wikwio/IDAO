@@ -1,0 +1,27 @@
+ <g id="simple.ven_non_visible">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Nervation" onclick=" showquest('Nervation')" onmousemove=" showrobotip('Nervation','Nervation du limbe de la feuille')" onmouseout=" hidetooltip('Nervation')" cursor="pointer">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Nervation" type="0"/>
+    </metadata>
+   <g>
+    <path fill="white" fill-opacity="0.149020" d="M21500 4500c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+    <path id="1" fill="none" stroke="black" stroke-width="7.62" d="M21500 4500c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+   </g>
+   <rect id="Cadre_Venation" fill="white" stroke="black" stroke-width="7.62" x="21800" y="7600" width="2000" height="1800">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="Cadre_Venation" type="0"/>
+    </metadata>
+   </rect>
+   <rect id="ven_non" fill="#78B43C" stroke="#2A2A29" stroke-width="7.62" x="21800" y="7600" width="2000" height="1800">
+    <metadata id="CorelCorpID_3">
+     <odm name="Name" value="ven_non" type="0"/>
+    </metadata>
+   </rect>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M22727 6244c70,540 70,749 83,1271 -110,-733 -248,-716 -372,-933 85,43 96,-1 163,-19 -205,-658 -479,-788 -751,-950 151,101 325,-48 264,-469 110,344 327,661 526,1355 38,-4 66,-198 86,-255z">
+   <metadata id="CorelCorpID_4">
+    <odm name="Name" value="A_arrow" type="0"/>
+   </metadata>
+  </path>
+ </g>

@@ -1,0 +1,86 @@
+ <g id="simple.ven_pennee">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Nervation" onclick=" showquest('Nervation')" onmousemove=" showrobotip('Nervation','Nervation du limbe de la feuille')" onmouseout=" hidetooltip('Nervation')" cursor="pointer">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Marge_limbe" type="0"/>
+    </metadata>
+   <g>
+    <path fill="white" fill-opacity="0.149020" d="M21500 4500c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+    <path id="1" fill="none" stroke="black" stroke-width="7.62" d="M21500 4500c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+   </g>
+   <rect id="Cadre_Venation" fill="white" stroke="black" stroke-width="7.62" x="21800" y="7600" width="2000" height="1800">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="Cadre_Venation" type="0"/>
+    </metadata>
+   </rect>
+   <path id="pas_x0020_visible" fill="#78B43C" stroke="black" stroke-width="7.62" d="M22289 9400c-122,-184 -246,-505 -248,-778 -1,-275 61,-576 179,-906 14,-38 28,-77 42,-116l1070 0c12,29 25,58 37,87 131,321 198,639 190,970 -8,284 -124,570 -250,743l-1020 0z">
+    <metadata id="CorelCorpID_3">
+     <odm name="Name" value="pas visible" type="0"/>
+    </metadata>
+   </path>
+   <path id="nervure" fill="#2A2A29" stroke="black" stroke-width="7.62" d="M22790 7600l40 1800 -37 0c-9,-393 -25,-1128 -34,-1800l31 0z">
+    <metadata id="CorelCorpID_4">
+     <odm name="Name" value="nervure" type="0"/>
+    </metadata>
+   </path>
+   <g id="nervures_x0020_droite">
+    <path id="nervure_0" fill="none" stroke="black" stroke-width="7.62" d="M22493 9400c-132,-91 -258,-212 -334,-372">
+     <metadata id="CorelCorpID_5">
+      <odm name="Name" value="nervure" type="0"/>
+     </metadata>
+    </path>
+    <path id="nervure_1" fill="none" stroke="black" stroke-width="7.62" d="M22806 9396c-361,-226 -635,-462 -714,-841">
+     <metadata id="CorelCorpID_6">
+      <odm name="Name" value="nervure" type="0"/>
+     </metadata>
+    </path>
+    <path id="nervure_2" fill="none" stroke="black" stroke-width="7.62" d="M22806 9175c-482,-428 -561,-642 -660,-1055">
+     <metadata id="CorelCorpID_7">
+      <odm name="Name" value="nervure" type="0"/>
+     </metadata>
+    </path>
+    <path id="nervure_3" fill="none" stroke="black" stroke-width="7.62" d="M22806 8809c-375,-361 -451,-564 -560,-1058">
+     <metadata id="CorelCorpID_8">
+      <odm name="Name" value="nervure" type="0"/>
+     </metadata>
+    </path>
+    <path id="nervure_4" fill="none" stroke="black" stroke-width="7.62" d="M22772 8389c-163,-165 -277,-423 -354,-789">
+     <metadata id="CorelCorpID_9">
+      <odm name="Name" value="nervure" type="0"/>
+     </metadata>
+    </path>
+   </g>
+   <g id="nervures_x0020_gauche">
+    <path id="nervure_5" fill="none" stroke="black" stroke-width="7.62" d="M23043 9396c176,-165 319,-305 477,-653">
+     <metadata id="CorelCorpID_10">
+      <odm name="Name" value="nervure" type="0"/>
+     </metadata>
+    </path>
+    <path id="nervure_6" fill="none" stroke="black" stroke-width="7.62" d="M22823 9203c467,-453 560,-676 641,-1094">
+     <metadata id="CorelCorpID_11">
+      <odm name="Name" value="nervure" type="0"/>
+     </metadata>
+    </path>
+    <path id="nervure_7" fill="none" stroke="black" stroke-width="7.62" d="M22815 8840c362,-380 449,-614 536,-1113">
+     <metadata id="CorelCorpID_12">
+      <odm name="Name" value="nervure" type="0"/>
+     </metadata>
+    </path>
+    <path id="nervure_8" fill="none" stroke="black" stroke-width="7.62" d="M22806 8333c161,-142 349,-312 404,-733">
+     <metadata id="CorelCorpID_13">
+      <odm name="Name" value="nervure" type="0"/>
+     </metadata>
+    </path>
+    <path id="nervure_9" fill="none" stroke="black" stroke-width="7.62" d="M22805 7949c96,-69 192,-197 211,-349">
+     <metadata id="CorelCorpID_14">
+      <odm name="Name" value="nervure" type="0"/>
+     </metadata>
+    </path>
+   </g>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M22727 6244c70,540 70,749 83,1271 -110,-733 -248,-716 -372,-933 85,43 96,-1 163,-19 -205,-658 -479,-788 -751,-950 151,101 325,-48 264,-469 110,344 327,661 526,1355 38,-4 66,-198 86,-255z">
+   <metadata id="CorelCorpID_15">
+    <odm name="Name" value="A_arrow" type="0"/>
+   </metadata>
+  </path>
+ </g>

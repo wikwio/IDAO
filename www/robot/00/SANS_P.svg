@@ -1,0 +1,129 @@
+ <g id="SANS_P">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Fruit" onclick=" showquest('Fruit')" onmousemove=" showrobotip('Fruit','Type de fruit')" onmouseout=" hidetooltip('Fruit')" cursor="pointer" >
+   <g id="fruit6">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="2530" y1="13877" x2="2174" y2= "13796" />
+    <path fill="#DA251D" stroke="black" stroke-width="7.62" d="M2045 13601c-54,33 -79,117 -56,187 23,70 85,101 139,68 54,-33 79,-117 56,-187 -23,-70 -85,-101 -139,-68z"/>
+   </g>
+   <g id="fruit5">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="1958" y1="14145" x2="1611" y2= "13971" />
+    <path fill="#DA251D" stroke="black" stroke-width="7.62" d="M1524 13824c-48,15 -78,79 -68,141 11,62 59,101 107,86 48,-15 78,-79 68,-141 -11,-62 -59,-101 -107,-86z"/>
+   </g>
+   <g id="fruit8">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="1919" y1="13967" x2="1613" y2= "13682" />
+    <path fill="#DA251D" stroke="black" stroke-width="7.62" d="M1551 13466c-54,-1 -98,55 -99,125 -1,70 42,127 96,128 54,1 98,-55 99,-125 1,-70 -42,-127 -96,-129z"/>
+   </g>
+   <g id="fruit1">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="6806" y1="12184" x2="7116" y2= "11905" />
+    <path fill="#DA251D" stroke="black" stroke-width="7.62" d="M7189 11714c51,0 92,54 92,120 0,66 -41,120 -92,120 -51,0 -92,-54 -92,-120 0,-66 41,-120 92,-120z"/>
+   </g>
+   <g id="fruit3">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="7307" y1="12164" x2="7609" y2= "11892" />
+    <path fill="#DA251D" stroke="black" stroke-width="7.62" d="M7651 11691c48,0 87,56 87,124 0,69 -39,124 -87,124 -48,0 -87,-56 -87,-124 0,-69 39,-124 87,-124z"/>
+   </g>
+   <g>
+    <line fill="none" stroke="black" stroke-width="7.62" x1="7221" y1="12387" x2="7493" y2= "12556" />
+    <path fill="#DA251D" stroke="black" stroke-width="7.62" d="M7573 12721c46,-10 79,-67 72,-128 -7,-60 -50,-102 -97,-92 -46,10 -79,67 -72,128 7,60 50,102 97,92z"/>
+   </g>
+   <g id="fruit4">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="7780" y1="12205" x2="8041" y2= "11957" />
+    <path fill="#DA251D" stroke="black" stroke-width="7.62" d="M8089 11786c46,-1 85,45 86,104 1,58 -35,107 -81,108 -46,1 -85,-45 -86,-104 -1,-58 35,-107 81,-108z"/>
+   </g>
+  </g>
+  <g id="Feuille" onclick=" showquest('Feuille')" onmousemove=" showrobotip('Feuille','Feuilles larges, de gramin&#233;es, compos&#233;es ou absentes ?')" onmouseout=" hidetooltip('Feuille')" cursor="pointer" >
+   <path id="tige3" fill="#00923F" stroke="black" stroke-width="7.62" d="M4750 13036c-85,-576 -673,-927 -1243,-1157 -897,-281 -1098,-569 -1904,-851 621,442 1035,617 1688,888 377,156 1299,422 1330,1140 69,94 135,-28 130,-21z"/>
+   <path id="tige6" fill="#00923F" stroke="black" stroke-width="7.62" d="M5443 12951c-18,-435 -422,-778 -822,-1029 -636,-336 -761,-577 -1331,-901 421,414 711,603 1169,897 264,170 920,498 887,1030 44,79 101,-1 97,4z"/>
+   <path id="tige2" fill="#00923F" stroke="black" stroke-width="7.62" d="M5114 13388c-551,-979 -1526,-458 -2152,157 -1101,1080 -1642,-254 -2620,215 989,-3 1146,551 2025,414 549,-85 1928,-1927 2538,-604 147,85 207,-205 209,-183z"/>
+   <path id="tige1" fill="#00923F" stroke="black" stroke-width="7.62" d="M4755 14533c-5,-1496 912,-2038 1695,-2292 1235,-222 2428,367 3294,-377 -826,1093 -2106,291 -3003,600 -518,178 -1674,393 -1713,2059 -136,10 -102,7 -273,10z"/>
+   <path id="tige5" fill="#00923F" stroke="black" stroke-width="7.62" d="M6169 12527c359,-474 1056,24 1667,408 993,539 1484,246 2392,702 -806,-136 -1687,-182 -2441,-510 -435,-189 -1150,-917 -1515,-434 -112,28 -120,-125 -103,-167z"/>
+   <path id="tige4" fill="#00923F" stroke="black" stroke-width="7.62" d="M4941 13853c329,-770 1002,-665 1751,-308 1191,468 1707,185 2828,433 -922,43 -1650,123 -2543,-119 -515,-139 -1524,-890 -1844,144 -121,72 -196,-168 -193,-151z"/>
+  </g>
+  <g id="Fl_Color" onclick=" showquest('Fl_Color')" onmousemove=" showrobotip('Fl_Color','Couleur des fleurs')" onmouseout=" hidetooltip('Fl_Color')" cursor="pointer" >
+   <g id="fleur1">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="7747" y1="12414" x2="8046" y2= "12480" />
+    <g>
+     <g>
+      <line fill="none" stroke="black" stroke-width="7.62" x1="7996" y1="12468" x2="8201" y2= "12507" />
+      <line fill="none" stroke="black" stroke-width="7.62" x1="8117" y1="12331" x2="8089" y2= "12630" />
+      <line fill="none" stroke="black" stroke-width="7.62" x1="8192" y1="12395" x2="8008" y2= "12592" />
+      <line fill="none" stroke="black" stroke-width="7.62" x1="8030" y1="12365" x2="8170" y2= "12609" />
+     </g>
+     <circle fill="#FFF500" stroke="black" stroke-width="7.62" transform="matrix(1.33713 0.271305 -0.198442 1.8281 8097.95 12480.7)" r="49"/>
+    </g>
+   </g>
+   <g id="fleur">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="8980" y1="12226" x2="9247" y2= "12031" />
+    <g>
+     <line fill="none" stroke="black" stroke-width="7.62" x1="9270" y1="11842" x2="9270" y2= "12162" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="9103" y1="11994" x2="9445" y2= "11987" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="9384" y1="11880" x2="9156" y2= "12108" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="9179" y1="11896" x2="9392" y2= "12093" />
+     <circle fill="#FFF500" stroke="black" stroke-width="7.62" transform="matrix(1.75019 -0.891315 0.963551 1.61898 9278.14 11996.6)" r="49"/>
+    </g>
+   </g>
+   <g id="fleur_0">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="8929" y1="12413" x2="9252" y2= "12483" />
+    <g>
+     <line fill="none" stroke="black" stroke-width="7.62" x1="9409" y1="12376" x2="9170" y2= "12587" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="9184" y1="12351" x2="9416" y2= "12602" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="9456" y1="12486" x2="9134" y2= "12467" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="9308" y1="12343" x2="9301" y2= "12633" />
+     <circle fill="#FFF500" stroke="black" stroke-width="7.62" transform="matrix(1.82764 0.719258 -0.57314 1.79473 9298.26 12483.9)" r="49"/>
+    </g>
+   </g>
+   <g id="fleur_1">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="8390" y1="12474" x2="8706" y2= "12572" />
+    <g>
+     <line fill="none" stroke="black" stroke-width="7.62" x1="8872" y1="12478" x2="8615" y2= "12668" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="8650" y1="12434" x2="8860" y2= "12704" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="8909" y1="12592" x2="8590" y2= "12545" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="8774" y1="12436" x2="8743" y2= "12725" />
+     <circle fill="#FFF500" stroke="black" stroke-width="7.62" transform="matrix(1.75979 0.872204 -0.723814 1.73943 8752.43 12576)" r="49"/>
+    </g>
+   </g>
+   <g id="fleur_2">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="8335" y1="12257" x2="8602" y2= "12062" />
+    <g>
+     <line fill="none" stroke="black" stroke-width="7.62" x1="8626" y1="11873" x2="8626" y2= "12192" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="8458" y1="12025" x2="8800" y2= "12017" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="8740" y1="11911" x2="8512" y2= "12139" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="8534" y1="11926" x2="8747" y2= "12124" />
+     <circle fill="#FFF500" stroke="black" stroke-width="7.62" transform="matrix(1.75019 -0.891315 0.963551 1.61898 8633.34 12027)" r="49"/>
+    </g>
+   </g>
+   <g id="fleur_3">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="1285" y1="13756" x2="1067" y2= "13508" />
+    <g>
+     <line fill="none" stroke="black" stroke-width="7.62" x1="1085" y1="13318" x2="1016" y2= "13630" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="1215" y1="13503" x2="883" y2= "13421" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="966" y1="13330" x2="1138" y2= "13603" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="1163" y1="13390" x2="912" y2= "13536" />
+     <circle fill="#FFF500" stroke="black" stroke-width="7.62" transform="matrix(-1.5141 -1.25104 -1.29297 1.37031 1043.94 13466.9)" r="49"/>
+    </g>
+   </g>
+   <g id="fleur_4">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="842" y1="13816" x2="525" y2= "13910" />
+    <g>
+     <line fill="none" stroke="black" stroke-width="7.62" x1="361" y1="13814" x2="615" y2= "14008" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="583" y1="13773" x2="369" y2= "14040" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="322" y1="13927" x2="642" y2= "13885" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="459" y1="13773" x2="486" y2= "14063" />
+     <circle fill="#FFF500" stroke="black" stroke-width="7.62" transform="matrix(-1.77153 0.84811 0.700012 1.74915 478.818 13913.4)" r="49"/>
+    </g>
+   </g>
+   <g id="fleur_5">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="1314" y1="13986" x2="989" y2= "13927" />
+    <g>
+     <line fill="none" stroke="black" stroke-width="7.62" x1="885" y1="13768" x2="1025" y2= "14055" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="1102" y1="13831" x2="791" y2= "13974" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="799" y1="13852" x2="1104" y2= "13957" />
+     <line fill="none" stroke="black" stroke-width="7.62" x1="991" y1="13776" x2="885" y2= "14046" />
+     <circle fill="#FFF500" stroke="black" stroke-width="7.62" transform="matrix(-1.96372 -0.0375658 -0.159847 1.87723 945.7 13909.7)" r="49"/>
+    </g>
+   </g>
+  </g>
+  <g>
+   <polygon id="Port" onclick=" showquest('Port')" onmousemove=" showrobotip('Port','Port de la plante')" onmouseout=" hidetooltip('Port')" cursor="pointer"  fill="white" fill-opacity="0.149020" points="4752,12032 5752,12032 5752,13901 4752,13901 "/>
+   <polygon id="Port1" fill="none" stroke="black" stroke-width="7.62" points="4752,12032 5752,12032 5752,13901 4752,13901 "/>
+  </g>
+ </g>

@@ -1,0 +1,88 @@
+ <g id="SMP_A_R">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Fruit" onclick=" showquest('Fruit')" onmousemove=" showrobotip('Fruit','Type de fruit')" onmouseout=" hidetooltip('Fruit')" cursor="pointer" >
+   <g id="fruit2">
+    <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4583" y1="7081" x2="4346" y2= "6453" />
+    <path fill="#E31E24" stroke="#2A2A29" stroke-width="7.62" d="M4332 6221c111,0 202,91 202,202 0,111 -91,202 -202,202 -111,0 -202,-91 -202,-202 0,-111 91,-202 202,-202z"/>
+   </g>
+   <g id="fruit1">
+    <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4835" y1="8725" x2="5009" y2= "8077" />
+    <path fill="#E31E24" stroke="#2A2A29" stroke-width="7.62" d="M5054 7780c111,0 202,91 202,202 0,111 -91,202 -202,202 -111,0 -202,-91 -202,-202 0,-111 91,-202 202,-202z"/>
+   </g>
+  </g>
+  <g id="Fl_Color" onclick=" showquest('Fl_Color')" onmousemove=" showrobotip('Fl_Color','Couleur des fleurs')" onmouseout=" hidetooltip('Fl_Color')" cursor="pointer" >
+   <g id="fleur2">
+    <g>
+     <g>
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4433" y1="3892" x2="4360" y2= "4588" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4714" y1="4273" x2="4018" y2= "4201" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4152" y1="3947" x2="4614" y2= "4500" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4647" y1="4024" x2="4122" y2= "4443" />
+     </g>
+     <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4601" y1="4829" x2="4396" y2= "4235" />
+    </g>
+    <ellipse fill="#FFED00" stroke="#2A2A29" stroke-width="7.62" transform="matrix(-0.994587 -0.103909 -0.103909 0.994587 4374.76 4230.23)" rx="205" ry="221"/>
+   </g>
+   <g id="fleur1">
+    <g>
+     <g>
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4940" y1="4759" x2="5013" y2= "5455" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4659" y1="5141" x2="5355" y2= "5068" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="5221" y1="4814" x2="4759" y2= "5367" />
+      <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4726" y1="4891" x2="5251" y2= "5310" />
+     </g>
+     <line fill="none" stroke="#2A2A29" stroke-width="7.62" x1="4772" y1="5696" x2="4977" y2= "5102" />
+    </g>
+    <ellipse fill="#FFED00" stroke="#2A2A29" stroke-width="7.62" transform="matrix(0.994587 -0.103909 0.103909 0.994587 4998.35 5097.47)" rx="205" ry="221"/>
+   </g>
+  </g>
+  <g id="Feuille" onclick=" showquest('Feuille')" onmousemove=" showrobotip('Feuille','Feuilles larges, de gramin&#233;es, compos&#233;es ou absentes ?')" onmouseout=" hidetooltip('Feuille')" cursor="pointer" >
+   <path id="tige" fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4755 14533c-11,-1379 -270,-8260 -137,-10284 212,377 240,8630 319,10274 -94,59 -175,-52 -182,10z"/>
+   <g id="feuilles">
+    <g>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M5118 11058c514,-601 1226,0 1288,601 -328,90 -1566,-276 -1288,-601z"/>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4774 11265l0 -89c206,-206 542,-230 794,-182 475,90 648,492 626,463 -192,-255 -339,-414 -759,-438 -360,-26 -517,80 -662,244z"/>
+    </g>
+    <g>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4335 7012c-399,-466 -950,0 -998,466 254,70 1214,-214 998,-466z"/>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4602 7173l0 -69c-160,-160 -420,-178 -616,-141 -368,70 -502,381 -486,359 149,-197 263,-321 588,-339 279,-20 401,62 513,189z"/>
+    </g>
+    <g>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4365 9730c-533,-623 -1271,0 -1335,623 340,94 1624,-286 1335,-623z"/>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4722 9945l0 -92c-214,-214 -562,-238 -824,-188 -492,94 -672,510 -649,481 199,-264 352,-429 787,-454 374,-27 536,83 686,253z"/>
+    </g>
+    <g>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4990 13544c-373,-1461 1346,-1913 2351,-1350 -219,610 -2150,2141 -2351,1350z"/>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4936 14309l-138 -97c-95,-548 236,-1097 589,-1438 662,-642 1479,-471 1411,-469 -608,20 -1018,75 -1516,703 -436,534 -442,895 -345,1301z"/>
+    </g>
+    <g>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4731 13745c415,-1367 -1192,-1868 -2167,-1377 181,587 1943,2118 2167,1377z"/>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4749 14471l135 -86c113,-515 -177,-1048 -496,-1386 -599,-635 -1379,-509 -1315,-504 574,45 960,115 1404,730 389,524 380,865 271,1246z"/>
+    </g>
+    <g>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4383 13723c-665,-924 -1760,-148 -1921,707 460,169 2281,-206 1921,-707z"/>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4852 14062l11 -127c-271,-321 -750,-395 -1118,-357 -692,72 -989,628 -955,589 306,-342 537,-553 1142,-536 520,7 732,178 921,431z"/>
+    </g>
+    <g>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4968 5653c381,-445 908,0 954,445 -243,67 -1160,-204 -954,-445z"/>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4713 5807l0 -66c153,-153 401,-170 588,-134 352,67 480,364 464,343 -142,-189 -251,-306 -562,-324 -267,-19 -383,60 -490,181z"/>
+    </g>
+    <g>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4481 4763c-210,-245 -500,0 -525,245 134,37 638,-112 525,-245z"/>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4621 4847l0 -36c-84,-84 -221,-94 -324,-74 -194,37 -264,200 -255,189 78,-104 138,-169 309,-178 147,-10 211,33 270,100z"/>
+    </g>
+    <g>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M5191 13895c563,-940 1675,-285 1899,521 -427,199 -2204,-12 -1899,-521z"/>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4769 14258l-21 -121c234,-330 686,-440 1043,-433 670,13 999,521 963,487 -321,-303 -560,-486 -1138,-421 -498,49 -687,230 -848,488z"/>
+    </g>
+    <g>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M5179 8604c514,-601 1226,0 1288,601 -328,90 -1566,-276 -1288,-601z"/>
+     <path fill="#009846" stroke="#2A2A29" stroke-width="7.62" d="M4835 8812l0 -89c206,-206 542,-230 794,-182 475,90 648,492 626,463 -192,-255 -339,-414 -759,-438 -360,-26 -517,80 -662,244z"/>
+    </g>
+   </g>
+  </g>
+  <g>
+   <polygon id="Port" onclick=" showquest('Port')" onmousemove=" showrobotip('Port','Port de la plante')" onmouseout=" hidetooltip('Port')" cursor="pointer"  fill="white" fill-opacity="0.149020" points="4222,8953 5222,8953 5222,10753 4222,10753 "/>
+   <polygon id="Port1" fill="none" stroke="black" stroke-width="7.62" points="4222,8953 5222,8953 5222,10753 4222,10753 "/>
+  </g>
+ </g>

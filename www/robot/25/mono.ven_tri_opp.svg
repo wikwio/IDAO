@@ -1,0 +1,68 @@
+ <g id="mono.ven_tri_opp">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Nervation" onclick=" showquest('Nervation')" onmousemove=" showrobotip('Nervation','Nervation du limbe de la feuille')" onmouseout=" hidetooltip('Nervation')" cursor="pointer">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Marge_limbe" type="0"/>
+    </metadata>
+   <g>
+    <path fill="white" fill-opacity="0.149020" d="M19997 4553c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+    <path id="1" fill="none" stroke="black" stroke-width="7.62" d="M19997 4553c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+   </g>
+   <rect id="Cadre_Venation" fill="white" stroke="black" stroke-width="7.62" x="21800" y="7600" width="2000" height="1800">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="Cadre_Venation" type="0"/>
+    </metadata>
+   </rect>
+   <g id="_3_x0020_nerv_x0020_op">
+     <metadata id="CorelCorpID_3">
+      <odm name="Name" value="3 nerv op" type="0"/>
+     </metadata>
+    <g id="_3_x0020_nerv_x0020_op_0">
+     <path id="limbe" fill="#78B43C" stroke="black" stroke-width="7.62" d="M22738 9400l-16 -204c-194,-132 -438,-176 -585,-396 -236,-353 -313,-771 -284,-1200l1784 0c39,431 -38,852 -295,1205 -152,209 -350,276 -532,394l-20 201 -50 0z">
+      <metadata id="CorelCorpID_4">
+       <odm name="Name" value="limbe" type="0"/>
+      </metadata>
+     </path>
+     <path id="nervure" fill="#2A2A29" d="M22757 7600l35 1554c-3,2 -38,-2 -42,0 -2,-1 -19,-714 -34,-1554l42 0z">
+      <metadata id="CorelCorpID_5">
+       <odm name="Name" value="nervure" type="0"/>
+      </metadata>
+     </path>
+     <g id="nervures">
+       <metadata id="CorelCorpID_6">
+        <odm name="Name" value="nervures" type="0"/>
+       </metadata>
+      <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M22653 8722c-535,49 -749,-439 -723,-700"/>
+      <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M22525 8474c-426,-111 -712,-481 -645,-770"/>
+      <path fill="none" stroke="black" stroke-width="7.62" d="M22383 8150c-396,-206 -516,-365 -513,-550"/>
+      <path fill="none" stroke="black" stroke-width="7.62" d="M22264 7838c-125,-97 -215,-172 -274,-238"/>
+      <path fill="none" stroke="black" stroke-width="7.62" d="M22734 7722c-30,-41 -59,-81 -87,-122"/>
+      <path id="nervure_1" fill="#2A2A29" d="M22186 7600c104,414 276,899 539,1238 67,86 29,17 0,-26 -237,-345 -404,-811 -508,-1211l-30 0z">
+       <metadata id="CorelCorpID_7">
+        <odm name="Name" value="nervure" type="0"/>
+       </metadata>
+      </path>
+     </g>
+    </g>
+    <g id="nervures_2">
+     <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M22855 8758c522,62 828,-477 748,-682"/>
+     <path fill="none" stroke="#2A2A29" stroke-width="7.62" d="M22993 8526c414,-111 735,-443 615,-724"/>
+     <path fill="none" stroke="black" stroke-width="7.62" d="M23125 8225c459,-238 531,-405 472,-625"/>
+     <path fill="none" stroke="black" stroke-width="7.62" d="M23227 7940c201,-154 307,-248 344,-340"/>
+     <path fill="none" stroke="black" stroke-width="7.62" d="M23301 7682c31,-30 59,-57 84,-82"/>
+     <path fill="none" stroke="black" stroke-width="7.62" d="M22774 7836c58,-79 115,-158 168,-236"/>
+     <path id="nervure_3" fill="#2A2A29" d="M23337 7600c-96,405 -265,899 -539,1246 -9,11 -37,30 -34,18 3,-12 14,-24 29,-46 247,-352 414,-827 512,-1218l32 0z">
+      <metadata id="CorelCorpID_8">
+       <odm name="Name" value="nervure" type="0"/>
+      </metadata>
+     </path>
+    </g>
+   </g>
+   <path fill="#AD1A4D" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="7.62" d="M23753 8943l-432 0 0 75 -432 -150 432 -150 0 75 432 0 0 150zm-216 0m-216 37m-216 -37m0 -150m216 -37m216 37m216 75"/>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M22068 6049c274,533 335,747 507,1277 -399,-721 -629,-668 -901,-859 158,23 164,-25 272,-60 -538,-620 -1042,-685 -1552,-781 286,66 540,-130 315,-545 285,323 747,593 1286,1251 64,-13 55,-219 73,-282z">
+   <metadata id="CorelCorpID_9">
+    <odm name="Name" value="A_arrow" type="0"/>
+   </metadata>
+  </path>
+ </g>

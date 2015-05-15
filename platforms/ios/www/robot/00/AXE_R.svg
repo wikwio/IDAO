@@ -1,0 +1,137 @@
+ <g id="AXE_R">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Fruit" onclick=" showquest('Fruit')" onmousemove=" showrobotip('Fruit','Type de fruit')" onmouseout=" hidetooltip('Fruit')" cursor="pointer" >
+   <g id="fruit2">
+    <line fill="none" stroke="#1F1A17" stroke-width="7.62" x1="4752" y1="6979" x2="4515" y2= "6351" />
+    <path fill="#DA251D" stroke="#1F1A17" stroke-width="7.62" d="M4501 6119c111,0 202,91 202,202 0,111 -91,202 -202,202 -111,0 -202,-91 -202,-202 0,-111 91,-202 202,-202z"/>
+   </g>
+   <g id="fruit1">
+    <line fill="none" stroke="black" stroke-width="7.62" x1="4913" y1="8242" x2="5087" y2= "7594" />
+    <path fill="#DA251D" stroke="black" stroke-width="7.62" d="M5132 7297c111,0 202,91 202,202 0,111 -91,202 -202,202 -111,0 -202,-91 -202,-202 0,-111 91,-202 202,-202z"/>
+   </g>
+  </g>
+  <g id="Fl_Color" onclick=" showquest('Fl_Color')" onmousemove=" showrobotip('Fl_Color','Couleur des fleurs')" onmouseout=" hidetooltip('Fl_Color')" cursor="pointer" >
+   <g id="fleur2">
+    <g>
+     <g>
+      <line fill="none" stroke="black" stroke-width="7.62" x1="4556" y1="3866" x2="4484" y2= "4562" />
+      <line fill="none" stroke="black" stroke-width="7.62" x1="4838" y1="4247" x2="4142" y2= "4174" />
+      <line fill="none" stroke="black" stroke-width="7.62" x1="4276" y1="3921" x2="4738" y2= "4474" />
+      <line fill="none" stroke="black" stroke-width="7.62" x1="4770" y1="3998" x2="4245" y2= "4416" />
+     </g>
+     <line fill="none" stroke="black" stroke-width="7.62" x1="4724" y1="4803" x2="4519" y2= "4208" />
+    </g>
+    <ellipse fill="#FFF500" stroke="black" stroke-width="7.62" transform="matrix(-0.994587 -0.103909 -0.103909 0.994587 4498.24 4203.77)" rx="205" ry="221"/>
+   </g>
+   <g id="fleur1">
+    <g>
+     <g>
+      <line fill="none" stroke="black" stroke-width="7.62" x1="5064" y1="4733" x2="5136" y2= "5429" />
+      <line fill="none" stroke="black" stroke-width="7.62" x1="4782" y1="5114" x2="5478" y2= "5041" />
+      <line fill="none" stroke="black" stroke-width="7.62" x1="5345" y1="4788" x2="4882" y2= "5341" />
+      <line fill="none" stroke="black" stroke-width="7.62" x1="4850" y1="4865" x2="5375" y2= "5284" />
+     </g>
+     <line fill="none" stroke="black" stroke-width="7.62" x1="4896" y1="5670" x2="5101" y2= "5075" />
+    </g>
+    <ellipse fill="#FFF500" stroke="black" stroke-width="7.62" transform="matrix(0.994587 -0.103909 0.103909 0.994587 5121.83 5071.01)" rx="205" ry="221"/>
+   </g>
+  </g>
+  <g id="Feuille" onclick=" showquest('Feuille')" onmousemove=" showrobotip('Feuille','Feuilles larges, de gramin&#233;es, compos&#233;es ou absentes ?')" onmouseout=" hidetooltip('Feuille')" cursor="pointer" >
+   <path id="tige" fill="#009235" stroke="black" stroke-width="7.62" d="M4868 14390c-11,-1379 -260,-8144 -127,-10168 212,377 240,8516 319,10160 -111,158 -186,-54 -192,8z"/>
+   <g id="feuille_13">
+     <metadata id="CorelCorpID_1">
+      <odm name="Name" value="feuille_13" type="0"/>
+     </metadata>
+    <path fill="#00923F" stroke="#B3B3B3" stroke-width="7.62" d="M4946 13969c301,-713 1115,-2271 2620,-1965 93,1297 -1872,2054 -2620,1965z"/>
+    <path fill="none" stroke="#B3B3B3" stroke-width="7.62" d="M4985 13954c220,-540 1540,-1719 2303,-1741"/>
+   </g>
+   <g id="feuille_12">
+     <metadata id="CorelCorpID_2">
+      <odm name="Name" value="feuille_12" type="0"/>
+     </metadata>
+    <path fill="#00923F" stroke="#B3B3B3" stroke-width="7.62" d="M4915 13979c-731,-1340 36,-2538 542,-2582 372,350 14,1981 -542,2582z"/>
+    <path fill="none" stroke="#B3B3B3" stroke-width="7.62" d="M5436 11511c-400,329 -440,2088 -518,2158"/>
+   </g>
+   <g id="feuille_11">
+     <metadata id="CorelCorpID_3">
+      <odm name="Name" value="feuille_11" type="0"/>
+     </metadata>
+    <path fill="#00923F" stroke="#B3B3B3" stroke-width="7.62" d="M4953 14036c-92,-1178 -587,-2508 -1882,-2370 -251,731 1186,2260 1882,2370z"/>
+    <path fill="none" stroke="#B3B3B3" stroke-width="7.62" d="M3251 11852c564,158 1409,1962 1521,1999"/>
+   </g>
+   <g id="feuille_10">
+     <metadata id="CorelCorpID_4">
+      <odm name="Name" value="feuille_10" type="0"/>
+     </metadata>
+    <path fill="#00923F" stroke="#B3B3B3" stroke-width="7.62" d="M4929 14259c-822,-1141 -2676,-1405 -3587,-685 257,264 2125,1314 3587,685z"/>
+    <path fill="none" stroke="#B3B3B3" stroke-width="7.62" d="M1661 13525c565,-247 2455,658 2571,614"/>
+   </g>
+   <g id="feuille_09">
+     <metadata id="CorelCorpID_5">
+      <odm name="Name" value="feuille_09" type="0"/>
+     </metadata>
+    <path fill="#00923F" stroke="#B3B3B3" stroke-width="7.62" d="M4869 11322c-21,-1102 570,-1918 781,-1839 95,319 -201,1364 -781,1839z"/>
+    <path fill="none" stroke="#B3B3B3" stroke-width="7.62" d="M5045 10971c181,-235 202,-1033 564,-1432"/>
+   </g>
+   <g id="feuille_08">
+     <metadata id="CorelCorpID_6">
+      <odm name="Name" value="feuille_08" type="0"/>
+     </metadata>
+    <path fill="#00923F" stroke="#B3B3B3" stroke-width="7.62" d="M4898 10007c-22,-962 -709,-1593 -940,-1497 -92,290 278,1161 940,1497z"/>
+    <path fill="none" stroke="#B3B3B3" stroke-width="7.62" d="M4828 9901c0,-327 -795,-1034 -795,-1331"/>
+   </g>
+   <g id="feuille_07">
+     <metadata id="CorelCorpID_7">
+      <odm name="Name" value="feuille_07" type="0"/>
+     </metadata>
+    <path fill="#00923F" stroke="#B3B3B3" stroke-width="7.62" d="M4876 8994c-147,-795 303,-1499 498,-1464 121,220 -42,1058 -498,1464z"/>
+    <path fill="none" stroke="#B3B3B3" stroke-width="7.62" d="M4888 8970c-61,-261 439,-972 383,-1208"/>
+   </g>
+   <g id="feuille_06">
+     <metadata id="CorelCorpID_8">
+      <odm name="Name" value="feuille_06" type="0"/>
+     </metadata>
+    <path fill="#00923F" stroke="#B3B3B3" stroke-width="7.62" d="M4806 7566c96,-516 -197,-973 -323,-950 -79,143 27,687 323,950z"/>
+    <path fill="none" stroke="#B3B3B3" stroke-width="7.62" d="M4797 7534c32,-135 -228,-504 -199,-626"/>
+   </g>
+   <g id="feuille_05">
+     <metadata id="CorelCorpID_9">
+      <odm name="Name" value="feuille_05" type="0"/>
+     </metadata>
+    <path fill="#00923F" stroke="#B3B3B3" stroke-width="7.62" d="M4841 6117c-76,-408 156,-769 255,-751 62,113 -22,543 -255,751z"/>
+    <path fill="none" stroke="#B3B3B3" stroke-width="7.62" d="M4857 6084c-32,-134 226,-501 197,-623"/>
+   </g>
+   <g id="feuille_04">
+     <metadata id="CorelCorpID_10">
+      <odm name="Name" value="feuille_04" type="0"/>
+     </metadata>
+    <path fill="#00923F" stroke="#B3B3B3" stroke-width="7.62" d="M4721 4902c7,-342 -229,-605 -308,-577 -36,100 90,439 308,577z"/>
+    <path fill="none" stroke="#B3B3B3" stroke-width="7.62" d="M4699 4877c6,-90 -199,-300 -193,-382"/>
+   </g>
+   <g id="feuille_03">
+     <metadata id="CorelCorpID_11">
+      <odm name="Name" value="feuille_03" type="0"/>
+     </metadata>
+    <path fill="#00923F" stroke="#B3B3B3" stroke-width="7.62" d="M4985 14248c287,615 3020,-136 3443,-1218 -356,-99 -2498,-62 -3443,1218z"/>
+    <path fill="none" stroke="#B3B3B3" stroke-width="7.62" d="M8177 13233c-363,498 -2452,670 -2529,767"/>
+   </g>
+   <g id="feuille_02">
+     <metadata id="CorelCorpID_12">
+      <odm name="Name" value="feuille_02" type="0"/>
+     </metadata>
+    <path fill="#00923F" stroke="#B3B3B3" stroke-width="7.62" d="M4999 14491c724,34 1623,-1806 1240,-2661 -1860,913 -1187,2771 -1240,2661z"/>
+    <path fill="none" stroke="#B3B3B3" stroke-width="7.62" d="M5083 14298c223,-526 1140,-1617 1044,-2125"/>
+   </g>
+   <g id="feuille_01">
+     <metadata id="CorelCorpID_13">
+      <odm name="Name" value="feuille_01" type="0"/>
+     </metadata>
+    <path fill="#00923F" stroke="#B3B3B3" stroke-width="7.62" d="M5045 14437c-272,-1358 -1562,-2155 -2454,-2031 -340,944 1460,2378 2454,2031z"/>
+    <path fill="none" stroke="#B3B3B3" stroke-width="7.62" d="M2747 12594c550,8 1752,1439 1862,1445"/>
+   </g>
+  </g>
+  <g>
+   <polygon id="Port" onclick=" showquest('Port')" onmousemove=" showrobotip('Port','Port de la plante')" onmouseout=" hidetooltip('Port')" cursor="pointer"  fill="white" fill-opacity="0.149020" points="4418,9100 5419,9100 5419,10969 4418,10969 "/>
+   <polygon id="Port1" fill="none" stroke="black" stroke-width="7.62" points="4418,9100 5419,9100 5419,10969 4418,10969 "/>
+  </g>
+ </g>

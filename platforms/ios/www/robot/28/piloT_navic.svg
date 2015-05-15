@@ -1,0 +1,30 @@
+ <g id="piloT_navic">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Pilo_tige_dtl" onclick=" showquest('Pilo_tige_dtl')" onmousemove=" showrobotip('Pilo_tige_dtl','Type de pilosit&#233; de la tige')" onmouseout=" hidetooltip('Pilo_tige_dtl')" cursor="pointer">
+   <rect id="reponse" fill="white" stroke="black" stroke-width="7.62" transform="matrix(1.3978E-014 1 -0.527778 2.64845E-014 14550 15300)" width="2400" height="3600">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="reponse" type="0"/>
+    </metadata>
+   </rect>
+   <g id="poil_navic">
+     <metadata id="CorelCorpID_2">
+      <odm name="Name" value="poil_navic" type="0"/>
+     </metadata>
+    <path fill="#786432" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M13139 15587c0,699 -2,1413 -2,2112 446,0 610,0 1009,1l0 -2113 -1007 0z"/>
+    <path fill="yellow" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M13639 15789c-273,0 -497,-89 -497,-203 0,-111 225,-203 497,-203 280,0 504,91 504,203 0,114 -225,203 -504,203z"/>
+    <g id="poils">
+      <metadata id="CorelCorpID_3">
+       <odm name="Name" value="poils" type="0"/>
+      </metadata>
+     <path fill="white" stroke="black" stroke-width="7.62" d="M13508 16781l0 61c0,0 -124,93 -135,292 -11,199 -9,76 -1,366 8,290 -1,106 -6,40 -5,-66 -24,-255 -12,-430 12,-175 60,-239 88,-289 -13,-23 -96,-187 -92,-467 4,-280 12,-370 19,-429 -3,199 -21,852 139,857z"/>
+     <path fill="white" stroke="black" stroke-width="7.62" d="M13645 16320l-1 61c0,0 -72,8 -94,68 -22,61 -18,90 -16,144 2,53 -22,-57 -12,-129 10,-72 41,-97 51,-110 -15,-42 -27,-13 -61,-238 -34,-225 -36,-445 -14,-712 -3,241 -4,493 46,724 17,79 36,134 53,160 17,26 32,30 47,32z"/>
+     <path fill="white" stroke="black" stroke-width="7.62" d="M13317 16211l-1 61c0,0 -72,8 -94,68 -22,61 -18,90 -16,144 2,53 -22,-57 -12,-129 10,-72 40,-97 51,-110 -15,-42 -27,-13 -61,-238 -34,-225 -36,-445 -14,-712 -3,241 -4,493 46,724 17,79 36,134 53,160 17,26 32,30 47,32z"/>
+     <path fill="white" stroke="black" stroke-width="7.62" d="M13858 16283l1 61c0,0 72,8 94,68 22,61 18,90 16,144 -2,53 22,-57 12,-129 -10,-72 -40,-97 -51,-110 15,-42 27,-13 61,-238 34,-225 36,-445 14,-712 3,241 4,493 -46,724 -17,79 -36,134 -53,160 -17,26 -32,30 -47,32z"/>
+     <path fill="white" stroke="black" stroke-width="7.62" d="M13259 16693l0 61c0,0 -124,93 -135,292 -11,199 -9,76 -1,366 8,290 -1,106 -6,40 -5,-66 -24,-255 -12,-430 12,-175 60,-239 88,-289 -13,-23 -96,-187 -92,-467 4,-280 12,-370 19,-429 -3,199 -21,852 139,857z"/>
+     <path fill="white" stroke="black" stroke-width="7.62" d="M13661 16783l0 61c0,0 124,93 135,292 11,199 9,76 1,366 -8,290 1,106 6,40 5,-66 24,-255 12,-430 -12,-175 -60,-239 -88,-289 13,-23 96,-187 92,-467 -4,-280 -12,-370 -19,-429 3,199 21,852 -139,857z"/>
+     <path fill="white" stroke="black" stroke-width="7.62" d="M13953 16690l0 61c0,0 124,93 135,292 11,199 9,76 1,366 -8,290 1,106 6,40 5,-66 24,-255 12,-430 -12,-175 -60,-239 -88,-289 13,-23 96,-187 92,-467 -4,-280 -12,-370 -19,-429 3,199 21,852 -139,857z"/>
+    </g>
+   </g>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M12568 14884c282,188 368,288 594,527 -396,-239 -508,-87 -703,-63 91,-68 83,-101 132,-178 -447,-104 -736,118 -1036,323 171,-108 260,-361 35,-501 236,52 553,-21 1010,106 31,-41 -25,-164 -31,-213z"/>
+ </g>

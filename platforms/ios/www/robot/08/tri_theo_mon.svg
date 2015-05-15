@@ -1,0 +1,18 @@
+ <g id="tri_theo_mon">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="A_Tige">
+   <polygon fill="#E5E5E5" points="10855,5998 11797,4816 10864,4263 "/>
+   <polygon fill="#E5E5E5" points="12627,4536 12218,4551 12626,4285 "/>
+   <g>
+    <path fill="#E5E5E5" stroke="#7F7F7F" stroke-width="7.62" d="M10864 4263c106,219 300,393 707,655 296,-104 993,-444 1055,-633 -843,-405 -1144,-107 -1762,-22z"/>
+    <path fill="#CCCCCC" stroke="#7F7F7F" stroke-width="7.62" d="M11042 4302c99,117 247,288 540,448 237,-47 816,-345 848,-468 -529,-265 -1005,-71 -1388,20z"/>
+   </g>
+   <path fill="none" stroke="#9D9E9E" stroke-width="7.62" d="M12626 4285c0,0 1,154 1,249"/>
+   <path fill="none" stroke="#9D9E9E" stroke-width="7.62" d="M11598 5108c-7,309 -53,891 -53,1286"/>
+   <path fill="none" stroke="#9D9E9E" stroke-width="7.62" d="M10864 4263c8,498 -2,1313 -9,1735"/>
+  </g>
+  <g>
+   <polygon id="Plc" onclick=" showquest('Plc')" onmousemove=" showrobotip('Plc','Tige creuse ou pleine')" onmouseout=" hidetooltip('Plc')" cursor="pointer" fill="white" fill-opacity="0.149020" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+   <polygon id="Plc1" fill="none" stroke="#4D4D4D" stroke-width="7.62" points="10500,5050 10500,3750 13100,3750 13100,5050 "/>
+  </g>
+ </g>

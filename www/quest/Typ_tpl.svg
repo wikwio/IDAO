@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 24000 18000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+    <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="17120.2" y1="4436.58" x2="18877.1" y2="4436.58">
+     <stop offset="0" stop-color="#69691A"/>
+     <stop offset="1" stop-color="#FEFEFE"/>
+    </linearGradient>
+ </defs>
+<a>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Tige_P" onclick="parent.replacechar('Tige_P')" onmousemove="parent.showtooltip('Tige_P','Tige pleine')" onmouseout="parent.hidetooltip('Tige_P')" cursor="pointer">
+   <polygon fill="#808001" stroke="black" stroke-width="4.2" points="4643,13473 4643,4407 7361,4407 7361,13473 "/>
+   <ellipse fill="#CCCC00" stroke="black" stroke-width="7.62" cx="6000" cy="4395" rx="1352" ry="906"/>
+   <ellipse fill="#808001" cx="6000" cy="13594" rx="1368" ry="917"/>
+   <path fill="none" stroke="black" stroke-width="7.62" d="M4643 13473c-188,1252 2725,1497 2718,0"/>
+  </g>
+  <g id="Tige_C" onclick="parent.replacechar('Tige_C')" onmousemove="parent.showtooltip('Tige_C','Tige creuse')" onmouseout="parent.hidetooltip('Tige_C')" cursor="pointer">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="creux" type="0"/>
+    </metadata>
+   <polygon fill="#808001" stroke="black" stroke-width="4.2" points="16637,13508 16637,4443 19355,4443 19355,13508 "/>
+   <ellipse fill="#808001" cx="18001" cy="13573" rx="1368" ry="917"/>
+   <ellipse fill="#CCCC00" stroke="black" stroke-width="7.62" cx="17993" cy="4424" rx="1362" ry="913"/>
+   <ellipse fill="url(#id0)" stroke="black" stroke-width="7.62" cx="17999" cy="4437" rx="878" ry="586"/>
+   <path fill="none" stroke="black" stroke-width="7.62" d="M16636 13511c-49,1296 2817,1309 2720,-43"/>
+  </g>
+ </g>
+<image xlink:href="tick.gif" id="imgtick" x="-10000" y="-10000" width="1500" height="1500"/>
+<rect id="recttooltip" x="-10000" y="-10000" width="5500" height="600" fill-opacity="0.85" pointer-events="none"/>
+<text id="textboxid" x="-10000" y="-10000" pointer-events="none"> </text>
+</a></svg>

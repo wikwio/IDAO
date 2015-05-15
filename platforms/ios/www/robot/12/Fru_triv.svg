@@ -1,0 +1,23 @@
+
+ <g id="Fru_triv">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path id="A_Arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M2448 6052c-189,-478 -215,-670 -301,-1145 285,646 530,599 777,770 -158,-20 -172,23 -289,54 446,556 951,613 1457,699 -282,-58 -576,118 -416,490 -237,-290 -664,-531 -1104,-1121 -68,12 -94,196 -123,254z"/>
+  <g id="Fruit" onclick=" showquest('Fruit')" onmousemove=" showrobotip('Fruit','Type de fruit')" onmouseout=" hidetooltip('Fruit')" cursor="pointer" >
+   <rect fill="white" stroke="black" stroke-width="7.62" x="400" y="400" width="2400" height="3600"/>
+   <g id="_3_valves">
+     <metadata id="CorelCorpID_1">
+      <odm name="Name" value="3_valves" type="0"/>
+     </metadata>
+    <path fill="#FFF59D" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M2402 1419c-628,159 -920,1039 -802,1415l824 -459 -22 -957z"/>
+    <path fill="#FFF59D" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M685 1510c639,83 1049,912 915,1309l-777 -398 -138 -911z"/>
+    <path fill="#AAAA00" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1578 2843c-1057,-17 -1160,-549 -959,-1209l65 -125c221,784 221,963 895,1237l0 96z"/>
+    <path fill="#AAAA00" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1603 2847c1049,-143 1160,-691 881,-1321l-77 -113c-133,830 -151,1009 -804,1434z"/>
+    <path fill="#AAAA00" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M1594 2856c-975,-419 -351,-1112 -6,-1312 383,192 996,900 6,1312z"/>
+    <polygon fill="#00C800" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" points="1560,2828 1642,2828 1637,2953 1570,2944 "/>
+    <path fill="red" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M2197 1738c-59,19 -116,9 -127,-26 -12,-36 24,-80 82,-101 59,-22 116,-11 129,26 12,35 -25,79 -84,100z"/>
+    <path fill="red" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M2197 2019c-43,19 -88,16 -99,-10 -12,-27 13,-63 55,-83 43,-21 88,-17 101,10 11,26 -13,62 -57,83z"/>
+    <path fill="red" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M959 1869c-60,-16 -101,-56 -92,-92 10,-37 64,-53 124,-39 61,14 103,55 93,93 -10,35 -64,52 -126,37z"/>
+    <path fill="red" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M963 2134c-43,-19 -71,-54 -60,-80 11,-27 55,-33 98,-16 45,18 72,53 61,81 -11,26 -55,32 -99,14z"/>
+   </g>
+  </g>
+ </g>

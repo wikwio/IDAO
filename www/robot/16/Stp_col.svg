@@ -1,0 +1,38 @@
+ <g id="Stp_col">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Stipule" onclick=" showquest('Stipule')" onmousemove=" showrobotip('Stipule','Type de stipule')" onmouseout=" hidetooltip('Stipule')" cursor="pointer">
+   <g>
+    <polygon id="question_x0020_stipule" fill="white" fill-opacity="0.101961" points="11000,9450 12000,9450 12000,10950 11000,10950 ">
+     <metadata id="CorelCorpID_1">
+      <odm name="Name" value="question stipule" type="0"/>
+     </metadata>
+    </polygon>
+    <polygon id="question_x0020_stipule1" fill="none" stroke="black" stroke-width="7.62" points="11000,9450 12000,9450 12000,10950 11000,10950 ">
+     <metadata id="CorelCorpID_2">
+      <odm name="Name" value="question stipule" type="0"/>
+     </metadata>
+    </polygon>
+   </g>
+   <rect id="Reponse_x0020_stipule" fill="white" stroke="black" stroke-width="7.62" x="8691" y="11257" width="2019" height="1886">
+    <metadata id="CorelCorpID_3">
+     <odm name="Name" value="Reponse stipule" type="0"/>
+    </metadata>
+   </rect>
+   <g id="colerette">
+     <metadata id="CorelCorpID_4">
+      <odm name="Name" value="colerette" type="0"/>
+     </metadata>
+    <path fill="#00C800" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M9895 12021c232,-199 355,-439 373,-582 255,277 400,413 403,415 -158,11 -333,88 -523,168 -246,102 -226,211 -326,263 -17,10 -44,31 -132,31 -87,0 -108,-16 -128,-25 -157,-86 -186,-217 -422,-308 -139,-53 -246,-121 -384,-144 259,-223 395,-383 430,-422 4,126 123,528 264,619 157,101 312,66 446,-14z"/>
+    <path fill="none" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M8965 11652c231,164 278,307 470,460"/>
+    <path fill="none" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M9093 11519c2,156 60,171 87,324"/>
+    <path fill="none" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M8868 11744c58,-4 418,243 472,291"/>
+    <path fill="#B4AA1E" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M9452 11801l0 1121c71,166 413,153 453,-4l0 -1126 -453 10z"/>
+    <ellipse fill="#FAFA00" stroke="black" stroke-width="7.62" cx="9678" cy="11800" rx="227" ry="95"/>
+    <path fill="#00C800" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M9151 12027c147,91 495,194 533,10 56,173 388,85 579,-19 -72,47 -424,306 -495,315 -70,11 -119,11 -192,-2 -62,-11 -367,-258 -425,-303z"/>
+    <path fill="none" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M10459 11652c-187,149 -340,298 -538,425"/>
+    <path fill="none" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M10353 11541c-2,90 -49,176 -101,284"/>
+    <path fill="none" fill-rule="nonzero" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M10102 11947c28,-16 229,-102 462,-186"/>
+   </g>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M9852 10540c-124,264 -145,372 -210,638 184,-356 321,-321 466,-409 -90,6 -97,-19 -161,-41 271,-299 559,-314 848,-345 -162,23 -322,-87 -219,-292 -144,156 -394,278 -663,596 -38,-9 -47,-114 -61,-148z"/>
+ </g>

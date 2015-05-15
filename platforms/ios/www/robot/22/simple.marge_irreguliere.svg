@@ -1,0 +1,19 @@
+ <g id="simple.marge_irreguliere">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Marge_limbe" onclick=" showquest('Marge_limbe')" onmousemove=" showrobotip('Marge_limbe','Marge du limbe')" onmouseout=" hidetooltip('Marge_limbe')" cursor="pointer">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Marge_limbe" type="0"/>
+    </metadata>
+   <g>
+    <path fill="white" fill-opacity="0.149020" d="M20700 2100c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+    <path id="1" fill="none" stroke="black" stroke-width="7.62" d="M20700 2100c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+   </g>
+   <rect id="Cadre_Margin" fill="white" stroke="black" stroke-width="7.62" x="16300" y="200" width="1800" height="2700">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="Cadre_Margin" type="0"/>
+    </metadata>
+   </rect>
+   <path fill="#78B43C" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M18110 2900l-2 -2700c-44,125 -69,344 -127,440 -22,37 -45,12 -72,-25 -81,348 5,504 -21,648 -12,64 -76,26 -146,9 -13,140 71,164 48,407 -10,105 -130,79 -261,17 6,148 146,301 271,517 125,217 29,249 -37,261 -66,13 -177,-24 -177,-24 0,0 70,221 212,288 113,53 219,95 311,161z"/>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M18933 2741c-268,-150 -357,-225 -586,-406 373,193 443,96 604,94 -66,40 -53,64 -83,114 394,104 602,-29 822,-150 -127,63 -161,231 52,344 -207,-52 -463,-25 -869,-145 -20,26 47,115 61,149z"/>
+ </g>

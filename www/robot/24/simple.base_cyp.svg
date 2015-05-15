@@ -1,0 +1,39 @@
+ <g id="simple.base_cyp">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Base_limbe" onclick=" showquest('Base_limbe')" onmousemove=" showrobotip('Base_limbe','Base du limbe')" onmouseout=" hidetooltip('Base_limbe')" cursor="pointer">
+    <metadata id="CorelCorpID_1">
+     <odm name="Name" value="Base_limbe" type="0"/>
+    </metadata>
+   <g>
+    <path fill="white" fill-opacity="0.149020" d="M21500 5883c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+    <path id="1" fill="none" stroke="black" stroke-width="7.62" d="M21500 5883c276,0 500,224 500,500 0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500z"/>
+   </g>
+   <rect id="Cadre_Base" fill="white" stroke="black" stroke-width="7.62" x="19200" y="7600" width="2000" height="1800">
+    <metadata id="CorelCorpID_2">
+     <odm name="Name" value="Cadre_Base" type="0"/>
+    </metadata>
+   </rect>
+   <g id="_338763760">
+    <polygon id="lamina" fill="#00C800" stroke="#221D1A" stroke-width="7.62" stroke-linejoin="bevel" points="19722,7600 20896,8350 20612,8474 19637,7769 ">
+     <metadata id="CorelCorpID_3">
+      <odm name="Name" value="lamina" type="0"/>
+     </metadata>
+    </polygon>
+    <polygon fill="#E5E5E5" stroke="#221D1A" stroke-width="7.62" stroke-linejoin="bevel" points="20363,8454 20363,7741 20632,7842 20857,7697 20863,8561 "/>
+    <polygon id="gaine" fill="#78B43C" stroke="#221D1A" stroke-width="7.62" stroke-linejoin="bevel" points="19574,7828 20325,8381 20325,9261 20638,9400 20892,9263 20892,8357 20635,8474 19504,7634 ">
+     <metadata id="CorelCorpID_4">
+      <odm name="Name" value="gaine" type="0"/>
+     </metadata>
+    </polygon>
+    <polygon fill="#CCCCCC" stroke="#221D1A" stroke-width="7.62" stroke-linejoin="bevel" points="20363,7741 20635,7842 20852,7697 "/>
+    <polygon fill="none" stroke="#221D1A" stroke-width="7.62" stroke-linejoin="bevel" points="20635,8474 20635,9382 "/>
+    <polygon fill="none" stroke="#221D1A" stroke-width="7.62" stroke-linejoin="bevel" points="20635,7847 20635,8438 "/>
+    <polygon fill="none" stroke="#221D1A" stroke-width="7.62" stroke-linejoin="bevel" points="20358,8393 20598,8467 "/>
+   </g>
+  </g>
+  <path id="A_arrow" fill="black" stroke="black" stroke-width="7.62" stroke-linejoin="bevel" d="M20331 6928c-95,224 -118,315 -181,539 138,-302 210,-275 299,-351 -50,7 -52,-14 -85,-32 181,-256 341,-273 504,-304 -92,22 -169,-68 -91,-241 -96,133 -246,240 -427,512 -20,-7 -14,-95 -19,-123z">
+   <metadata id="CorelCorpID_5">
+    <odm name="Name" value="A_arrow" type="0"/>
+   </metadata>
+  </path>
+ </g>

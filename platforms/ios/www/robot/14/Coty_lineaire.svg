@@ -1,0 +1,23 @@
+ <g id="Coty_lineaire">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Cotyledons" onclick=" showquest('Cotyledons')" onmousemove=" showrobotip('Cotyledons','Forme des cotyl&#233;dons')" onmouseout=" hidetooltip('Cotyledons')" cursor="pointer">
+   <g>
+    <polygon id="Rect" fill="white" fill-opacity="0.149020" points="3900,14800 3900,13800 5900,13800 5900,14800 "/>
+    <polygon id="Rect1" fill="none" stroke="black" stroke-width="7.62" points="3900,14800 3900,13800 5900,13800 5900,14800 "/>
+   </g>
+   <g id="Linéaire">
+     <metadata id="CorelCorpID_1">
+      <odm name="Name" value="Linéaire" type="0"/>
+     </metadata>
+    <path fill="#99FF00" stroke="black" stroke-width="7.62" d="M4582 14367l99 87 -11 13 -98 -86c-28,10 -112,-30 -231,-139 -130,-118 -183,-199 -169,-219 18,-15 113,25 243,136 114,98 170,177 168,208z"/>
+    <line fill="none" stroke="black" stroke-width="7.62" x1="4205" y1="14048" x2="4572" y2= "14371" />
+   </g>
+   <g id="Linéaire_0">
+     <metadata id="CorelCorpID_2">
+      <odm name="Name" value="Linéaire" type="0"/>
+     </metadata>
+    <path fill="#99FF00" stroke="black" stroke-width="7.62" d="M5308 14370l-99 87 11 13 98 -86c28,10 112,-30 231,-139 130,-118 183,-199 169,-219 -18,-15 -113,25 -243,136 -114,98 -170,177 -168,208z"/>
+    <line fill="none" stroke="black" stroke-width="7.62" x1="5686" y1="14050" x2="5318" y2= "14373" />
+   </g>
+  </g>
+ </g>
