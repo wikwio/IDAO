@@ -9,6 +9,7 @@ document.addEventListener("deviceready", onDeviceReady, false);
                     searchmatrix();
                     dbCheck();
                     success();
+
                 }
 
                 function dbCheck(){
@@ -54,7 +55,7 @@ document.addEventListener("deviceready", onDeviceReady, false);
 					appstr += appellable[i];
 
 					}
-                    var localappstr = { "txtappstr": appstr }
+                    var localappstr = { "txtappstr": appstr,"contracode":"" ,"linkresult": "" ,"linkspecies": ""}
                     localStorage.setItem('appstrvalue',JSON.stringify(localappstr));
 
 					var replacevalues = { "txtstore": "0", "txtappstr": appstr , "txtcharname": "", "txtquest":"", "txtcurquest": ""}

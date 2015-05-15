@@ -35,6 +35,13 @@ module.exports = [
         "clobbers": [
             "navigator.splashscreen"
         ]
+    },
+    {
+        "file": "plugins/org.apache.cordova.inappbrowser/www/inappbrowser.js",
+        "id": "org.apache.cordova.inappbrowser.inappbrowser",
+        "clobbers": [
+            "window.open"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -44,7 +51,8 @@ module.exports.metadata =
     "me.rahul.plugins.sqlDB": "1.0.2",
     "org.apache.cordova.console": "0.2.14-dev",
     "org.apache.cordova.network-information": "0.2.16-dev",
-    "cordova-plugin-splashscreen": "2.0.1-dev"
+    "cordova-plugin-splashscreen": "2.0.1-dev",
+    "org.apache.cordova.inappbrowser": "0.6.0"
 }
 // BOTTOM OF METADATA
 });

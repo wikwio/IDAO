@@ -277,6 +277,8 @@
                           style_h = 'style="height:'+h+'px;"';
                       }else {
                           h = a;
+                          style_h = 'style="height:'+h+'px;"';
+
                       }
                     $(".selectRedrawWrapper").html('<svg  xmlns="http://www.w3.org/2000/svg" id="homesvg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" '+style_h+' image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 24000 18000" xmlns:xlink="http://www.w3.org/1999/xlink"> ' + temp + '</svg>')
                  active_touch();
