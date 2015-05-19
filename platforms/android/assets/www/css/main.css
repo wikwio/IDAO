@@ -151,6 +151,86 @@ li > a{
   display:block;
 }
 
+
+
+// For Species Page
+
+.specieslocal > ul > li > ul > li{
+    color: #333;
+
+}
+.specieslocal > a{
+  color:#A0D37B;
+  text-decoration: none;
+
+}
+.jslist {
+ color:#A0D37B;
+  text-decoration: none;
+}
+.specieslocal{
+
+  /*margin: 100px auto 50px auto;
+  background: #1f1f1f;*/
+  text-align: center;
+}
+ul{
+list-style:none;
+margin:0;
+padding:0;
+text-align:left;
+font-family: Helvetica;
+}
+.specieslocal > ul{
+/*margin-bottom:300px;*/
+border:1px solid #222;
+}
+.specieslocal > ul > li{
+position:relative;
+}
+.specieslocal > ul > li > a{
+display:block;
+outline:0;
+height:20px;
+padding:10px;
+text-decoration:none;
+color:#fff;
+background:#A0D37B;
+border-bottom:1px solid #222;
+font-family:Lato;
+font-weight:300;
+-webkit-font-smoothing:antialiased;
+/*text-transform:uppercase;*/
+font-size:16px;
+}
+.specieslocal > ul > li > a > i{
+display:block;
+width:45px;
+height:30px;
+float:left;
+}
+
+.specieslocal > ul > li > ul{
+counter-reset:items;
+
+overflow:hidden;
+background:#fff;
+color:#ec2b48;
+width:100%;
+}
+.specieslocal > ul > li > ul > li{
+counter-increment:items;
+padding:1em 1.3em;
+border-bottom:1px solid #DDD;
+font-size:12px;
+cursor:pointer;
+}
+.specieslocal > ul > li > ul > li:hover{
+background:#f4F4F4;
+}
+
+
+
 @media (min-width: 500px)  and (max-width: 800px) {
    
     .foo {

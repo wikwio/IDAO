@@ -508,7 +508,7 @@ function each(objects, func, context) {
 }
 
 function clobber(obj, key, value) {
-  try {
+     try {
         exports.replaceHookForTesting(obj, key);
         obj[key] = value;
         // Getters can only be overridden by getters.

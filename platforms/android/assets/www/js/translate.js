@@ -1,9 +1,9 @@
  window.i8ln = {
                 "en" : {
                         "identification" : "New identification",
-                        "portin" : "",
-                        "phylo"     : "",
-                        "profelision"  : "",
+                        "portin" : "Port",
+                        "phylo"     : "Phyllotaxie",
+                        "profelision"  : "Préfoliaison",
                         "searc"     : "Search",
                         "listdes"     : "Species list" ,
                         "resultant"     : "Results" ,
@@ -24,8 +24,8 @@
                         "resultview":"View",
                         "species":"Species",
                         "at":"at",
-                        "contrabutname":"Graphical view",
-                        "graphview":"Search for species Graphical representation"
+                    "contrabutname":"Graphical view",
+                    "graphview":"Search for species Graphical representation"
                 },
                 "fr" :{
                         "identification" : "Nouvelle identification",
@@ -52,10 +52,10 @@
                         "resultview":"vue",
                         "species":"Espèces",
                         "at"  : "à",
-                        "contrabutname":"Graphical view",
-                        "graphview":"Search for species Graphical representation"
+                    "contrabutname":"Graphical view",
+                    "graphview":"Search for species Graphical representation"
 
-                          
+                    
                 }
         }
 
@@ -105,7 +105,7 @@
                 $(".searchfam").attr("placeholder",window.i8ln[lan].placehholderfamilie);
                 $(".searchspec").attr("placeholder",window.i8ln[lan].placehholderspecies);
                 $(".searchcomun").attr("placeholder",window.i8ln[lan].placehholdercomun);
-                $(".searchcontra").attr("placeholder",window.i8ln[lan].placehholderspecies);
+                $(".searchcontra").attr("placeholder",window.i8ln[lan].graphview);
 
                 var listvalues = localStorage.getItem('percentage'); 
                 var finalvalue = JSON.parse(listvalues);
@@ -113,72 +113,4 @@
                 var value = finalvalue.val;
                 updateProcess(number,value);
        });
-  $(".languagechecklocal").click(function(){
-
-    var newlink = "";
-    var that = $(this);
-    var lan = that.attr('rel');
-
-    if(that.hasClass('ui-btn-active'))
-         return false;
-
-    $(".languagechecklocal").removeClass('ui-btn-active');
-    that.addClass('ui-btn-active');
-
-    var listvalues = localStorage.getItem('appstrvalue'); 
-    var finalvalue = JSON.parse(listvalues);
-
-    var resultlink = finalvalue.linkresult;
-
-    if(lan=="en"){
-
-        $(".popup").empty();
-       newlink = resultlink.substr(0,8)+"en"+resultlink.substr(10,30);
-
-       
-    }else if(lan=="fr"){
-
-        $(".popup").empty();
-       newlink = resultlink.substr(0,8)+"fr"+resultlink.substr(10,30);
-    }
-
-     $.get(newlink, function(data) {
-            $(".popup").html(data).show();
-        });
-
-  });
-
-  $(".languagecontra").click(function(){
-
-    var newlink = "";
-    var that = $(this);
-    var lan = that.attr('rel');
-
-    if(that.hasClass('ui-btn-active'))
-         return false;
-
-    $(".languagecontra").removeClass('ui-btn-active');
-    that.addClass('ui-btn-active');
-
-    var listvalues = localStorage.getItem('appstrvalue'); 
-    var finalvalue = JSON.parse(listvalues);
-
-    var resultlink = finalvalue.linkspecies;
-
-    if(lan=="en"){
-
-        $(".speciespopup").empty();
-       newlink = resultlink.substr(0,8)+"en"+resultlink.substr(10,30);
-
-       
-    }else if(lan=="fr"){
-
-        $(".speciespopup").empty();
-       newlink = resultlink.substr(0,8)+"fr"+resultlink.substr(10,30);
-    }
-
-     $.get(newlink, function(data) {
-            $(".speciespopup").html(data).show();
-        });
-
-  });
+ 

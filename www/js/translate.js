@@ -1,9 +1,9 @@
  window.i8ln = {
                 "en" : {
                         "identification" : "New identification",
-                        "portin" : "",
-                        "phylo"     : "",
-                        "profelision"  : "",
+                        "portin" : "Port",
+                        "phylo"     : "Phyllotaxie",
+                        "profelision"  : "Préfoliaison",
                         "searc"     : "Search",
                         "listdes"     : "Species list" ,
                         "resultant"     : "Results" ,
@@ -105,7 +105,7 @@
                 $(".searchfam").attr("placeholder",window.i8ln[lan].placehholderfamilie);
                 $(".searchspec").attr("placeholder",window.i8ln[lan].placehholderspecies);
                 $(".searchcomun").attr("placeholder",window.i8ln[lan].placehholdercomun);
-                $(".searchcontra").attr("placeholder",window.i8ln[lan].placehholderspecies);
+                $(".searchcontra").attr("placeholder",window.i8ln[lan].graphview);
 
                 var listvalues = localStorage.getItem('percentage'); 
                 var finalvalue = JSON.parse(listvalues);

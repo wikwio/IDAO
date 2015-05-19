@@ -262,7 +262,10 @@
                                     if(j == myarr.length){
                                         svgData(temp);
                                     }
-                            },dataType="text");
+                            },dataType="text")
+                           .fail(function() {
+                                 j++;
+                                 });
                          }(i));
                         }
                       }

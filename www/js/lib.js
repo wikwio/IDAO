@@ -267,13 +267,13 @@ function popup(portalLink, localLink){
 	//localStorage.setItem('appstrvalue', JSON.stringify(linkvar));
 
 	$.get(newLocalURL, function(data) {
-          alert(data.instance);
+          //alert(data.instance);
           var html_output = gene_html(data.instance,'123');
           $(".popup").html(html_output).show();
           //$.getScript('js/offline.js');
           },dataType="json")
     .fail(function(error) {
-                                 alert(error); // or whatever
+                                 alert("error on load species data"); // or whatever
                                  });
     //$(".popup").html('<iframe height="100%" width="100%" allowTransparency="true" frameborder="0" scrolling="yes"  src="'+portalLink+'" type= "text/javascript"></iframe>').show();
     
@@ -307,13 +307,13 @@ function speciesPopup(link){
 
 console.log(newLocalURL);
      $.get(newLocalURL, function(data) {
-           alert(data);
+           //alert(data);
            var html_output = gene_html(data.instance,'123');
            $(".speciespopup").html(html_output).show();
        // $(".speciespopup").html(data).show();
            },dataType="json")
     .fail(function(error) {
-       alert(error); // or whatever
+       alert("error on species data"); // or whatever
        });
 
 
@@ -537,8 +537,8 @@ function gene_html(speciesInstance,langId){
     output += '<div class="specieslocal">';
     output += '<a href="#" rel="en_'+speciesInstance.id+'" class ="change_lan">En</a> | <a href="#" rel="fr_'+speciesInstance.id+'" class ="change_lan">Fr</a>';
     output += '<h1>'+speciesInstance.title;
-    var portal_url = 'http:\\portal.wikwio.org/species/show/'+speciesInstance.id;
-    output += '<a href="#" onclick="window.open('+portal_url+', "_system");" style="text-decoration:none;" class="portallinkanchor">- Online version</a></h1>';
+    var portal_url = 'http://portal.wikwio.org/species/show/'+speciesInstance.id;
+    output += '<a href="#" onclick=\'window.open("'+portal_url+'", "_system");\' style="text-decoration:none;" class="portallinkanchor">- Online version</a></h1>';
     // output += '<img src="species/1.jpg" style="width: 100%;height: 50%;" />';
     /* Species List  Started */
     output += '<ul>';
