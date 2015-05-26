@@ -53,7 +53,7 @@ function check(code){
 	$('#backbutton').show();
 
 	$.get("about.html", function(data) {
-         $('.checkk').html(data);
+         $('.showabout').html(data);
 
 
          var lan = 'fr';

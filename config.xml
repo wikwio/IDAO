@@ -7,25 +7,32 @@
     <preference
         name="loadUrlTimeoutValue"
         value="100000" />
+    <preference
+        name="SplashScreen"
+        value="screen" />
+    <preference
+        name="SplashScreenDelay"
+        value="20000" />
+    
 
     <name>
 wikwio_idao
     </name>
 
-    <icon
-        height="72"
-        src="img/icon.png"
-        width="72" />
-
-    <icon
-        height="48"
-        src="img/icon.png"
-        width="48" />
-
-    <icon
-        height="36"
-        src="img/icon.png"
-        width="36" />
+     <platform name="android" >
+        <icon
+            density="ldpi"
+            src="res/android/icon.png" />
+        <icon
+            density="mdpi"
+            src="res/android/icon.png" />
+        <icon
+            density="hdpi"
+            src="res/android/icon.png" />
+        <icon
+            density="xhdpi"
+            src="res/android/icon.png" />
+    </platform>
 
     <description>
         A sample Apache Cordova application that responds to the deviceready event.

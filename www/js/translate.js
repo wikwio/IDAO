@@ -1,9 +1,9 @@
  window.i8ln = {
                 "en" : {
                         "identification" : "New identification",
-                        "portin" : "Port",
-                        "phylo"     : "Phyllotaxie",
-                        "profelision"  : "Préfoliaison",
+                        "portin" : "Growth form",
+                        "phylo"     : "Leaf arrangement",
+                        "profelision"  : "Prefoliation",
                         "searc"     : "Search",
                         "listdes"     : "Species list" ,
                         "resultant"     : "Results" ,
@@ -24,8 +24,8 @@
                         "resultview":"View",
                         "species":"Species",
                         "at":"at",
-                    "contrabutname":"Graphical view",
-                    "graphview":"Search for species Graphical representation"
+                        "contrabutname":"Graphical view",
+                        "graphview":"Search for species Graphical representation"
                 },
                 "fr" :{
                         "identification" : "Nouvelle identification",
@@ -52,8 +52,8 @@
                         "resultview":"vue",
                         "species":"Espèces",
                         "at"  : "à",
-                    "contrabutname":"Graphical view",
-                    "graphview":"Search for species Graphical representation"
+                    "contrabutname":"Portrait robot",
+                    "graphview":"Rechercher le portrait robot des espèces"
 
                     
                 }
